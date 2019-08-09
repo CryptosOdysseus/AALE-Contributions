@@ -338,5 +338,3 @@ _**In a nutshell, with a formula by our AALE colleague Steve who pretty much enc
 ### "... but this is really as much about _designing legal systems_ that make space for (AI-)AASs as much as it is about _designing (AI-)AASs_ so that they acquire attributes, features and behaviours that make them fit for the new legal systems.
 
 ### _Not every (AI-)AAS can be a Legal Agent; it will have to be designed for that purpose."_
-
-More later.
