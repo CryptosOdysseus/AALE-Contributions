@@ -1,30 +1,91 @@
 # Law ReImagined – 
 # Inventing Automated and Autonomous Legal Entities
 
-## Automated & Autonomous Entities (AAE) vs Natural Persons & Individuals (NPI)
+## Some remarks on "legal agent" status, "intent", and "control" in a context of Automated and Autonomous Systems (AAS)
 
-### AAE capacity as possible “Legal Agent”, including an “A.I.”
-### Issue of control of AAE by NPI & transfer of control of AAE to NPI
-
-DRAFT 20190806-0808 ChrisB unverified.
-
-Data, thought patterns & narratives may evolve- in particular the legal discussion on AAE Legal Agent status needs to be seriously beefed up, and the intent is to do so in later editions.
-
+DRAFT 20190806-0809 ChrisB unverified. Concepts, thought patterns & narratives may evolve. 
 Built on previous and current input from Team AALE, mistakes, confusions and omissions are ours (non-lawyer Chris) only.
-
-_Remark: referring a number of times to Dazza & Brenden, these referenced names may, if appropriate, and in due time, be replaced by *D & B’s respective GitHub links*_
-
-AAE: Automated and Autonomous Entity (including what is called an A.I. in various degrees of automation & autonomy).
-
-AALE: Automated and Autonomous Legal Entity (the purpose of this MIT Media Lab Computational Law "AALE Challenge").
-
-NPI: Natural Person (as referred to in UK Patent Law) and/or Individual (as referred to in US Patent Law).
-
-#
 
 **Creative Commons Attribution License: https://creativecommons.org/licenses/by/4.0/**
 
 **Attribution: Christophe Bosquillon, MSc in cryptocurrency, digital assets & blockchain at the University of Nicosia, Cyprus (on-going). Also an alumni of Mines Paritech & HEC (Entrepreneurs) Paris.**
+
+
+*Acronyms definition:*
+
+*AALE:* Automated and Autonomous Legal Entity (the purpose of this MIT Media Lab Computational Law "AALE Challenge").
+
+*AAS:* Automated and Autonomous Systems (including what is called an A.I. in various degrees of automation & autonomy).
+
+*NPI:* Natural Person NP (as referred to in UK Patent Law) and/or Individual I (as referred to in US Patent Law).
+
+# 
+
+*Preamble:*
+
+I’ll make a couple deeper comments when I can....
+
+(Thanks for your efforts Chris)
+
+The one thing I would STRONGLY suggest is- that we change AAE to AALE... 
+it is extremely important not to confuse automated autonomous entities with automated autonomous LEGAL entities...
+
+Ultimately we are NOT talking about the design AND control of autonomous systems with people- 
+But the legal design constraints of such systems.
+
+This is something we know how to do. E.G. The lunar lander OR 
+Or all of the billions of PID controllers-  controlling everything including my espresso machine....
+
+https://en.m.wikipedia.org/wiki/PID_controller
+
+These are Automated and Autonomous Systems {Entities depending on the definition}
+
+There is a subset of the engineer in community to understand how to do these things very well-
+
+The question is here or how do you designed these things in the context of a legal framework??
+
+It is these legal design constraints that change system design and implementation itself.
+
+The question is NOT how do you design automated and autonomous questions that interact with people-
+
+BUT How do you design AND control systems Automated and Autonomous Legal Entities 
+that interact with humans in the context of a legal framework.
+
+Automated & Autonomous Entities (AAE) vs Natural Persons & Individuals (NPI) 
+IS something we already know how to do- 
+and could easily get confused with such systems that already exist. 
+Brenden thank you very much, and looking forward to your deeper comments:) 
+Just a bit of context to make sure we’re on the same page there ... 
+that note was deliberately about, say, AI-type AAS (S System i/o E entity), 
+with the primary intent to investigate the justification to ask: 
+“Could an inventor-AI that behaves independently from its creator, possibly qualify as a Legal Agent?”- 
+which may hold some water and is worth digging. 
+The note was not about traditional PID, and only indirectly about our AALE Challenge- 
+nonetheless in that context, there are clearly legal & ultimately AALE implications, 
+as discussed in the CL channel. 
+As per discussion, the issues of Inventor-AI Legal Agent, 
+and of unclear definition & modalities of control between AI/AAS & humans/NPI 
+(as you very well explained) 
+doesn’t seem to allow us to say that we already know how to do it, 
+since this goes much beyond traditional PID context. 
+But if you think the language used could be confusing, 
+we can use AAS i/o AAE (did cross my mind by the way when writing). 
+And in the next iterations we can re-articulate the AALE challenge objectives in relation with this, 
+including how you re-state these. 
+However because the link between “intent” & NPI (“intent” doesn’t exist legally yet for an AAS) 
+and the issue of “control” between AAS & NPI are so pivotal 
+(plus all other legal issues mentioned) 
+we needed that little inventor-AI detour to hammer that point. 
+Otherwise these unresolved issues may come back to haunt us in the design of AALEs. 
+Furthermore, we did put forward in previous sessions 
+that our AALE design might want to include modalities 
+where the AALE should be engineered (with AI/AAS) 
+so as to self-monitor & self-adjust at speed & data flows beyond human capacity to “control” it directly- 
+even if the original design is a path of control. 
+So we don’t seem to exonerate ourselves from dealing with these questions. 
+Anyhow I’ll incorporate your views and advice, so do keep hammering these vital sanity-checks. 
+It’s an iterative kaïzen process with lots of nemawashi:)
+
 
 #
 
