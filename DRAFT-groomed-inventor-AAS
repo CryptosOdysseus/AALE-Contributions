@@ -3,7 +3,7 @@
 
 ## Some remarks on "legal agent" status, "intent", and "control" in a context of Automated and Autonomous Systems (AAS)
 
-DRAFT 20190806-0809 ChrisB unverified. Concepts, thought patterns & narratives may evolve. 
+DRAFT 20190806-0809 ChrisB unverified. Concepts, thought patterns & narratives may evolve.
 Built on previous and current input from Team AALE, mistakes, confusions and omissions are ours (non-lawyer Chris) only.
 
 **Creative Commons Attribution License: https://creativecommons.org/licenses/by/4.0/**
@@ -11,81 +11,92 @@ Built on previous and current input from Team AALE, mistakes, confusions and omi
 **Attribution: Christophe Bosquillon, MSc in cryptocurrency, digital assets & blockchain at the University of Nicosia, Cyprus (on-going). Also an alumni of Mines Paritech & HEC (Entrepreneurs) Paris.**
 
 
-*Acronyms definition:*
+**Acronyms definition:**
 
-*AALE:* Automated and Autonomous Legal Entity (the purpose of this MIT Media Lab Computational Law "AALE Challenge").
+**AALE:** Automated and Autonomous Legal Entity (the purpose of this MIT Media Lab Computational Law "AALE Challenge").
 
-*AAS:* Automated and Autonomous Systems (including what is called an A.I. in various degrees of automation & autonomy).
+**AAS:** Automated and Autonomous Systems (including what is called an A.I. in various degrees of automation & autonomy).
 
-*NPI:* Natural Person NP (as referred to in UK Patent Law) and/or Individual I (as referred to in US Patent Law).
+**NPI:** Natural Person NP (as referred to in UK Patent Law) and/or Individual I (as referred to in US Patent Law).
+
+**B/L/T/** Business/Legal/Technological/ construct that is the base-methodology approach for these AALEs design.
 
 # 
 
-*Preamble:*
+**Clarifications & disclaimer:** (with thanks to Brenden for nailing the issues)
 
-I’ll make a couple deeper comments when I can....
+The purpose and modalities of the AALE Challenge are described in this Github repository. 
+Further evolving processes and objectives are being developed in HackMD and in notes related to previous 3 Live Sessions 
+(the curated content of which we're in the process of migrating to this Github repository).
+While we may not re-state these elements here, for the sake of not confusing our readers, here are some clarifications-
 
-(Thanks for your efforts Chris)
+Ultimately we are not talking about the design _**and**_ control of automated and autonomous systems with/by people 
+(of AAS with/by NPI). What we are talking about is, _**the legal design constraints of such systems.**_
 
-The one thing I would STRONGLY suggest is- that we change AAE to AALE... 
-it is extremely important not to confuse automated autonomous entities with automated autonomous LEGAL entities...
+In other words, the question is here: _**how do you design these things in the context of a legal framework?**_  
+Not only such design may only be considered as _**system-dependent**_ (by whom/whatever runs it)
+& _**context-dependent**_ (the ecosystem it relates too within some specific implementation) ...
 
-Ultimately we are NOT talking about the design AND control of autonomous systems with people- 
-But the legal design constraints of such systems.
+... but it is _**these legal design constraints that change system design and implementation itself.**_
 
-This is something we know how to do. E.G. The lunar lander OR 
-Or all of the billions of PID controllers-  controlling everything including my espresso machine....
+Therefore the question is _**not**_ how do you design automated and autonomous systems that interact with people-
 
-https://en.m.wikipedia.org/wiki/PID_controller
+but _how do you design **and** control systems for Automated and Autonomous Legal Entities (AALEs)
+that interact with humans (NPI) in the context of a legal framework._
 
-These are Automated and Autonomous Systems {Entities depending on the definition}
+It goes without saying that PID-controllers-built Automated and Autonomous Systems (PID-AAS) 
+is something that a subset of our engineer community has understood for more than half a century 
+and knows how to do, from the Appolo 11 lunar lander to industrial automation to VR systems an expresso machine.
+_Thus our discussion here should _**not**_ be construed as a discussion on humans (NPI) vs PID-AAS that already exist!_
+ 
+However, there is an however- 
 
-There is a subset of the engineer in community to understand how to do these things very well-
+The following deals with some other aspects of complexity, granularity, and "guaranteed rabbit holes", 
+a trinity that we already have encountered in our previous framing of legal analysis 
+for (almost) "simple" business cases involving an AALE/DAO. 
+It is part and parcel of our work here to develop methods to deal with this trinity.
+In particular when faced with "guaranteed rabbit holes", which might be the case below, we like to have these "capped".
+Until such right time that we might be in a position to deal with these efficiently 
+while involving the right people in the right place (or bring them to the place where they needed to be).
 
-The question is here or how do you designed these things in the context of a legal framework??
+Based on a case of "Inventor-AI" recently reported in the Financial Times, our (non-lawyer) primary intent here 
+is to ponder the justification to ask the following question: 
 
-It is these legal design constraints that change system design and implementation itself.
+"Could an Inventor-AI qualify for "Legal Agent" status?" once you've established the fact that 
+this Inventor-AI behaves independently from the background its creator has tought it, 
+and start to autonomously create & invent blueprints for produceable objects that do certain functions.
 
-The question is NOT how do you design automated and autonomous questions that interact with people-
+Clearly this question is not about traditional PID-AAS interacting with humans (NPI). 
+And it might come across as only indirectly related to our AALE Challenge, if at all- 
 
-BUT How do you design AND control systems Automated and Autonomous Legal Entities 
-that interact with humans in the context of a legal framework.
+Nonetheless, in that particular context, there are clearly existing legal & ultimately Computational Law implications.
 
-Automated & Autonomous Entities (AAE) vs Natural Persons & Individuals (NPI) 
-IS something we already know how to do- 
-and could easily get confused with such systems that already exist. 
-Brenden thank you very much, and looking forward to your deeper comments:) 
-Just a bit of context to make sure we’re on the same page there ... 
-that note was deliberately about, say, AI-type AAS (S System i/o E entity), 
-with the primary intent to investigate the justification to ask: 
-“Could an inventor-AI that behaves independently from its creator, possibly qualify as a Legal Agent?”- 
-which may hold some water and is worth digging. 
-The note was not about traditional PID, and only indirectly about our AALE Challenge- 
-nonetheless in that context, there are clearly legal & ultimately AALE implications, 
-as discussed in the CL channel. 
-As per discussion, the issues of Inventor-AI Legal Agent, 
-and of unclear definition & modalities of control between AI/AAS & humans/NPI 
-(as you very well explained) 
-doesn’t seem to allow us to say that we already know how to do it, 
-since this goes much beyond traditional PID context. 
-But if you think the language used could be confusing, 
-we can use AAS i/o AAE (did cross my mind by the way when writing). 
-And in the next iterations we can re-articulate the AALE challenge objectives in relation with this, 
-including how you re-state these. 
-However because the link between “intent” & NPI (“intent” doesn’t exist legally yet for an AAS) 
-and the issue of “control” between AAS & NPI are so pivotal 
-(plus all other legal issues mentioned) 
-we needed that little inventor-AI detour to hammer that point. 
-Otherwise these unresolved issues may come back to haunt us in the design of AALEs. 
-Furthermore, we did put forward in previous sessions 
-that our AALE design might want to include modalities 
-where the AALE should be engineered (with AI/AAS) 
+In particular, these issues of Inventor-AI Legal Agent, and, beyond that specific case of Inventor-AI, 
+these issues of unclear definition & modalities of control 
+between certain existing and/or upcoming types of AI-AAS & humans/NPI, these issues do exist, 
+and seem to remain only partially resolved from a B/L/T/ standpoint, in fact they're increasingly being challenged.
+
+Furthermore, the issues of "intent" and "control" do come back in the picture with a vengeance. 
+There is this privileged link between “intent” and NPI, since “intent” doesn’t exist legally for an AAS, only for an NPI) 
+that is then deployed among the various bodies of Law. 
+Then there is the issue of “control” between <non-PID-AAS> such as AI-AAS, and humans/NPI.
+Both issues are so pivotal, since from these derive - among other things - 
+the legal definiton of responsibility & liability 
+(with concepts like a "crumple zone" possibly involving the nearest human/NPI etc.)   
+So it turns out that we might use that little inventor-AI detour to hammer these points-
+notwithstanding all other legal issues mentioned in our conversations.
+
+(A kind of Logical Möbius Strip comes to mind about how we're supposed to frame and structure these issues,
+that might come back to haunt us in the design of AALEs. (Or maybe not).) 
+
+Furthermore, we did put forward in previous sessions that our AALE design might want to include modalities 
+where the AALE should be well-engineered (with AAS from advanced BPM systems to AI/ML etc.), 
 so as to self-monitor & self-adjust at speed & data flows beyond human capacity to “control” it directly- 
-even if the original design is a path of control. 
-So we don’t seem to exonerate ourselves from dealing with these questions. 
-Anyhow I’ll incorporate your views and advice, so do keep hammering these vital sanity-checks. 
-It’s an iterative kaïzen process with lots of nemawashi:)
+even if the original design may remain itself a path to control. 
 
+With respect to our overall AALE methodology & B/L/T/ construct, 
+we yet have to see whether and how we integrate & utilize the outcome if any of the particular below discussion.
+However we don’t seem to exonerate ourselves from dealing with these questions in due time. 
 
 #
 
