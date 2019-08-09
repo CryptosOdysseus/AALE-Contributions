@@ -36,7 +36,7 @@ The purpose and modalities of the AALE Challenge are described in this Github re
 Further evolving processes and objectives are being developed in HackMD and in notes related to previous 3 Live Sessions 
 (the curated content of which we're in the process of migrating to this Github repository).
 
-While we may not re-state these elements here, for the sake of not confusing our readers, here are some clarifications-
+_While we may not re-state these elements here, for the sake of not confusing our readers, here are some clarifications-_
 
 Ultimately we are not talking about the design _**and**_ control of automated and autonomous systems with/by people 
 (of AAS with/by NPI). What we are talking about is, _**the legal design constraints of such systems.**_
@@ -222,7 +222,7 @@ _More original legal considerations by Diana, that we need to address and reflec
 
 >In automation, we may have objective responsibility (like when we drive a car...), considering "who is control" (then we can argue the level of direct control or not...). Also, we have these dual sides: personal vs overall interest, private versus common, rights versus duties, etc. The question is where we set the boundaries, but a right (as a patent) cannot exist without a subjective imputation (as we can´t have a right empty of content).  
 
-Diana's thoughts are also put in perspective by Brenden, _and this bit appears below toward the end of the second part of this note: "Issue of control of AAE by NPI & transfer of control of AAE to NPI"_, as it looks like that "control" axis is pivotal.
+Diana's thoughts are also put in perspective by Brenden, _and this bit appears below toward the end of the second part of this note: "More thoughts by Brenden in reply to Diana on the issue of "control" of AASs by NPIs or AI-AASs:"_, as it looks like that "control" axis is pivotal.
 
 _We (non-lawyer Chris) venture below some further thoughts:_
 
@@ -305,7 +305,7 @@ In Brenden’s words, that we (Chris) totally second:
 
 Further debunking that MSM piece mis-characterization with a metaphor used earlier, this would be equivalent to peering through the glass window at the door of a medical operation block, constantly telling the surgeon how (s)he should operate, at intervals of infinitesimal fractions of a second.
 
-More thoughts by Brenden in reply to Diana on the issue of "control" of AASs by NPIs or AI-AASs:
+_**More thoughts by Brenden in reply to Diana on the issue of "control" of AASs by NPIs or AI-AASs:**_
 
 >The challenge will be- that in the system as we are ever increasingly building are complex systems that will at times be under human control and at times be under control of an AI.
 
@@ -317,7 +317,7 @@ More thoughts by Brenden in reply to Diana on the issue of "control" of AASs by 
 
 >And this is nothing of the computational intelligence which will be enbedded into all of these systems. I could go on but I should probably stop while I’m ahead. (Or not).
 
-_So it looks like our team indeed has identified here some more pivotal axis: 
+_**So it looks like our AALE Team indeed has identified here some more pivotal axis:**_ 
 
 ... a notion of "Legal Agent" capacity and status for certain type of AI-AAS like the Inventor-AI, subject to proper engineering ;
 
@@ -331,6 +331,6 @@ _So it looks like our team indeed has identified here some more pivotal axis:
 
 We yet have to see whether and how we integrate it & utilize it in our overall AALE methodology & construct... _**yet, to put it in a nutshell with a formula by our AALE colleague Steve who pretty much encapsulates the whole thing:**_
 
-**... but this is really as much about _designing legal systems_ that make space for (AI-)AASs as much as it is about _designing (AI-)AASs_ so that they acquire attributes, features and behaviours that make them fit for the new legal systems. _Not every AI-AAS can be a Legal Agent; it will have to be designed for that purpose._
+**... but this is really as much about _designing legal systems_ that make space for (AI-)AASs as much as it is about _designing (AI-)AASs_ so that they acquire attributes, features and behaviours that make them fit for the new legal systems. _Not every AI-AAS can be a Legal Agent; it will have to be designed for that purpose.**_
 
 More later.
