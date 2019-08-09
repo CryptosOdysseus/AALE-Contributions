@@ -17,9 +17,9 @@ Built on previous and current input from Team AALE, mistakes, confusions and omi
 
 **AAS:** Automated and Autonomous Systems (including what is called an A.I. in various degrees of automation & autonomy).
 
-**PID**: for Proportional–Integral–Derivative controller (PID controller, or three-term controller)- a control loop mechanism employing feedback that is widely used in industrial control systems and a variety of other applications requiring continuously modulated control. **PID-AAS** an AAS mostly built on PID controllers.
+**PID**: for Proportional–Integral–Derivative controller (PID controller, or three-term controller)- a control loop mechanism employing feedback that is widely used in industrial control systems and a variety of other applications requiring continuously modulated control. **PID-AAS:** an AAS mostly built on PID controllers.
 
-**AI**: too loosely defined term- here it is used in the context of an "Inventor-AI", that was trained by its creator over 2 months using thousands of data sets including words and images, in order to produce increasingly complex concepts. The Inventor-AI ended up designing blueprints for objects doing functions, about which its creator _**had not previously introduced any specific background** (now we have your attention). **AI-AAS** an AAS of that particular self-learning & creating kind.
+**AI**: too loosely defined term- here it is used in the context of an "Inventor-AI", that was trained by its creator over 2 months using thousands of data sets including words and images, in order to produce increasingly complex concepts. The Inventor-AI ended up designing blueprints for objects doing functions, about which its creator _**had not previously introduced any specific background** (now we have your attention)._ **AI-AAS:** an AAS of that particular self-learning & creating kind.
 
 **NPI:** Natural Person NP (as referred to in UK Patent Law) and/or Individual I (as referred to in US Patent Law).
 
@@ -35,6 +35,7 @@ we yet have to see whether and how we integrate & utilize the outcome, if any, o
 The purpose and modalities of the AALE Challenge are described in this Github repository. 
 Further evolving processes and objectives are being developed in HackMD and in notes related to previous 3 Live Sessions 
 (the curated content of which we're in the process of migrating to this Github repository).
+
 While we may not re-state these elements here, for the sake of not confusing our readers, here are some clarifications-
 
 Ultimately we are not talking about the design _**and**_ control of automated and autonomous systems with/by people 
@@ -74,8 +75,8 @@ _**A question that we think we should dare to ask-**_
 Based on a case of "Inventor-AI" recently reported in the Financial Times, our (non-lawyer) primary intent here 
 is to ponder the justification to ask the following question: 
 
-_**"Could an Inventor-AI qualify for "Legal Agent" status?"**_ once you've established the fact that 
-this Inventor-AI behaves independently from the background its creator has tought it, 
+_**"Could an Inventor-AI qualify for "Legal Agent" capacity & status?"**_ once you've established the fact that 
+this Inventor-AI behaves independently from the background its creator has taught it in the first place, 
 and start to autonomously create & invent blueprints for produceable objects that do certain functions.
 
 Clearly this question is not about traditional PID-AAS interacting with humans (NPI). 
@@ -101,9 +102,10 @@ the legal definiton of responsibility & liability
 (with concepts like a "crumple zone" possibly involving the nearest human/NPI etc).
 
 So it turns out that we might use that little inventor-AI detour to hammer these points-
-notwithstanding all other legal issues mentioned in our conversations 
-(a kind of Logical Möbius Strip comes to mind about how we're supposed to frame and structure these issues,
-that might come back to haunt us in the design of AALEs as long as related legal systems do not evolve accordingly).
+notwithstanding all other legal issues mentioned in our conversations.
+
+(a kind of _Legal Möbius Strip_ comes to mind about how we're supposed to frame and structure these issues,
+that might come back to haunt us in the design of AALEs as long as related legal systems do not evolve accordingly.)
 
 Furthermore, we did put forward in previous sessions that our AALE design might want to include modalities 
 where the AALE should be well-engineered (with AAS from advanced BPM systems to AI/ML etc.), 
@@ -116,7 +118,7 @@ However we don’t seem to exonerate ourselves from dealing with these questions
 
 **Indeed, to put it in a nutshell with a formula by our AALE colleague Steve who pretty much encapsulates the whole thing:**_
 
-### ... but this is really as much about _designing legal systems_ that make space for (AI-)AASs as much as it is about _designing (AI-)AASs_ so that they acquire attributes, features and behaviours that make them fit for the new legal systems. _Not every (AI-)AAS can be a Legal Agent; it will have to be designed for that purpose._
+### >... but this is really as much about _designing legal systems_ that make space for (AI-)AASs as much as it is about _designing (AI-)AASs_ so that they acquire attributes, features and behaviours that make them fit for the new legal systems. _Not every (AI-)AAS can be a Legal Agent; it will have to be designed for that purpose._
 
 #
 
@@ -228,7 +230,7 @@ _**remarks on issues of "intent" and "control" slightly extrapolated from this I
 
 Any extrapolation can be misleading, if premises are flawed or the larger scope is ill-defined, but we'll give it a stab-
 
-So what do we have- an Inventor-AI that is an advanced form of automated & autonomous system (let's call it an AI-AAS, that is somehow an evolution stage beyond the established PID-AAS stage): indeed as a matter of fact rather than a legal opinion from a human standpoint, this Inventor-AI, it is not sentient nor self-aware, it is not a natural person nor and individual (not an NPI)- therefore _**it can’t function within the paradigm of “intent” that first requires to be dealing with an NPI**_, _to be then deployed in relevant bodies of Law (Criminal, Contract, Tort, Trademark as also mentioned, etc.). _
+So what do we have- an Inventor-AI that is an advanced form of automated & autonomous system (let's call it an AI-AAS, that is somehow an evolution stage beyond the established PID-AAS stage): indeed as a matter of fact rather than a legal opinion from a human standpoint, this Inventor-AI, it is not sentient nor self-aware, it is not a natural person nor and individual (not an NPI)- therefore _**it can not function within the paradigm of “intent” that first requires to be dealing with an NPI**, to be then deployed in relevant bodies of Law (Criminal, Contract, Tort, Trademark as also mentioned, etc.)._
 
 Which connects back to the concept of “crumple zone” whereas the NPI most closely linked to the AI-AAS in the chain of events takes the blame for any consequences of the AI-AAS’s actions. 
 
@@ -242,7 +244,7 @@ This Inventor-AI-AAS may be connected to a means of production (think deep-Space
 
 But, that also connects back to the problematics of “Code is Free Speech” and “Code that exists sitting somewhere on a hardware means of electronic substrate is one thing, Code that is executing and doing the function that may have harmful consequences is another thing” (Brenden). (And which we could expand to “how about Code connected to a means of bionic or bio-neurocybernetic substrate linked to an extended NPI?”). 
 
-In the Inventor-AI-and-patent example, the link to the closest NPIs in the chain of events (professor & his crew) is easy to establish, but it could become much more tenuous in larger contexts of AI-AASs.  So it could be logically argued that we run the risk of allowing for development of legal & ethical vacuums if we (lazily) bail ourselves out of the crumple zone by using the excuse of this increasingly tenuous connection to the nearest NPI. _New, upgraded legal systems will have to be built._
+In the Inventor-AI-and-patent example, the link to the closest NPIs in the chain of events (professor & his crew) is easy to establish, but it could become much more tenuous in larger contexts of AI-AASs.  So it could be logically argued that we run the risk of allowing for development of legal & ethical vacuums if we (lazily) bail ourselves out of the crumple zone by using the excuse of this increasingly tenuous connection to the nearest NPI. _**New, upgraded legal systems, will have to be built. To deny it sounds futile and slightly irresponsible, in the face of technological evolution and its deep societal impact**_
 
 In other words, the possibility that such a connection exists and can still be seen as sufficient (to act as foundation to the legal & ethical analysis frameworks to be used), this assumed fact still may not exonerate ourselves from considering the relevance & utility to apply “Legal Agent” traits to this AI-AAS- even if it’s not an NPI itself that so far as retained the exclusive privilege of being legally endowed with the capacity of "intent". 
 
@@ -252,31 +254,27 @@ _But then we develop that sort of paradox whereas, on one hand, **the notion of 
 
 We could ask whether this is analogous to like a kind of “Hillel ethical questioning” on the nature of AI-AASs and how they should proceed in the way they interact with their ecosystems.
 
-But even if we think we don’t need to go that far yet, and we even don’t know how long we can entertain & indulge in that borderline complacent attitude (in any case we doubt it would take as long as 50 years), the mere fact that we have this vacuum developing fast, simply doesn’t exonerate ourselves from at least considering the possibility of granting some degree of “Legal Agent” capacity and status to certain types of AI-AAS. That doesn't sound too earth-shattering, at this stage. 
+But even if we think we don’t need to go that far yet, and we even don’t know how long we can entertain & indulge in that borderline complacent attitude (in any case we doubt it would take as long as 50 years), the mere fact that we have this vacuum developing fast, simply doesn’t exonerate ourselves _from at least considering the possibility of granting some degree of “Legal Agent” capacity and status to certain types of AI-AAS. This on condition that these AI-AAS be adequately engineered, in realtion with equally adequately engineered AALEs._ That doesn't sound too earth-shattering, as we soon enter the 2020's. 
 
 It’s possible that we need some kind of reality-tsunami, brutally unleashed strings of unintended consequences, to start realizing that we can’t anymore deal with legal & ethical consequences of the actions of these AI-AASs by merely relying on the crumple zone’s tenuous connection to the nearest NPI. 
 
 In any case, at some point, a good lawyer might be able to get the judge to exonerate à la Pontius Pilate even the closest NPI involved, and then we start washing our hands above some serious legal & ethical vacuum. 
 
-So, if this is sufficient to argue in favor of streamlining this vacuum, by outfitting this vacuum with a legal framework, then who/what else than this non-NPI AI-AAS should be affixed with the trait of a “Legal Agent” and its characteristics? 
+_So, if this is sufficient to argue in favor of streamlining this vacuum, by outfitting this vacuum with a legal framework, then who/what else than this non-NPI AI-AAS should be affixed with the trait of a “Legal Agent” and its characteristics? Which isn't saying either that the Principal and the Third Party are NPIs only- they could be other AASs or AASs-extended NPIs, etc._
 
-Then anyone involved may start pounding on this really nice working topic, and first we’d need to sort out the R4- Roles & Relationships, Rights & Responsibilities, for each party involved: where on the R4 mapping does an AI-AAS sit, that is also a “Legal Agent” etc. 
+Then anyone involved may start pounding on this really nice working topic, and first we’d need to sort out the R4- Roles & Relationships, Rights & Responsibilities, for each party involved: where on the R4 mapping does an AI-AAS sit, that is also a “Legal Agent” etc. We can do charts and apply scenario permutations matrix, etc.
 
 _This isn’t as weird and “fringe” legal analysis as it sounds._ Or maybe it is, and we (Chris) could be totally wrong, but methink it’s a no-brainer that at least some purposedly engineered AI-AASs may eventually be given some trait of “Legal Agent”, then we can see how our current legal & ethical frameworks pan out across existing jurisdictions. Or, alternatively, such purposedly engineered AI-AASs would have to be in some way re-attached to an AALE, and that AALE, which itself would have to be engineered accordingly, would be tackled either in the context of an existing Earth-based jurisdiction, or in any new legal localization, construct, and patterns remaining to be invented (think Space-based paradigms, more on this in later editions).
 
-_**And, to put it in a nutshell with a formula by our AALE colleague Steve who pretty much encapsulates the whole thing:**_
-
-**... but this is really as much about _designing legal systems_ that make space for (AI-)AASs as much as it is about _designing (AI-)AASs_ so that they acquire attributes, features and behaviours that make them fit for the new legal systems. _Not every AI-AAS can be a Legal Agent; it will have to be designed for that purpose._**
-
-An interesting sub-plot could be whether and how could and should such AI-AAS-Legal-Agents be then permitted and regulated to practice NPI’s Law & ethical regulatory mechanisms among themselves …
+_**An interesting sub-plot,**_ could be whether and how could and should such AI-AAS-Legal-Agents be then permitted and regulated to practice NPI’s Law & ethical regulatory mechanisms among themselves …
 
 … doing this at the kind of breadth, scope and speed scale warranted by AI-AAS intrinsic nature, and that an NPI wouldn’t be able to cope and deal with. Unless that NPI is extended (enhanced, augmented) by an AI-AAS properly engineered to these legal & ethical effects, in which case what are precisely the engineering specs for these effects. 
 
-Next sub-plot, whether and how should and could new legal & ethical frameworks be designed by AI-AAS to suit themselves (perhaps with some guidance from NPI in the early stages) and at the same time work in harmonious ways that are compatible with and supporting of NPI’s own (human) legal and ethical frameworks …
+_**Next sub-plot,**_ whether and how should and could new legal & ethical frameworks be designed by AI-AAS to suit themselves (perhaps with some guidance from NPI in the early stages) and at the same time work in harmonious ways that are compatible with and supporting of NPI’s own (human) legal and ethical frameworks …
 
 … and then, in order to achieve that, _**one obligated point of passage might be to sort out how the various bodies of (human) Law figure and converge in a B/L/T/ construct.**_
 
-_And possibly also include ethical regulatory frameworks as a sort of (set of) additional functions on top of that B/L/T/ construct, in ways that are flexible, adaptable, evolutive, and most importantly, system- and context- dependent, rather than arbitrarily super-imposed._
+_And, in a sort of **advanced notion of B/L/T/ construct-based "checks and balances",** possibly also include contextual and in particular ethical regulatory frameworks, as a sort of (set of) additional (contextual fine tuning) functions on top of that B/L/T/ construct, in ways that are flexible, adaptable, evolutive, and most importantly, system- and context- dependent, built from the ground up, rather than arbitrarily super-imposed in a top-down fashion._
 
 In Brenden’s words:
 >At some point we will come to understand how the bodies of Law meet {computationally}
@@ -321,7 +319,7 @@ More thoughts by Brenden in reply to Diana on the issue of "control" of AASs by 
 
 _So it looks like our team indeed has identified here some more pivotal axis: 
 
-... the notion of "Legal Agent" capacity and status for certain type of AI-AAS like the Inventor-AI, subject to proper engineering ;
+... a notion of "Legal Agent" capacity and status for certain type of AI-AAS like the Inventor-AI, subject to proper engineering ;
 
 ... and - beyond PID-AAS - the notion, degree, & modalities of "intent" and "control" among interactions between AI-AAS and NPIs and AI-AAS-NPIs combined (extended, augmented, enhanced) ;
 
@@ -331,9 +329,7 @@ _So it looks like our team indeed has identified here some more pivotal axis:
 
 ... especially those AI-AAS deemed to qualify for "Legal Agent" capacity & status ;
 
-We yet have to see whether and how we integrate it & utilize it in our overall AALE methodology & construct...
-
-_**... yet, to put it in a nutshell with a formula by our AALE colleague Steve who pretty much encapsulates the whole thing:**_
+We yet have to see whether and how we integrate it & utilize it in our overall AALE methodology & construct... _**yet, to put it in a nutshell with a formula by our AALE colleague Steve who pretty much encapsulates the whole thing:**_
 
 **... but this is really as much about _designing legal systems_ that make space for (AI-)AASs as much as it is about _designing (AI-)AASs_ so that they acquire attributes, features and behaviours that make them fit for the new legal systems. _Not every AI-AAS can be a Legal Agent; it will have to be designed for that purpose._
 
