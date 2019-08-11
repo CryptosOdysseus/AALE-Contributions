@@ -1,10 +1,16 @@
-# Law ReImagined – 
-# Inventing Automated and Autonomous Legal Entities
+# MIT Media Lab - Computational Law
 
-## Some remarks on "Legal Agent" status, "intent", and "control" in a specific context of Automated and Autonomous Systems (AAS): an "Inventor-AI".
+## Law ReImagined-
+## Inventing Automated and Autonomous Legal Entities Part 3
+
+#
+
+### Some remarks on "Legal Agent" status, "intent", and "control" in a specific context of Automated and Autonomous Systems (AAS): an "Inventor-AI".
 
 DRAFT 20190806-0809 ChrisB unverified. Concepts, thought patterns & narratives may evolve.
 Built on previous and current input from Team AALE, mistakes, confusions and omissions are ours (non-lawyer Chris) only.
+
+#
 
 **Creative Commons Attribution License: https://creativecommons.org/licenses/by/4.0/**
 
