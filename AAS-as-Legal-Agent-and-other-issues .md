@@ -10,6 +10,7 @@ Built on previous and current input from Team AALE, mistakes, confusions and omi
 
 **Attribution: Christophe Bosquillon, MSc in cryptocurrency, digital assets & blockchain at the University of Nicosia, Cyprus (on-going). Also an alumni of Mines Paritech & HEC (Entrepreneurs) Paris.**
 
+#
 
 **Acronyms definition:**
 
