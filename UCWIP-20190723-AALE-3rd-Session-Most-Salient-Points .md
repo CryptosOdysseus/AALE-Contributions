@@ -2,7 +2,7 @@
 #
 # UCWIP - Under Construction - Work In Progress
 
-
+#
 
 # BRENDEN POINTS
 
@@ -113,23 +113,45 @@ Leadership here means an ability to tackle complexity & granularity, hack it in 
 
 # TABLE OF CONTENT OF 3rd SESSION TAKEOUT
 
-Table of contents
+#
+
 -A- Suggestion for better process by Bryan: approved & being implemented
+
 -B- Engagement with customer and laying the ground to establish a lawyer-client relationship
+
 -C- Start with simplified use cases and build a primary foundation – then build up complexity
+
 -D- Taming the troika of complexity, granularity, and guaranteed rabbit holes
+
+#
+
 -E- (Re-)Statement of objectives
+
 -E-1: Pre-Fall objectives (Working Topics as laid out by Dazza in GitHub & HackMD)
+
 -E-2: AALE/DAO engineered for self-compliance among members and vis-à-vis external parties
+
 -E-3: "Three-Bees" Functions & Legal Objects
+
+#
+
 -F- A Question of Method(s) in Legal Analysis
--F-1: Apply several legal frameworks & define R4 (Roles & Relationships, Rights & Responsibilities)**
--F-2: Merits of Agency Law framework**
--F-3: Merits of Contract Law framework (+ some Tort Law maybe)**
--F-4: Dichotomy between traditional set-up & AALE/DAO in relation with Legal Structures**
--F-5: "Three-Bees" Functions that are required to build up frameworks toward objectives**
--F-6: Guaranteed Rabbit Hole 1- capped & to be tackled later: differences between jurisdictions**
--F-7: Guaranteed Rabbit Hole 2- capped & to be tackled later: code, free speech, and liability**
+
+-F-1: Apply several legal frameworks & define R4 (Roles & Relationships, Rights & Responsibilities)
+
+-F-2: Merits of Agency Law framework
+
+-F-3: Merits of Contract Law framework (+ some Tort Law maybe)
+
+-F-4: Dichotomy between traditional set-up & AALE/DAO in relation with Legal Structures
+
+-F-5: "Three-Bees" Functions that are required to build up frameworks toward objectives
+
+-F-6: Guaranteed Rabbit Hole 1- capped & to be tackled later: differences between jurisdictions
+
+-F-7: Guaranteed Rabbit Hole 2- capped & to be tackled later: code, free speech, and liability
+
+#
 
 # -G- Other important points requiring further digging (COMPLETE WITH SALIENT POINTS)
 XXXXXXXXXXXXXXXXXXXXXXXXXX
