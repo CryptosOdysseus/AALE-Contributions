@@ -36,19 +36,19 @@
  
 #### -A- Suggestion for better process by Bryan: approved & being implemented
 
-####
+##
 
 #### -B- Engagement with customer and laying the ground to establish a lawyer-client relationship 
 
-####
+##
 
 #### -C- Start with simplified use cases and build a primary foundation – then build up complexity
 
-####
+##
 
 #### -D- Taming the troika of complexity, granularity, and guaranteed rabbit holes
 
-####
+##
  
 #### -E- (Re-)Statement of objectives
 
@@ -58,7 +58,7 @@
 
 ##### -E-3: "Three-Bees" Functions & Legal Objects
 
-####
+##
  
 #### -F- A Question of Method(s) in Legal Analysis
 
@@ -76,13 +76,13 @@
 
 ##### -F-7: Guaranteed Rabbit Hole 2- capped & to be tackled later: code, free speech, and liability**
 
-####
+##
 
 #### -G- Other important points requiring further digging (COMPLETE WITH SALIENT POINTS)
 
 XXXXXXXXXXXXXXXXXXXXXXXXXX
 
-####
+##
  
 #### -H- Next Steps
 
@@ -228,7 +228,7 @@ _**“At some point we will come to understand how the bodies of Law meet {compu
 
 #
 
-##### F. A Question of Method(s) in Legal Analysis conducive to AALE/DAOs-B/L/T/ frameworks
+#### F. A Question of Method(s) in Legal Analysis conducive to AALE/DAOs-B/L/T/ frameworks
 
 **INSERT CHART **
 
