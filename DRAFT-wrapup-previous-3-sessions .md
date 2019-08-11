@@ -1,32 +1,27 @@
-DRAFT wrap-up previous sessions
+# MIT Media Lab - Computational Law
 
- 
-Law ReImagined – Inventing Automated and Autonomous Legal Entities Part 3
+## Law ReImagined-
+## Inventing Automated and Autonomous Legal Entities Part 3
 
- 
+### "AALE" Collaborative Hack with Dazza, Beth, Brenden, Bryan, Silke et al. 
 
-2nd iteration of 3nd cycle (post-July-23rd) - 2019 August 1st
+###
 
-Support-mémo following July 23rd Beth Berlin Live Session for
+#### Key take-outs from the July 23rd 2019 Live Session from Berlin
 
-Autonomous and Automated Legal Entities Hack – HackMD
+#### directed by Beth in collaboration with Cem & Jim from Publishing DAO 
 
- 
-KEY TAKE-OUTs FROM THE JULY 23rd BETH BERLIN LIVE SESSION (scroll down to 1st iteration for full transcript)
-Chris B. DRAFT Unverified – AALE/DAOs vs Legal Analysis
+##### _(scroll down for full transcript)_
 
+##### Chris B. DRAFT Unverified – this work is consistently built upon input from above Team Legal Hackers Extraordinaire, thus mistakes, confusions & omissions are ours (non-lawyer Chris) only.  
  
-Here below we summarized key take-outs from the Beth et al. Berlin Live session with Cem & Jim’s Publishing DAO. We further pivot toward methods that get us closer to our previously stated (evolving) goals, reminded below. Suggestions made by Brian for process improvements were approved, therefore we further implement and refine these. This work has consistently been built upon input from our Team Legal Hackers Extraordinaire, thus from our (Chris) non-lawyer perspective, mistakes, confusions & omissions are ours only.  
- 
-If you feel inspired, further feedback is always welcome, so that we may tweak & refine this approach from various perspectives.
- 
-We may define a 1-pager executive summary (condensed synthesis) then people might want to refer to previous iterations for details.
+###### Quote of the Summer of 2019:  _Rebel, But With A Regulated Cause._
  
  
-Quote of the Week:  Rebel, But With A Regulated Cause.
- 
- 
-Creative Commons Attribution License: https://creativecommons.org/licenses/by/4.0/ --- Attribution: Christophe Bosquillon, MSc in cryptocurrency, digital assets & blockchain at the University of Nicosia, Cyprus (on-going). Also an alumni of Mines Paritech & HEC (Entrepreneurs) Paris.
+**Creative Commons Attribution License: https://creativecommons.org/licenses/by/4.0/**
+
+**Attribution: Christophe Bosquillon, MSc in cryptocurrency, digital assets & blockchain at the University of Nicosia, Cyprus (on-going). Also an alumni of Mines Paritech & HEC (Entrepreneurs) Paris.
+
 
  
 Preamble
