@@ -24,7 +24,7 @@
 
 
  
-**This key take-outs are best tackled if you first scan te file "AALE - Most Salient Point Mid-Summer 2019 .md" 
+**This key take-outs are best tackled if you first scan te file "AALE-3rd-Session-Most-Salient-Points-Summer-2019 .md" 
 (INSERT LINK)**
 
 
@@ -83,33 +83,41 @@ XXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 
--A- Suggestion for better process by Bryan: approved & being implemented
+#### -A- Suggestion for better process by Bryan: approved & being implemented
  
-“ As a process for ensuring that each working session has something produced from it - insights, concerns identified - it would be good to:
-- 1) include a summary of the goals in the call that is laid out ahead of time,
-- 2) materials involved to produce the session, and
-- 3) a feedback loop that takes in the information from the call and generates a summary from it.
-So that the insights are crystallized in a usable, chronological form. “
+**_“ As a process for ensuring that each working session has something produced from it - insights, concerns identified - it would be good to:_**
+
+**- 1) include a summary of the goals in the call that is laid out ahead of time,**
+
+**- 2) materials involved to produce the session, and **
+
+**- 3) a feedback loop that takes in the information from the call and generates a summary from it.**
+
+**_So that the insights are crystallized in a usable, chronological form. “_**
  
-Initial steps toward implementing above process, referring to above 1-2-3 points, for post-facto adjustments:
  
--1- Turns out this Publishing DAO session didn’t put emphasis on digital/crypto & on-chain/token action side of things, but on a larger priority at this stage: the main goal of the exercise was to explore scenarios (use cases) when something goes wrong mostly “off-chain”. And then see what difference that would or would not make, when it happens to a Publishing DAO, compared with the same thing happening in a more traditional setting, like full paper paradigm with very little tech construct. We still have steps to sort out “off-chain” events, starting with “deep” Contract Law analysis, then we might want to dive even deeper on how that interferes with on-chain action. Beth hammered that point head-on (see F-3 Merits of Contract Law framework): “in the DAO diagram, each of the circles is human behavior that exists to a certain extent off-chain, whereas each of the square parts is an autonomous software going forward and the fact that each of these different functions it is involved in initiating or impacting a transaction and some of them like onboarding might come in its certain points and end up impacting other points.”
+Initial steps toward implementing above 3-points steps, for post-facto adjustments, _as we are in the process of migrating all take-outs from 3 Live sessions till now, plus relevant Telegram channels dynamic content, to this GitHub repository:_
  
--2- Material involved to produce the session, with link available in the Telegram channel:
-- GitHub / HackMD link: https://hackmd.io/AVy2rUZeRWKf285W61aftw?view
+**-1- Turns out this Publishing DAO Live session** didn’t put that much emphasis on digital/crypto & on-chain/token action side of things (though off-record preparatory calls did, see below Part G), but on a larger priority at this stage: the main goal of the exercise was to explore scenarios (use cases) when something goes wrong mostly “off-chain”. And then see what difference that would or would not make, when it happens to a Publishing DAO, compared with the same thing happening in a more traditional setting, like full paper paradigm with very little tech construct. We still have steps to sort out “off-chain” events, starting with “deep” Contract Law analysis, then we might want to dive even deeper on how that interferes with on-chain action. Beth hammered that point head-on (see F-3 Merits of Contract Law framework): _**“in the DAO diagram, each of the circles is human behavior that exists to a certain extent off-chain, whereas each of the square parts is an autonomous software going forward and the fact that each of these different functions it is involved in initiating or impacting a transaction and some of them like onboarding might come in its certain points and end up impacting other points.”**_
+ 
+ 
+**-2- Material involved to produce the session, with link available in the Telegram channel:**
+
+- Dynamic updates HackMD link: https://hackmd.io/AVy2rUZeRWKf285W61aftw?view
+
 - Session Video link: https://www.youtube.com/watch?v=-WhLz2AqmxY
-- previous memos with matrix/tables of DAO/scenarios permutations
+
+- Previous memos with matrix/tables of DAO/scenarios permutations (in the process of being migrated to this GitHub repository)
  
--3- Feed-back loop
  
-Here’s the 2nd iteration for this post-July 23rd 3rd cycle. Please kindly keep up posted with feed-back so that we may improve what you read now and produce and even more condensed executive summary. Whenever possible we attributed the most salient points made to Beth, Dazza, Brenden, Bryan, Silke, Cem & Jim, the main contributors this time. Please tell us if we misquoted or misattributed your well-taken points.
+**-3- Feed-back loop**
  
-“ So that the insights are crystallized in a usable, chronological form. “ à these memos are some of the materials to get that stuff done.
+“ So that the insights are crystallized in a usable, chronological form. “ which is the purpose of migrating content to this repository here in GitHub.
 
  
--B- Engagement with customer and laying the ground to establish a lawyer-client relationship
+#### -B- Engagement with customer and laying the ground to establish a lawyer-client relationship
  
-While none of this is Legal Advice, nor may be construed as (an attempt at) Legal Practice, the ones in a position to expect from this some form of usefulness & utility include our friends at Publishing DAO, so we try & make it worth their while first, so it might work for us as well.
+_**While none of this is Legal Advice, nor may be construed as (an attempt at) Legal Practice, the ones in a position to expect from this some form of usefulness & utility include our friends at Publishing DAO, so we try & make it worth their while first, so it might work for us as well.**_
  
 And while we’re all thriving to build a robust AALE/DAO-based economy, that is scalable, taxable, affordable to, and manageable by, the largest possible chunk of the population, we also need to deal with the other side of the coin: the fact that DAOs may increasingly be targeted by law suits, or find themselves being harmed in ways that they want to be in a position to sue. The scenarios developed here show exactly what could happen in rather realist settings, and preliminary measures that Publishing DAO leaders might want to take to arm & shield themselves.
  
@@ -126,57 +134,80 @@ This isn’t trivial: for ex. you thought your DAO was “in charge” of a set-
 So, there is this little dance & it can be wobbling for a while, until clarity & empathy do the job, paving the way for a lawyer-client relationship.
 
  
--C- Start with simplified use cases and build a primary foundation – then build up complexity
+#### -C- Start with simplified use cases and build a primary foundation – then build up complexity
  
-Emphasis: for the purpose of Legal Analysis, you can't ever really know a legal outcome unless you apply the lots of facts so we have to at least lock down some example for the analysis (Dazza), and for that we need to freeze scenarios with a finite set of things that are possible & happen.
+_**Emphasis: for the purpose of Legal Analysis, you can't ever really know a legal outcome unless you apply the lots of facts so we have to at least lock down some example for the analysis (Dazza), and for that we need to freeze scenarios with a finite set of things that are possible & happen.**_
  
 Last time we choose to engage with a physical book being shared between parties, then going into a DAO use case, that was already complex. This time we continue to apply the Agency Law framework to a variety of scenarios that revolve around a Publishing DAO- for examining power differential in relationships, duties of care & fiduciary, in various situations where you want to first define R4 (Roles & Relationships, Rights & Responsibilities). And then we want to extrapolate these ideas to creating frameworks for DAOs.
  
 Technically in the DAO chart, entities are marked in a circle whereas autonomous processes are marked in a square. That leads to thought patterns narrative and various permutations, to which a permutation matrix (Chris) may be applied to analyze legal outcomes (as summed up by Dazza, what the matrix does, is to allocate functions to roles, then play out scenarios from the perspective of each role). Ultimately this may lead to another DAO architecture whereas the DAO performs a specific function for external parties & for itself (Beth).
  
 Just starting with these Law school patterns, you go through permutations and see certain processes, so you start to understand more of the nuances and really break down and understand what the different rules are here (Bryan). And so you can actually see how complex the situation can get because the rules are becoming very granular and complicated rather quickly (Cem).
+
  
--D- Taming the troika of complexity, granularity, and guaranteed rabbit holes
+#### -D- Taming the troika of complexity, granularity, and guaranteed rabbit holes
  
 A basic definition of the role of leadership is to slice complexity into smaller bits and prioritize these. A next step then is to box-in granularity (like in a matrix) so as to guide people through the process of building frameworks from the ground up. Because guaranteed rabbit holes are there to stay, you need to cap them until you can deal with them in “cruise control” mode.
+
 Then, these frameworks need to be built in ways that keep scenarios and thought patterns narratives relevant to business context, technical constraints, and legal defense (and attack) objectives, and make these digestible, intelligible, palatable & useful for the purpose of AALE/DAOs (and to be very clear, in these Publishing DAO scenarios this time, we left off the fund allocation part to keep it simple (Beth)).
+
 To prioritize isn’t to deny nor ignore nor under-estimate the consequential manifestations of such complexity, granularity, and guaranteed rabbit holes. It is merely a principle of the business of life that things are meant to be tackled “by the right people, at the right time, in the right place”.
 
  
--E- (Re-)Statement of objectives
+#### -E- (Re-)Statement of objectives
  
-E-1: Pre-Fall objectives (Working Topics as laid out by Dazza in GitHub & HackMD):
-Quote: “Starting with the basic agency law analysis conducted during our prior session focused on the roles, relationships, rights and responsibilities of the Principal, Agent and Third Party in the three scenarios involving the sale of a book, as a next step we ask:
-• What are the issues, options and opportunities presented when one of the Actors in each scenario is itself a DAO or other type of automated and autonomous legal entity?
-• Specifically, what issues, options and opportunities arise with respect to the legal concepts:
-o Binding Assent to Agency Relationship and Contract Formation (lots of open questions)
-o Scope and Type of Authority (addressed above and more questions identified)
-o Estoppel and Detrimental reliance (addressed above and more questions identified)
-How can an automated system be constructed such that at any given point in time the relevant roles / relationships and rights / responsibilities, and hence most probably legal outcomes, can be assessed at any moment in the transaction or workflow etc.
-Note: a very well b/l/t engineered system should afford this type of monitoring and reporting "out-of-the-box". “ Unquote.
-E-2: AALE/DAO engineered for self-compliance among members and vis-à-vis external parties
-Risk management measures - Trustless functions organizing the human systems of AALE/DAOs within the whole ecosystem.
+##### E-1: Pre-Fall objectives (Working Topics as laid out by Dazza in GitHub & HackMD):**
+
+_**Quote: “Starting with the basic agency law analysis conducted during our prior session focused on the roles, relationships, rights and responsibilities of the Principal, Agent and Third Party in the three scenarios involving the sale of a book, as a next step we ask:**_
+
+**• What are the issues, options and opportunities presented when one of the Actors in each scenario is itself a DAO or other type of automated and autonomous legal entity?**
+
+**• Specifically, what issues, options and opportunities arise with respect to the legal concepts:**
+
+-o Binding Assent to Agency Relationship and Contract Formation (lots of open questions)
+-o Scope and Type of Authority (addressed above and more questions identified)
+-o Estoppel and Detrimental reliance (addressed above and more questions identified)
+
+_**How can an automated system be constructed such that at any given point in time the relevant roles / relationships and rights / responsibilities, and hence most probably legal outcomes, can be assessed at any moment in the transaction or workflow etc.**_
+
+**Note: a very well B/L/T/ engineered system should afford this type of monitoring and reporting "out-of-the-box". “ Unquote.
+
+##### E-2: AALE/DAO engineered for self-compliance among members and vis-à-vis external parties
+
+_**Risk management measures** - Trustless functions organizing the human systems of AALE/DAOs within the whole ecosystem._
  
-E-3: Bryan Functions & Legal Objects: these must be defined as point of obligated passage toward building up frameworks. See Section F-5.
+ 
+##### E-3: Bryan Functions & Legal Objects: these must be defined as point of obligated passage toward building up frameworks. See Section F-5.
  
 Brenden rebounding on Silke’s thoughts of engineering much by contract:
-“At some point we will come to understand how the bodies of Law meet {computationally}.”  
- 
-F. A Question of Method(s) in Legal Analysis conducive to AALE/DAOs-B/L/T/ frameworks
 
-For readers new to this, we draw main lessons below, however please kindly work your own way through Scenarios Permutations detailsJ
+_**“At some point we will come to understand how the bodies of Law meet {computationally}.”**_
+
+
+##### F. A Question of Method(s) in Legal Analysis conducive to AALE/DAOs-B/L/T/ frameworks
+
+**INSERT CHART **
+
+For readers new to this, we draw main lessons below, however please kindly work your own way through Scenarios Permutations details
+
 Content of this section:
  
-F-1: Apply several legal frameworks & define R4 (Roles & Relationships, Rights & Responsibilities)
-F-2: Merits of Agency Law framework
-F-3: Merits of Contract Law framework (+ some Tort Law maybe)
-F-4: Dichotomy between traditional set-up & AALE/DAO in relation with Legal Structures
-F-5: Functions and Legal Objects that are required to build up frameworks toward objectives
-F-6: Guaranteed Rabbit Hole 1- capped & to be tackled later: differences between jurisdictions
-F-7: Guaranteed Rabbit Hole 2- capped & to be tackled later: code, free speech, and liability
+**-F-1: Apply several legal frameworks & define R4 (Roles & Relationships, Rights & Responsibilities)**
+
+**-F-2: Merits of Agency Law framework**
+
+**-F-3: Merits of Contract Law framework (+ some Tort Law maybe)**
+
+**-F-4: Dichotomy between traditional set-up & AALE/DAO in relation with Legal Structures**
+
+**-F-5: Functions and Legal Objects that are required to build up frameworks toward objectives**
+
+**-F-6: Guaranteed Rabbit Hole 1- capped & to be tackled later: differences between jurisdictions**
+
+**-F-7: Guaranteed Rabbit Hole 2- capped & to be tackled later: code, free speech, and liability**
  
  
-F-1: Apply several Legal Frameworks & define R4 (Roles & Relationships, Rights & Responsibilities)
+**F-1: Apply several Legal Frameworks & define R4 (Roles & Relationships, Rights & Responsibilities)**
  
  
 So we apply various Legal analysis Frameworks: in previous & current cycle we stuck to Agency Law, and we’ll soon be transitioning to a deep Contract Law analysis with some Tort Law as well maybe. On the way we cross path with issues related to IP protection, national security & state secrets, freedom of press & information, that have different Laws across jurisdiction (like Germany isn’t like US, etc.), so we know these guaranteed rabbit holes are there for the digging, anytime.
@@ -191,9 +222,10 @@ There's a major distinction (Beth) that we just tried to do the simplest version
  
 And so the question that you can ask at the end of scenarios permutations A, B, C is what would what are the rights and responsibilities of the party when the thing blows up so it represents the fact that when the thing blew up (Dazza). In B,  you get a cease and desist letter from the National Security Agency or the equivalent agency of your country where most of the people are, where Bob is or where the machine is that's polluting or whatever, and okay now what happens make it clear that in this country under this law they have a fine and they assess a fine of a million dollars for this violation, and now people are wondering like okay I wanna, now we get into sort of like almost a quasi-litigation or a mediation context, and people are trying to throw the hot potato to the other party, saying what I don't want to pay it should be the expresso machine or I don’t want to pay that should be someone else, uses of each party in terms of ultimate liability for this massive screw-up.
  
-Then the next question would be (Dazza) if in order to have a circle from a legal perspective unlike a technical diagram like in this case the circle represents a party (and a party is a legal entity that can sue and be sued like that's the whole point of it) so according to all over good enough analysis, if there's nothing else that's happened such as creating an LLC or some other legal form that would hold up, then the default analysis is you have a general partnership so every member of that circle would be jointly and severally liable for the actions that happened. So they're the ones that own the espresso machine and just to go with what Cem was saying that's the jurisdiction where the heats coming down from the Security Agency and they just assess the fine then, what we mean, not being a litigator but one would imagine that people would start wondering is there anybody that's a member of this DAO who has like locus or nexus with that jurisdiction, like do they have a house there do they look there can we get our hands on them and you can start basically subpoenaing those people. Because they're all jointly and severally liable are there any other assets at all, but then to kick it up a notch, so if you imagine that it has legal personality which is kind of the idea of the legal entity part of the AALE, then you ask the question well what legal personality does it have: is it a corporation, an LLC, a nonprofit of some other form and then you could ask why do you think it is this legal entity, like is there a jurisdiction that's granted it, or is there some other reason why a court would ascribe legal entity-ness to it, so how about those questions.              
+Then the next question would be (Dazza) if in order to have a circle from a legal perspective unlike a technical diagram like in this case the circle represents a party (and a party is a legal entity that can sue and be sued like that's the whole point of it) so according to all over good enough analysis, if there's nothing else that's happened such as creating an LLC or some other legal form that would hold up, then the default analysis is you have a general partnership so every member of that circle would be jointly and severally liable for the actions that happened. So they're the ones that own the espresso machine and just to go with what Cem was saying that's the jurisdiction where the heats coming down from the Security Agency and they just assess the fine then, what we mean, not being a litigator but one would imagine that people would start wondering is there anybody that's a member of this DAO who has like locus or nexus with that jurisdiction, like do they have a house there do they look there can we get our hands on them and you can start basically subpoenaing those people. Because they're all jointly and severally liable are there any other assets at all, but then to kick it up a notch, so if you imagine that it has legal personality which is kind of the idea of the legal entity part of the AALE, then you ask the question well what legal personality does it have: is it a corporation, an LLC, a nonprofit of some other form and then you could ask why do you think it is this legal entity, like is there a jurisdiction that's granted it, or is there some other reason why a court would ascribe legal entity-ness to it, so how about those questions.  
+
 
-F-2: Merits of Agency Law framework
+**F-2: Merits of Agency Law framework**
  
 Merits are based on applications of the Agency Law framework to concepts, in given contexts, that highlight fact patterns & legal outcomes. In scenario B, we can also impact the knowledge (Beth) because it's like none of the curators realized that this is included, maybe is it something where they would have more duty of care in their country’s context (how should a European person be legally compelled to not spill US state secrets). In scenario C we're trying (Beth) to get out this idea that if there's a legal information somehow in a book but the people who are approving the existence of this book don't realize it's illegal or in general that's like the DAO is publishing this illegal thing- the only DAO “No” vote did come from a curator who noticed that the poems were very similar to Ginsberg and looked up the original poem to confirm it but didn't share that information with the other voters. So to compare between permutation B and C then in both scenarios there was some illegal aspect, the proposal passed regardless that all the curators who voted yes to pass the approval were ignorant to the fact that they were illegal.
  
@@ -208,7 +240,8 @@ A clear demonstration of why it matters to allocate roles to parties at the onse
  
 Scenario D begs the question of the DAO’s ability to sue the logistics company (Silke). And just to play it through even more realistically (Dazza) so that we have all these connected, you've got a third party that's aggrieved in this case so like we were depending on the book but our birthday party didn't work because we didn't have the books or we lost some money in our business, they sue the principal the DAO let's say for not giving them the book and then the DAO does a cross-claim or counterclaim to their agent who was the publishing company to say hey it was your fault so we just got sued for ten million dollars you owe me ten million dollars to pay off the suit, because you're the one that messed up. And so we think that's how the chain goes but to really complete these things in the scenario you have to be a little more explicit about what went wrong, who was harmed, and who can they lay their hands on basically. In D, Charlie got harmed (Beth, even though his book is terrible so maybe everyone else was better off that it didn't get distributed, but the intern at logistics company Charlie Corp. probably made a terrible error (calendar app mishap), which is a derivative situation in every way.             
  
-F-3: Merits of Contract Law framework (+ some Tort Law maybe)
+ 
+**F-3: Merits of Contract Law framework (+ some Tort Law maybe)**
  
 Looking at permutation E, so it's Bob problem that parties didn't enter into the agreement (Beth) and it's a failure point that doesn't have legal implication unless it's built into the contract so we've wanted to include this one because that's where contract law intersects with agency law and things need to be corrected in the situation. So if under Agency Law one may argue that Bob is the Principal and the DAO is the Agent, in fact the Principal-Agent relationship has not been formed (Jim). This means we can’t do an Agency Law analysis if there's not one of those, but why don't we, well how about just a Contract Law analysis.
  
@@ -226,28 +259,45 @@ And maybe, there's some other examples of how onboarding could go wrong as well 
  
  
 
-F-4: Dichotomy between traditional set-up & AALE/DAO in relation with Legal Structures
+**F-4: Dichotomy between traditional set-up & AALE/DAO in relation with Legal Structures**
 
  
 So a key question now is the dichotomy of traditional ecosystem analysis vs AALE/DAO ecosystem analysis, in relation with the 4 most likely Legal Structures to be concerned in a US (Common) Law context (that may be easily tweaked for EU and other jurisdictions). Then (Bryan) if you start drilling down on the type of entity & issues involved, specific outcomes that are correlated with an Agency Law outcome scenario tracker, then you can start plugging in some of the DAO/scenarios permutations matrix/table, and start building a framework: what happens if this takes place as a General Partnership, or should be seen under the lends of an LLC, or a BB LLC, or an Inc. corporation. And related to that dichotomy, if it’s an AALE/DAO that’s involved, together with its ecosystem and its very polyvalent way of functioning, then we can start comparing and contrasting and understanding what those patterns are between actors and outcomes, such as: what happens if it's an AALE/DAO ; what happens if it's like a human or a set of humans- just doing this without any kind of technological assistance, a kind of paper paradigm, etc. By walking through the Agency Law transaction table, identifying what happens when things go wrong, and identifying what those roles and responsibilities are, we can then start going through the agency outcomes sheet and populating it with the relevant information that we extract.                                                                          
 
  
-F-5: Functions & Legal Objects that are required to build up frameworks toward objectives
-• “ if business type is A, if roles are configured X, the function involved is Y, then outcome is Z “
+**F-5: Functions & Legal Objects that are required to build up frameworks toward objectives**
+
+>• **“ if business type is A, if roles are configured X, the function involved is Y, then outcome is Z “**
+
 Brenden rebounding on Silke’s thoughts of engineering much by contract:
-“At some point we will come to understand how the bodies of Law meet {computationally}.”    
+
+**“At some point we will come to understand how the bodies of Law meet {computationally}.”**    
  
-We call these Bryan functions, they’re instrumental to shield the DAO at a minimum from legal harm- Bryan: once we started identifying which functions produce which kind of outcomes, we can start coming up with a standard set of disclaimers that can be used for that series of functions. So if it's functions related to the voting mechanism or functions related to if it's the way the DAO meaning takes place, you can start coming up with templates that are specifically meant for DAO such that they're keeping the liability at a minimum. (Dazza: Amen- Beth: Definitely-).
-+ Legal Objects (Bryan): “just quickly I think the construction that we used in having all of these roles and functions and maps denoted by shapes and relationships is that what we are really moving into this Legal Object model where each different piece of the puzzle has different attributes that are based on not just where it's positioned but also the specific features that it holds and those features can help- those features will necessarily impact what the legal ramifications are in the event of any of these scenarios that we've gone through.
+We call these Bryan Functions & Legal Objects. These Functions are instrumental to shield the DAO at a minimum from legal harm- 
+
+**Bryan Functions:**
+>Once we started identifying which functions produce which kind of outcomes, we can start coming up with a standard set of disclaimers that can be used for that series of functions. So if it's functions related to the voting mechanism or functions related to if it's the way the DAO meaning takes place, you can start coming up with templates that are specifically meant for DAO such that they're keeping the liability at a minimum. (Dazza: Amen- Beth: Definitely-).
+
+**Bryan Legal Objects:**
+>Just quickly I think the construction that we used in having all of these roles and functions and maps denoted by shapes and relationships is that what we are really moving into this Legal Object model where each different piece of the puzzle has different attributes that are based on not just where it's positioned but also the specific features that it holds and those features can help- those features will necessarily impact what the legal ramifications are in the event of any of these scenarios that we've gone through.
  
-+ Brenden: “I’ll throw something out there I think that's a great point Bryan and this came out in our pre meeting discussions and it is along the lines of what we discovered when we were talking about the bonding curve and how there are potentially different players with different roles and rights and obligations that you have along that curve so you and I think Beth mentioned in those discussions how it might start off being one set of right holders and then it moves on to more of a crowdfunding type of thing later on but the point here is that these things are dynamic and at some point a lot of complexity comes in due to that.”
-+ Cem: first call we discussed something like (reconstituted transcriptà) this were like a DAO enters into an agreement but then like somebody else joins the DAO and this agreement consequences is affecting this new employed person, and then we talked about the expectation from a new participant that he understands the condition of the DAO prior to his on-boarding.
-+ Silke: issues of liabilities of relationships are problematic when the system isn’t set up properly, in particular when things that weren’t considered before, happen, one has to revert to the mean of elementary relationship analysis frameworks of (Germany) Contract & Agency Law.
-+ Beth: yeah definitely well okay we can revisit that and you know keep iterating on this model and actually testing it in real, like to know more
-+ Dazza; thank you for your insight Silke the reason why we started doing this was to see if by just running through the fact patterns & different legal frameworks like agency then contract could we surface some insights and best practices that would be helpful as people are rolling out the data so I think every call we've had at least two or three to your point I think by Jove you've got it that's exactly what we're trying to do.
+**Brenden:**
+>I’ll throw something out there I think that's a great point Bryan and this came out in our pre meeting discussions and it is along the lines of what we discovered when we were talking about the bonding curve and how there are potentially different players with different roles and rights and obligations that you have along that curve so you and I think Beth mentioned in those discussions how it might start off being one set of right holders and then it moves on to more of a crowdfunding type of thing later on but the point here is that these things are dynamic and at some point a lot of complexity comes in due to that.
+
+**Cem:**
+>First call we discussed something like (reconstituted transcriptà) this were like a DAO enters into an agreement but then like somebody else joins the DAO and this agreement consequences is affecting this new employed person, and then we talked about the expectation from a new participant that he understands the condition of the DAO prior to his on-boarding.
+
+**Silke:**
+>Issues of liabilities of relationships are problematic when the system isn’t set up properly, in particular when things that weren’t considered before, happen, one has to revert to the mean of elementary relationship analysis frameworks of (Germany) Contract & Agency Law.
+
+**Beth:**
+>Yeah definitely well okay we can revisit that and you know keep iterating on this model and actually testing it in real, like to know more
+
+**Dazza:**
+>Thank you for your insight Silke the reason why we started doing this was to see if by just running through the fact patterns & different legal frameworks like agency then contract could we surface some insights and best practices that would be helpful as people are rolling out the data so I think every call we've had at least two or three to your point I think by Jove you've got it that's exactly what we're trying to do.
 
  
-F-6: Guaranteed Rabbit Hole 1- capped & to be tackled later: differences between jurisdictions  
+**F-6: Guaranteed Rabbit Hole 1- capped & to be tackled later: differences between jurisdictions** 
  
 “The point of all this okay is to begin to break the global legal system” (Brenden – all seem to agree). But, seriously, until we get there, as pointed out by Silke in several comments, the point is how to deal with jurisdiction specific differences, case in point operating out of Berlin.
  
@@ -275,7 +325,7 @@ Maybe some implications on the notion of future record of intention with AALE/DA
  
 
  
-F-7: Guaranteed Rabbit Hole 2- capped & to be tackled later: code, free speech, and liability
+**F-7: Guaranteed Rabbit Hole 2- capped & to be tackled later: code, free speech, and liability**
  
 On code, free speech and liability- while we capped it for now, this is definitely something that we want to revisit later and sort out: because these are pressing questions that may arise once we deploy our AALE/DAOs models and test them in the wild (conclusive statement- Beth).  
  
@@ -289,21 +339,27 @@ Furthermore (Cem) there are some basic using functions which are not operated by
  
 
  
--G- Next Steps
+**-G- OTHER POINTS XXXXXX TO BE UPDATED WITH SALIWENTS POINTS XXXXX
+ 
+ 
+ 
+ 
+ 
+**-H- Next Steps XXXXXX TO BE UPDATED WITH SALIWENTS POINTS XXXXX**
  
 This is the 2nd iteration of 3rd cycle, an immediate next step in coming week(s) would be a 3rd iteration that refine things done here (also a 1-pager executive summary can be drawn from content structure), follow-up on previous cycles working topics, and introduce new elements.
  
-G-1: Further consolidating the Agency Law analysis with the Publishing DAO case: work-in-progress
+H-1: Further consolidating the Agency Law analysis with the Publishing DAO case: work-in-progress
  
-G-2: Transitioning to Contract Law analysis  
+H-2: Transitioning to Contract Law analysis  
  
 We’ve started to scan the Contract Law Restatement (2nd) provided by Dazza-thanks, plotting the optimal way to hack through it, smack it with a matrix to boil it down to an essential check-list that matters for our permutation legal outcomes analysis conventional ecosystem vs AALE/DAO.
  
-G-3: Getting closer to pre-Fall objectives as mentioned in HackMD Working Topics
+H-3: Getting closer to pre-Fall objectives as mentioned in HackMD Working Topics
  
 In the previous cycle memo, we came up with a table that starts to address questions around Working Topics, so we continue to tweak it in light of new lessons learned in this cycle with the Publishing DAO. We’ll see where that leads us for a possible update in next iteration.
  
-G-4: Starting retro-planning of next steps with Indian Summer & Wintery Fall deliverables
+H-4: Starting retro-planning of next steps with Indian Summer & Wintery Fall deliverables
  
 Not for us to decide, but the idea is to start thinking about AALE challenge deliverable timelines, might still be a bit premature, so just in case.
  
@@ -313,57 +369,18 @@ Seasonally, Fall falls in the Sept. 21-Dec. 21 time frame, so we might want to s
 + Wintery Fall- Don’t want to think about it now. And, other than that, Halloween & Thanksgivings are two noticeable time marks.
  
 Let’s see how things go until next iteration, we (Chris) remain AALE-active during this summer, feel free to feed-back anytimeJ
- 
- 
- 
-PAGE INTENTIONALLY LEFT BLANK
-(please scroll below for previous iteration)
- 
-
-Law ReImagined – Inventing Automated and Autonomous Legal Entities Part 3
 
-1st iteration of 3nd cycle (post-July-23rd)  
 
-2019 July 26th - Chris B. DRAFT Unverified – AALEs vs Agency Law
-
-Support-mémo following July 23rd Beth Berlin Live Session for
-
-Autonomous and Automated Legal Entities Hack – HackMD
-
-KEY TAKE-OUTs WITH FULL TRANSCRIPT FROM THE JULY 23rd BETH BERLIN LIVE SESSION
- 
-This last legal hacking session was a masterful learning opportunity, beyond subject matter itself. Still smarting after a couple of days, we (Chris) put together the below remarks on main take-outs from various perspectives, using a full transcript. Leadership here means an ability to tackle complexity & granularity, hack it in smaller bits, and guide people through the process of building from the ground up, in ways that make these bits digestible, intelligible & useful for the purpose of AALE/DAOs. Be it business outcomes processes, laying the ground for a lawyer-client relationship, staying on track & focused on methodology & objectives, not getting swamped in complexity booby traps & rabbit holes, keeping it all packed up in an 85 minutes session while branching out for proper follow-up, etc.
- 
-Leadership crown definitely goes to Beth for hacking this performance, smashing complexity & picking up selected bits on a fast & furious tempo while keeping it all constructive & empathic enough so that our brains may fathom some mechanism design. Of course everyone did an amazing job: Dazza to keep us productively focused and on-track with a disciplined yet discerning application of legal frameworks ; Brenden’s legendary pluck to grab exactly what matters while keeping the fog away, and this uncanny ability to already foresee tomorrow’s next steps while making these sufficiently clear but still open enough so that we may further explore these options ; Bryan the indomitable mechanism engineer and more ; Silke for reasonably relevant points, some of which we emphasize below ; and last but not least, Cem & Jim who are really cool customers, being able to pivot from the entrepreneurial, business & technical daily experience of their DAO business toward a more legal framework-based approach, which is really a tough thing to do. Tremendous.
- 
-For anyone like us (Chris) still going through the motions, we kindly suggest you do the same below exercise: it will be time well used!
- 
-Creative Commons Attribution License: https://creativecommons.org/licenses/by/4.0/ --- Attribution: Christophe Bosquillon, MSc in cryptocurrency, digital assets & blockchain at the University of Nicosia, Cyprus (on-going). Also an alumni of Mines Paritech & HEC (Entrepreneurs) Paris. 
-
- 
- 
-For your reference, please refer to the full transcript that appears at the end of the below summary, under the following headline:
- 
-Law ReImagined - Automated and Autonomous Legal Entities Part 3
-Transcript of 23rd July 2019 Live Session
-Directed by Beth McCarthy of the Mechanism Design Group
- 
-The reference link: https://www.youtube.com/watch?v=-WhLz2AqmxY)
- 
-Leadership here means an ability to tackle complexity & granularity, hack it in smaller bits, and guide people through the process of building from the ground up, in ways that make these bits digestible, intelligible & useful for the purpose of AALE/DAOs. Be it business outcomes processes, laying the ground for a lawyer-client relationship, staying on track & focused on methodology & objectives, not getting swamped in complexity booby traps & rabbit holes, keeping it all packed up in an 85 minutes session while branching out for proper follow-up, etc.
- 
-
- 
-**(you can see a full transcript starting below)**
+**(you can see a full transcript of the 23rd July 2019 AALE Live Session from Berlin starting below)**
 
 
 # Law ReImagined- 
 # Automated and Autonomous Legal Entities Part 3
 
-## Transcript of Live Session 23 July 2019 from Berlin
-Directed by Beth McCarthy of the Mechanism Design Group
+## Transcript of the 23rd July 2019 AALE Live Session from Berlin
+## Directed by Beth McCarthy of the Mechanism Design Group
 
-(link: https://www.youtube.com/watch?v=-WhLz2AqmxY)
+**(link: https://www.youtube.com/watch?v=-WhLz2AqmxY)**
 
 **Introduction - Dazza:** 
 >And live ... hi everybody welcome to the third installment of this collaborative hack with **Brenden Maher** and with **Beth McCarthy of the Mechanism Design group** and also **Bryan Wilson** among others who've been we've been collaborating to organize this series you know playing deep dives against scenarios with automated legal entities and so this session is being hosted by the mechanism design group and being kind of convened by Beth and her team in Berlin so I just want to pass... My name is Dazza Greenwood I'm here at MIT Media Lab and we're holding down one of the stakes as a collaborator but this is the Mechanism Design show today so then I hand it off to Beth to sort of set it up and to help run the meeting so thanks Beth and then take it away.
