@@ -13,10 +13,13 @@
 
 ### _(scroll down for full transcript)_
 
+#
+
 ##### Chris B. DRAFT Unverified – this work is consistently built upon input from above Team Legal Hackers Extraordinaire, thus mistakes, confusions & omissions are ours (non-lawyer Chris) only.  
  
 ###### Quote of the Summer of 2019:  _Rebel, But With A Regulated Cause._
- 
+
+#
  
 **Creative Commons Attribution License: https://creativecommons.org/licenses/by/4.0/**
 
@@ -26,7 +29,7 @@
  
 ### _This key take-outs are best tackled if you first scan the file:_
 
-**"AALE-3rd-Session-Most-Salient-Points-Summer-2019 .md" (INSERT LINK)**
+**" 20190723-AALE-3rd-Session-Most-Salient-Points .md " (https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190723-AALE-3rd-Session-Most-Salient-Points%20.md)**
 
 #
 
