@@ -11,3 +11,11 @@
 ###
 
 #### Currently in the process of migrating toward this AALE-Contributions repository, key take-outs from 3 previous Live sessions, plus relevant Telegram channels dynamic content, until recently developed under MS Word/PDF format. 
+
+####
+
+##### Files at early to mid-stage are marked "UCWIP" for "Under Construction - Work In Progress".
+
+#####
+
+###### Files at late-stage are marked "AGWWP" for "All Going Well Weather Permitting".
