@@ -20,58 +20,69 @@
  
 **Creative Commons Attribution License: https://creativecommons.org/licenses/by/4.0/**
 
-**Attribution: Christophe Bosquillon, MSc in cryptocurrency, digital assets & blockchain at the University of Nicosia, Cyprus (on-going). Also an alumni of Mines Paritech & HEC (Entrepreneurs) Paris.
+**Attribution: Christophe Bosquillon, MSc in cryptocurrency, digital assets & blockchain at the University of Nicosia, Cyprus (on-going). Also an alumni of Mines Paritech & HEC (Entrepreneurs) Paris.**
 
 
  
-Preamble
+**This key take-outs are best tackled if you first scan te file "AALE - Most Salient Point Mid-Summer 2019 .md" 
+(INSERT LINK)**
+
+
+**Table of contents**
  
-Here below we summarized key take-outs from the Beth et al. Berlin Live session with Cem & Jim’s Publishing DAO. We further pivot toward methods that get us closer to our previously stated (evolving) goals, reminded below. Suggestions made by Brian for process improvements were approved, therefore we further implement and refine these. This work has consistently been built upon input of our Team Legal Hackers Extraordinaire, thus from our (Chris) non-lawyer perspective, mistakes, confusions & omissions are ours only.  
+**-A- Suggestion for better process by Bryan: approved & being implemented**
+
+**-B- Engagement with customer and laying the ground to establish a lawyer-client relationship**
+
+**-C- Start with simplified use cases and build a primary foundation – then build up complexity**
+
+**-D- Taming the troika of complexity, granularity, and guaranteed rabbit holes**
  
-At time this might all sound like “explain it to a five years-old”, but in our experience, a couple of things matter, in particular:
+**-E- (Re-)Statement of objectives
+
+**-E-1: Pre-Fall objectives (Working Topics as laid out by Dazza in GitHub & HackMD)**
+
+**-E-2: AALE/DAO engineered for self-compliance among members and vis-à-vis external parties**
+
+**-E-3: Bryan Functions & Legal Objects**
  
--1- Here, we keep it simply useful to All, involved & invested reading this, i.e. actionable & implementable by All, toward next steps & goals ;
+**-F- A Question of Method(s) in Legal Analysis**
+
+**-F-1: Apply several legal frameworks & define R4 (Roles & Relationships, Rights & Responsibilities)**
+
+**-F-2: Merits of Agency Law framework**
+
+**-F-3: Merits of Contract Law framework (+ some Tort Law maybe)**
+
+**-F-4: Dichotomy between traditional set-up & AALE/DAO in relation with Legal Structures**
+
+**-F-5: Functions that are required to build up frameworks toward objectives**
+
+**-F-6: Guaranteed Rabbit Hole 1- capped & to be tackled later: differences between jurisdictions**
+
+**-F-7: Guaranteed Rabbit Hole 2- capped & to be tackled later: code, free speech, and liability**
+
+**-G- Other important points requiring further digging (COMPLETE WITH SALIENT POINTS)**
+
+XXXXXXXXXXXXXXXXXXXXXXXXXX
  
--2- While none of this is Legal Advice, nor may be construed as (an attempt at) Legal Practice, the ones in a position to expect from this some form of usefulness & utility include our friends at Publishing DAO, so we try & make it worth their while first, so it might work for us as well ;
- 
--3- This should be useful too, as raw material for Major Tom reporting to Ground Control. Furthermore, bearing in mind some of the ulterior motives are educational, and also advising senior decision makers in various settings, it’s important to keep it intelligible, digestible & palatable ;
- 
--4- We’ve all been through reading dense academic papers, forged by strikingly intelligent tunnel-vision people, with this inevitable question of  “SO WHAT?… does it imply in relation with the problem at hand & how can we use this anyway”: here we try to tame the troika of complexity, granularity, and guaranteed rabbit holes, while not losing sight of the larger picture, and ultimate usefulness & utility of this work & project ;
- 
--5- This World’s quandary of silo-ed and fractured need-to-know processes & procedures, has all of us scrambling time & resources on cross-disciplinarian “stitching-babushka” efforts. While this may be partly due to the fact that knowledge & information are power & rent-seekers, our issues here might be best resolved by cracking disciplinarian dams, getting everyone to happily row & cruise on the same B/L/T/ drakkar.
- 
--6- As we happily row, we might be able to further refine objectives & subsequent steps for retro-planning of next sessions & Fall deliverables.
- 
--7- Quote of the Week: Rebel, But With A Regulated Cause.
- 
- 
- 
-Table of contents
- 
--A- Suggestion for better process by Bryan: approved & being implemented
--B- Engagement with customer and laying the ground to establish a lawyer-client relationship
--C- Start with simplified use cases and build a primary foundation – then build up complexity
--D- Taming the troika of complexity, granularity, and guaranteed rabbit holes
- 
--E- (Re-)Statement of objectives
-E-1: Pre-Fall objectives (Working Topics as laid out by Dazza in GitHub & HackMD)
-E-2: AALE/DAO engineered for self-compliance among members and vis-à-vis external parties
-E-3: Bryan Functions & Legal Objects
- 
--F- A Question of Method(s) in Legal Analysis
-F-1: Apply several legal frameworks & define R4 (Roles & Relationships, Rights & Responsibilities)
-F-2: Merits of Agency Law framework
-F-3: Merits of Contract Law framework (+ some Tort Law maybe)
-F-4: Dichotomy between traditional set-up & AALE/DAO in relation with Legal Structures
-F-5: Functions that are required to build up frameworks toward objectives
-F-6: Guaranteed Rabbit Hole 1- capped & to be tackled later: differences between jurisdictions
-F-7: Guaranteed Rabbit Hole 2- capped & to be tackled later: code, free speech, and liability
- 
--G- Next Steps
-G-1: Further consolidating the Agency Law analysis with the Publishing DAO case
-G-2: Transitioning to Contract Law analysis  
-G-3: Getting closer to pre-Fall objectives as mentioned in HackMD Working Topics
-G-4: Starting retro-planning of next steps with Indian Summer & Wintery Fall deliverables
+**-H- Next Steps**
+
+**-G-1: Further consolidating the Agency Law analysis with the Publishing DAO case**
+
+**-G-2: Transitioning to Contract Law analysis**
+
+**-G-3: Getting closer to pre-Fall objectives as mentioned in HackMD Working Topics**
+
+**-G-4: Starting retro-planning of next steps with Indian Summer & Wintery Fall deliverables**
+
+
+
+
+
+
+
+
 -A- Suggestion for better process by Bryan: approved & being implemented
  
 “ As a process for ensuring that each working session has something produced from it - insights, concerns identified - it would be good to:
