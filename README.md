@@ -20,10 +20,10 @@
 
 ##### Files at late-stage are marked "AGWWP" for "All Going Well - Weather Permitting" (which is a shipping term, but here also indicates that climatic and weather conditions aren't to be ignored as a factor affecting the completion of tasks...).
 
+######
+
+###### Files that are learning material (such as types of Law) early (re-)working drafts are marked "AAA".
+
 #####
 
 ###### Files queued for obsolescence & deletion are marked "ZZZ".
-
-######
-
-###### Filed that are early (re-)working drafts are marked "AAA"
