@@ -14,7 +14,7 @@
 
 ####
 
-##### Files at early to mid-stage are marked "UCWIP" for "Under Construction - Work In Progress".
+##### Files at early to mid-stage are marked "UCWIP" for "Under Construction - Work In Progress" until they become "AGWWP".
 
 #####
 
