@@ -18,7 +18,7 @@
 
 #####
 
-##### Files at late-stage are marked "AGWWP" for "All Going Well - Weather Permitting" (a shipping & trading acronym, but here it also indicates that climatic and weather conditions aren't to be ignored as a factor affecting the completion of tasks...). Then re-named when ready.
+##### Files at late-stage are marked "AGWWP" for "All Going Well - Weather Permitting" (shipping & trading acronym- here also indicates that climatic and weather conditions aren't to be ignored as factor affecting the completion of tasks). AGWWP erased once file ready.
 
 ######
 
