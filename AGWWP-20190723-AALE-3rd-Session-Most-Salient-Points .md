@@ -100,6 +100,10 @@ _**“At some point we will come to understand how the bodies of Law meet {compu
 
 ##
 
+![Image of Publishing DAO Diagram](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190723%20AALE-DAO%20-%20Publishing%20DAO%20Diagram.png)
+
+##
+
 ##### -F-1: Apply several legal frameworks & define R4 (Roles & Relationships, Rights & Responsibilities)
 
 ##
@@ -124,7 +128,9 @@ Much can be done with Contract Law, the question is if things fall through the c
 
 ##### -F-4: Dichotomy between traditional set-up & AALE/DAO in relation with Legal Structures
 
+##
 
+![Image of DAO Agency Outcome Map](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190723%20AALE-DAO-AGENCY%20OUTCOMES%20MAP.png)
 
 ##
 
