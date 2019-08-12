@@ -81,12 +81,17 @@
 
 ##
 
-#### -G- Other important points requiring further digging (COMPLETE WITH SALIENT POINTS)
+#### -G- Other important points requiring further digging  
 
-XXXXXXXXXXXXXXXXXXXXXXXXXX
+##### -G-1 Fault Tolerance
 
-##
- 
+##### -G-2 Computational Law outcomes 
+
+##### -G-3 Bonding Curve
+
+##### -G-4 Staking
+
+##### -G-5 Voting
  
 #
 
@@ -417,12 +422,47 @@ Furthermore (Cem) there are some basic using functions which are not operated by
 
 #### -G- Other important points requiring further digging XXXXXX TO BE UPDATED WITH SALIENTS POINTS XXXXX
 
+#### -G- Other important points requiring further digging  
 
+##
 
+##### -G-1 Fault Tolerance
 
+**Fault Tolerance:** if the output (of a transaction) is gibberish, how do you account for that.
 
+**Fault Tolerance:** there can also be timing issues and financing issues where you can’t roll things backwards.
 
+##
 
+##### -G-2 Computational Law outcomes 
+
+Need to collect DAO or Computational systems features that have legal consequence for outcomes in different kinds of law-
+
+E.G.
+
+1. Autonomous process versus human in the loop
+
+2. Reputation bounty
+
+3. Token manager versus voting machine
+
+##
+
+##### -G-3 Bonding Curve
+
+The bonding curve has different roles and responsibilities and actors at different points along the curve.
+
+##
+
+##### -G-4 Staking
+
+If many different kinds of staking- what could go wrong.
+
+##
+
+##### -G-5 Voting
+
+Voting without knowledge of wrongdoing- what are the implications under which Law.
 
 #
 
