@@ -76,8 +76,6 @@ Under Construction - Work In Progress
 
 ### § 39. Counter-offers 
 
-Page 2
-
 ### § 38. Rejection of Offer by Counter-Offer (Restatement First)
 
 ### § 40. Time When Rejection or Counter-offer Terminates the Power of Acceptance
@@ -145,8 +143,6 @@ Page 2
 ### § 82. Promise to Pay Indebtedness; Effect on the Statute of Limitations
 
 ### § 83. Promise to Pay Indebtedness Discharged in Bankruptcy 
-
-Page 3
 
 ### § 84. Promise to Perform a Duty in Spite of Non-occurrence of a Condition
 
@@ -222,8 +218,6 @@ Page 3
 
 ## UNENFORCEABILITY ON GROUNDS OF PUBLIC POLICY
 
-Page 4
-
 ### § 178. When a Term Is Unenforceable on Grounds of Public Policy
 
 ### § 181. Effect of Failure to Comply with Licensing or Similar Requirement
@@ -291,8 +285,6 @@ Page 4
 ### § 226. How an Event May Be Made a Condition
 
 ### § 227. Standards of Preference with Regard to Conditions 
-
-Page 5
 
 ### § 228. Satisfaction of the Obligor as a Condition
 
@@ -367,8 +359,6 @@ Page 5
 #
 
 ## CHAPTER 13
-
-Page 6
 
 ## JOINT AND SEVERAL PROMISORS AND PROMISEES
 
@@ -446,8 +436,6 @@ Page 6
 
 ### § 356. Liquidated Damages and Penalties 
 
-Page 7
-
 ### § 359. Effect of Adequacy of Damages
 
 ### § 360. Factors Affecting Adequacy of Damages
@@ -498,8 +486,6 @@ A promise may be stated in words either oral or written, or may be inferred whol
 
 #
 
-Page 8
-
 ## CHAPTER 2
 
 ## FORMATION OF CONTRACTS–PARTIES AND CAPACITY
@@ -540,8 +526,6 @@ part or the circumstances have so changed that avoidance would be unjust. In suc
 ### § 16. Intoxicated Persons
 
 A person incurs only voidable contractual duties by entering into a transaction if the other party has reason to know that by reason of intoxication 
-
-Page 9
 
 (a) he is unable to understand in a reasonable manner the nature and consequences of the transaction, or
 
@@ -584,8 +568,6 @@ attached by the other.
 
 (b) that party has no reason to know of any different meaning attached by the other, and the other has reason to know the meaning attached by the first party. 
 
-Page 10
-
 ### § 22. Mode of Assent: Offer and Acceptance
 
 (1) The manifestation of mutual assent to an exchange ordinarily takes the form of an offer or proposal by one party followed by an acceptance by the other party or parties.
@@ -621,8 +603,6 @@ Manifestations of assent that are in themselves sufficient to conclude a contrac
 (1) An offer may invite or require acceptance to be made by an affirmative answer in words, or by performing or refraining from performing a specified act, or may empower the offeree to make a selection of terms in his acceptance.
 
 (2) Unless otherwise indicated by the language or the circumstances, an offer invites acceptance in any manner and by any medium reasonable in the circumstances. 
-
-Page 11
 
 ### § 32. Invitation of Promise or Performance
 
@@ -668,8 +648,6 @@ In case of doubt an offer is interpreted as inviting the offeree to accept eithe
 
 (1) An offeree's power of acceptance is terminated by his rejection of the offer, unless the offeror has manifested a contrary intention.
 
-Page 12
-
 (2) A manifestation of intention not to accept an offer is a rejection unless the offeree manifests an intention to take it under further advisement.
 
 ### § 39. Counter-offers
@@ -702,8 +680,6 @@ received.
 ### § 42. Revocation by Communication from Offeror Received by Offeree
 
 An offeree's power of acceptance is terminated when the offeree receives from the offeror a manifestation of an intention not to enter into the proposed contract. 
-
-Page 13
 
 ### § 43. Indirect Communication of Revocation
 
@@ -742,8 +718,6 @@ Unless the offeror manifests a contrary intention, an offeree who learns of an o
 
 An offer can be accepted only by a person whom it invites to furnish the consideration. 
 
-Page 14
-
 ### § 53. Acceptance by Performance; Manifestation of Intention Not to Accept
 
 (1) An offer can be accepted by the rendering of a performance only if the offer invites such an acceptance.
@@ -776,8 +750,6 @@ Except as stated in § 69 or where the offer manifests a contrary intention, it 
 ### § 58. Necessity of Acceptance Complying with Terms of Offer
 
 An acceptance must comply with the requirements of the offer as to the promise to be made or the performance to be rendered. 
-
-Page 15
 
 ### § 59. Purported Acceptance Which Adds Qualifications
 
@@ -812,8 +784,6 @@ An acceptance sent by mail or otherwise from a distance is not operative when di
 ### § 69. Acceptance by Silence or Exercise of Dominion
 
 (1) Where an offeree fails to reply to an offer, his silence and inaction operate as an acceptance in the following cases only: 
-
-Page 16
 
 (a) Where an offeree takes the benefit of offered services with reasonable opportunity to reject them and reason to know that they were offered with the expectation of compensation.
 
@@ -855,8 +825,6 @@ Performance of a legal duty owed to a promisor which is neither doubtful nor the
 
 (a) the claim or defense is in fact doubtful because of uncertainty as to the facts or the law, or 
 
-Page 17
-
 (b) the forbearing or surrendering party believes that the claim or defense may be fairly determined to be valid.
 
 (2) The execution of a written instrument surrendering a claim or defense by one who is under no duty to execute it is consideration if the execution of the written instrument is bargained for even though he is not asserting the claim or defense and believes that no valid claim or defense exists.
@@ -895,8 +863,6 @@ If the requirement of consideration is met, there is no additional requirement o
 (a) A voluntary acknowledgment to the obligee, admitting the present existence of the antecedent indebtedness; or
 
 (b) A voluntary transfer of money, a negotiable instrument, or other thing by the obligor to the obligee, made as interest on or part payment of or collateral security for the antecedent indebtedness; or 
-
-Page 18
 
 (c) A statement to the obligee that the statute of limitations will not be pleaded as a defense.
 
@@ -937,8 +903,6 @@ promisee or beneficiary of his intention to do so if
 (1) An offer is binding as an option contract if it
 
 (a) is in writing and signed by the offeror, recites a purported consideration for the making of the offer, and proposes an exchange on fair terms within a reasonable time; or 
-
-Page 19
 
 (b) is made irrevocable by statute.
 
@@ -983,8 +947,6 @@ statute in most states.]
 (c) the promisor and promisee are named in the document or so described
 as to be capable of identification when it is delivered. 
 
-Page 20
-
 (2) When a statute provides in effect that a written contract or instrument is binding without consideration or that lack of consideration is an affirmative defense to an action on a written contract or instrument, in order to be subject to the statute a promise must either
 
 (a) be expressed in a document signed or otherwise assented to by the promisor and delivered; or
@@ -1022,8 +984,6 @@ The memorandum may consist of several writings if one of the writings is signed 
 (b) the definite and substantial character of the action or forbearance in relation to the remedy sought;
 
 (c) The extent to which the action of forbearance corroborates evidence of the making and terms of the promise, or the making and terms are otherwise established by clear and convincing evidence; 
-
-Page 21
 
 (d) the reasonableness of the action or forbearance;
 
@@ -1064,8 +1024,6 @@ A party bears the risk of a mistake when
 (b) he is aware, at the time the contract is made, that he has only limited knowledge with respect to the facts to which the mistake relates but treats his limited knowledge as sufficient, or
 (c) the risk is allocated to him by the court on the ground that it is reasonable in the circumstances to do so. 
 
-Page 22
-
 ### § 155. When Mistake of Both Parties as to Written Expression justifies Reformation
 
 Where a writing that evidences or embodies an agreement in whole or in part fails to express the agreement because of a mistake of both parties as to the contents or effect of the writing, the court may at the request of a party reform the writing to express the agreement, except to the extent that rights of third parties such as good faith purchasers for value will be unfairly affected.
@@ -1099,8 +1057,6 @@ and in accordance with reasonable standards of fair dealing.
 (c) where he knows that disclosure of the fact would correct a mistake of the other party as to the contents or effect of a writing, evidencing or embodying an agreement in whole or in part.
 
 (d) where the other person is entitled to know the fact because of a relation of trust and confidence between them. 
-
-Page 23
 
 ### § 162. When a Misrepresentation Is Fraudulent or Material
 
@@ -1140,8 +1096,6 @@ To the extent that an assertion is one of opinion only, the recipient is not jus
 
 (a) stands in such a relation of trust and confidence to the person whose opinion is asserted that the recipient is reasonable in relying on it, or 
 
-Page 24
-
 (b) reasonably believes that, as compared with himself, the person whose opinion is asserted has special skill, judgment or objectivity with respect to the subject matter, or
 
 (c) is for some other special reason particularly susceptible to a
@@ -1180,8 +1134,6 @@ If conduct that appears to be a manifestation of assent by a party who does not 
 ### § 177. When Undue Influence Makes a Contract Voidable
 
 (1) Undue influence is unfair persuasion of a party who is under the domination of the person exercising the persuasion or who by virtue of the relation between them is justified in assuming that that person will not act in a manner inconsistent with his welfare. 
-
-Page 25
 
 (2) If a party's manifestation of assent is induced by undue influence by the other party, the contract is voidable by the victim.
 
@@ -1225,8 +1177,6 @@ If a party is prohibited from doing an act because of his failure to comply with
 
 (b) the interest in the enforcement of the promise is clearly outweighed by the public policy behind the requirement. 
 
-Page 26
-
 ### § 182. Effect of Performance if Intended Use Is Improper
 
 If the promisee has substantially performed, enforcement of a promise is not precluded on grounds of public policy because of some improper use that the promisor intends to make of what he obtains unless the promisee
@@ -1268,8 +1218,6 @@ A promise that tortiously interferes with performance of a contract with a third
 (a) the term exempts an employer from liability to an employee for injury in the course of his employment;
 
 (b) the term exempts one charged with a duty of public service from liability to one to whom that duty is owed for compensation for breach of that duty, or 
-
-Page 27
 
 (c) the other party is similarly a member of a class protected against the class to which the first party belongs.
 
@@ -1313,8 +1261,6 @@ A party has a claim in restitution for performance that he has rendered under or
 
 (b) technical terms and words of art are given their technical meaning when used in a transaction within their technical field. 
 
-Page 28
-
 (4) Where an agreement involves repeated occasions for performance by either party with knowledge of the nature of the performance and opportunity for objection to it by the other, any course of performance accepted or acquiesced in without
 objection is given great weight in the interpretation of the agreement.
 
@@ -1347,8 +1293,6 @@ In choosing among the reasonable meanings of a promise or agreement or a term th
 ### § 208. Unconscionable Contract or Term
 
 If a contract or term thereof is unconscionable at the time the contract is made a court may refuse to enforce the contract, or may enforce the remainder of the contract without the unconscionable term, or may so limit the application of any unconscionable term as to avoid any unconscionable result. 
-
-Page 29
 
 ### § 209. Integrated Agreements
 
@@ -1383,8 +1327,6 @@ writing as an integrated agreement with respect to the terms included in the wri
 
 (3) An integrated agreement that is not binding or that is voidable and avoided does not discharge a prior agreement. But an integrated agreement, even though not binding, may be effective to render inoperative a term which would have been part of
 the agreement if it had not been integrated. 
-
-Page 30
 
 ### § 214. Evidence of Prior or Contemporaneous Agreements and Negotiations
 
@@ -1425,8 +1367,6 @@ Where the parties to a written agreement agree orally that performance of the ag
 
 (2) When the meaning attached by one party accorded with a relevant usage and the other knew or had reason to know of the usage, the other is treated as having known or had reason to know the meaning attached by the first party. 
 
-Page 31
-
 ### § 221. Usage Supplementing an Agreement
 
 An agreement is supplemented or qualified by a reasonable usage with respect to agreements of the same type if each party knows or has reason to know of the usage and neither party knows or has reason to know that the other party has an
@@ -1461,8 +1401,6 @@ A condition is an event, not certain to occur, which must occur, unless its non-
 ### § 226. How an Event May Be Made a Condition
 
 An event may be made a condition either by the agreement of the parties or by a term supplied by the court. 
-
-Page 32
 
 ### § 227. Standards of Preference with Regard to Conditions
 
@@ -1500,8 +1438,6 @@ To the extent that the non-occurrence of a condition would cause disproportionat
 (2) Except to the extent stated in Subsection (1), where the performance of only one party under such an exchange requires a period of time, his performance is due at an earlier time than that of the other party, unless the language or the
 circumstances indicate the contrary. 
 
-Page 33
-
 ### § 235. Effect of Performance as Discharge and of Non-Performance as Breach
 
 (1) Full performance of a duty under a contract discharges the duty.
@@ -1535,8 +1471,6 @@ In determining whether a failure to render or to offer performance is material, 
 
 (b) the extent to which the injured party can be adequately compensated for the part of that benefit of which he will be deprived; 
 
-Page 34
-
 (c) the extent to which the party failing to perform or to offer to perform will suffer forfeiture;
 
 (d) the likelihood that the party failing to perform or to offer to perform will cure his failure, taking account of all the circumstances including any reasonable assurances;
@@ -1562,8 +1496,6 @@ In determining the time after which a party's uncured material failure to render
 (3) Where at the time of the breach the only remaining duties of performance are those of the party in breach and are for the payment of money in installments not related to one another, his breach by non-performance as to less than the whole, whether or not accompanied or followed by a repudiation, does not give rise to a claim for damages for total breach.
 
 (4) In any case other than those stated in the preceding subsections, a breach by non-performance gives rise to a claim for total breach only if it so substantially impairs the value of the contract to the injured party at the time of the breach that it is just in the circumstances to allow him to recover damages based on all his remaining rights to performance. 
-
-Page 35
 
 ### § 250. When a Statement or an Act Is a Repudiation
 
@@ -1595,8 +1527,6 @@ A repudiation is
 
 (1) The effect of a statement as constituting a repudiation under § 250 or the basis for a repudiation under § 251 is nullified by a retraction of the statement if notification of the retraction comes to the attention of the injured party before he materially changes his position in reliance on the repudiation or indicates to the other party that he considers the repudiation to be final. 
 
-Page 36
-
 (2) The effect of events other than a statement as constituting a repudiation under § 250 or the basis for a repudiation under § 251 is nullified if, to the knowledge of the injured party, those events have ceased to exist before he materially changes his position in reliance on the repudiation or indicates to the other party that he considers the repudiation to be final.
 
 ### § 257. Effect of Urging Performance in Spite of Repudiation
@@ -1626,8 +1556,6 @@ assumption on which the contract was made.
 
 Where, after a contract is made, a party's principal purpose is substantially frustrated without his fault by the occurrence of an event the non-occurrence of which was a basic assumption on which the contract was made, his remaining duties to
 render performance are discharged, unless the language or the circumstances indicate the contrary. 
-
-Page 37
 
 ### § 266. Existing Impracticability or Frustration
 
@@ -1664,8 +1592,6 @@ reliance interests.
 
 (2) Except as stated in Subsection (3), a contract never to sue discharges the duty and a contract not to sue for a limited time bars an action to enforce the duty during that time. 
 
-Page 38
-
 (3) A contract not to sue one co-obligor bars levy of execution on the property of the promisee during the agreed time but does not bar an action or the recovery of judgment against any co-obligor.
 
 ### § 286. Alteration of Writing
@@ -1699,8 +1625,6 @@ Full or partial performance or other satisfaction of the contractual duty of a p
 (b) co-promisors who are bound by joint and several duties or by several duties are not discharged except to the extent required by the law of suretyship.
 
 (2) By statute in many states a discharge of one promisor does not discharge other promisors of the same performance except to the extent required by the law of suretyship. 
-
-Page 39
 
 (3) Any consideration received by the obligee for discharge of one promisor discharges the duty of each other promisor of the same performance to the extent of the amount or value received. An agreement to the contrary is not effective unless it
 is made with a surety and expressly preserves the duty of his principal.
@@ -1739,8 +1663,6 @@ defenses against the beneficiary.
 
 (2) In the absence of such a term, the promisor and promisee retain power to discharge or modify the duty by subsequent agreement. 
 
-Page 40
-
 (3) Such a power terminates when the beneficiary, before he receives notification of the discharge or modification, materially changes his position in justifiable reliance on the promise or brings suit on it or manifests assent to it at the request of the promisor or promisee.
 
 (4) If the promisee receives consideration for an attempted discharge or modification of the promisor's duty which is ineffective against the beneficiary, the beneficiary can assert a right to the consideration so received. The promisor's duty is discharged to the extent of the amount received by the beneficiary.
@@ -1776,8 +1698,6 @@ of obtaining return performance, or materially reduce its value to him, or
 
 (c) assignment is validly precluded by contract. 
 
-Page 41
-
 ### § 318. Delegation of Performance of Duty
 
 (1) An obligor can properly delegate the performance of his duty to another unless the delegation is contrary to public policy or the terms of his promise.
@@ -1810,8 +1730,6 @@ enforce it.
 (b) gives the obligor a right to damages for breach of the terms forbidding assignment but does not render the assignment ineffective;
 
 (c) is for the benefit of the obligor, and does not prevent the assignee from acquiring rights against the assignor or the obligor from discharging his duty as if there were no such prohibition. 
-
-Page 42
 
 ### § 328. Interpretation of Words of Assignment; Effect of Acceptance of Assignment
 
@@ -1850,8 +1768,6 @@ by the assignee or by the obligor.
 
 (a) in exchange for a performance or return promise that would be consideration for a promise; or 
 
-Page 43
-
 (b) as security for or in total or partial satisfaction of a pre-existing debt or other obligation.
 
 ### § 336. Defenses Against an Assignee
@@ -1886,8 +1802,6 @@ Judicial remedies under the rules stated in this Restatement serve to protect on
 (1) The injured party has a right to damages for any breach by a party against whom the contract is enforceable unless the claim for damages has been suspended or discharged.
 
 (2) If the breach caused no loss or if the amount of the loss is not proved under the rules stated in this Chapter, a small sum fixed without regard to the amount of loss will be awarded as nominal damages. 
-
-Page 44
 
 ### § 347. Measure of Damages in General
 
@@ -1928,8 +1842,6 @@ As an alternative to the measure of damages stated in § 347, the injured party 
 
 (1) Damages are not recoverable for loss that the party in breach did not have reason to foresee as a probable result of the breach when the contract was made. 
 
-Page 45
-
 (2) Loss may be foreseeable as a probable result of a breach because it follows from the breach
 
 (a) in the ordinary course of events, or
@@ -1963,8 +1875,6 @@ Punitive damages are not recoverable for a breach of contract unless the conduct
 (1) Damages for breach by either party may be liquidated in the agreement but only at an amount that is reasonable in the light of the anticipated or actual loss caused by the breach and the difficulties of proof of loss. A term fixing unreasonably large liquidated damages is unenforceable on grounds of public policy as a penalty.
 
 (2) A term in a bond providing for an amount of money as a penalty for non-occurrence of the condition of the bond is unenforceable on grounds of public policy to the extent that the amount exceeds the loss caused by such non-occurrence. 
-
-Page 46
 
 ### § 359. Effect of Adequacy of Damages
 
@@ -2003,8 +1913,6 @@ or
 (1) Subject to the rule stated in Subsection (2), on a breach by non-performance that gives rise to a claim for damages for total breach or on a repudiation, the injured party is entitled to restitution for any benefit that he has conferred on the other party by way of part performance or reliance.
 
 (2) The injured party has no right to restitution if he has performed all of his duties under the contract and no performance by the other party remains due other than payment of a definite sum of money for that performance. 
-
-Page 47
 
 ### § 374. Restitution in Favor of Party in Breach
 
