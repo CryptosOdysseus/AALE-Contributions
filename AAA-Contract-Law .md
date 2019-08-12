@@ -132,37 +132,46 @@ Page 2
 
 ###§ 71. Requirement of Exchange; Types of Exchange
 ###§ 73. Performance of Legal Duty
-§ 74. Settlement of Claims
-§ 77. Illusory and Alternative Promises
-§ 79. Adequacy of Consideration; Mutuality of Obligation
-§ 81. Consideration as Motive or Inducing Cause
-§ 82. Promise to Pay Indebtedness; Effect on the Statute of Limitations
-§ 83. Promise to Pay Indebtedness Discharged in Bankruptcy 
+###§ 74. Settlement of Claims
+###§ 77. Illusory and Alternative Promises
+###§ 79. Adequacy of Consideration; Mutuality of Obligation
+###§ 81. Consideration as Motive or Inducing Cause
+###§ 82. Promise to Pay Indebtedness; Effect on the Statute of Limitations
+###§ 83. Promise to Pay Indebtedness Discharged in Bankruptcy 
 Page 3
-§ 84. Promise to Perform a Duty in Spite of Non-occurrence of a Condition
-§ 86. Promise for Benefit Received
-§ 87. Option Contract
-§ 89. Modification of Executory Contract
-§ 90. Promise Reasonably Inducing Action or Forbearance
-§ 90. Promise Reasonably Inducing Definite and Substantial Action (Restatement
+###§ 84. Promise to Perform a Duty in Spite of Non-occurrence of a Condition
+###§ 86. Promise for Benefit Received
+###§ 87. Option Contract
+###§ 89. Modification of Executory Contract
+###§ 90. Promise Reasonably Inducing Action or Forbearance
+###§ 90. Promise Reasonably Inducing Definite and Substantial Action (Restatement
 First)
-§ 95. Requirements for Sealed Contract or Written Contract or Instrument
-CHAPTER 5
-THE STATUTE OF FRAUDS
-§ 131. General Requisites of a Memorandum
-§ 132. Several Writings
-§ 139. Enforcement by Virtue of Action in Reliance
-CHAPTER 6
-MISTAKE
-§ 151. Mistake Defined
-§ 152. When Mistake of Both Parties Makes a Contract Voidable
-§ 153. When Mistake of One Party Makes a Contract Voidable
-§ 154. When a Party Bears the Risk of a Mistake
-§ 155. When Mistake of Both Parties as to Written Expression justifies Reformation
-§ 157. Effect of Fault of Party Seeking Relief
-§ 158. Relief Including Restitution
-CHAPTER 7
-MISREPRESENTATION, DURESS AND UNDUE INFLUENCE
+###§ 95. Requirements for Sealed Contract or Written Contract or Instrument
+
+## CHAPTER 5
+
+## THE STATUTE OF FRAUDS
+
+###§ 131. General Requisites of a Memorandum
+###§ 132. Several Writings
+###§ 139. Enforcement by Virtue of Action in Reliance
+
+## CHAPTER 6
+
+## MISTAKE
+
+###§ 151. Mistake Defined
+###§ 152. When Mistake of Both Parties Makes a Contract Voidable
+###§ 153. When Mistake of One Party Makes a Contract Voidable
+###§ 154. When a Party Bears the Risk of a Mistake
+###§ 155. When Mistake of Both Parties as to Written Expression justifies Reformation
+###§ 157. Effect of Fault of Party Seeking Relief
+###§ 158. Relief Including Restitution
+
+## CHAPTER 7
+
+## MISREPRESENTATION, DURESS AND UNDUE INFLUENCE
+
 § 161. When Non-Disclosure Is Equivalent to an Assertion
 § 162. When a Misrepresentation Is Fraudulent or Material
 § 164. When a Misrepresentation Makes a Contract Voidable
@@ -172,9 +181,13 @@ MISREPRESENTATION, DURESS AND UNDUE INFLUENCE
 § 175. When Duress by Threat Makes a Contract Voidable
 § 176. When a Threat Is Improper
 § 177. When Undue Influence Makes a Contract Voidable
-CHAPTER 8
-UNENFORCEABILITY ON GROUNDS OF PUBLIC POLICY
+
+## CHAPTER 8
+
+## UNENFORCEABILITY ON GROUNDS OF PUBLIC POLICY
+
 Page 4
+
 § 178. When a Term Is Unenforceable on Grounds of Public Policy
 § 181. Effect of Failure to Comply with Licensing or Similar Requirement
 § 182. Effect of Performance if Intended Use Is Improper
@@ -185,8 +198,11 @@ Page 4
 Negligently
 § 198. Restitution in Favor of Party who Is Excusably Ignorant or Is Not Equally in
 the Wrong
-CHAPTER 9
-THE SCOPE OF CONTRACTUAL OBLIGATIONS
+
+## CHAPTER 9
+
+## THE SCOPE OF CONTRACTUAL OBLIGATIONS
+
 § 201. Whose Meaning Prevails
 § 202. Rules in Aid of Interpretation
 § 203. Standards of Preference in Interpretation
@@ -210,11 +226,16 @@ THE SCOPE OF CONTRACTUAL OBLIGATIONS
 § 225. Effects of the Non-Occurrence of a Condition
 § 226. How an Event May Be Made a Condition
 § 227. Standards of Preference with Regard to Conditions 
+
 Page 5
+
 § 228. Satisfaction of the Obligor as a Condition
 § 229. Excuse of a Condition to Avoid Forfeiture
-CHAPTER 10
-PERFORMANCE AND NON-PERFORMANCE
+
+## CHAPTER 10
+
+## PERFORMANCE AND NON-PERFORMANCE
+
 § 234. Order of Performances
 § 235. Effect of Performance as Discharge and of Non-Performance as Breach
 § 236. Claims for Damages for Total and for Partial Breach
@@ -232,8 +253,11 @@ Damages for Total Breach
 § 253. Effect of a Repudiation as a Breach and on Other Party's Duties
 § 256. Nullification of Repudiation or Basis for Repudiation
 § 257. Effect of Urging Performance in Spite of Repudiation
-CHAPTER 11
-IMPRACTICABILITY OF PERFORMANCE AND FRUSTRATION OF PURPOSE
+
+## CHAPTER 11
+
+## IMPRACTICABILITY OF PERFORMANCE AND FRUSTRATION OF PURPOSE
+
 § 261. Discharge by Supervening Impracticability
 § 262. Death or Incapacity of Person Necessary for Performance
 § 263. Destruction, Deterioration or Failure to Come into Existence of Thing
@@ -241,25 +265,38 @@ Necessary for Performance
 § 265. Discharge by Supervening Frustration
 § 266. Existing Impracticability or Frustration
 § 272. Relief Including Restitution
-CHAPTER 12
-DISCHARGE BY ASSENT OR ALTERATION
+
+## CHAPTER 12
+
+## DISCHARGE BY ASSENT OR ALTERATION
+
 § 281. Accord and Satisfaction
 § 285. Contract Not to Sue
 § 286. Alteration of Writing
-CHAPTER 13
+
+## CHAPTER 13
+
 Page 6
-JOINT AND SEVERAL PROMISORS AND PROMISEES
+
+## JOINT AND SEVERAL PROMISORS AND PROMISEES
+
 § 288. Promises of the Same Performance
 § 293. Effect of Performance or Satisfaction on Co-promisors
 § 294. Effect of Discharge on Co-promisors
-CHAPTER 14
-CONTRACT BENEFICIARIES
+
+## CHAPTER 14
+
+## CONTRACT BENEFICIARIES
+
 § 302. Intended and Incidental Beneficiaries
 § 309. Defenses Against the Beneficiary
 § 311. Variation of a Duty to a Beneficiary
 § 313. Government Contracts
-CHAPTER 15
-ASSIGNMENT AND DELEGATION
+
+## CHAPTER 15
+
+## ASSIGNMENT AND DELEGATION
+
 § 317. Assignment of a Right
 § 318. Delegation of Performance of Duty
 § 319. Delegation of Performance of Condition
@@ -269,8 +306,11 @@ ASSIGNMENT AND DELEGATION
 § 331. Partially Effective Assignments
 § 332. Revocability of Gratuitous Assignments
 § 336. Defenses Against an Assignee
-CHAPTER 16
-REMEDIES
+
+## CHAPTER 16
+
+## REMEDIES
+
 § 344. Purposes of Remedies
 § 346. Availability of Damages
 § 347. Measure of Damages in General
@@ -283,7 +323,9 @@ REMEDIES
 § 354. Interest as Damages
 § 355. Punitive Damages
 § 356. Liquidated Damages and Penalties 
+
 Page 7
+
 § 359. Effect of Adequacy of Damages
 § 360. Factors Affecting Adequacy of Damages
 § 370. Requirement That Benefit Be Conferred
@@ -294,6 +336,10 @@ Page 7
 § 376. Restitution When Contract Is Voidable
 § 377. Restitution in Cases of Impracticability, Frustration, Non-Occurrence of
 Condition or Disclaimer by Beneficiary
+
+#
+
+#
 
 RESTATEMENT (SECOND) OF CONTRACTS
 CHAPTER 1
