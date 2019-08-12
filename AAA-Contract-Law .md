@@ -823,195 +823,218 @@ Page 16
 
 (2) An offeree who does any act inconsistent with the offeror's ownership of offered property is bound in accordance with the offered terms unless they are manifestly unreasonable. But if the act is wrongful as against the offeror it is an acceptance only if ratified by him.
 
-##
+#
 
 ## CHAPTER 4
 
 ## FORMATION OF CONTRACTS–CONSIDERATION
-§ 71. Requirement of Exchange; Types of Exchange
-(1) To constitute consideration, a performance or a return promise must be
-bargained for.
-(2) A performance or return promise is bargained for if it is sought by the
-promisor in exchange for his promise and is given by the promisee in exchange for
-that promise.
+
+### § 71. Requirement of Exchange; Types of Exchange
+
+(1) To constitute consideration, a performance or a return promise must be bargained for.
+
+(2) A performance or return promise is bargained for if it is sought by the promisor in exchange for his promise and is given by the promisee in exchange for that promise.
+
 (3) The performance may consist of
+
 (a) an act other than a promise, or
+
 (b) a forbearance, or
+
 (c) the creation, modification, or destruction of a legal relation.
-(4) The performance or return promise may be given to the promisor or to some
-other person. It may be given by the promisee or by some other person.
-§ 73. Performance of Legal Duty
-Performance of a legal duty owed to a promisor which is neither doubtful nor the
-subject of honest dispute is not consideration; but a similar performance is
-consideration if it differs from what was required by the duty in a way which reflects
-more than a pretense of bargain.
-§ 74. Settlement of Claims
-(1) Forbearance to assert or the surrender of a claim or defense which proves to
-be invalid is not consideration unless
-(a) the claim or defense is in fact doubtful because of uncertainty as to the
-facts or the law, or 
+
+(4) The performance or return promise may be given to the promisor or to some other person. It may be given by the promisee or by some other person.
+
+### § 73. Performance of Legal Duty
+
+Performance of a legal duty owed to a promisor which is neither doubtful nor the subject of honest dispute is not consideration; but a similar performance is consideration if it differs from what was required by the duty in a way which reflects more than a pretense of bargain.
+
+### § 74. Settlement of Claims
+
+(1) Forbearance to assert or the surrender of a claim or defense which proves to be invalid is not consideration unless
+
+(a) the claim or defense is in fact doubtful because of uncertainty as to the facts or the law, or 
+
 Page 17
-(b) the forbearing or surrendering party believes that the claim or defense
-may be fairly determined to be valid.
-(2) The execution of a written instrument surrendering a claim or defense by one
-who is under no duty to execute it is consideration if the execution of the written
-instrument is bargained for even though he is not asserting the claim or defense and
-believes that no valid claim or defense exists.
-§ 77. Illusory and Alternative Promises
-A promise or apparent promise is not consideration if by its terms the promisor or
-purported promisor reserves a choice of alternative performances unless
-(a) each of the alternative performances would have been consideration if it
-alone had been bargained for; or
-(b) one of the alternative performances would have been consideration and
-there is or appears to the parties to be a substantial possibility that before the
-promisor exercises his choice events may eliminate the alternatives which
+
+(b) the forbearing or surrendering party believes that the claim or defense may be fairly determined to be valid.
+
+(2) The execution of a written instrument surrendering a claim or defense by one who is under no duty to execute it is consideration if the execution of the written instrument is bargained for even though he is not asserting the claim or defense and believes that no valid claim or defense exists.
+
+### § 77. Illusory and Alternative Promises
+
+A promise or apparent promise is not consideration if by its terms the promisor or purported promisor reserves a choice of alternative performances unless
+
+(a) each of the alternative performances would have been consideration if it alone had been bargained for; or
+
+(b) one of the alternative performances would have been consideration and there is or appears to the parties to be a substantial possibility that before the promisor exercises his choice events may eliminate the alternatives which
 would not have been consideration.
-§ 79. Adequacy of Consideration; Mutuality of Obligation
+
+### § 79. Adequacy of Consideration; Mutuality of Obligation
+
 If the requirement of consideration is met, there is no additional requirement of
-(a) a gain, advantage, or benefit to the promisor or a loss, disadvantage, or
-detriment to the promisee; or
+
+(a) a gain, advantage, or benefit to the promisor or a loss, disadvantage, or detriment to the promisee; or
+
 (b) equivalence in the values exchanged; or
+
 (c) "mutuality of obligation."
-§ 81. Consideration as Motive or Inducing Cause
-(1) The fact that what is bargained for does not of itself induce the making of a
-promise does not prevent it from being consideration for the promise.
-(2) The fact that a promise does not of itself induce a performance or return
-promise does not prevent the performance or return promise from being
-consideration for the promise.
-§ 82. Promise to Pay Indebtedness; Effect on the Statute of
-Limitations
-(1) A promise to pay all or part of an antecedent contractual or quasi-contractual
-indebtedness owed by the promisor is binding if the indebtedness is still enforceable
-or would be except for the effect of a statute of limitations.
-(2) The following facts operate as such a promise unless other facts indicate a
-different intention:
-(a) A voluntary acknowledgment to the obligee, admitting the present
-existence of the antecedent indebtedness; or
-(b) A voluntary transfer of money, a negotiable instrument, or other thing by
-the obligor to the obligee, made as interest on or part payment of or collateral
-security for the antecedent indebtedness; or 
+
+### § 81. Consideration as Motive or Inducing Cause
+
+(1) The fact that what is bargained for does not of itself induce the making of a promise does not prevent it from being consideration for the promise.
+
+(2) The fact that a promise does not of itself induce a performance or return promise does not prevent the performance or return promise from being consideration for the promise.
+
+### § 82. Promise to Pay Indebtedness; Effect on the Statute of Limitations
+
+(1) A promise to pay all or part of an antecedent contractual or quasi-contractual indebtedness owed by the promisor is binding if the indebtedness is still enforceable or would be except for the effect of a statute of limitations.
+
+(2) The following facts operate as such a promise unless other facts indicate a different intention:
+
+(a) A voluntary acknowledgment to the obligee, admitting the present existence of the antecedent indebtedness; or
+
+(b) A voluntary transfer of money, a negotiable instrument, or other thing by the obligor to the obligee, made as interest on or part payment of or collateral security for the antecedent indebtedness; or 
+
 Page 18
-(c) A statement to the obligee that the statute of limitations will not be
-pleaded as a defense.
-§ 83. Promise to Pay Indebtedness Discharged in Bankruptcy
-An express promise to pay all or part of an indebtedness of the promisor,
-discharged or dischargeable in bankruptcy proceedings begun before the promise is
-made, is binding.
-§ 84. Promise to Perform a Duty in Spite of Non-occurrence of a
-Condition
-(1) Except as stated in Subsection (2), a promise to perform all or part of a
-conditional duty under an antecedent contract in spite of the non-occurrence of the
-condition is binding, whether the promise is made before or after the time for the
+
+(c) A statement to the obligee that the statute of limitations will not be pleaded as a defense.
+
+### § 83. Promise to Pay Indebtedness Discharged in Bankruptcy
+
+An express promise to pay all or part of an indebtedness of the promisor, discharged or dischargeable in bankruptcy proceedings begun before the promise is made, is binding.
+
+### § 84. Promise to Perform a Duty in Spite of Non-occurrence of a Condition
+
+(1) Except as stated in Subsection (2), a promise to perform all or part of a conditional duty under an antecedent contract in spite of the non-occurrence of the condition is binding, whether the promise is made before or after the time for the
 condition to occur, unless
-(a) occurrence of the condition was a material part of the agreed exchange
-for the performance of the duty and the promisee was under no duty that it
-occur; or
-(b) uncertainty of the occurrence of the condition was an element of the risk
-assumed by the promisor.
-(2) If such a promise is made before the time for the occurrence of the condition
-has expired and the condition is within the control of the promisee or a beneficiary,
-the promisor can make his duty again subject to the condition by notifying the
+
+(a) occurrence of the condition was a material part of the agreed exchange for the performance of the duty and the promisee was under no duty that it occur; or
+
+(b) uncertainty of the occurrence of the condition was an element of the risk assumed by the promisor.
+
+(2) If such a promise is made before the time for the occurrence of the condition has expired and the condition is within the control of the promisee or a beneficiary, the promisor can make his duty again subject to the condition by notifying the
 promisee or beneficiary of his intention to do so if
-(a) the notification is received while there is still a reasonable time to cause
-the condition to occur under the antecedent terms or an extension given by the
-promisor; and
-(b) reinstatement of the requirement of the condition is not unjust because
-of a material change of position by the promisee or beneficiary; and
+
+(a) the notification is received while there is still a reasonable time to cause the condition to occur under the antecedent terms or an extension given by the promisor; and
+
+(b) reinstatement of the requirement of the condition is not unjust because of a material change of position by the promisee or beneficiary; and
+
 (c) the promise is not binding apart from the rule stated in Subsection (1).
-§ 86. Promise for Benefit Received
-(1) A promise made in recognition of a benefit previously received by the
-promisor from the promisee is binding to the extent necessary to prevent injustice.
+
+### § 86. Promise for Benefit Received
+
+(1) A promise made in recognition of a benefit previously received by the promisor from the promisee is binding to the extent necessary to prevent injustice.
+
 (2) A promise is not binding under Subsection (1)
-(a) if the promisee conferred the benefit as a gift or for other reasons the
-promisor has not been unjustly enriched; or
+
+(a) if the promisee conferred the benefit as a gift or for other reasons the promisor has not been unjustly enriched; or
+
 (b) to the extent that its value is disproportionate to the benefit.
-§ 87. Option Contract
+
+### § 87. Option Contract
+
 (1) An offer is binding as an option contract if it
-(a) is in writing and signed by the offeror, recites a purported consideration
-for the making of the offer, and proposes an exchange on fair terms within a
-reasonable time; or 
+
+(a) is in writing and signed by the offeror, recites a purported consideration for the making of the offer, and proposes an exchange on fair terms within a reasonable time; or 
+
 Page 19
+
 (b) is made irrevocable by statute.
-(2) An offer which the offeror should reasonably expect to induce action or
-forbearance of a substantial character on the part of the offeree before acceptance
-and which does induce such action or forbearance is binding as an option contract to
+
+(2) An offer which the offeror should reasonably expect to induce action or forbearance of a substantial character on the part of the offeree before acceptance and which does induce such action or forbearance is binding as an option contract to
 the extent necessary to avoid injustice.
-§ 89. Modification of Executory Contract
-A promise modifying a duty under a contract not fully performed on either side is
-binding
-(a) if the modification is fair and equitable in view of circumstances not
-anticipated by the parties when the contract was made; or
+
+### § 89. Modification of Executory Contract
+
+A promise modifying a duty under a contract not fully performed on either side is binding
+
+(a) if the modification is fair and equitable in view of circumstances not anticipated by the parties when the contract was made; or
+
 (b) to the extent provided by statute; or
-(c) to the extent that justice requires enforcement in view of material
-change of position in reliance on the promise.
-§ 90. Promise Reasonably Inducing Action or Forbearance
-(1) A promise which the promisor should reasonably expect to induce action or
-forbearance on the part of the promisee or a third person and which does induce
-such action or forbearance is binding if injustice can be avoided only by enforcement
+
+(c) to the extent that justice requires enforcement in view of material change of position in reliance on the promise.
+
+### § 90. Promise Reasonably Inducing Action or Forbearance
+
+(1) A promise which the promisor should reasonably expect to induce action or forbearance on the part of the promisee or a third person and which does induce such action or forbearance is binding if injustice can be avoided only by enforcement
 of the promise. The remedy granted for breach may be limited as justice requires.
-(2) A charitable subscription or a marriage settlement is binding under
-Subsection (1) without proof that the promise induced action or forbearance.
+
+(2) A charitable subscription or a marriage settlement is binding under Subsection (1) without proof that the promise induced action or forbearance.
+
 [The predecessor of § 90, in the First Restatement, read as follows:
 § 90. Promise Reasonably Inducing Definite and Substantial Action.
 A promise which the promisor should reasonably expect to induce action or
 forbearance of a definite and substantial character on the part of the promisee and
 which does induce such action or forbearance is binding if injustice can be avoided
 only by enforcement of the promise.]
-§ 95. Requirements for Sealed Contract or Written Contract or
-Instrument
+
+## § 95. Requirements for Sealed Contract or Written Contract or Instrument
+
 [The Introduction to this topic notes that the effect of a seal is governed by
 statute in most states.]
+
 (1) In the absence of statute a promise is binding without consideration if
+
 (a) it is in writing and sealed; and
+
 (b) the document containing the promise is delivered; and
+
 (c) the promisor and promisee are named in the document or so described
 as to be capable of identification when it is delivered. 
-Page 20
-(2) When a statute provides in effect that a written contract or instrument is
-binding without consideration or that lack of consideration is an affirmative defense to
-an action on a written contract or instrument, in order to be subject to the statute a
-promise must either
-(a) be expressed in a document signed or otherwise assented to by the
-promisor and delivered; or
-(b) be expressed in a writing or writings to which both promisor and
-promisee manifest assent.
-CHAPTER 5 
 
-THE STATUTE OF FRAUDS
-§ 131. General Requisites of a Memorandum
-Unless additional requirements are prescribed by the particular statute, a
-contract within the Statute of Frauds is enforceable if it is evidenced by any writing,
-signed by or on behalf of the party to be charged, which
+Page 20
+
+(2) When a statute provides in effect that a written contract or instrument is binding without consideration or that lack of consideration is an affirmative defense to an action on a written contract or instrument, in order to be subject to the statute a promise must either
+
+(a) be expressed in a document signed or otherwise assented to by the promisor and delivered; or
+
+(b) be expressed in a writing or writings to which both promisor and promisee manifest assent.
+
+#
+
+## CHAPTER 5 
+
+## THE STATUTE OF FRAUDS
+
+### § 131. General Requisites of a Memorandum
+
+Unless additional requirements are prescribed by the particular statute, a contract within the Statute of Frauds is enforceable if it is evidenced by any writing, signed by or on behalf of the party to be charged, which
+
 (a) reasonably identifies the subject matter of the contract,
-(b) is sufficient to indicate that a contract with respect thereto has been
-made between the parties or offered by the signer to the other party, and
-(c) states with reasonable certainty the essential terms of the unperformed
-promises in the contract.
-§ 132. Several Writings
-The memorandum may consist of several writings if one of the writings is signed
-and the writings in the circumstances clearly indicate that they relate to the same
-transaction.
-§ 139. Enforcement by Virtue of Action in Reliance
-(1) A promise which the promisor should reasonably expect to induce action or
-forbearance on the part of the promisee or a third person and which does induce the
-action or forbearance is enforceable notwithstanding the Statute of Frauds if injustice
-can be avoided only by enforcement of the promise. The remedy granted for breach
-is to be limited as justice requires.
-(2) In determining whether injustice can be avoided only by enforcement of the
-promise, the following circumstances are significant:
-(a) the availability and adequacy of other remedies, particularly cancellation
-and restitution;
-(b) the definite and substantial character of the action or forbearance in
-relation to the remedy sought;
-(c) The extent to which the action of forbearance corroborates evidence of
-the making and terms of the promise, or the making and terms are otherwise
-established by clear and convincing evidence; 
+
+(b) is sufficient to indicate that a contract with respect thereto has been made between the parties or offered by the signer to the other party, and
+
+(c) states with reasonable certainty the essential terms of the unperformed promises in the contract.
+
+### § 132. Several Writings
+
+The memorandum may consist of several writings if one of the writings is signed and the writings in the circumstances clearly indicate that they relate to the same transaction.
+
+### § 139. Enforcement by Virtue of Action in Reliance
+
+(1) A promise which the promisor should reasonably expect to induce action or forbearance on the part of the promisee or a third person and which does induce the action or forbearance is enforceable notwithstanding the Statute of Frauds if injustice can be avoided only by enforcement of the promise. The remedy granted for breach is to be limited as justice requires.
+
+(2) In determining whether injustice can be avoided only by enforcement of the promise, the following circumstances are significant:
+
+(a) the availability and adequacy of other remedies, particularly cancellation and restitution;
+
+(b) the definite and substantial character of the action or forbearance in relation to the remedy sought;
+
+(c) The extent to which the action of forbearance corroborates evidence of the making and terms of the promise, or the making and terms are otherwise established by clear and convincing evidence; 
+
 Page 21
+
 (d) the reasonableness of the action or forbearance;
-(e) the extent to which the action of forbearance was foreseeable by the
-promisor.
-CHAPTER 6
-MISTAKE
+
+(e) the extent to which the action of forbearance was foreseeable by the promisor.
+
+#
+
+## CHAPTER 6
+
+## MISTAKE
+
 § 151. Mistake Defined
 A mistake is a belief that is not in accord with the facts.
 § 152. When Mistake of Both Parties Makes a Contract Voidable
