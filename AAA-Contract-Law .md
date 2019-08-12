@@ -1291,207 +1291,201 @@ A party has a claim in restitution for performance that he has rendered under or
 
 ### § 201. Whose Meaning Prevails
 
-(1) Where the parties have attached the same meaning to a promise or
-agreement or a term thereof, it is interpreted in accordance with that meaning.
-(2) Where the parties have attached different meanings to a promise or
-agreement or a term thereof, it is interpreted in accordance with the meaning
-attached by one of them if at the time the agreement was made
-(a) that party did not know of any different meaning attached by the other,
-and the other knew the meaning attached by the first party; or
-(b) that party had no reason to know of any different meaning attached by
-the other, and the other had reason to know the meaning attached by the first
-party.
-(3) Except as stated in this Section, neither party is bound by the meaning
-attached by the other, even though the result may be a failure of mutual assent.
-§ 202. Rules in Aid of Interpretation
-(1) Words and other conduct are interpreted in the light of all the circumstances,
-and if the principal purpose of the parties is ascertainable it is given great weight.
-(2) A writing is interpreted as a whole, and all writings that are part of the same
-transaction are interpreted together.
+(1) Where the parties have attached the same meaning to a promise or agreement or a term thereof, it is interpreted in accordance with that meaning.
+
+(2) Where the parties have attached different meanings to a promise or agreement or a term thereof, it is interpreted in accordance with the meaning attached by one of them if at the time the agreement was made
+
+(a) that party did not know of any different meaning attached by the other, and the other knew the meaning attached by the first party; or
+
+(b) that party had no reason to know of any different meaning attached by the other, and the other had reason to know the meaning attached by the first party.
+
+(3) Except as stated in this Section, neither party is bound by the meaning attached by the other, even though the result may be a failure of mutual assent.
+
+### § 202. Rules in Aid of Interpretation
+
+(1) Words and other conduct are interpreted in the light of all the circumstances, and if the principal purpose of the parties is ascertainable it is given great weight.
+
+(2) A writing is interpreted as a whole, and all writings that are part of the same transaction are interpreted together.
+
 (3) Unless a different intention is manifested,
-(a) where language has a generally prevailing meaning, it is interpreted in
-accordance with that meaning;
-(b) technical terms and words of art are given their technical meaning when
-used in a transaction within their technical field. 
+
+(a) where language has a generally prevailing meaning, it is interpreted in accordance with that meaning;
+
+(b) technical terms and words of art are given their technical meaning when used in a transaction within their technical field. 
+
 Page 28
-(4) Where an agreement involves repeated occasions for performance by either
-party with knowledge of the nature of the performance and opportunity for objection to
-it by the other, any course of performance accepted or acquiesced in without
+
+(4) Where an agreement involves repeated occasions for performance by either party with knowledge of the nature of the performance and opportunity for objection to it by the other, any course of performance accepted or acquiesced in without
 objection is given great weight in the interpretation of the agreement.
-(5) Wherever reasonable, the manifestations of intention of the parties to a
-promise or agreement are interpreted as consistent with each other and with any
-relevant course of performance, course of dealing, or usage of trade.
-§ 203. Standards of Preference in Interpretation
-In the interpretation of a promise or agreement or a term thereof, the following
-standards of preference are generally applicable:
-(a) an interpretation which gives a reasonable, lawful, and effective
-meaning to all the terms is preferred to an interpretation which leaves a part
-unreasonable, unlawful, or of no effect;
-(b) express terms are given greater weight than course of performance,
-course of dealing, and usage of trade, course of performance is given greater
-weight than course of dealing or usage of trade, and course of dealing is given
-greater weight than usage of trade;
-(c) specific terms and exact terms are given greater weight than general
-language;
-(d) separately negotiated or added terms are given greater weight than
-standardized terms or other terms not separately negotiated.
-§ 204. Supplying an Omitted Essential Term
-When the parties to a bargain sufficiently defined to be a contract have not
-agreed with respect to a term which is essential to a determination of their rights and
-duties, a term which is reasonable in the circumstances is supplied by the court.
-§ 205. Duty of Good Faith and Fair Dealing
-Every contract imposes upon each party a duty of good faith and fair dealing in
-its performance and its enforcement.
-§ 206. Interpretation Against the Draftsman
-In choosing among the reasonable meanings of a promise or agreement or a
-term thereof, that meaning is generally preferred which operates against the party
-who supplies the words or from whom a writing otherwise proceeds.
-§ 208. Unconscionable Contract or Term
-If a contract or term thereof is unconscionable at the time the contract is made a
-court may refuse to enforce the contract, or may enforce the remainder of the contract
-without the unconscionable term, or may so limit the application of any
-unconscionable term as to avoid any unconscionable result. 
+
+(5) Wherever reasonable, the manifestations of intention of the parties to a promise or agreement are interpreted as consistent with each other and with any relevant course of performance, course of dealing, or usage of trade.
+
+### § 203. Standards of Preference in Interpretation
+
+In the interpretation of a promise or agreement or a term thereof, the following standards of preference are generally applicable:
+
+(a) an interpretation which gives a reasonable, lawful, and effective meaning to all the terms is preferred to an interpretation which leaves a part unreasonable, unlawful, or of no effect;
+
+(b) express terms are given greater weight than course of performance, course of dealing, and usage of trade, course of performance is given greater weight than course of dealing or usage of trade, and course of dealing is given greater weight than usage of trade;
+
+(c) specific terms and exact terms are given greater weight than general language;
+
+(d) separately negotiated or added terms are given greater weight than standardized terms or other terms not separately negotiated.
+
+### § 204. Supplying an Omitted Essential Term
+
+When the parties to a bargain sufficiently defined to be a contract have not agreed with respect to a term which is essential to a determination of their rights and duties, a term which is reasonable in the circumstances is supplied by the court.
+
+### § 205. Duty of Good Faith and Fair Dealing
+
+Every contract imposes upon each party a duty of good faith and fair dealing in its performance and its enforcement.
+
+### § 206. Interpretation Against the Draftsman
+
+In choosing among the reasonable meanings of a promise or agreement or a term thereof, that meaning is generally preferred which operates against the party who supplies the words or from whom a writing otherwise proceeds.
+
+### § 208. Unconscionable Contract or Term
+
+If a contract or term thereof is unconscionable at the time the contract is made a court may refuse to enforce the contract, or may enforce the remainder of the contract without the unconscionable term, or may so limit the application of any unconscionable term as to avoid any unconscionable result. 
+
 Page 29
-§ 209. Integrated Agreements
-(1) An integrated agreement is a writing or writings constituting a final expression
-of one or more terms of an agreement.
-(2) Whether there is an integrated agreement is to be determined by the court as
-a question preliminary to determination of a question of interpretation or to application
-of the parol evidence rule.
-(3) Where the parties reduce an agreement to a writing which in view of its
-completeness and specificity reasonably appears to be a complete agreement, it is
-taken to be an integrated agreement unless it is established by other evidence that
-the writing did not constitute a final expression.
-§ 210. Completely and Partially Integrated Agreements
-(1) A completely integrated agreement is an integrated agreement adopted by
-the parties as a complete and exclusive statement of the terms of the agreement.
-(2) A partially integrated agreement is an integrated agreement other than a
-completely integrated agreement.
-(3) Whether an agreement is completely or partially integrated is to be
-determined by the court as a question preliminary to determination of a question of
-interpretation or to application of the parol evidence rule.
-§ 211. Standardized Agreements
-(1) Except as stated in Subsection (3), where a party to an agreement signs or
-otherwise manifests assent to a writing and has reason to believe that like writings
-are regularly used to embody terms of agreements of the same type, he adopts the
+
+### § 209. Integrated Agreements
+
+(1) An integrated agreement is a writing or writings constituting a final expression of one or more terms of an agreement.
+
+(2) Whether there is an integrated agreement is to be determined by the court as a question preliminary to determination of a question of interpretation or to application of the parol evidence rule.
+
+(3) Where the parties reduce an agreement to a writing which in view of its completeness and specificity reasonably appears to be a complete agreement, it is taken to be an integrated agreement unless it is established by other evidence that the writing did not constitute a final expression.
+
+### § 210. Completely and Partially Integrated Agreements
+
+(1) A completely integrated agreement is an integrated agreement adopted by the parties as a complete and exclusive statement of the terms of the agreement.
+
+(2) A partially integrated agreement is an integrated agreement other than a completely integrated agreement.
+
+(3) Whether an agreement is completely or partially integrated is to be determined by the court as a question preliminary to determination of a question of interpretation or to application of the parol evidence rule.
+
+### § 211. Standardized Agreements
+
+(1) Except as stated in Subsection (3), where a party to an agreement signs or otherwise manifests assent to a writing and has reason to believe that like writings are regularly used to embody terms of agreements of the same type, he adopts the
 writing as an integrated agreement with respect to the terms included in the writing.
-(2) Such a writing is interpreted wherever reasonable as treating alike all those
-similarly situated, without regard to their knowledge or understanding of the standard
-terms of the writing.
-(3) Where the other party has reason to believe that the party manifesting such
-assent would not do so if he knew that the writing contained a particular term, the
-term is not part of the agreement.
-§ 213. Effect of Integrated Agreement on Prior Agreements (Parol
-Evidence Rule)
-(1) A binding integrated agreement discharges prior agreements to the extent
-that it is inconsistent with them.
-(2) A binding completely integrated agreement discharges prior agreements to
-the extent that they are within its scope.
-(3) An integrated agreement that is not binding or that is voidable and avoided
-does not discharge a prior agreement. But an integrated agreement, even though not
-binding, may be effective to render inoperative a term which would have been part of
+
+(2) Such a writing is interpreted wherever reasonable as treating alike all those similarly situated, without regard to their knowledge or understanding of the standard terms of the writing.
+
+(3) Where the other party has reason to believe that the party manifesting such assent would not do so if he knew that the writing contained a particular term, the term is not part of the agreement.
+
+### § 213. Effect of Integrated Agreement on Prior Agreements (Parol Evidence Rule)
+
+(1) A binding integrated agreement discharges prior agreements to the extent that it is inconsistent with them.
+
+(2) A binding completely integrated agreement discharges prior agreements to the extent that they are within its scope.
+
+(3) An integrated agreement that is not binding or that is voidable and avoided does not discharge a prior agreement. But an integrated agreement, even though not binding, may be effective to render inoperative a term which would have been part of
 the agreement if it had not been integrated. 
+
 Page 30
-§ 214. Evidence of Prior or Contemporaneous Agreements and
-Negotiations
-Agreements and negotiations prior to or contemporaneous with the adoption of a
-writing are admissible in evidence to establish
+
+### § 214. Evidence of Prior or Contemporaneous Agreements and Negotiations
+
+Agreements and negotiations prior to or contemporaneous with the adoption of a writing are admissible in evidence to establish
+
 (a) that the writing is or is not an integrated agreement;
-(b) that the integrated agreement, if any, is completely or partially
-integrated;
+
+(b) that the integrated agreement, if any, is completely or partially integrated;
+
 (c) the meaning of the writing, whether or not integrated;
-(d) illegality, fraud, duress, mistake, lack of consideration, or other
-invalidating cause;
-(e) ground for granting or denying rescission, reformation, specific
-performance, or other remedy.
-§ 215. Contradiction of Integrated Terms
-Except as stated in the preceding Section, where there is a binding agreement,
-either completely or partially integrated, evidence of prior or contemporaneous
-agreements or negotiations is not admissible in evidence to contradict a term of the
+
+(d) illegality, fraud, duress, mistake, lack of consideration, or other invalidating cause;
+
+(e) ground for granting or denying rescission, reformation, specific performance, or other remedy.
+
+### § 215. Contradiction of Integrated Terms
+
+Except as stated in the preceding Section, where there is a binding agreement, either completely or partially integrated, evidence of prior or contemporaneous agreements or negotiations is not admissible in evidence to contradict a term of the
 writing.
-§ 216. Consistent Additional Terms
-(1) Evidence of a consistent additional term is admissible to supplement an
-integrated agreement unless the court finds that the agreement was completely
-integrated.
-(2) An agreement is not completely integrated if the writing omits a consistent
-additional agreed term which is
+
+### § 216. Consistent Additional Terms
+
+(1) Evidence of a consistent additional term is admissible to supplement an integrated agreement unless the court finds that the agreement was completely integrated.
+
+(2) An agreement is not completely integrated if the writing omits a consistent additional agreed term which is
+
 (a) agreed to for separate consideration, or
-(b) such a term as in the circumstances might naturally be omitted from the
-writing.
-§ 217. Integrated Agreement Subject to Oral Requirement of a
-Condition
-Where the parties to a written agreement agree orally that performance of the
-agreement is subject to the occurrence of a stated condition, the agreement is not
-integrated with respect to the oral condition.
-§ 220. Usage Relevant to Interpretation
-(1) An agreement is interpreted in accordance with a relevant usage if each party
-knew or had reason to know of the usage and neither party knew or had reason to
-know that the meaning attached by the other was inconsistent with the usage.
-(2) When the meaning attached by one party accorded with a relevant usage and
-the other knew or had reason to know of the usage, the other is treated as having
-known or had reason to know the meaning attached by the first party. 
+
+(b) such a term as in the circumstances might naturally be omitted from the writing.
+
+### § 217. Integrated Agreement Subject to Oral Requirement of a Condition
+
+Where the parties to a written agreement agree orally that performance of the agreement is subject to the occurrence of a stated condition, the agreement is not integrated with respect to the oral condition.
+
+### § 220. Usage Relevant to Interpretation
+
+(1) An agreement is interpreted in accordance with a relevant usage if each party knew or had reason to know of the usage and neither party knew or had reason to know that the meaning attached by the other was inconsistent with the usage.
+
+(2) When the meaning attached by one party accorded with a relevant usage and the other knew or had reason to know of the usage, the other is treated as having known or had reason to know the meaning attached by the first party. 
+
 Page 31
-§ 221. Usage Supplementing an Agreement
-An agreement is supplemented or qualified by a reasonable usage with respect
-to agreements of the same type if each party knows or has reason to know of the
-usage and neither party knows or has reason to know that the other party has an
+
+### § 221. Usage Supplementing an Agreement
+
+An agreement is supplemented or qualified by a reasonable usage with respect to agreements of the same type if each party knows or has reason to know of the usage and neither party knows or has reason to know that the other party has an
 intention inconsistent with the usage.
-§ 222. Usage of Trade
-(1) A usage of trade is a usage having such regularity of observance in a place,
-vocation, or trade as to justify an expectation that it will be observed with respect to a
-particular agreement. It may include a system of rules regularly observed even
-though particular rules are changed from time to time.
-(2) The existence and scope of a usage of trade are to be determined as
-questions of fact. If a usage is embodied in a written trade code or similar writing the
-interpretation of the writing is to be determined by the court as a question of law.
-(3) Unless otherwise agreed, a usage of trade in the vocation or trade in which
-the parties are engaged or a usage of trade of which they know or have reason to
-know gives meaning to or supplements or qualifies their agreement.
-§ 223. Course of Dealing
-(1) A course of dealing is a sequence of previous conduct between the parties to
-an agreement which is fairly to be regarded as establishing a common basis of
-understanding for interpreting their expressions and other conduct.
-(2) Unless otherwise agreed, a course of dealing between the parties gives
-meaning to or supplements or qualifies their agreement.
-§ 224. Condition Defined
-A condition is an event, not certain to occur, which must occur, unless its
-nonoccurrence is excused, before performance under a contract becomes due.
-§ 225. Effects of the Non-Occurrence of a Condition
-(1) Performance of a duty subject to a condition cannot become due unless the
-condition occurs or its non-occurrence is excused.
-(2) Unless it has been excused, the non-occurrence of a condition discharges the
-duty when the condition can no longer occur.
-(3) Non-occurrence of a condition is not a breach by a party unless he is under a
-duty that the condition occur.
-§ 226. How an Event May Be Made a Condition
-An event may be made a condition either by the agreement of the parties or by a
-term supplied by the court. 
+
+### § 222. Usage of Trade
+
+(1) A usage of trade is a usage having such regularity of observance in a place, vocation, or trade as to justify an expectation that it will be observed with respect to a particular agreement. It may include a system of rules regularly observed even though particular rules are changed from time to time.
+
+(2) The existence and scope of a usage of trade are to be determined as questions of fact. If a usage is embodied in a written trade code or similar writing the interpretation of the writing is to be determined by the court as a question of law.
+
+(3) Unless otherwise agreed, a usage of trade in the vocation or trade in which the parties are engaged or a usage of trade of which they know or have reason to know gives meaning to or supplements or qualifies their agreement.
+
+### § 223. Course of Dealing
+
+(1) A course of dealing is a sequence of previous conduct between the parties to an agreement which is fairly to be regarded as establishing a common basis of understanding for interpreting their expressions and other conduct.
+
+(2) Unless otherwise agreed, a course of dealing between the parties gives meaning to or supplements or qualifies their agreement.
+
+### § 224. Condition Defined
+
+A condition is an event, not certain to occur, which must occur, unless its non-occurrence is excused, before performance under a contract becomes due.
+
+### § 225. Effects of the Non-Occurrence of a Condition
+
+(1) Performance of a duty subject to a condition cannot become due unless the condition occurs or its non-occurrence is excused.
+
+(2) Unless it has been excused, the non-occurrence of a condition discharges the duty when the condition can no longer occur.
+
+(3) Non-occurrence of a condition is not a breach by a party unless he is under a duty that the condition occur.
+
+### § 226. How an Event May Be Made a Condition
+
+An event may be made a condition either by the agreement of the parties or by a term supplied by the court. 
+
 Page 32
-§ 227. Standards of Preference with Regard to Conditions
-(1) In resolving doubts as to whether an event is made a condition of an obligor's
-duty, and as to the nature of such an event, an interpretation is preferred that will
-reduce the obligee's risk of forfeiture, unless the event is within the obligee's control
-or the circumstances indicate that he has assumed the risk.
-(2) Unless the contract is of a type under which only one party generally
-undertakes duties, when it is doubtful whether
+
+### § 227. Standards of Preference with Regard to Conditions
+
+(1) In resolving doubts as to whether an event is made a condition of an obligor's duty, and as to the nature of such an event, an interpretation is preferred that will reduce the obligee's risk of forfeiture, unless the event is within the obligee's control or the circumstances indicate that he has assumed the risk.
+
+(2) Unless the contract is of a type under which only one party generally undertakes duties, when it is doubtful whether
+
 (a) a duty is imposed on an obligee that an event occur, or
+
 (b) the event is made a condition of the obligor's duty, or
-(c) the event is made a condition of the obligor's duty and a duty is imposed
-on the obligee that the event occur, the first interpretation is preferred if the
-event is within the obligee's control.
-(3) In case of doubt, an interpretation under which an event is a condition of an
-obligor's duty is preferred over an interpretation under which the non-occurrence of
-the event is a ground for discharge of that duty after it has become a duty to perform.
-§ 228. Satisfaction of the Obligor as a Condition
-When it is a condition of an obligor's duty that he be satisfied with respect to the
-obligee's performance or with respect to something else, and it is practicable to
-determine whether a reasonable person in the position of the obligor would be
-satisfied, an interpretation is preferred under which the condition occurs if such a
-reasonable person in the position of the obligor would be satisfied.
-§ 229. Excuse of a Condition to Avoid Forfeiture
-To the extent that the non-occurrence of a condition would cause
-disproportionate forfeiture, a court may excuse the non-occurrence of that condition
-unless its occurrence was a material part of the agreed exchange.
+
+(c) the event is made a condition of the obligor's duty and a duty is imposed on the obligee that the event occur, the first interpretation is preferred if the event is within the obligee's control.
+
+(3) In case of doubt, an interpretation under which an event is a condition of an obligor's duty is preferred over an interpretation under which the non-occurrence of the event is a ground for discharge of that duty after it has become a duty to perform.
+
+### § 228. Satisfaction of the Obligor as a Condition
+
+When it is a condition of an obligor's duty that he be satisfied with respect to the obligee's performance or with respect to something else, and it is practicable to determine whether a reasonable person in the position of the obligor would be
+satisfied, an interpretation is preferred under which the condition occurs if such a reasonable person in the position of the obligor would be satisfied.
+
+### § 229. Excuse of a Condition to Avoid Forfeiture
+
+To the extent that the non-occurrence of a condition would cause disproportionate forfeiture, a court may excuse the non-occurrence of that condition unless its occurrence was a material part of the agreed exchange.
 
 #
 
