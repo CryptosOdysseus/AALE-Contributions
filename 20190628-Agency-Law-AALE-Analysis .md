@@ -838,7 +838,7 @@ A principal is subject to vicarious liability for a tort committed by an agent i
 
 **Chris comment:**
 
->_Some remarks suggested by second part “The Unauthorized Agent – Perspective from European and Comparative Law”: this really is a great piece of work, and, not that it’s news, but indeed one-size-fits-all legal frameworks may not fully work even with borderless online AALEs, in case they have to connect back to Earth-based local jurisdictions, which most of the time they do._
+>_Some remarks suggested by second part “The Unauthorized Agent – Perspective from European and Comparative Law”: this really is a great piece of work, and, not that it’s news, but indeed one-size-fits-all legal frameworks may not fully work even with borderless online AALEs, in case they have to connect back to Earth-based local jurisdictions, which most of the time they do. However it should be possible to find some common ground on legal characteristics, that sort of cut across many disparate and fragmented jurisdictions, that is sufficient to sort out basic functions and B/L/T/ mechanism design for AALE/DAOs. _
 
 >_In particular the author is absolutely spot on, with regard to the fact that things work rather differently in Civil Law countries, such as EU countries, in particular France. Civil Law countries do not recognize the concept of Estoppel for ex. Another country of interest is Japan, whose legal system has evolved through various influences in past thousands of years._  
 
