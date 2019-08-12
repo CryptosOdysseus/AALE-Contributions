@@ -1497,154 +1497,111 @@ To the extent that the non-occurrence of a condition would cause disproportionat
 
 (1) Where all or part of the performances to be exchanged under an exchange of promises can be rendered simultaneously, they are to that extent due simultaneously, unless the language or the circumstances indicate the contrary.
 
-(2) Except to the extent stated in Subsection (1), where the performance of only one party under such an exchange requires a period of time, his performance is due
-at an earlier time than that of the other party, unless the language or the
+(2) Except to the extent stated in Subsection (1), where the performance of only one party under such an exchange requires a period of time, his performance is due at an earlier time than that of the other party, unless the language or the
 circumstances indicate the contrary. 
 
 Page 33
 
-### § 235. Effect of Performance as Discharge and of Non-Performance
-as Breach
+### § 235. Effect of Performance as Discharge and of Non-Performance as Breach
+
 (1) Full performance of a duty under a contract discharges the duty.
-(2) When performance of a duty under a contract is due any non-performance is
-a breach.
+
+(2) When performance of a duty under a contract is due any non-performance is a breach.
 
 ### § 236. Claims for Damages for Total and for Partial Breach
-(1) A claim for damages for total breach is one for damages based on all of the
-injured party's remaining rights to performance.
-(2) A claim for damages for partial breach is one for damages based on only part
-of the injured party's remaining rights to performance.
 
-### § 237. Effect on Other Party's Duties of a Failure to Render
-Performance
-Except as stated in § 240, it is a condition of each party's remaining duties to
-render performances to be exchanged under an exchange of promises that there be
-no uncured material failure by the other party to render any such performance due at
-an earlier time.
+(1) A claim for damages for total breach is one for damages based on all of the injured party's remaining rights to performance.
 
-### § 238. Effect on Other Party's Duties of a Failure to Offer
-Performance
-Where all or part of the performances to be exchanged under an exchange of
-promises are due simultaneously, it is a condition of each party's duties to render
-such performance that the other party either render or, with manifested present ability
-to do so, offer performance of his part of the simultaneous exchange.
+(2) A claim for damages for partial breach is one for damages based on only part of the injured party's remaining rights to performance.
+
+### § 237. Effect on Other Party's Duties of a Failure to Render Performance
+
+Except as stated in § 240, it is a condition of each party's remaining duties to render performances to be exchanged under an exchange of promises that there be no uncured material failure by the other party to render any such performance due at an earlier time.
+
+### § 238. Effect on Other Party's Duties of a Failure to Offer Performance
+
+Where all or part of the performances to be exchanged under an exchange of promises are due simultaneously, it is a condition of each party's duties to render such performance that the other party either render or, with manifested present ability to do so, offer performance of his part of the simultaneous exchange.
 
 ### § 240. Part Performances as Agreed Equivalents
-If the performances to be exchanged under an exchange of promises can be
-apportioned into corresponding pairs of part performances so that the parts of each
-pair are properly regarded as agreed equivalents, a party's performance of his part of
-such a pair has the same effect on the other's duties to render performance of the
-agreed equivalent as it would have if only that pair of performances had been
-promised.
 
-### § 241. Circumstances Significant in Determining Whether a Failure Is
-Material
-In determining whether a failure to render or to offer performance is material, the
-following circumstances are significant:
-(a) the extent to which the injured party will be deprived of the benefit which
-he reasonably expected;
-(b) the extent to which the injured party can be adequately compensated
-for the part of that benefit of which he will be deprived; 
+If the performances to be exchanged under an exchange of promises can be apportioned into corresponding pairs of part performances so that the parts of each pair are properly regarded as agreed equivalents, a party's performance of his part of
+such a pair has the same effect on the other's duties to render performance of the agreed equivalent as it would have if only that pair of performances had been promised.
+
+### § 241. Circumstances Significant in Determining Whether a Failure Is Material
+
+In determining whether a failure to render or to offer performance is material, the following circumstances are significant:
+
+(a) the extent to which the injured party will be deprived of the benefit which he reasonably expected;
+
+(b) the extent to which the injured party can be adequately compensated for the part of that benefit of which he will be deprived; 
+
 Page 34
-(c) the extent to which the party failing to perform or to offer to perform will
-suffer forfeiture;
-(d) the likelihood that the party failing to perform or to offer to perform will
-cure his failure, taking account of all the circumstances including any
-reasonable assurances;
-(e) the extent to which the behavior of the party failing to perform or to offer
-to perform comports with standards of good faith and fair dealing.
 
-### § 242. Circumstances Significant in Determining When Remaining
-Duties are Discharged
-In determining the time after which a party's uncured material failure to render or
-to offer performance discharges the other party's remaining duties to render
-performance under the rules stated in §§ 237 and 238, the following circumstances
-are significant:
+(c) the extent to which the party failing to perform or to offer to perform will suffer forfeiture;
+
+(d) the likelihood that the party failing to perform or to offer to perform will cure his failure, taking account of all the circumstances including any reasonable assurances;
+
+(e) the extent to which the behavior of the party failing to perform or to offer to perform comports with standards of good faith and fair dealing.
+
+### § 242. Circumstances Significant in Determining When Remaining Duties are Discharged
+
+In determining the time after which a party's uncured material failure to render or to offer performance discharges the other party's remaining duties to render performance under the rules stated in §§ 237 and 238, the following circumstances are significant:
+
 (a) those stated in § 241;
-(b) the extent to which it reasonably appears to the injured party that delay
-may prevent or hinder him in making reasonable substitute arrangements;
-(c) the extent to which the agreement provides for performance without
-delay, but a material failure to perform or to offer to perform on a stated day
-does not of itself discharge the other party's remaining duties unless the
-circumstances, including the language of the agreement, indicate that
-performance or an offer to perform by that day is important.
 
-### § 243. Effect of a Breach by Non-Performance as Giving Rise to a
-Claim for Damages for Total Breach
-(1) With respect to performances to be exchanged under an exchange of
-promises, a breach by non-performance gives rise to a claim for damages for total
-breach only if it discharges the injured party's remaining duties to render such
-performance, other than a duty to render an agreed equivalent under § 240.
-(2) Except as stated in Subsection (3), a breach by non-performance
-accompanied or followed by a repudiation gives rise to a claim for damages for total
-breach.
-(3) Where at the time of the breach the only remaining duties of performance are
-those of the party in breach and are for the payment of money in installments not
-related to one another, his breach by non-performance as to less than the whole,
-whether or not accompanied or followed by a repudiation, does not give rise to a
-claim for damages for total breach.
-(4) In any case other than those stated in the preceding subsections, a breach by
-non-performance gives rise to a claim for total breach only if it so substantially impairs
-the value of the contract to the injured party at the time of the breach that it is just in
-the circumstances to allow him to recover damages based on all his remaining rights
-to performance. 
+(b) the extent to which it reasonably appears to the injured party that delay may prevent or hinder him in making reasonable substitute arrangements;
+
+(c) the extent to which the agreement provides for performance without delay, but a material failure to perform or to offer to perform on a stated day does not of itself discharge the other party's remaining duties unless the circumstances, including the language of the agreement, indicate that performance or an offer to perform by that day is important.
+
+### § 243. Effect of a Breach by Non-Performance as Giving Rise to a Claim for Damages for Total Breach
+
+(1) With respect to performances to be exchanged under an exchange of promises, a breach by non-performance gives rise to a claim for damages for total breach only if it discharges the injured party's remaining duties to render such performance, other than a duty to render an agreed equivalent under § 240.
+
+(2) Except as stated in Subsection (3), a breach by non-performance accompanied or followed by a repudiation gives rise to a claim for damages for total breach.
+
+(3) Where at the time of the breach the only remaining duties of performance are those of the party in breach and are for the payment of money in installments not related to one another, his breach by non-performance as to less than the whole, whether or not accompanied or followed by a repudiation, does not give rise to a claim for damages for total breach.
+
+(4) In any case other than those stated in the preceding subsections, a breach by non-performance gives rise to a claim for total breach only if it so substantially impairs the value of the contract to the injured party at the time of the breach that it is just in the circumstances to allow him to recover damages based on all his remaining rights to performance. 
 
 Page 35
 
 ### § 250. When a Statement or an Act Is a Repudiation
-A repudiation is
-(a) a statement by the obligor to the obligee indicating that the obligor will
-commit a breach that would of itself give the obligee a claim for damages for
-total breach under § 243, or
-(b) a voluntary affirmative act which renders the obligor unable or
-apparently unable to perform without such a breach.
 
-### § 251. When a Failure to Give Assurance May Be Treated as a
-Repudiation
-(1) Where reasonable grounds arise to believe that the obligor will commit a
-breach by non-performance that would of itself give the obligee a claim for damages
-for total breach under § 243, the obligee may demand adequate assurance of due
-performance and may, if reasonable, suspend any performance for which he has not
-already received the agreed exchange until he receives such assurance.
-(2) The obligee may treat as a repudiation the obligor's failure to provide within a
-reasonable time such assurance of due performance as is adequate in the
-circumstances of the particular case.
+A repudiation is
+
+(a) a statement by the obligor to the obligee indicating that the obligor will commit a breach that would of itself give the obligee a claim for damages for total breach under § 243, or
+
+(b) a voluntary affirmative act which renders the obligor unable or apparently unable to perform without such a breach.
+
+### § 251. When a Failure to Give Assurance May Be Treated as a Repudiation
+
+(1) Where reasonable grounds arise to believe that the obligor will commit a breach by non-performance that would of itself give the obligee a claim for damages for total breach under § 243, the obligee may demand adequate assurance of due performance and may, if reasonable, suspend any performance for which he has not already received the agreed exchange until he receives such assurance.
+
+(2) The obligee may treat as a repudiation the obligor's failure to provide within a reasonable time such assurance of due performance as is adequate in the circumstances of the particular case.
 
 ### § 252. Effect of Insolvency
-(1) Where the obligor's insolvency gives the obligee reasonable grounds to
-believe that the obligor will commit a breach under the rule stated in § 251, the
-obligee may suspend any performance for which he has not already received the
-agreed exchange until he receives assurance in the form of performance itself, an
-offer of performance, or adequate security.
-(2) A person is insolvent who either has ceased to pay his debts in the ordinary
-course of business or cannot pay his debts as they become due or is insolvent within
-the meaning of the federal bankruptcy law.
 
-### § 253. Effect of a Repudiation as a Breach and on Other Party's
-Duties
-(1) Where an obligor repudiates a duty before he has committed a breach by
-non-performance and before he has received all of the agreed exchange for it, his
-repudiation alone gives rise to a claim for damages for total breach.
-(2) Where performances are to be exchanged under an exchange of promises,
-one party's repudiation of a duty to render performance discharges the other party's
-remaining duties to render performance.
+(1) Where the obligor's insolvency gives the obligee reasonable grounds to believe that the obligor will commit a breach under the rule stated in § 251, the obligee may suspend any performance for which he has not already received the agreed exchange until he receives assurance in the form of performance itself, an offer of performance, or adequate security.
+
+(2) A person is insolvent who either has ceased to pay his debts in the ordinary course of business or cannot pay his debts as they become due or is insolvent within the meaning of the federal bankruptcy law.
+
+### § 253. Effect of a Repudiation as a Breach and on Other Party's Duties
+
+(1) Where an obligor repudiates a duty before he has committed a breach by non-performance and before he has received all of the agreed exchange for it, his repudiation alone gives rise to a claim for damages for total breach.
+
+(2) Where performances are to be exchanged under an exchange of promises, one party's repudiation of a duty to render performance discharges the other party's remaining duties to render performance.
 
 ### § 256. Nullification of Repudiation or Basis for Repudiation
-(1) The effect of a statement as constituting a repudiation under § 250 or the
-basis for a repudiation under § 251 is nullified by a retraction of the statement if
-notification of the retraction comes to the attention of the injured party before he
-materially changes his position in reliance on the repudiation or indicates to the other
-party that he considers the repudiation to be final. 
+
+(1) The effect of a statement as constituting a repudiation under § 250 or the basis for a repudiation under § 251 is nullified by a retraction of the statement if notification of the retraction comes to the attention of the injured party before he materially changes his position in reliance on the repudiation or indicates to the other party that he considers the repudiation to be final. 
+
 Page 36
-(2) The effect of events other than a statement as constituting a repudiation
-under § 250 or the basis for a repudiation under § 251 is nullified if, to the knowledge
-of the injured party, those events have ceased to exist before he materially changes
-his position in reliance on the repudiation or indicates to the other party that he
-considers the repudiation to be final.
+
+(2) The effect of events other than a statement as constituting a repudiation under § 250 or the basis for a repudiation under § 251 is nullified if, to the knowledge of the injured party, those events have ceased to exist before he materially changes his position in reliance on the repudiation or indicates to the other party that he considers the repudiation to be final.
 
 ### § 257. Effect of Urging Performance in Spite of Repudiation
-The injured party does not change the effect of a repudiation by urging the
-repudiator to perform in spite of his repudiation or to retract his repudiation.
+
+The injured party does not change the effect of a repudiation by urging the repudiator to perform in spite of his repudiation or to retract his repudiation.
 
 #
 
@@ -1653,51 +1610,38 @@ repudiator to perform in spite of his repudiation or to retract his repudiation.
 ## IMPRACTICABILITY OF PERFORMANCE AND FRUSTRATION OF PURPOSE
 
 ### § 261. Discharge by Supervening Impracticability
-Where, after a contract is made, a party's performance is made impracticable
-without his fault by the occurrence of an event the non-occurrence of which was a
-basic assumption on which the contract was made, his duty to render that
-performance is discharged, unless the language or the circumstances indicate the
-contrary.
+
+Where, after a contract is made, a party's performance is made impracticable without his fault by the occurrence of an event the non-occurrence of which was a basic assumption on which the contract was made, his duty to render that performance is discharged, unless the language or the circumstances indicate the contrary.
 
 ### § 262. Death or Incapacity of Person Necessary for Performance
-If the existence of a particular person is necessary for the performance of a duty,
-his death or such incapacity as makes performance impracticable is an event the
-non-occurrence of which was a basic assumption on which the contract was made.
 
-### § 263. Destruction, Deterioration or Failure to Come into Existence of
-Thing Necessary for Performance
-If the existence of a specific thing is necessary for the performance of a duty, its
-failure to come into existence, destruction, or such deterioration as makes
-performance impracticable is an event the non-occurrence of which was a basic
+If the existence of a particular person is necessary for the performance of a duty, his death or such incapacity as makes performance impracticable is an event the non-occurrence of which was a basic assumption on which the contract was made.
+
+### § 263. Destruction, Deterioration or Failure to Come into Existence of Thing Necessary for Performance
+
+If the existence of a specific thing is necessary for the performance of a duty, its failure to come into existence, destruction, or such deterioration as makes performance impracticable is an event the non-occurrence of which was a basic
 assumption on which the contract was made.
 
 ### § 265. Discharge by Supervening Frustration
-Where, after a contract is made, a party's principal purpose is substantially
-frustrated without his fault by the occurrence of an event the non-occurrence of which
-was a basic assumption on which the contract was made, his remaining duties to
-render performance are discharged, unless the language or the circumstances
-indicate the contrary. 
+
+Where, after a contract is made, a party's principal purpose is substantially frustrated without his fault by the occurrence of an event the non-occurrence of which was a basic assumption on which the contract was made, his remaining duties to
+render performance are discharged, unless the language or the circumstances indicate the contrary. 
 
 Page 37
 
 ### § 266. Existing Impracticability or Frustration
-(1) Where, at the time a contract is made, a party's performance under it is
-impracticable without his fault because of a fact of which he has no reason to know
-and the non-existence of which is a basic assumption on which the contract is made,
-no duty to render that performance arises, unless the language or circumstances
-indicate the contrary.
-(2) Where, at the time a contract is made, a party's principal purpose is
-substantially frustrated without his fault by a fact of which he has no reason to know
-and the non-existence of which is a basic assumption on which the contract is made,
-no duty of that party to render performance arises, unless the language or
-circumstances indicate the contrary.
+
+(1) Where, at the time a contract is made, a party's performance under it is impracticable without his fault because of a fact of which he has no reason to know and the non-existence of which is a basic assumption on which the contract is made,
+no duty to render that performance arises, unless the language or circumstances indicate the contrary.
+
+(2) Where, at the time a contract is made, a party's principal purpose is substantially frustrated without his fault by a fact of which he has no reason to know and the non-existence of which is a basic assumption on which the contract is made,
+no duty of that party to render performance arises, unless the language or circumstances indicate the contrary.
 
 ### § 272. Relief Including Restitution
-(1) In any case governed by the rules stated in this Chapter, either party may
-have a claim for relief including restitution under the rules stated in §§ 240 and 377.
-(2) In any case governed by the rules stated in this Chapter, if those rules
-together with the rules stated in Chapter 16 will not avoid injustice, the court may
-grant relief on such terms as justice requires including protection of the parties'
+
+(1) In any case governed by the rules stated in this Chapter, either party may have a claim for relief including restitution under the rules stated in §§ 240 and 377.
+
+(2) In any case governed by the rules stated in this Chapter, if those rules together with the rules stated in Chapter 16 will not avoid injustice, the court may grant relief on such terms as justice requires including protection of the parties'
 reliance interests.
 
 #
@@ -1707,36 +1651,28 @@ reliance interests.
 ## DISCHARGE BY ASSENT OR ALTERATION
 
 ### § 281. Accord and Satisfaction
-(1) An accord is a contract under which an obligee promises to accept a stated
-performance in satisfaction of the obligor's existing duty. Performance of the accord
-discharges the original duty.
-(2) Until performance of the accord, the original duty is suspended unless there is
-such a breach of the accord by the obligor as discharges the new duty of the obligee
-to accept the performance in satisfaction. If there is such a breach, the obligee may
-enforce either the original duty or any duty under the accord.
-(3) Breach of the accord by the obligee does not discharge the original duty, but
-the obligor may maintain a suit for specific performance of the accord, in addition to
-any claim for damages for partial breach.
+
+(1) An accord is a contract under which an obligee promises to accept a stated performance in satisfaction of the obligor's existing duty. Performance of the accord discharges the original duty.
+
+(2) Until performance of the accord, the original duty is suspended unless there is such a breach of the accord by the obligor as discharges the new duty of the obligee to accept the performance in satisfaction. If there is such a breach, the obligee may enforce either the original duty or any duty under the accord.
+
+(3) Breach of the accord by the obligee does not discharge the original duty, but the obligor may maintain a suit for specific performance of the accord, in addition to any claim for damages for partial breach.
 
 ### § 285. Contract Not to Sue
-(1) A contract not to sue is a contract under which the obligee of a duty promises
-never to sue the obligor or a third person to enforce the duty or not to do so for a
-limited time.
-(2) Except as stated in Subsection (3), a contract never to sue discharges the
-duty and a contract not to sue for a limited time bars an action to enforce the duty
-during that time. 
+
+(1) A contract not to sue is a contract under which the obligee of a duty promises never to sue the obligor or a third person to enforce the duty or not to do so for a limited time.
+
+(2) Except as stated in Subsection (3), a contract never to sue discharges the duty and a contract not to sue for a limited time bars an action to enforce the duty during that time. 
+
 Page 38
-(3) A contract not to sue one co-obligor bars levy of execution on the property of
-the promisee during the agreed time but does not bar an action or the recovery of
-judgment against any co-obligor.
+
+(3) A contract not to sue one co-obligor bars levy of execution on the property of the promisee during the agreed time but does not bar an action or the recovery of judgment against any co-obligor.
 
 ### § 286. Alteration of Writing
-(1) If one to whom a duty is owed under a contract alters a writing that is an
-integrated agreement or that satisfies the Statute of Frauds with respect to that
-contract, the duty is discharged if the alteration is fraudulent and material.
-(2) An alteration is material if it would, if effective, vary any party's legal relations
-with the maker of the alteration or adversely affect that party's legal relations with a
-third person. The unauthorized insertion in a blank space in a writing is an alteration.
+
+(1) If one to whom a duty is owed under a contract alters a writing that is an integrated agreement or that satisfies the Statute of Frauds with respect to that contract, the duty is discharged if the alteration is fraudulent and material.
+
+(2) An alteration is material if it would, if effective, vary any party's legal relations with the maker of the alteration or adversely affect that party's legal relations with a third person. The unauthorized insertion in a blank space in a writing is an alteration.
 
 #
 
@@ -1745,32 +1681,28 @@ third person. The unauthorized insertion in a blank space in a writing is an alt
 ## JOINT AND SEVERAL PROMISORS AND PROMISEES
 
 ### § 288. Promises of the Same Performance
-(1) Where two or more parties to a contract make a promise or promises to the
-same promisee, the manifested intention of the parties determines whether they
-promise that the same performance or separate performances shall be given.
-(2) Unless a contrary intention is manifested, a promise by two or more
-promisors is a promise that the same performance shall be given.
-§ 293. Effect of Performance or Satisfaction on Co-promisors
-Full or partial performance or other satisfaction of the contractual duty of a
-promisor discharges the duty to the obligee of each other promisor of the same
-performance to the extent of the amount or value applied to the discharge of the duty
-of the promisor who renders it.
+
+(1) Where two or more parties to a contract make a promise or promises to the same promisee, the manifested intention of the parties determines whether they promise that the same performance or separate performances shall be given.
+
+(2) Unless a contrary intention is manifested, a promise by two or more promisors is a promise that the same performance shall be given.
+
+### § 293. Effect of Performance or Satisfaction on Co-promisors
+
+Full or partial performance or other satisfaction of the contractual duty of a promisor discharges the duty to the obligee of each other promisor of the same performance to the extent of the amount or value applied to the discharge of the duty of the promisor who renders it.
 
 ### § 294. Effect of Discharge on Co-promisors
-(1) Except as stated in § 295, where the obligee of promises of the same
-performance discharges one promisor by release, rescission or accord and
-satisfaction,
-(a) co-promisors who are bound only by a joint duty are discharged unless
-the discharged promisor is a surety for the co-promisor;
-(b) co-promisors who are bound by joint and several duties or by several
-duties are not discharged except to the extent required by the law of suretyship.
-(2) By statute in many states a discharge of one promisor does not discharge
-other promisors of the same performance except to the extent required by the law of
-suretyship. 
+
+(1) Except as stated in § 295, where the obligee of promises of the same performance discharges one promisor by release, rescission or accord and satisfaction,
+
+(a) co-promisors who are bound only by a joint duty are discharged unless the discharged promisor is a surety for the co-promisor;
+
+(b) co-promisors who are bound by joint and several duties or by several duties are not discharged except to the extent required by the law of suretyship.
+
+(2) By statute in many states a discharge of one promisor does not discharge other promisors of the same performance except to the extent required by the law of suretyship. 
+
 Page 39
-(3) Any consideration received by the obligee for discharge of one promisor
-discharges the duty of each other promisor of the same performance to the extent of
-the amount or value received. An agreement to the contrary is not effective unless it
+
+(3) Any consideration received by the obligee for discharge of one promisor discharges the duty of each other promisor of the same performance to the extent of the amount or value received. An agreement to the contrary is not effective unless it
 is made with a surety and expressly preserves the duty of his principal.
 
 #
