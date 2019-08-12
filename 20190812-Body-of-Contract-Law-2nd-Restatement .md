@@ -9,7 +9,7 @@
 
 #### Reference: https://www.nylitigationfirm.com/files/restat.pdf
 
-#### This legal codification of the body of Contract Law provided by the second restatement is usable to carry out an AALE/DAOs relevant legal analysis. The aim is to surface a few more design requirements and legal engineering success metrics.
+#### This legal codification of the body of Contract Law provided by the 2nd restatement is usable to carry out an AALE/DAOs relevant legal analysis. The aim is to surface a few more design requirements and legal engineering success metrics.
 
 #
 
