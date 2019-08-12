@@ -6,26 +6,51 @@ Under Construction - Work In Progress
 
 
 
+# MIT Media Lab - Computational Law
 
+## Law ReImagined-
+## Inventing Automated and Autonomous Legal Entities 
 
+### "AALE" Collaborative Hack with Dazza, Beth, Brenden, Bryan, Silke et al. 
 
+###
 
+#### RESTATEMENT OF THE LAW OF AGENCY (THIRD) based on Berkeley's Reader c/o MIT Media Lab Computational Law
+#### June 28th 2019 - First analysis & comments on sections & articles relevant to AALE/DAOs 
 
+#
 
-XXXXXXXXXXXX
+##### Chris B. DRAFT Unverified – this work is consistently built upon input from above Team Legal Hackers Extraordinaire, thus mistakes, confusions & omissions are ours (non-lawyer Chris) only.  
 
-# INITIAL MEMO ON AGENCY LAW RESTATEMENT
+#
+ 
+**Creative Commons Attribution License: https://creativecommons.org/licenses/by/4.0/**
 
+**Attribution: Christophe Bosquillon, MSc in cryptocurrency, digital assets & blockchain at the University of Nicosia, Cyprus (on-going). Also an alumni of Mines Paritech & HEC (Entrepreneurs) Paris.**
 
+#
 
-2019 June - ChrisB. DRAFT Unverified  
+#
 
-Autonomous and Automated Legal Entities Hack - HackMD
-MIT Media Lab Computational Law with Dazza, Brenden et al.
+#### RESTATEMENT OF THE LAW OF AGENCY (THIRD) based on Berkeley's Reader c/o MIT Media Lab Computational Law
 
-DRAFT Unverified comments inserted in italics in Law of Agency 
-Frameworks in case Principal or Agent or Third Party are AALEs
-(based on Berkeley’s below document c/o MIT Media Lab CL)
+#### June 28th 2019 - First analysis & comments inserted in italics in Law of Agency Frameworks in case Principal or Agent or Third Party are AALE/DAOs.
+
+#
+
+#### Methodology
+
+##### These points will also be reminded in the take-away memo for the first Live session.
+
+##### Step 1- The whole point of the legal analysis methodology here is to take a certain body of Law (here, Agency Law) ; review its sections and articles, and extract a "check-list" of legal concepts and functions, that are relevant to AALE/DAOs, and in particular, that are sensitive to a duality whereas AALE/DAOs interact with traditional systems.
+
+##### Step 2- Having done that within the framework of a particular body of Law, that check-list can be used to complement an R4 primary legal analysis, i.e. Roles & Relationships, Rights and Responsibilities.
+
+##### Step 3- You can they move to table/matrix scenarios permutations as follows: allocate functions to roles, and play scenarios from the perspective of each role. In particular, you can permute scenarios whereas none of the parties is an AALE/DAO, followed by more permutations whereas eac h of the party in turn is an AALE/DAO.
+
+##### Matrix details will be upcoming.
+
+#
 
 ## READER
 
@@ -64,7 +89,7 @@ Agency is the fiduciary relationship that arises when one person (a "principal")
 
 **Chris comment:**
 
->_**Definition “manifestation of assent to another person” and “manifestation of assent or otherwise consents so to act” by AALE may have to be refined in the context of manifestations other than oral, written or what is commonly understood ad de facto action by a human that s necessary & sufficient to indicate consent.**_
+>_Definition “manifestation of assent to another person” and “manifestation of assent or otherwise consents so to act” by AALE may have to be refined in the context of manifestations other than oral, written or what is commonly understood ad de facto action by a human that s necessary & sufficient to indicate consent._
 
 #
 
