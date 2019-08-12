@@ -1495,44 +1495,49 @@ To the extent that the non-occurrence of a condition would cause disproportionat
 
 ### § 234. Order of Performances
 
-(1) Where all or part of the performances to be exchanged under an exchange of
-promises can be rendered simultaneously, they are to that extent due simultaneously,
-unless the language or the circumstances indicate the contrary.
-(2) Except to the extent stated in Subsection (1), where the performance of only
-one party under such an exchange requires a period of time, his performance is due
+(1) Where all or part of the performances to be exchanged under an exchange of promises can be rendered simultaneously, they are to that extent due simultaneously, unless the language or the circumstances indicate the contrary.
+
+(2) Except to the extent stated in Subsection (1), where the performance of only one party under such an exchange requires a period of time, his performance is due
 at an earlier time than that of the other party, unless the language or the
 circumstances indicate the contrary. 
+
 Page 33
-§ 235. Effect of Performance as Discharge and of Non-Performance
+
+### § 235. Effect of Performance as Discharge and of Non-Performance
 as Breach
 (1) Full performance of a duty under a contract discharges the duty.
 (2) When performance of a duty under a contract is due any non-performance is
 a breach.
-§ 236. Claims for Damages for Total and for Partial Breach
+
+### § 236. Claims for Damages for Total and for Partial Breach
 (1) A claim for damages for total breach is one for damages based on all of the
 injured party's remaining rights to performance.
 (2) A claim for damages for partial breach is one for damages based on only part
 of the injured party's remaining rights to performance.
-§ 237. Effect on Other Party's Duties of a Failure to Render
+
+### § 237. Effect on Other Party's Duties of a Failure to Render
 Performance
 Except as stated in § 240, it is a condition of each party's remaining duties to
 render performances to be exchanged under an exchange of promises that there be
 no uncured material failure by the other party to render any such performance due at
 an earlier time.
-§ 238. Effect on Other Party's Duties of a Failure to Offer
+
+### § 238. Effect on Other Party's Duties of a Failure to Offer
 Performance
 Where all or part of the performances to be exchanged under an exchange of
 promises are due simultaneously, it is a condition of each party's duties to render
 such performance that the other party either render or, with manifested present ability
 to do so, offer performance of his part of the simultaneous exchange.
-§ 240. Part Performances as Agreed Equivalents
+
+### § 240. Part Performances as Agreed Equivalents
 If the performances to be exchanged under an exchange of promises can be
 apportioned into corresponding pairs of part performances so that the parts of each
 pair are properly regarded as agreed equivalents, a party's performance of his part of
 such a pair has the same effect on the other's duties to render performance of the
 agreed equivalent as it would have if only that pair of performances had been
 promised.
-§ 241. Circumstances Significant in Determining Whether a Failure Is
+
+### § 241. Circumstances Significant in Determining Whether a Failure Is
 Material
 In determining whether a failure to render or to offer performance is material, the
 following circumstances are significant:
@@ -1548,7 +1553,8 @@ cure his failure, taking account of all the circumstances including any
 reasonable assurances;
 (e) the extent to which the behavior of the party failing to perform or to offer
 to perform comports with standards of good faith and fair dealing.
-§ 242. Circumstances Significant in Determining When Remaining
+
+### § 242. Circumstances Significant in Determining When Remaining
 Duties are Discharged
 In determining the time after which a party's uncured material failure to render or
 to offer performance discharges the other party's remaining duties to render
@@ -1562,7 +1568,8 @@ delay, but a material failure to perform or to offer to perform on a stated day
 does not of itself discharge the other party's remaining duties unless the
 circumstances, including the language of the agreement, indicate that
 performance or an offer to perform by that day is important.
-§ 243. Effect of a Breach by Non-Performance as Giving Rise to a
+
+### § 243. Effect of a Breach by Non-Performance as Giving Rise to a
 Claim for Damages for Total Breach
 (1) With respect to performances to be exchanged under an exchange of
 promises, a breach by non-performance gives rise to a claim for damages for total
@@ -1581,15 +1588,18 @@ non-performance gives rise to a claim for total breach only if it so substantial
 the value of the contract to the injured party at the time of the breach that it is just in
 the circumstances to allow him to recover damages based on all his remaining rights
 to performance. 
+
 Page 35
-§ 250. When a Statement or an Act Is a Repudiation
+
+### § 250. When a Statement or an Act Is a Repudiation
 A repudiation is
 (a) a statement by the obligor to the obligee indicating that the obligor will
 commit a breach that would of itself give the obligee a claim for damages for
 total breach under § 243, or
 (b) a voluntary affirmative act which renders the obligor unable or
 apparently unable to perform without such a breach.
-§ 251. When a Failure to Give Assurance May Be Treated as a
+
+### § 251. When a Failure to Give Assurance May Be Treated as a
 Repudiation
 (1) Where reasonable grounds arise to believe that the obligor will commit a
 breach by non-performance that would of itself give the obligee a claim for damages
@@ -1599,7 +1609,8 @@ already received the agreed exchange until he receives such assurance.
 (2) The obligee may treat as a repudiation the obligor's failure to provide within a
 reasonable time such assurance of due performance as is adequate in the
 circumstances of the particular case.
-§ 252. Effect of Insolvency
+
+### § 252. Effect of Insolvency
 (1) Where the obligor's insolvency gives the obligee reasonable grounds to
 believe that the obligor will commit a breach under the rule stated in § 251, the
 obligee may suspend any performance for which he has not already received the
@@ -1608,7 +1619,8 @@ offer of performance, or adequate security.
 (2) A person is insolvent who either has ceased to pay his debts in the ordinary
 course of business or cannot pay his debts as they become due or is insolvent within
 the meaning of the federal bankruptcy law.
-§ 253. Effect of a Repudiation as a Breach and on Other Party's
+
+### § 253. Effect of a Repudiation as a Breach and on Other Party's
 Duties
 (1) Where an obligor repudiates a duty before he has committed a breach by
 non-performance and before he has received all of the agreed exchange for it, his
@@ -1616,7 +1628,8 @@ repudiation alone gives rise to a claim for damages for total breach.
 (2) Where performances are to be exchanged under an exchange of promises,
 one party's repudiation of a duty to render performance discharges the other party's
 remaining duties to render performance.
-§ 256. Nullification of Repudiation or Basis for Repudiation
+
+### § 256. Nullification of Repudiation or Basis for Repudiation
 (1) The effect of a statement as constituting a repudiation under § 250 or the
 basis for a repudiation under § 251 is nullified by a retraction of the statement if
 notification of the retraction comes to the attention of the injured party before he
@@ -1628,36 +1641,46 @@ under § 250 or the basis for a repudiation under § 251 is nullified if, to the
 of the injured party, those events have ceased to exist before he materially changes
 his position in reliance on the repudiation or indicates to the other party that he
 considers the repudiation to be final.
-§ 257. Effect of Urging Performance in Spite of Repudiation
+
+### § 257. Effect of Urging Performance in Spite of Repudiation
 The injured party does not change the effect of a repudiation by urging the
 repudiator to perform in spite of his repudiation or to retract his repudiation.
-CHAPTER 11
-IMPRACTICABILITY OF PERFORMANCE AND
-FRUSTRATION OF PURPOSE
-§ 261. Discharge by Supervening Impracticability
+
+#
+
+## CHAPTER 11
+
+## IMPRACTICABILITY OF PERFORMANCE AND FRUSTRATION OF PURPOSE
+
+### § 261. Discharge by Supervening Impracticability
 Where, after a contract is made, a party's performance is made impracticable
 without his fault by the occurrence of an event the non-occurrence of which was a
 basic assumption on which the contract was made, his duty to render that
 performance is discharged, unless the language or the circumstances indicate the
 contrary.
-§ 262. Death or Incapacity of Person Necessary for Performance
+
+### § 262. Death or Incapacity of Person Necessary for Performance
 If the existence of a particular person is necessary for the performance of a duty,
 his death or such incapacity as makes performance impracticable is an event the
 non-occurrence of which was a basic assumption on which the contract was made.
-§ 263. Destruction, Deterioration or Failure to Come into Existence of
+
+### § 263. Destruction, Deterioration or Failure to Come into Existence of
 Thing Necessary for Performance
 If the existence of a specific thing is necessary for the performance of a duty, its
 failure to come into existence, destruction, or such deterioration as makes
 performance impracticable is an event the non-occurrence of which was a basic
 assumption on which the contract was made.
-§ 265. Discharge by Supervening Frustration
+
+### § 265. Discharge by Supervening Frustration
 Where, after a contract is made, a party's principal purpose is substantially
 frustrated without his fault by the occurrence of an event the non-occurrence of which
 was a basic assumption on which the contract was made, his remaining duties to
 render performance are discharged, unless the language or the circumstances
 indicate the contrary. 
+
 Page 37
-§ 266. Existing Impracticability or Frustration
+
+### § 266. Existing Impracticability or Frustration
 (1) Where, at the time a contract is made, a party's performance under it is
 impracticable without his fault because of a fact of which he has no reason to know
 and the non-existence of which is a basic assumption on which the contract is made,
@@ -1668,16 +1691,22 @@ substantially frustrated without his fault by a fact of which he has no reason t
 and the non-existence of which is a basic assumption on which the contract is made,
 no duty of that party to render performance arises, unless the language or
 circumstances indicate the contrary.
-§ 272. Relief Including Restitution
+
+### § 272. Relief Including Restitution
 (1) In any case governed by the rules stated in this Chapter, either party may
 have a claim for relief including restitution under the rules stated in §§ 240 and 377.
 (2) In any case governed by the rules stated in this Chapter, if those rules
 together with the rules stated in Chapter 16 will not avoid injustice, the court may
 grant relief on such terms as justice requires including protection of the parties'
 reliance interests.
-CHAPTER 12
-DISCHARGE BY ASSENT OR ALTERATION
-§ 281. Accord and Satisfaction
+
+#
+
+## CHAPTER 12
+
+## DISCHARGE BY ASSENT OR ALTERATION
+
+### § 281. Accord and Satisfaction
 (1) An accord is a contract under which an obligee promises to accept a stated
 performance in satisfaction of the obligor's existing duty. Performance of the accord
 discharges the original duty.
@@ -1688,7 +1717,8 @@ enforce either the original duty or any duty under the accord.
 (3) Breach of the accord by the obligee does not discharge the original duty, but
 the obligor may maintain a suit for specific performance of the accord, in addition to
 any claim for damages for partial breach.
-§ 285. Contract Not to Sue
+
+### § 285. Contract Not to Sue
 (1) A contract not to sue is a contract under which the obligee of a duty promises
 never to sue the obligor or a third person to enforce the duty or not to do so for a
 limited time.
@@ -1699,16 +1729,22 @@ Page 38
 (3) A contract not to sue one co-obligor bars levy of execution on the property of
 the promisee during the agreed time but does not bar an action or the recovery of
 judgment against any co-obligor.
-§ 286. Alteration of Writing
+
+### § 286. Alteration of Writing
 (1) If one to whom a duty is owed under a contract alters a writing that is an
 integrated agreement or that satisfies the Statute of Frauds with respect to that
 contract, the duty is discharged if the alteration is fraudulent and material.
 (2) An alteration is material if it would, if effective, vary any party's legal relations
 with the maker of the alteration or adversely affect that party's legal relations with a
 third person. The unauthorized insertion in a blank space in a writing is an alteration.
-CHAPTER 13
-JOINT AND SEVERAL PROMISORS AND PROMISEES
-§ 288. Promises of the Same Performance
+
+#
+
+## CHAPTER 13
+
+## JOINT AND SEVERAL PROMISORS AND PROMISEES
+
+### § 288. Promises of the Same Performance
 (1) Where two or more parties to a contract make a promise or promises to the
 same promisee, the manifested intention of the parties determines whether they
 promise that the same performance or separate performances shall be given.
@@ -1719,7 +1755,8 @@ Full or partial performance or other satisfaction of the contractual duty of a
 promisor discharges the duty to the obligee of each other promisor of the same
 performance to the extent of the amount or value applied to the discharge of the duty
 of the promisor who renders it.
-§ 294. Effect of Discharge on Co-promisors
+
+### § 294. Effect of Discharge on Co-promisors
 (1) Except as stated in § 295, where the obligee of promises of the same
 performance discharges one promisor by release, rescission or accord and
 satisfaction,
@@ -1735,9 +1772,14 @@ Page 39
 discharges the duty of each other promisor of the same performance to the extent of
 the amount or value received. An agreement to the contrary is not effective unless it
 is made with a surety and expressly preserves the duty of his principal.
-CHAPTER 14
-CONTRACT BENEFICIARIES
-§ 302. Intended and Incidental Beneficiaries
+
+#
+
+## CHAPTER 14
+
+## CONTRACT BENEFICIARIES
+
+### § 302. Intended and Incidental Beneficiaries
 (1) Unless otherwise agreed between promisor and promisee, a beneficiary of a
 promise is an intended beneficiary if recognition of a right to performance in the
 beneficiary is appropriate to effectuate the intention of the parties and either
@@ -1746,7 +1788,8 @@ to pay money to the beneficiary; or
 (b) the circumstances indicate that the promisee intends to give the
 beneficiary the benefit of the promised performance.
 (2) An incidental beneficiary is a beneficiary who is not an intended beneficiary.
-§ 309. Defenses Against the Beneficiary
+
+### § 309. Defenses Against the Beneficiary
 (1) A promise creates no duty to a beneficiary unless a contract is formed
 between the promisor and the promisee; and if a contract is voidable or
 unenforceable at the time of its formation the right of any beneficiary is subject to the
@@ -1761,13 +1804,16 @@ promisor's claims or defenses against the promisee or to the promisee's claims o
 defenses against the beneficiary.
 (4) A beneficiary's right against the promisor is subject to any claim or defense
 arising from his own conduct or agreement.
-§ 311. Variation of a Duty to a Beneficiary
+
+### § 311. Variation of a Duty to a Beneficiary
  (1) Discharge or modification of a duty to an intended beneficiary by conduct of
 the promisee or by a subsequent agreement between promisor and promisee is
 ineffective if a term of the promise creating the duty so provides.
  (2) In the absence of such a term, the promisor and promisee retain power to
 discharge or modify the duty by subsequent agreement. 
+
 Page 40
+
 (3) Such a power terminates when the beneficiary, before he receives notification
 of the discharge or modification, materially changes his position in justifiable reliance
 on the promise or brings suit on it or manifests assent to it at the request of the
@@ -1776,7 +1822,8 @@ promisor or promisee.
 modification of the promisor's duty which is ineffective against the beneficiary, the
 beneficiary can assert a right to the consideration so received. The promisor's duty is
 discharged to the extent of the amount received by the beneficiary.
-§ 313. Government Contracts
+
+### § 313. Government Contracts
 (1) The rules stated in this Chapter apply to contracts with a government or
 governmental agency except to the extent that application would contravene the
 policy of the law authorizing the contract or prescribing remedies for its breach.
@@ -1789,9 +1836,14 @@ performance or failure to perform unless
 damages and a direct action against the promisor is consistent with the terms of
 the contract and with the policy of the law authorizing the contract and
 prescribing remedies for its breach.
-CHAPTER 15
-ASSIGNMENT AND DELEGATION
-§ 317. Assignment of a Right
+
+#
+
+## CHAPTER 15
+
+## ASSIGNMENT AND DELEGATION
+
+### § 317. Assignment of a Right
 (1) An assignment of a right is a manifestation of the assignor's intention to
 transfer it by virtue of which the assignor's right to performance by the obligor is
 extinguished in whole or in part and the assignee acquires a right to such
@@ -1805,7 +1857,8 @@ of obtaining return performance, or materially reduce its value to him, or
 grounds of public policy, or
 (c) assignment is validly precluded by contract. 
 Page 41
-§ 318. Delegation of Performance of Duty
+
+### § 318. Delegation of Performance of Duty
 (1) An obligor can properly delegate the performance of his duty to another
 unless the delegation is contrary to public policy or the terms of his promise.
 (2) Unless otherwise agreed, a promise requires performance by a particular
@@ -1814,14 +1867,16 @@ person perform or control the acts promised.
 (3) Unless the obligee agrees otherwise, neither delegation of performance nor a
 contract to assume the duty made with the obligor by the person delegated
 discharges any duty or liability of the delegating obligor.
-§ 319. Delegation of Performance of Condition
+
+### § 319. Delegation of Performance of Condition
 (1) Where a performance by a person is made a condition of a duty, performance
 by a person delegated by him satisfies that requirement unless the delegation is
 contrary to public policy or the terms of the agreement.
 (2) Unless otherwise agreed, an agreement requires performance of a condition
 by a particular person only to the extent that the obligor has a substantial interest in
 having that person perform or control the acts required.
-§ 321. Assignment of Future Rights
+
+### § 321. Assignment of Future Rights
 (1) Except as otherwise provided by statute, an assignment of a right to payment
 expected to arise out of an existing employment or other continuing business
 relationship is effective in the same way as an assignment of an existing right.
@@ -1829,7 +1884,8 @@ relationship is effective in the same way as an assignment of an existing right.
 purported assignment of a right expected to arise under a contract not in existence
 operates only as a promise to assign the right when it arises and as a power to
 enforce it.
-§ 322. Contractual Prohibition of Assignment
+
+### § 322. Contractual Prohibition of Assignment
 (1) Unless the circumstances indicate the contrary, a contract term prohibiting
 assignment of "the contract" bars only the delegation to an assignee of the
 performance by the assignor of a duty or condition.
@@ -1843,8 +1899,10 @@ assignment but does not render the assignment ineffective;
 (c) is for the benefit of the obligor, and does not prevent the assignee from
 acquiring rights against the assignor or the obligor from discharging his duty as
 if there were no such prohibition. 
+
 Page 42
-§ 328. Interpretation of Words of Assignment; Effect of Acceptance
+
+### § 328. Interpretation of Words of Assignment; Effect of Acceptance
 of Assignment
 (1) Unless the language or the circumstances indicate the contrary, as in an
 assignment for security, an assignment of "the contract" or of "all my rights under the
@@ -1857,10 +1915,12 @@ assigned rights is an intended beneficiary of the promise.
 Caveat: The Institute expresses no opinion as to whether the rule stated in
 Subsection (2) applies to an assignment by a purchaser of his rights under a
 contract for the sale of land.
-§ 331. Partially Effective Assignments
+
+### § 331. Partially Effective Assignments
 An assignment may be conditional, revocable, or voidable by the assignor, or
 unenforceable by virtue of a Statute of Frauds.
-§ 332. Revocability of Gratuitous Assignments
+
+### § 332. Revocability of Gratuitous Assignments
 (1) Unless a contrary intention is manifested, a gratuitous assignment is
 irrevocable if
 (a) the assignment is in a writing either signed or under seat that is
@@ -1883,10 +1943,13 @@ induce such action or forbearance.
 (5) An assignment is gratuitous unless it is given or taken
 (a) in exchange for a performance or return promise that would be
 consideration for a promise; or 
+
 Page 43
+
 (b) as security for or in total or partial satisfaction of a pre-existing debt or
 other obligation.
-§ 336. Defenses Against an Assignee
+
+### § 336. Defenses Against an Assignee
 (1) By an assignment the assignee acquires a right against the obligor only to the
 extent that the obligor is under a duty to the assignor; and if the right of the assignor
 would be voidable by the obligor or unenforceable against him if no assignment had
@@ -1903,9 +1966,14 @@ of the assignment.
 (4) An assignee's right against the obligor is subject to any defense or claim
 arising from his conduct or to which he was subject as a party or a prior assignee
 because he had notice.
-CHAPTER 16
-REMEDIES
-§ 344. Purposes of Remedies
+
+#
+
+## CHAPTER 16
+
+## REMEDIES
+
+### § 344. Purposes of Remedies
 Judicial remedies under the rules stated in this Restatement serve to protect one
 or more of the following interests of a promisee:
 (a) his "expectation interest," which is his interest in having the benefit of
@@ -1916,15 +1984,18 @@ caused by reliance on the contract by being put in as good a position as he
 would have been in had the contract not been made, or
 (c) his "restitution interest," which is his interest in having restored to him
 any benefit that he has conferred on the other party.
-§ 346. Availability of Damages
+
+### § 346. Availability of Damages
 (1) The injured party has a right to damages for any breach by a party against
 whom the contract is enforceable unless the claim for damages has been suspended
 or discharged.
 (2) If the breach caused no loss or if the amount of the loss is not proved under
 the rules stated in this Chapter, a small sum fixed without regard to the amount of
 loss will be awarded as nominal damages. 
+
 Page 44
-§ 347. Measure of Damages in General
+
+### § 347. Measure of Damages in General
 Subject to the limitations stated in §§ 350-53, the injured party has a right to
 damages based on his expectation interest as measured by
 (a) the loss in the value to him of the other party's performance caused by
@@ -1932,7 +2003,8 @@ its failure or deficiency, plus
 (b) any other loss, including incidental or consequential loss, caused by the
 breach, less
 (c) any cost or other loss that he has avoided by not having to perform.
-§ 348. Alternatives to Loss in Value of Performance
+
+### § 348. Alternatives to Loss in Value of Performance
 (1) If a breach delays the use of property and the loss in value to the injured party
 is not proved with reasonable certainty, he may recover damages based on the rental
 value of the property or on interest on the value of the property.
@@ -1948,22 +2020,27 @@ him.
 whether the event would have occurred had there been no breach, the injured party
 may recover damages based on the value of the conditional right at the time of
 breach.
-§ 349. Damages Based on Reliance Interest
+
+### § 349. Damages Based on Reliance Interest
 As an alternative to the measure of damages stated in § 347, the injured party
 has a right to damages based on his reliance interest, including expenditures made in
 preparation for performance or in performance, less any loss that the party in breach
 can prove with reasonable certainty the injured party would have suffered had the
 contract been performed.
-§ 350. Avoidability as a Limitation on Damages
+
+### § 350. Avoidability as a Limitation on Damages
 (1) Except as stated in Subsection (2), damages are not recoverable for loss that
 the injured party could have avoided without undue risk, burden or humiliation.
 (2) The injured party is not precluded from recovery by the rule stated in
 Subsection (1) to the extent that he has made reasonable but unsuccessful efforts to
 avoid loss.
-§ 351. Unforeseeability and Related Limitations on Damages
+
+### § 351. Unforeseeability and Related Limitations on Damages
 (1) Damages are not recoverable for loss that the party in breach did not have
 reason to foresee as a probable result of the breach when the contract was made. 
+
 Page 45
+
 (2) Loss may be foreseeable as a probable result of a breach because it follows
 from the breach
 (a) in the ordinary course of events, or
@@ -1973,14 +2050,17 @@ events, that the party in breach had reason to know.
 of profits, by allowing recovery only for loss incurred in reliance, or otherwise if it
 concludes that in the circumstances justice so requires in order to avoid
 disproportionate compensation.
-§ 352. Uncertainty as a Limitation on Damages
+
+### § 352. Uncertainty as a Limitation on Damages
 Damages are not recoverable for loss beyond an amount that the evidence
 permits to be established with reasonable certainty.
-§ 353. Loss Due to Emotional Disturbance
+
+### § 353. Loss Due to Emotional Disturbance
 Recovery for emotional disturbance will be excluded unless the breach also
 caused bodily harm or the contract or the breach is of such a kind that serious
 emotional disturbance was a particularly likely result.
-§ 354. Interest as Damages
+
+### § 354. Interest as Damages
 (1) If the breach consists of a failure to pay a definite sum in money or to render
 a performance with fixed or ascertainable monetary value, interest is recoverable
 from the time for performance on the amount due less all deductions to which the
@@ -1988,11 +2068,13 @@ party in breach is entitled.
 (2) In any other case, such interest may be allowed as justice requires on the
 amount that would have been just compensation had it been paid when performance
 was due.
-§ 355. Punitive Damages
+
+### § 355. Punitive Damages
 Punitive damages are not recoverable for a breach of contract unless the
 conduct constituting the breach is also a tort for which punitive damages are
 recoverable.
-§ 356. Liquidated Damages and Penalties
+
+### § 356. Liquidated Damages and Penalties
 (1) Damages for breach by either party may be liquidated in the agreement but
 only at an amount that is reasonable in the light of the anticipated or actual loss
 caused by the breach and the difficulties of proof of loss. A term fixing unreasonably
@@ -2000,8 +2082,10 @@ large liquidated damages is unenforceable on grounds of public policy as a penal
 (2) A term in a bond providing for an amount of money as a penalty for
 nonoccurrence of the condition of the bond is unenforceable on grounds of public
 policy to the extent that the amount exceeds the loss caused by such nonoccurrence. 
+
 Page 46
-§ 359. Effect of Adequacy of Damages
+
+### § 359. Effect of Adequacy of Damages
 (1) Specific performance or an injunction will not be ordered if damages would be
 adequate to protect the expectation interest of the injured party.
 (2) The adequacy of the damage remedy for failure to render one part of the
@@ -2010,18 +2094,21 @@ contract as a whole.
 (3) Specific performance or an injunction will not be refused merely because
 there, is a remedy for breach other than damages, but such a remedy may be
 considered in exercising discretion under the rule stated in § 357.
-§ 360. Factors Affecting Adequacy of Damages
+
+### § 360. Factors Affecting Adequacy of Damages
 In determining whether the remedy in damages would be adequate, the following
 circumstances are significant:
 (a) the difficulty of proving damages with reasonable certainty,
 (b) the difficulty of procuring a suitable substitute performance by means of
 money awarded as damages, and
 (c) the likelihood that an award of damages could not be collected.
-§ 370. Requirement That Benefit Be Conferred
+
+### § 370. Requirement That Benefit Be Conferred
 A party is entitled to restitution under the rules stated in this Restatement only to
 the extent that he has conferred a benefit on the other party by way of part
 performance or reliance.
-§ 371. Measure of Restitution Interest
+
+### § 371. Measure of Restitution Interest
 If a sum of money is awarded to protect a party's restitution interest, it may as
 justice requires be measured by either
 (a) the reasonable value to the other party of what he received in terms of
@@ -2029,7 +2116,8 @@ what it would have cost him to obtain it from a person in the claimant's positio
 or
 (b) the extent to which the other party's property has been increased in
 value or his other interests advanced.
-§ 373. Restitution When Other Party Is in Breach
+
+### § 373. Restitution When Other Party Is in Breach
 (1) Subject to the rule stated in Subsection (2), on a breach by non-performance
 that gives rise to a claim for damages for total breach or on a repudiation, the injured
 party is entitled to restitution for any benefit that he has conferred on the other party
@@ -2037,8 +2125,10 @@ by way of part performance or reliance.
 (2) The injured party has no right to restitution if he has performed all of his
 duties under the contract and no performance by the other party remains due other
 than payment of a definite sum of money for that performance. 
+
 Page 47
-§ 374. Restitution in Favor of Party in Breach
+
+### § 374. Restitution in Favor of Party in Breach
 (1) Subject to the rule stated in Subsection (2), if a party justifiably refuses to
 perform on the ground that his remaining duties of performance have been
 discharged by the other party's breach, the party in breach is entitled to restitution for
@@ -2049,18 +2139,23 @@ performance is to be retained in the case of breach, that party is not entitled 
 restitution if the value of the performance as liquidated damages is reasonable in the
 light of the anticipated or actual loss caused by the breach and the difficulties of proof
 of loss.
-§ 375. Restitution When Contract Is Within Statute of Frauds
+
+### § 375. Restitution When Contract Is Within Statute of Frauds
 A party who would otherwise have a claim in restitution under a contract is not
 barred from restitution for the reason that the contract is unenforceable by him
 because of the Statute of Frauds unless the Statute provides otherwise or its purpose
 would be frustrated by allowing restitution.
-§ 376. Restitution When Contract Is Voidable
+
+### § 376. Restitution When Contract Is Voidable
 A party who has avoided a contract on the ground of lack of capacity, mistake,
 misrepresentation, duress, undue influence or abuse of a fiduciary relation is entitled
 to restitution for any benefit that he has conferred on the other party by way of part
 performance or reliance.
-§ 377. Restitution in Cases of Impracticability, Frustration, NonOccurrence of Condition or Disclaimer by Beneficiary
+
+### § 377. Restitution in Cases of Impracticability, Frustration, NonOccurrence of Condition or Disclaimer by Beneficiary
 A party whose duty of performance does not arise or is discharged as a result of
 impracticability of performance, frustration of purpose, non-occurrence of a condition
 or disclaimer by a beneficiary is entitled to restitution for any benefit that he has
 conferred on the other party by way of part performance or reliance. 
+
+**End of Restatement (2nd) of Contract Law**
