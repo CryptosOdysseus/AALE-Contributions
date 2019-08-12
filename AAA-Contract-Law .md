@@ -1104,170 +1104,193 @@ Page 23
 
 ### § 162. When a Misrepresentation Is Fraudulent or Material
 
-(1) A misrepresentation is fraudulent if the maker intends his assertion to induce
-a party to manifest his assent and the maker
+(1) A misrepresentation is fraudulent if the maker intends his assertion to induce a party to manifest his assent and the maker
+
 (a) knows or believes that the assertion is not in accord with the facts, or
-(b) does not have the confidence that he states or implies in the truth of the
-assertion, or
-(c) knows that he does not have the basis that he states or implies for the
-assertion.
-(2) A misrepresentation is material if it would be likely to induce a reasonable
-person to manifest his assent, or if the maker knows that it would be likely to induce
-the recipient to do so.
-§ 164. When a Misrepresentation Makes a Contract Voidable
-(1) If a party's manifestation of assent is induced by either a fraudulent or a
-material misrepresentation by the other party upon which the recipient is justified in
-relying, the contract is voidable by the recipient.
-(2) If a party's manifestation of assent is induced by either a fraudulent or a
-material misrepresentation by one who is not a party to the transaction upon which
-the recipient is justified in relying, the contract is voidable by the recipient, unless the
-other party to the transaction in good faith and without reason to know of the
-misrepresentation either gives value or relies materially on the transaction.
-§ 167. When a Misrepresentation Is an Inducing Cause
-A misrepresentation induces a party's manifestation of assent if it substantially
-contributes to his decision to manifest his assent.
-§ 168. Reliance on Assertions of Opinion
-(1) An assertion is one of opinion if it expresses only a belief, without certainty,
-as to the existence of a fact or expresses only a judgment as to quality, value,
-authenticity, or similar matters.
-(2) If it is reasonable to do so, the recipient of an assertion of a person's opinion
-as to facts not disclosed and not otherwise known to the recipient may properly
-interpret it as an assertion
-(a) that the facts known to that person are not incompatible with his
-opinion, or
+
+(b) does not have the confidence that he states or implies in the truth of the assertion, or
+
+(c) knows that he does not have the basis that he states or implies for the assertion.
+
+(2) A misrepresentation is material if it would be likely to induce a reasonable person to manifest his assent, or if the maker knows that it would be likely to induce the recipient to do so.
+
+### § 164. When a Misrepresentation Makes a Contract Voidable
+
+(1) If a party's manifestation of assent is induced by either a fraudulent or a material misrepresentation by the other party upon which the recipient is justified in relying, the contract is voidable by the recipient.
+
+(2) If a party's manifestation of assent is induced by either a fraudulent or a material misrepresentation by one who is not a party to the transaction upon which the recipient is justified in relying, the contract is voidable by the recipient, unless the other party to the transaction in good faith and without reason to know of the misrepresentation either gives value or relies materially on the transaction.
+
+### § 167. When a Misrepresentation Is an Inducing Cause
+
+A misrepresentation induces a party's manifestation of assent if it substantially contributes to his decision to manifest his assent.
+
+### § 168. Reliance on Assertions of Opinion
+
+(1) An assertion is one of opinion if it expresses only a belief, without certainty, as to the existence of a fact or expresses only a judgment as to quality, value, authenticity, or similar matters.
+
+(2) If it is reasonable to do so, the recipient of an assertion of a person's opinion as to facts not disclosed and not otherwise known to the recipient may properly interpret it as an assertion
+
+(a) that the facts known to that person are not incompatible with his opinion, or
+
 (b) that he knows facts sufficient to justify him in forming it.
-§ 169. When Reliance on an Assertion of Opinion Is Not justified
-To the extent that an assertion is one of opinion only, the recipient is not justified
-in relying on it unless the recipient
-(a) stands in such a relation of trust and confidence to the person whose
-opinion is asserted that the recipient is reasonable in relying on it, or 
+
+### § 169. When Reliance on an Assertion of Opinion Is Not justified
+
+To the extent that an assertion is one of opinion only, the recipient is not justified in relying on it unless the recipient
+
+(a) stands in such a relation of trust and confidence to the person whose opinion is asserted that the recipient is reasonable in relying on it, or 
+
 Page 24
-(b) reasonably believes that, as compared with himself, the person whose
-opinion is asserted has special skill, judgment or objectivity with respect to the
-subject matter, or
+
+(b) reasonably believes that, as compared with himself, the person whose opinion is asserted has special skill, judgment or objectivity with respect to the subject matter, or
+
 (c) is for some other special reason particularly susceptible to a
 misrepresentation of the type involved
-§ 174. When Duress by Physical Compulsion Prevents Formation of
-a Contract
-If conduct that appears to be a manifestation of assent by a party who does not
-intend to engage in that conduct is physically compelled by duress, the conduct is not
-effective as a manifestation of assent.
-§ 175. When Duress by Threat Makes a Contract Voidable
-(1) If a party's manifestation of assent is induced by an improper threat by the
-other party that leaves the victim no reasonable alternative, the contract is voidable
-by the victim.
-(2) If a party's manifestation of assent is induced by one who is not a party to the
-transaction, the contract is voidable by the victim unless the other party to the
-transaction in good faith and without reason to know of the duress either gives value
-or relies materially on the transaction.
-§ 176. When a Threat Is Improper
+
+### § 174. When Duress by Physical Compulsion Prevents Formation of a Contract
+
+If conduct that appears to be a manifestation of assent by a party who does not intend to engage in that conduct is physically compelled by duress, the conduct is not effective as a manifestation of assent.
+
+### § 175. When Duress by Threat Makes a Contract Voidable
+
+(1) If a party's manifestation of assent is induced by an improper threat by the other party that leaves the victim no reasonable alternative, the contract is voidable by the victim.
+
+(2) If a party's manifestation of assent is induced by one who is not a party to the transaction, the contract is voidable by the victim unless the other party to the transaction in good faith and without reason to know of the duress either gives value or relies materially on the transaction.
+
+### § 176. When a Threat Is Improper
+
 (1) A threat is improper if
-(a) what is threatened is a crime or a tort, or the threat itself would be a
-crime or a tort if it resulted in obtaining property,
+
+(a) what is threatened is a crime or a tort, or the threat itself would be a crime or a tort if it resulted in obtaining property,
+
 (b) what is threatened is a criminal prosecution,
-(c) what is threatened is the use of civil process and the threat is made in
-bad faith, or
-(d) the threat is a breach of the duty of good faith and fair dealing under a
-contract with the recipient.
+
+(c) what is threatened is the use of civil process and the threat is made in bad faith, or
+
+(d) the threat is a breach of the duty of good faith and fair dealing under a contract with the recipient.
+
 (2) A threat is improper if the resulting exchange is not on fair terms, and
-(a) the threatened act would harm the recipient and would not significantly
-benefit the party making the threat,
-(b) the effectiveness of the threat in inducing the manifestation of assent is
-significantly increased by prior unfair dealing by the party making the threat, or
+
+(a) the threatened act would harm the recipient and would not significantly benefit the party making the threat,
+
+(b) the effectiveness of the threat in inducing the manifestation of assent is significantly increased by prior unfair dealing by the party making the threat, or
+
 (c) what is threatened is otherwise a use of power for illegitimate ends.
-§ 177. When Undue Influence Makes a Contract Voidable
-(1) Undue influence is unfair persuasion of a party who is under the domination
-of the person exercising the persuasion or who by virtue of the relation between them
-is justified in assuming that that person will not act in a manner inconsistent with his
-welfare. 
+
+### § 177. When Undue Influence Makes a Contract Voidable
+
+(1) Undue influence is unfair persuasion of a party who is under the domination of the person exercising the persuasion or who by virtue of the relation between them is justified in assuming that that person will not act in a manner inconsistent with his welfare. 
+
 Page 25
-(2) If a party's manifestation of assent is induced by undue influence by the other
-party, the contract is voidable by the victim.
-(3) If a party's manifestation of assent is induced by one who is not a party to the
-transaction, the contract is voidable by the victim unless the other party to the
-transaction in good faith and without reason to know of the undue influence either
+
+(2) If a party's manifestation of assent is induced by undue influence by the other party, the contract is voidable by the victim.
+
+(3) If a party's manifestation of assent is induced by one who is not a party to the transaction, the contract is voidable by the victim unless the other party to the transaction in good faith and without reason to know of the undue influence either
 gives value or relies materially on the transaction.
-CHAPTER 8
-UNENFORCEABILITY ON GROUNDS OF PUBLIC POLICY
-§ 178. When a Term Is Unenforceable on Grounds of Public Policy
-(1) A promise or other term of an agreement is unenforceable on grounds of
-public policy if legislation provides that it is unenforceable or the interest in its
-enforcement is clearly outweighed in the circumstances by a public policy against the
+
+#
+
+## CHAPTER 8
+
+## UNENFORCEABILITY ON GROUNDS OF PUBLIC POLICY
+
+### § 178. When a Term Is Unenforceable on Grounds of Public Policy
+
+(1) A promise or other term of an agreement is unenforceable on grounds of public policy if legislation provides that it is unenforceable or the interest in its enforcement is clearly outweighed in the circumstances by a public policy against the
 enforcement of such terms.
+
 (2) In weighing the interest in the enforcement of a term, account is taken of
+
 (a) the parties' justified expectations,
+
 (b) any forfeiture that would result if enforcement were denied, and
+
 (c) any special public interest in the enforcement of the particular term.
-(3) In weighing a public policy against enforcement of a term, account is
-taken of
-(a) the strength of that policy is manifested by legislation or judicial
-decisions
+
+(3) In weighing a public policy against enforcement of a term, account is taken of
+
+(a) the strength of that policy is manifested by legislation or judicial decisions
+
 (b) the likelihood that a refusal to enforce the term will further that policy,
-(c) the seriousness of any misconduct involved and the extent to which it
-was deliberate, and
+
+(c) the seriousness of any misconduct involved and the extent to which it was deliberate, and
+
 (d) the directness of the connection between that misconduct and the term.
-§ 181. Effect of Failure to Comply with Licensing or Similar
-Requirement
-If a party is prohibited from doing an act because of his failure to comply with a
-licensing, registration or similar requirement, a promise in consideration of his doing
-that act or of his promise to do it is unenforceable on grounds of public policy if
+
+### § 181. Effect of Failure to Comply with Licensing or Similar Requirement
+
+If a party is prohibited from doing an act because of his failure to comply with a licensing, registration or similar requirement, a promise in consideration of his doing that act or of his promise to do it is unenforceable on grounds of public policy if
+
 (a) the requirement has a regulatory purpose, and
-(b) the interest in the enforcement of the promise is clearly outweighed by
-the public policy behind the requirement. 
+
+(b) the interest in the enforcement of the promise is clearly outweighed by the public policy behind the requirement. 
+
 Page 26
-§ 182. Effect of Performance if Intended Use Is Improper
-If the promisee has substantially performed, enforcement of a promise is not
-precluded on grounds of public policy because of some improper use that the
-promisor intends to make of what he obtains unless the promisee
+
+### § 182. Effect of Performance if Intended Use Is Improper
+
+If the promisee has substantially performed, enforcement of a promise is not precluded on grounds of public policy because of some improper use that the promisor intends to make of what he obtains unless the promisee
+
 (a) acted for the purpose of furthering the improper use, or
+
 (b) knew of the use and the use involves grave social harm.
-§ 187. Non-Ancillary Restraints on Competition
-A promise to refrain from competition that imposes a restraint that is not ancillary
-to an otherwise valid transaction or relationship is unreasonably in restraint of trade.
-§ 188. Ancillary Restraints on Competition
-(1) A promise to refrain from competition that imposes a restraint that is ancillary
-to an otherwise valid transaction or relationship is unreasonably in restraint of trade if
-(a) the restraint is greater than is needed to protect the promisee's
-legitimate interest, or
-(b) the promisee's need is outweighed by the hardship to the promisor and
-the likely injury to the public.
-(2) Promises imposing restraints that are ancillary to a valid transaction or
-relationship include the following:
-(a) a promise by the seller of a business not to compete with the buyer in
-such a way as to injure the value of the business sold;
-(b) a promise by an employee or other agent not to compete with his
-employer or other principal;
+
+### § 187. Non-Ancillary Restraints on Competition
+
+A promise to refrain from competition that imposes a restraint that is not ancillary to an otherwise valid transaction or relationship is unreasonably in restraint of trade.
+
+### § 188. Ancillary Restraints on Competition
+
+(1) A promise to refrain from competition that imposes a restraint that is ancillary to an otherwise valid transaction or relationship is unreasonably in restraint of trade if
+
+(a) the restraint is greater than is needed to protect the promisee's legitimate interest, or
+
+(b) the promisee's need is outweighed by the hardship to the promisor and the likely injury to the public.
+
+(2) Promises imposing restraints that are ancillary to a valid transaction or relationship include the following:
+
+(a) a promise by the seller of a business not to compete with the buyer in such a way as to injure the value of the business sold;
+
+(b) a promise by an employee or other agent not to compete with his employer or other principal;
+
 (c) a promise by a partner not to compete with the partnership.
-§ 194. Promise Interfering with Contract with Another
-A promise that tortiously interferes with performance of a contract with a third
-person or a tortiously induced promise to commit a breach of contract is
-unenforceable on grounds of public policy.
-§ 195. Term Exempting from Liability for Harm Caused Intentionally,
-Recklessly or Negligently
-(1) A term exempting a party from tort liability for harm caused intentionally or
-recklessly is unenforceable on grounds of public policy.
-(2) A term exempting a party from tort liability for harm caused negligently is
-unenforceable on grounds of public policy if
-(a) the term exempts an employer from liability to an employee for injury in
-the course of his employment;
-(b) the term exempts one charged with a duty of public service from liability
-to one to whom that duty is owed for compensation for breach of that duty, or 
+
+### § 194. Promise Interfering with Contract with Another
+
+A promise that tortiously interferes with performance of a contract with a third person or a tortiously induced promise to commit a breach of contract is unenforceable on grounds of public policy.
+
+### § 195. Term Exempting from Liability for Harm Caused Intentionally, Recklessly or Negligently
+
+(1) A term exempting a party from tort liability for harm caused intentionally or recklessly is unenforceable on grounds of public policy.
+
+(2) A term exempting a party from tort liability for harm caused negligently is unenforceable on grounds of public policy if
+
+(a) the term exempts an employer from liability to an employee for injury in the course of his employment;
+
+(b) the term exempts one charged with a duty of public service from liability to one to whom that duty is owed for compensation for breach of that duty, or 
+
 Page 27
-(c) the other party is similarly a member of a class protected against the
-class to which the first party belongs.
-(3) A term exempting a seller of a product from his special tort liability for physical
-harm to a user or consumer is unenforceable on grounds of public policy unless the
-term is fairly bargained for and is consistent with the policy underlying that liability.
-§ 198. Restitution in Favor of Party who Is Excusably Ignorant or Is
-Not Equally in the Wrong
-A party has a claim in restitution for performance that he has rendered under or
-in return for a promise that is unenforceable on grounds of public policy if
-(a) he was excusably ignorant of the facts or of legislation of a minor
-character, in the absence of which the promise would be enforceable, or
+
+(c) the other party is similarly a member of a class protected against the class to which the first party belongs.
+
+(3) A term exempting a seller of a product from his special tort liability for physical harm to a user or consumer is unenforceable on grounds of public policy unless the term is fairly bargained for and is consistent with the policy underlying that liability.
+
+### § 198. Restitution in Favor of Party who Is Excusably Ignorant or Is Not Equally in the Wrong
+
+A party has a claim in restitution for performance that he has rendered under or in return for a promise that is unenforceable on grounds of public policy if
+
+(a) he was excusably ignorant of the facts or of legislation of a minor character, in the absence of which the promise would be enforceable, or
+
 (b) he was not equally in the wrong with the promisor.
-CHAPTER 9
-THE SCOPE OF CONTRACTUAL OBLIGATIONS
-§ 201. Whose Meaning Prevails
+
+#
+
+## CHAPTER 9
+
+## THE SCOPE OF CONTRACTUAL OBLIGATIONS
+
+### § 201. Whose Meaning Prevails
+
 (1) Where the parties have attached the same meaning to a promise or
 agreement or a term thereof, it is interpreted in accordance with that meaning.
 (2) Where the parties have attached different meanings to a promise or
@@ -1469,10 +1492,15 @@ reasonable person in the position of the obligor would be satisfied.
 To the extent that the non-occurrence of a condition would cause
 disproportionate forfeiture, a court may excuse the non-occurrence of that condition
 unless its occurrence was a material part of the agreed exchange.
-CHAPTER 10 
 
-PERFORMANCE AND NON-PERFORMANCE
-§ 234. Order of Performances
+#
+
+## CHAPTER 10 
+
+## PERFORMANCE AND NON-PERFORMANCE
+
+### § 234. Order of Performances
+
 (1) Where all or part of the performances to be exchanged under an exchange of
 promises can be rendered simultaneously, they are to that extent due simultaneously,
 unless the language or the circumstances indicate the contrary.
