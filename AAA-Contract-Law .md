@@ -130,57 +130,93 @@ Page 2
 
 ## FORMATION OF CONTRACTS–CONSIDERATION
 
-###§ 71. Requirement of Exchange; Types of Exchange
-###§ 73. Performance of Legal Duty
-###§ 74. Settlement of Claims
-###§ 77. Illusory and Alternative Promises
-###§ 79. Adequacy of Consideration; Mutuality of Obligation
-###§ 81. Consideration as Motive or Inducing Cause
-###§ 82. Promise to Pay Indebtedness; Effect on the Statute of Limitations
-###§ 83. Promise to Pay Indebtedness Discharged in Bankruptcy 
+### § 71. Requirement of Exchange; Types of Exchange
+
+### § 73. Performance of Legal Duty
+
+### § 74. Settlement of Claims
+
+### § 77. Illusory and Alternative Promises
+
+### § 79. Adequacy of Consideration; Mutuality of Obligation
+
+### § 81. Consideration as Motive or Inducing Cause
+
+### § 82. Promise to Pay Indebtedness; Effect on the Statute of Limitations
+
+### § 83. Promise to Pay Indebtedness Discharged in Bankruptcy 
+
 Page 3
-###§ 84. Promise to Perform a Duty in Spite of Non-occurrence of a Condition
-###§ 86. Promise for Benefit Received
-###§ 87. Option Contract
-###§ 89. Modification of Executory Contract
-###§ 90. Promise Reasonably Inducing Action or Forbearance
-###§ 90. Promise Reasonably Inducing Definite and Substantial Action (Restatement
-First)
-###§ 95. Requirements for Sealed Contract or Written Contract or Instrument
+
+### § 84. Promise to Perform a Duty in Spite of Non-occurrence of a Condition
+
+### § 86. Promise for Benefit Received
+
+### § 87. Option Contract
+
+### § 89. Modification of Executory Contract
+
+### § 90. Promise Reasonably Inducing Action or Forbearance
+
+### § 90. Promise Reasonably Inducing Definite and Substantial Action (Restatement First)
+
+### § 95. Requirements for Sealed Contract or Written Contract or Instrument
+
+#
 
 ## CHAPTER 5
 
 ## THE STATUTE OF FRAUDS
 
-###§ 131. General Requisites of a Memorandum
-###§ 132. Several Writings
-###§ 139. Enforcement by Virtue of Action in Reliance
+### § 131. General Requisites of a Memorandum
+### § 132. Several Writings
+### § 139. Enforcement by Virtue of Action in Reliance
+
+#
 
 ## CHAPTER 6
 
 ## MISTAKE
 
-###§ 151. Mistake Defined
-###§ 152. When Mistake of Both Parties Makes a Contract Voidable
-###§ 153. When Mistake of One Party Makes a Contract Voidable
-###§ 154. When a Party Bears the Risk of a Mistake
-###§ 155. When Mistake of Both Parties as to Written Expression justifies Reformation
-###§ 157. Effect of Fault of Party Seeking Relief
-###§ 158. Relief Including Restitution
+### § 151. Mistake Defined
+
+### § 152. When Mistake of Both Parties Makes a Contract Voidable
+
+### § 153. When Mistake of One Party Makes a Contract Voidable
+
+### § 154. When a Party Bears the Risk of a Mistake
+
+### § 155. When Mistake of Both Parties as to Written Expression justifies Reformation
+
+### § 157. Effect of Fault of Party Seeking Relief
+
+### § 158. Relief Including Restitution
+
+#
 
 ## CHAPTER 7
 
 ## MISREPRESENTATION, DURESS AND UNDUE INFLUENCE
 
-§ 161. When Non-Disclosure Is Equivalent to an Assertion
-§ 162. When a Misrepresentation Is Fraudulent or Material
-§ 164. When a Misrepresentation Makes a Contract Voidable
-§ 167. When a Misrepresentation Is an Inducing Cause
-§ 169. When Reliance on an Assertion of Opinion Is Not justified
-§ 174. When Duress by Physical Compulsion Prevents Formation of a Contract
-§ 175. When Duress by Threat Makes a Contract Voidable
-§ 176. When a Threat Is Improper
-§ 177. When Undue Influence Makes a Contract Voidable
+### § 161. When Non-Disclosure Is Equivalent to an Assertion
+
+### § 162. When a Misrepresentation Is Fraudulent or Material
+
+### § 164. When a Misrepresentation Makes a Contract Voidable
+
+### § 167. When a Misrepresentation Is an Inducing Cause
+
+### § 169. When Reliance on an Assertion of Opinion Is Not justified
+
+### § 174. When Duress by Physical Compulsion Prevents Formation of a Contract
+
+### § 175. When Duress by Threat Makes a Contract Voidable
+
+### § 176. When a Threat Is Improper
+
+### § 177. When Undue Influence Makes a Contract Voidable
+
+#
 
 ## CHAPTER 8
 
@@ -188,91 +224,147 @@ First)
 
 Page 4
 
-§ 178. When a Term Is Unenforceable on Grounds of Public Policy
-§ 181. Effect of Failure to Comply with Licensing or Similar Requirement
-§ 182. Effect of Performance if Intended Use Is Improper
-§ 187. Non-Ancillary Restraints on Competition
-§ 188. Ancillary Restraints on Competition
-§ 194. Promise Interfering with Contract with Another
-§ 195. Term Exempting from Liability for Harm Caused Intentionally, Recklessly or
-Negligently
-§ 198. Restitution in Favor of Party who Is Excusably Ignorant or Is Not Equally in
-the Wrong
+### § 178. When a Term Is Unenforceable on Grounds of Public Policy
+
+### § 181. Effect of Failure to Comply with Licensing or Similar Requirement
+
+### § 182. Effect of Performance if Intended Use Is Improper
+
+### § 187. Non-Ancillary Restraints on Competition
+
+### § 188. Ancillary Restraints on Competition
+
+### § 194. Promise Interfering with Contract with Another
+
+### § 195. Term Exempting from Liability for Harm Caused Intentionally, Recklessly or Negligently
+
+### § 198. Restitution in Favor of Party who Is Excusably Ignorant or Is Not Equally in the Wrong
+
+#
 
 ## CHAPTER 9
 
 ## THE SCOPE OF CONTRACTUAL OBLIGATIONS
 
-§ 201. Whose Meaning Prevails
-§ 202. Rules in Aid of Interpretation
-§ 203. Standards of Preference in Interpretation
-§ 204. Supplying an Omitted Essential Term
-§ 205. Duty of Good Faith and Fair Dealing
-§ 206. Interpretation Against the Draftsman
-§ 208. Unconscionable Contract or Term
-§ 209. Integrated Agreements
-§ 210. Completely and Partially Integrated Agreements
-§ 211. Standardized Agreements
-§ 213. Effect of Integrated Agreement on Prior Agreements (Parol Evidence Rule)
-§ 214. Evidence of Prior or Contemporaneous Agreements and Negotiations
-§ 215. Contradiction of Integrated Terms
-§ 216. Consistent Additional Terms
-§ 217. Integrated Agreement Subject to Oral Requirement of a Condition
-§ 220. Usage Relevant to Interpretation
-§ 221. Usage Supplementing an Agreement
-§ 222. Usage of Trade
-§ 223. Course of Dealing
-§ 224. Condition Defined
-§ 225. Effects of the Non-Occurrence of a Condition
-§ 226. How an Event May Be Made a Condition
-§ 227. Standards of Preference with Regard to Conditions 
+### § 201. Whose Meaning Prevails
+
+### § 202. Rules in Aid of Interpretation
+
+### § 203. Standards of Preference in Interpretation
+
+### § 204. Supplying an Omitted Essential Term
+
+### § 205. Duty of Good Faith and Fair Dealing
+
+### § 206. Interpretation Against the Draftsman
+
+### § 208. Unconscionable Contract or Term
+
+### § 209. Integrated Agreements
+
+### § 210. Completely and Partially Integrated Agreements
+
+### § 211. Standardized Agreements
+
+### § 213. Effect of Integrated Agreement on Prior Agreements (Parol Evidence Rule)
+
+### § 214. Evidence of Prior or Contemporaneous Agreements and Negotiations
+
+### § 215. Contradiction of Integrated Terms
+
+### § 216. Consistent Additional Terms
+
+### § 217. Integrated Agreement Subject to Oral Requirement of a Condition
+
+### § 220. Usage Relevant to Interpretation
+
+### § 221. Usage Supplementing an Agreement
+
+### § 222. Usage of Trade
+
+### § 223. Course of Dealing
+
+### § 224. Condition Defined
+
+### § 225. Effects of the Non-Occurrence of a Condition
+
+### § 226. How an Event May Be Made a Condition
+
+### § 227. Standards of Preference with Regard to Conditions 
 
 Page 5
 
-§ 228. Satisfaction of the Obligor as a Condition
-§ 229. Excuse of a Condition to Avoid Forfeiture
+### § 228. Satisfaction of the Obligor as a Condition
+
+### § 229. Excuse of a Condition to Avoid Forfeiture
+
+#
 
 ## CHAPTER 10
 
 ## PERFORMANCE AND NON-PERFORMANCE
 
-§ 234. Order of Performances
-§ 235. Effect of Performance as Discharge and of Non-Performance as Breach
-§ 236. Claims for Damages for Total and for Partial Breach
-§ 237. Effect on Other Party's Duties of a Failure to Render Performance
-§ 238. Effect on Other Party's Duties of a Failure to Offer Performance
-§ 240. Part Performances as Agreed Equivalents
-§ 241. Circumstances Significant in Determining Whether a Failure Is Material
-§ 242. Circumstances Significant in Determining When Remaining Duties are
-Discharged
-§ 243. Effect of a Breach by Non-Performance as Giving Rise to a Claim for
-Damages for Total Breach
-§ 250. When a Statement or an Act Is a Repudiation
-§ 251. When a Failure to Give Assurance May Be Treated as a Repudiation
-§ 252. Effect of Insolvency
-§ 253. Effect of a Repudiation as a Breach and on Other Party's Duties
-§ 256. Nullification of Repudiation or Basis for Repudiation
-§ 257. Effect of Urging Performance in Spite of Repudiation
+### § 234. Order of Performances
+
+### § 235. Effect of Performance as Discharge and of Non-Performance as Breach
+
+### § 236. Claims for Damages for Total and for Partial Breach
+
+### § 237. Effect on Other Party's Duties of a Failure to Render Performance
+
+### § 238. Effect on Other Party's Duties of a Failure to Offer Performance
+
+### § 240. Part Performances as Agreed Equivalents
+
+### § 241. Circumstances Significant in Determining Whether a Failure Is Material
+
+### § 242. Circumstances Significant in Determining When Remaining Duties are Discharged
+
+### § 243. Effect of a Breach by Non-Performance as Giving Rise to a Claim for Damages for Total Breach
+
+### § 250. When a Statement or an Act Is a Repudiation
+
+### § 251. When a Failure to Give Assurance May Be Treated as a Repudiation
+
+### § 252. Effect of Insolvency
+
+### § 253. Effect of a Repudiation as a Breach and on Other Party's Duties
+
+### § 256. Nullification of Repudiation or Basis for Repudiation
+
+### § 257. Effect of Urging Performance in Spite of Repudiation
+
+#
 
 ## CHAPTER 11
 
 ## IMPRACTICABILITY OF PERFORMANCE AND FRUSTRATION OF PURPOSE
 
-§ 261. Discharge by Supervening Impracticability
-§ 262. Death or Incapacity of Person Necessary for Performance
-§ 263. Destruction, Deterioration or Failure to Come into Existence of Thing
-Necessary for Performance
-§ 265. Discharge by Supervening Frustration
-§ 266. Existing Impracticability or Frustration
-§ 272. Relief Including Restitution
+### § 261. Discharge by Supervening Impracticability
+
+### § 262. Death or Incapacity of Person Necessary for Performance
+
+### § 263. Destruction, Deterioration or Failure to Come into Existence of Thing Necessary for Performance
+
+### § 265. Discharge by Supervening Frustration
+
+### § 266. Existing Impracticability or Frustration
+
+### § 272. Relief Including Restitution
+
+#
 
 ## CHAPTER 12
 
 ## DISCHARGE BY ASSENT OR ALTERATION
 
-§ 281. Accord and Satisfaction
-§ 285. Contract Not to Sue
-§ 286. Alteration of Writing
+### § 281. Accord and Satisfaction
+
+### § 285. Contract Not to Sue
+
+### § 286. Alteration of Writing
+
+#
 
 ## CHAPTER 13
 
@@ -280,62 +372,99 @@ Page 6
 
 ## JOINT AND SEVERAL PROMISORS AND PROMISEES
 
-§ 288. Promises of the Same Performance
-§ 293. Effect of Performance or Satisfaction on Co-promisors
-§ 294. Effect of Discharge on Co-promisors
+### § 288. Promises of the Same Performance
+
+### § 293. Effect of Performance or Satisfaction on Co-promisors
+
+### § 294. Effect of Discharge on Co-promisors
+
+#
 
 ## CHAPTER 14
 
 ## CONTRACT BENEFICIARIES
 
-§ 302. Intended and Incidental Beneficiaries
-§ 309. Defenses Against the Beneficiary
-§ 311. Variation of a Duty to a Beneficiary
-§ 313. Government Contracts
+### § 302. Intended and Incidental Beneficiaries
+
+### § 309. Defenses Against the Beneficiary
+
+### § 311. Variation of a Duty to a Beneficiary
+
+### § 313. Government Contracts
+
+#
 
 ## CHAPTER 15
 
 ## ASSIGNMENT AND DELEGATION
 
-§ 317. Assignment of a Right
-§ 318. Delegation of Performance of Duty
-§ 319. Delegation of Performance of Condition
-§ 321. Assignment of Future Rights
-§ 322. Contractual Prohibition of Assignment
-§ 328. Interpretation of Words of Assignment; Effect of Acceptance of Assignment
-§ 331. Partially Effective Assignments
-§ 332. Revocability of Gratuitous Assignments
-§ 336. Defenses Against an Assignee
+### § 317. Assignment of a Right
+
+### § 318. Delegation of Performance of Duty
+
+### § 319. Delegation of Performance of Condition
+
+### § 321. Assignment of Future Rights
+
+### § 322. Contractual Prohibition of Assignment
+
+### § 328. Interpretation of Words of Assignment; Effect of Acceptance of Assignment
+
+### § 331. Partially Effective Assignments
+
+### § 332. Revocability of Gratuitous Assignments
+
+### § 336. Defenses Against an Assignee
+
+#
 
 ## CHAPTER 16
 
 ## REMEDIES
 
-§ 344. Purposes of Remedies
-§ 346. Availability of Damages
-§ 347. Measure of Damages in General
-§ 348. Alternatives to Loss in Value of Performance
-§ 349. Damages Based on Reliance Interest
-§ 350. Avoidability as a Limitation on Damages
-§ 351. Unforeseeability and Related Limitations on Damages
-§ 352. Uncertainty as a Limitation on Damages
-§ 353. Loss Due to Emotional Disturbance
-§ 354. Interest as Damages
-§ 355. Punitive Damages
-§ 356. Liquidated Damages and Penalties 
+### § 344. Purposes of Remedies
+
+### § 346. Availability of Damages
+
+### § 347. Measure of Damages in General
+
+### § 348. Alternatives to Loss in Value of Performance
+
+### § 349. Damages Based on Reliance Interest
+
+### § 350. Avoidability as a Limitation on Damages
+
+### § 351. Unforeseeability and Related Limitations on Damages
+
+### § 352. Uncertainty as a Limitation on Damages
+
+### § 353. Loss Due to Emotional Disturbance
+
+### § 354. Interest as Damages
+
+### § 355. Punitive Damages
+
+### § 356. Liquidated Damages and Penalties 
 
 Page 7
 
-§ 359. Effect of Adequacy of Damages
-§ 360. Factors Affecting Adequacy of Damages
-§ 370. Requirement That Benefit Be Conferred
-§ 371. Measure of Restitution Interest
-§ 373. Restitution When Other Party Is in Breach
-§ 374. Restitution in Favor of Party in Breach
-§ 375. Restitution When Contract Is Within Statute of Frauds
-§ 376. Restitution When Contract Is Voidable
-§ 377. Restitution in Cases of Impracticability, Frustration, Non-Occurrence of
-Condition or Disclaimer by Beneficiary
+### § 359. Effect of Adequacy of Damages
+
+### § 360. Factors Affecting Adequacy of Damages
+
+### § 370. Requirement That Benefit Be Conferred
+
+### § 371. Measure of Restitution Interest
+
+### § 373. Restitution When Other Party Is in Breach
+
+### § 374. Restitution in Favor of Party in Breach
+
+### § 375. Restitution When Contract Is Within Statute of Frauds
+
+### § 376. Restitution When Contract Is Voidable
+
+### § 377. Restitution in Cases of Impracticability, Frustration, Non-Occurrence of Condition or Disclaimer by Beneficiary
 
 #
 
