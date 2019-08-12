@@ -2,72 +2,136 @@
 #
 Under Construction - Work In Progress
 #
-# TO BE CONTINUED
+# BASIC STRUCTURE OF CONTRACT LAW
 
+## Reference: https://www.nylitigationfirm.com/files/restat.pdf
 
-RESTATEMENT (SECOND) OF CONTRACTS
-CHAPTER 1
-MEANING OF TERMS
-§ 1. Contract Defined
-§ 2. Promise; Promisor; Promisee; Beneficiary
-§ 4. How a Promise May Be Made
-CHAPTER 2
-FORMATION OF CONTRACTS–PARTIES AND CAPACITY
-§ 12. Capacity to Contract
-§ 13. Persons Affected by Guardianship
-§ 14. Infants
-§ 15. Mental Illness or Defect
-§ 16. Intoxicated Persons
-CHAPTER 3
-FORMATION OF CONTRACTS–MUTUAL ASSENT
-§ 17. Requirement of a Bargain
-§ 18. Manifestation of Mutual Assent
-§ 20. Requirement of Manifestation of Mutual Assent. (Restatement First)
-§ 20. Effect of Misunderstanding
-§ 22. Mode of Assent: Offer and Acceptance
-§ 24. Offer Defined
-§ 25. Option Contracts
-§ 26. Preliminary Negotiations
-§ 25. When a Manifestation of Intention is Not an Offer
-§ 27. Existence of Contract Where Written Memorial is Contemplated
-§ 30. Form of Acceptance Invited
-§ 32. Invitation of Promise or Performance
-§ 33. Certainty
-§ 34. Certainty and Choice of Terms; Effect of Performance or Reliance
-§ 35. The Offeree's Power of Acceptance
-§ 36. Methods of Termination of the Power of Acceptance
-§ 38. Rejection
-§ 39. Counter-offers 
+# RESTATEMENT (SECOND) OF CONTRACTS
+
+## CHAPTER 1
+
+## MEANING OF TERMS
+
+### § 1. Contract Defined
+
+### § 2. Promise; Promisor; Promisee; Beneficiary
+
+### § 4. How a Promise May Be Made
+
+#
+
+## CHAPTER 2
+
+## FORMATION OF CONTRACTS–PARTIES AND CAPACITY
+
+### § 12. Capacity to Contract
+
+### § 13. Persons Affected by Guardianship
+
+### § 14. Infants
+
+### § 15. Mental Illness or Defect
+
+### § 16. Intoxicated Persons
+
+#
+
+## CHAPTER 3
+
+## FORMATION OF CONTRACTS–MUTUAL ASSENT
+
+### § 17. Requirement of a Bargain
+
+### § 18. Manifestation of Mutual Assent
+
+### § 20. Requirement of Manifestation of Mutual Assent. (Restatement First)
+
+### § 20. Effect of Misunderstanding
+
+### § 22. Mode of Assent: Offer and Acceptance
+
+### § 24. Offer Defined
+
+### § 25. Option Contracts
+
+### § 26. Preliminary Negotiations
+
+### § 25. When a Manifestation of Intention is Not an Offer
+
+### § 27. Existence of Contract Where Written Memorial is Contemplated
+
+### § 30. Form of Acceptance Invited
+
+### § 32. Invitation of Promise or Performance
+
+### § 33. Certainty
+
+### § 34. Certainty and Choice of Terms; Effect of Performance or Reliance
+
+### § 35. The Offeree's Power of Acceptance
+
+### § 36. Methods of Termination of the Power of Acceptance
+
+### § 38. Rejection
+
+### § 39. Counter-offers 
+
 Page 2
-§ 38. Rejection of Offer by Counter-Offer (Restatement First)
-§ 40. Time When Rejection or Counter-offer Terminates the Power of Acceptance
-§ 41. Lapse of Time
-§ 42. Revocation by Communication from Offeror Received by Offeree
-§ 43. Indirect Communication of Revocation
-§ 45. Option Contract Created by Part Performance or Tender
-§ 46. Revocation of General Offer
-§ 48. Death or Incapacity of Offeror or Offeree
-§ 50. Acceptance of Offer Defined; Acceptance by Performance; Acceptance by
-Promise
-§ 51. Effect of Part Performance Without Knowledge of Offer
-§ 52. Who May Accept an Offer
-§ 53. Acceptance by Performance; Manifestation of Intention Not to Accept
-§ 54. Acceptance by Performance; Necessity of Notification to Offeror
-§ 55. Acceptance of Non-Promissory Offers
-§ 56. Acceptance by Promise; Necessity of Notification to Offeror
-§ 58. Necessity of Acceptance Complying with Terms of Offer
-§ 59. Purported Acceptance Which Adds Qualifications
-§ 60. Acceptance of Offer Which States Place, Time or Manner of Acceptance
-§ 61. Acceptance Which Requests Change of Terms
-§ 62. Effect of Performance by Offeree Where Offer Invites Either Performance or
-Promise
-§ 63. Time When Acceptance Takes Effect
-§ 66. Acceptance Must be Properly Dispatched
-§ 69. Acceptance by Silence or Exercise of Dominion
-CHAPTER 4
-FORMATION OF CONTRACTS–CONSIDERATION
-§ 71. Requirement of Exchange; Types of Exchange
-§ 73. Performance of Legal Duty
+
+### § 38. Rejection of Offer by Counter-Offer (Restatement First)
+
+### § 40. Time When Rejection or Counter-offer Terminates the Power of Acceptance
+
+### § 41. Lapse of Time
+
+### § 42. Revocation by Communication from Offeror Received by Offeree
+
+### § 43. Indirect Communication of Revocation
+
+### § 45. Option Contract Created by Part Performance or Tender
+
+### § 46. Revocation of General Offer
+
+### § 48. Death or Incapacity of Offeror or Offeree
+
+### § 50. Acceptance of Offer Defined; Acceptance by Performance; Acceptance by Promise
+
+### § 51. Effect of Part Performance Without Knowledge of Offer
+
+### § 52. Who May Accept an Offer
+
+### § 53. Acceptance by Performance; Manifestation of Intention Not to Accept
+
+### § 54. Acceptance by Performance; Necessity of Notification to Offeror
+
+### § 55. Acceptance of Non-Promissory Offers
+
+### § 56. Acceptance by Promise; Necessity of Notification to Offeror
+
+### § 58. Necessity of Acceptance Complying with Terms of Offer
+
+### § 59. Purported Acceptance Which Adds Qualifications
+
+### § 60. Acceptance of Offer Which States Place, Time or Manner of Acceptance
+
+### § 61. Acceptance Which Requests Change of Terms
+
+### § 62. Effect of Performance by Offeree Where Offer Invites Either Performance or Promise
+
+### § 63. Time When Acceptance Takes Effect
+
+### § 66. Acceptance Must be Properly Dispatched
+
+### § 69. Acceptance by Silence or Exercise of Dominion
+
+# 
+
+## CHAPTER 4
+
+## FORMATION OF CONTRACTS–CONSIDERATION
+
+###§ 71. Requirement of Exchange; Types of Exchange
+###§ 73. Performance of Legal Duty
 § 74. Settlement of Claims
 § 77. Illusory and Alternative Promises
 § 79. Adequacy of Consideration; Mutuality of Obligation
