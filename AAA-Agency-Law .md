@@ -74,7 +74,7 @@ An agency relationship arises only when the elements stated in § 1.01 are prese
 
 **Chris comment:**
 
->_Need to clarify the scope of “Not Controlling” if / when / once AALE & smart contract / autonomous automated contractual processes are part and parcel of industry or popular usage.
+>_Need to clarify the scope of “Not Controlling” if / when / once AALE & smart contract / autonomous automated contractual processes are part and parcel of industry or popular usage._
 
 #
 
@@ -84,7 +84,7 @@ A person manifests assent or intention through written or spoken words or other 
 
 **Chris comment:**
 
->_While “or other conduct” is vague enough to warrant inclusion of AALE situations, it might be useful to refine the definition of AALE non-human conduct that are necessary & sufficient to warrant “Manifestation”.
+>_While “or other conduct” is vague enough to warrant inclusion of AALE situations, it might be useful to refine the definition of AALE non-human conduct that are necessary & sufficient to warrant “Manifestation”._
 
 #
 
@@ -94,7 +94,7 @@ A person manifests assent or intention through written or spoken words or other 
 
 **Chris comment:**
 
->_Refine for AALE meaning of “actually or apparently authorized”.
+>_Refine for AALE meaning of “actually or apparently authorized”._
 
 (2) Disclosed, undisclosed, and unidentified principals. 
 
@@ -106,7 +106,7 @@ A person manifests assent or intention through written or spoken words or other 
 
 **Chris comment:**
 
->_In the AALE context, disclosed but unidentified principal may be a common situation in anonymous / pseudonymous / ring signatures situations.
+>_In the AALE context, disclosed but unidentified principal may be a common situation in anonymous / pseudonymous / ring signatures situations._
 
 (3) Gratuitous agent. A gratuitous agent acts without a right to compensation.
 
@@ -114,43 +114,43 @@ A person manifests assent or intention through written or spoken words or other 
 
 **Chris comment:**
 
->_“Notice” could be a slippery ground in the AALE context due to the fact that it relates primarily to cognitive processes cognizant to or implicit from any traditional human or administrative organization. In other words, for any particular AALE-AALEs or AALE-human interaction, how do each party “confirm” that they agree on the fact that they agree on any particular interpretation of notice given or received. On mutual understanding, see in particular below “§ 2.02 Scope of Actual Authority”.
+>_“Notice” could be a slippery ground in the AALE context due to the fact that it relates primarily to cognitive processes cognizant to or implicit from any traditional human or administrative organization. In other words, for any particular AALE-AALEs or AALE-human interaction, how do each party “confirm” that they agree on the fact that they agree on any particular interpretation of notice given or received. On mutual understanding, see in particular below “§ 2.02 Scope of Actual Authority”._
 
 (5) Person. A person is (a) an individual; (b) an organization or association that has legal capacity to possess rights and incur obligations; (c) a government, political subdivision, or instrumentality or entity created by government; or (d) any other entity that has legal capacity to possess rights and incur obligations. 
 
 **Chris comment:**
 
->_The following is purely intuitive: “(5) Person” might want to be taken out of “§ 1.04 Terminology“ (perhaps together with (4) Notice) and put in an introductory paragraph “Preliminary Assumptions”. As AALEs primarily falls under (d) but may overlap with (b) and (c), they may require their own category (one category to start with and keep it simple). This category may indicate minimum necessary & sufficient criteria to qualify as AALE. One clear reason to do this for both (5) Person & (4) Notice is to have a clear legal foundation for reasonable expectations and anticipations of problems in the context of autonomous / automated processes of language, cognition, notice, confirmation, validation. 
+>_The following is purely intuitive: “(5) Person” might want to be taken out of “§ 1.04 Terminology“ (perhaps together with (4) Notice) and put in an introductory paragraph “Preliminary Assumptions”. As AALEs primarily falls under (d) but may overlap with (b) and (c), they may require their own category (one category to start with and keep it simple). This category may indicate minimum necessary & sufficient criteria to qualify as AALE. One clear reason to do this for both (5) Person & (4) Notice is to have a clear legal foundation for reasonable expectations and anticipations of problems in the context of autonomous / automated processes of language, cognition, notice, confirmation, validation._
 
 (6) Power given as security. A power given as security is a power to affect the legal relations of its creator that is created in the form of a manifestation of actual authority and held for the benefit of the holder or a third person. It is given to protect a legal or equitable title or to secure the performance of a duty apart from any duties owed the holder of the power by its creator that are incident to a relationship of agency under § 1.01. 
 
 **Chris comment:**
 
->_Subject to previous remarks on refining necessary & sufficient conditions (criteria) for “manifestation” in an AALE context.
+>_Subject to previous remarks on refining necessary & sufficient conditions (criteria) for “manifestation” in an AALE context._
 
 (7) Power of attorney. A power of attorney is an instrument that states an agent's authority. 
 
 **Chris comment:**
 
->_Subject to refinement in an AALE context including but nt limited to smart contracts.
+>_Subject to refinement in an AALE context including but nt limited to smart contracts._
 
 (8) Subagent. A subagent is a person appointed by an agent to perform functions that the agent has consented to perform on behalf of the agent's principal and for whose conduct the appointing agent is responsible to the principal. The relationship between an appointing agent and a subagent is one of agency, created as stated in § 1.01. 
 
 **Chris comment:**
 
->_May explore in context of human or non-AALE hiring an AALE (that manages a fleet of drones which could be hacked...).
+>_May explore in context of human or non-AALE hiring an AALE (that manages a fleet of drones which could be hacked...)._
 
 (9) Superior and subordinate coagents. A superior coagent has the right, conferred by the principal, to direct a subordinate coagent. 
 
 **Chris comment:**
 
->_May explore in context of human or non-AALE subordinates being managed by superior AALE agent to prevent Labor Law issues & riots.
+>_May explore in context of human or non-AALE subordinates being managed by superior AALE agent to prevent Labor Law issues & riots._
 
 (10) Trustee and agent-trustee. A trustee is a holder of property who is subject to fiduciary duties to deal with the property for the benefit of charity or for one or more persons, at least one of whom is not the sole trustee. An agent-trustee is a trustee subject to the control of the settlor or of one or more beneficiaries. 
 
 **Chris comment:**
 
->_Relevant to AALE & digital/crypto assets custodians.
+>_Relevant to AALE & digital/crypto assets custodians._
 
 #
 
@@ -160,7 +160,7 @@ An agent acts with actual authority when, at the time of taking action that has 
 
 **Chris comment:**
 
->_Relevant to the definition of “manifestation”, “belief”, and related cognitive, communication, validation and confirmation processes in the context of AALE-human and AALE-AALE interactions.
+>_Relevant to the definition of “manifestation”, “belief”, and related cognitive, communication, validation and confirmation processes in the context of AALE-human and AALE-AALE interactions._
 
 #
 
@@ -170,19 +170,19 @@ An agent acts with actual authority when, at the time of taking action that has 
 
 **Chris comment:**
 
->_Need to refine the formalization and codification of “reasonable understanding” by an AALE agent and what that implies for the formalization and codification of the principal's manifestations and objectives when the principal is either a non-AALE or an AALE.
+>_Need to refine the formalization and codification of “reasonable understanding” by an AALE agent and what that implies for the formalization and codification of the principal's manifestations and objectives when the principal is either a non-AALE or an AALE._
 
 (2) An agent's interpretation of the principal's manifestations is reasonable if it reflects any meaning known by the agent to be ascribed by the principal and, in the absence of any meaning known to the agent, as a reasonable person in the agent's position would interpret the manifestations in light of the context, including circumstances of which the agent has notice and the agent's fiduciary duty to the principal. 
 
 **Chris comment:**
 
->_If a “reasonable (human / organization) person’s interpretation” is to be taken as benchmark, then it further implies such criteria to be formalized and codified at minima as part of the AALE agent’s cognitive process. Same for the translation, formalization and codification of the AALE agent’s fiduciary duties.
+>_If a “reasonable (human / organization) person’s interpretation” is to be taken as benchmark, then it further implies such criteria to be formalized and codified at minima as part of the AALE agent’s cognitive process. Same for the translation, formalization and codification of the AALE agent’s fiduciary duties._
 
 (3) An agent's understanding of the principal's objectives is reasonable if it accords with the principal's manifestations and the inferences that a reasonable person in the agent's position would draw from the circumstances creating the agency. 
 
 **Chris comment:**
 
->_On “mutual understanding” see remarks in “§ 1.04 Terminology (4) Notice”.
+>_On “mutual understanding” see remarks in “§ 1.04 Terminology (4) Notice”._
 
 #
 
@@ -192,7 +192,7 @@ Apparent authority is the power held by an agent or other actor to affect a prin
 
 **Chris comment:**
 
->_Since the belief by the third party must be traceable to the principal’s manifestations, then this plugs back to refining definition of such “believable manifestations” when the principal is an AALE. When the principal is an AALE, then this AALE’s manifestations have to be formalized in a way that is understandable and believable by a non-AALE third party (there could be direct implication on triggering Estoppel in favor of principal or not). When both principal and third party are AALEs, then we might want to be mindful of how much minimum common language in formalization and coding is necessary between them to minimize problematic ambiguities.
+>_Since the belief by the third party must be traceable to the principal’s manifestations, then this plugs back to refining definition of such “believable manifestations” when the principal is an AALE. When the principal is an AALE, then this AALE’s manifestations have to be formalized in a way that is understandable and believable by a non-AALE third party (there could be direct implication on triggering Estoppel in favor of principal or not). When both principal and third party are AALEs, then we might want to be mindful of how much minimum common language in formalization and coding is necessary between them to minimize problematic ambiguities._
 
 #
 
@@ -202,7 +202,7 @@ An employer is subject to liability for torts committed by employees while actin
 
 **Chris comment:**
 
->_This could be in particular examined both ways: when employer is an AALE and (some of) the employees are humans ; or when the employer is human and (some of) the employees are AALEs – that utilize fleets of drones which could be hacked for ex.
+>_This could be in particular examined both ways: when employer is an AALE and (some of) the employees are humans ; or when the employer is human and (some of) the employees are AALEs – that utilize fleets of drones which could be hacked for ex._
 
 #
 
@@ -214,13 +214,13 @@ A person who has not made a manifestation that an actor has authority as an agen
 
 **Chris comment:**
 
->_If the person is an AALE, it’s hard to see how it can prevent such a situation from arising: could tons of disclaimers and a rigorous early registration process of third party that invalidates non-authorized agents even be sufficient?
+>_If the person is an AALE, it’s hard to see how it can prevent such a situation from arising: could tons of disclaimers and a rigorous early registration process of third party that invalidates non-authorized agents even be sufficient?_
 
 (2) having notice of such belief and that it might induce others to change their positions, the person did not take reasonable steps to notify them of the facts. 
 
 **Chris comment:**
 
->_If the person is an AALE, then again this shows the dire need of formalizing and coding the cognitive and communication act of “notice” of that particular situation, and the necessary devices to “notify” third parties of the facts, in ways indeed intelligible to third parties under conditions defined as “notice”.
+>_If the person is an AALE, then again this shows the dire need of formalizing and coding the cognitive and communication act of “notice” of that particular situation, and the necessary devices to “notify” third parties of the facts, in ways indeed intelligible to third parties under conditions defined as “notice”._
 
 #
 
@@ -230,13 +230,13 @@ A person who has not made a manifestation that an actor has authority as an agen
 
 **Chris comment:**
 
->_The fact that the principal is undisclosed may not have particular incidence or relevance when this undisclosed principal is also an AALE. Other than that, same remarks on cognitive, communication and “notice” process when principal is AALE. When agent is AALE, the onus is on the undisclosed principal to due proper due diligence on AALE processes before hiring – which again suggests notions of formalization, coding and industry standards.
+>_The fact that the principal is undisclosed may not have particular incidence or relevance when this undisclosed principal is also an AALE. Other than that, same remarks on cognitive, communication and “notice” process when principal is AALE. When agent is AALE, the onus is on the undisclosed principal to due proper due diligence on AALE processes before hiring – which again suggests notions of formalization, coding and industry standards._
 
 (2) An undisclosed principal may not rely on instructions given an agent that qualify or reduce the agent's authority to less than the authority a third party would reasonably believe the agent to have under the same circumstances if the principal had been disclosed. 
 
 **Chris comment:**
 
->_Same remark as (1).
+>_Same remark as (1)._
 
 #
 
@@ -246,7 +246,7 @@ If a principal is unjustly enriched at the expense of another person by the acti
 
 **Chris comment:**
 
->_If principal is an AALE it should have proper mechanisms to deal with such claims.
+>_If principal is an AALE it should have proper mechanisms to deal with such claims._
 
 #
 
@@ -256,7 +256,7 @@ Actual authority, as defined in § 2.01, is created by a principal's manifestati
 
 **Chris comment:**
 
->_Same remarks on “manifestation” when principal and/or agent are AALEs.
+>_Same remarks on “manifestation” when principal and/or agent are AALEs._
 
 #
 
@@ -266,7 +266,7 @@ If the law requires a writing or record signed by the principal to evidence an a
 
 **Chris comment:**
 
->_Perhaps Agency Law may not be sufficient to cover, also in the context of AALEs, implications for contract law, property law, etc, and consequences on, for ex., mechanisms to warrant supply chain integrity, such as: certificates of origin, of conformity, of quality, bill of lading, shipment tracking, etc. How to implement supply chain integrity components with AALEs at principal and/or agent and/or third-party level, etc, when some or all of these components are themselves operating in autonomous / automated fashion. Furthermore, there is a fundamental question here for Contract Law: when one or several among Principal – Agent – Third Party are AALE(s), what becomes of the technical definition of a “contract” when all or some of these AALE(s) parties are signatories, next to human or administrative “persons”. Is “contract” just a piece of paper or does it require to be encoded or at least have an encoded twin, in which case, what is the legal status of this encoded doppelganger, what are referents for both legal and technical enforcement (basic question).
+>_Perhaps Agency Law may not be sufficient to cover, also in the context of AALEs, implications for contract law, property law, etc, and consequences on, for ex., mechanisms to warrant supply chain integrity, such as: certificates of origin, of conformity, of quality, bill of lading, shipment tracking, etc. How to implement supply chain integrity components with AALEs at principal and/or agent and/or third-party level, etc, when some or all of these components are themselves operating in autonomous / automated fashion. Furthermore, there is a fundamental question here for Contract Law: when one or several among Principal – Agent – Third Party are AALE(s), what becomes of the technical definition of a “contract” when all or some of these AALE(s) parties are signatories, next to human or administrative “persons”. **Is “contract” just a piece of paper or does it require to be encoded or at least have an encoded twin, in which case, what is the legal status of this encoded doppelganger, what are referents for both legal and technical enforcement (pretty basic question)**._
 
 #
 
@@ -276,7 +276,7 @@ Apparent authority, as defined in § 2.03, is created by a person's manifestatio
 
 **Chris comment:**
 
->_Same remarks as before on “§ 2.03 apparent authority”.
+>_Same remarks as before on “§ 2.03 apparent authority”._
 
 #
 
@@ -286,19 +286,19 @@ Apparent authority, as defined in § 2.03, is created by a person's manifestatio
 
 **Chris comment:**
 
->_An individual is not an AALE.
+>_An individual is not an AALE._
 
 (2) The law applicable to a person that is not an individual governs whether the person has capacity to be a principal in a relationship of agency as defined in § 1.01, as well as the effect of the person's lack or loss of capacity on those who interact with it. 
 
 **Chris comment:**
 
->_Then how do we define / refine the capacity of an AALE to act as a Principal?
+>_Then how do we define / refine the capacity of an AALE to act as a Principal?_
 
 (3) If performance of an act is not delegable, its performance by an agent does not constitute performance by the principal. 
 
 **Chris comment:**
 
->_In Present / Future of Work corporate or community frictions or conflicts, we might want to ask whether there could be any situations of: AALE agent intervening in context on non-delegable performance by non-AALE principal ; or of non-AALE agent intervening in context of non-delegable performance by non-AALE principal. 
+>_In Present / Future of Work corporate or community frictions or conflicts, we might want to ask whether there could be any situations of: AALE agent intervening in context on non-delegable performance by non-AALE principal ; or of non-AALE agent intervening in context of non-delegable performance by non-AALE principal._
 
 #
 
@@ -308,7 +308,7 @@ Any person may ordinarily be empowered to act so as to affect the legal relation
 
 **Chris comment:**
 
->_Then how do we define / refine the capacity of an AALE to act as an Agent ?
+>_Then how do we define / refine the capacity of an AALE to act as an Agent?_
 
 #
 
@@ -318,7 +318,7 @@ An agent's actual authority may be terminated by:
 
 **Chris comment:**
 
->_(conditions may be reviewed for specific processes, in particular their appropriate formalization for principal and/or agent as AALE)
+>_(conditions may be reviewed for specific processes, in particular their appropriate formalization for principal and/or agent as AALE)_
 
 (1) the agent's death, cessation of existence, or suspension of powers as stated in § 3.07(1) and (3); or
 
@@ -338,7 +338,7 @@ An agent's actual authority may be terminated by:
 
 **Chris comment:**
 
->_(conditions may be reviewed for specific processes, in particular their appropriate formalization for principal and/or agent as AALE)
+>_(conditions may be reviewed for specific processes, in particular their appropriate formalization for principal and/or agent as AALE)_
 
 (1) The death of an individual agent terminates the agent's actual authority.
 
@@ -354,7 +354,7 @@ An agent's actual authority may be terminated by:
 
 **Chris comment:**
 
->_(Loss of Capacity conditions may be reviewed for specific processes, in particular their appropriate formalization for principal and/or agent as AALE. A “written instrument” may be reviewed as including code, smart contracts, etc and related usages and limitations.)
+>_(Loss of Capacity conditions may be reviewed for specific processes, in particular their appropriate formalization for principal and/or agent as AALE. A “written instrument” may be reviewed as including code, smart contracts, etc and related usages and limitations.)_
 
 (1) An individual principal's loss of capacity to do an act terminates the agent's actual authority to do the act. The termination is effective only when the agent has notice that the principal's loss of capacity is permanent or that the principal has been adjudicated to lack capacity. The termination is also effective as against a third party with whom the agent deals when the third party has notice that the principal's loss of capacity is permanent or that the principal has been adjudicated to lack capacity.
 
@@ -372,7 +372,7 @@ or (2) upon the occurrence of circumstances on the basis of which the agent shou
 
 **Chris comment:**
 
->_Other than (1) conditions defined in the provisions of § 3.10, “(2) upon the occurrence of circumstances on the basis of which the agent should reasonably conclude that the principal no longer would assent to the agent's taking action on the principal's behalf” plugs back to principal-agent cognitive, communication, and formalization issues in the context of AALE-AALE and AALE-human interactions.
+>_Other than (1) conditions defined in the provisions of § 3.10, “(2) upon the occurrence of circumstances on the basis of which the agent should reasonably conclude that the principal no longer would assent to the agent's taking action on the principal's behalf” plugs back to principal-agent cognitive, communication, and formalization issues in the context of AALE-AALE and AALE-human interactions._
 
 #
 
@@ -382,13 +382,13 @@ or (2) upon the occurrence of circumstances on the basis of which the agent shou
 
 **Chris comment:**
 
->_Same remarks on manifestation, notice and mutual understanding in an AALE context.
+>_Same remarks on manifestation, notice and mutual understanding in an AALE context._
 
 (2) A principal's manifestation of revocation is, unless otherwise agreed, ineffective to terminate a power given as security or to terminate a proxy to vote securities or other membership or ownership interests that is made irrevocable in compliance with applicable legislation. 
 
 **Chris comment:**
 
->_See §§ 3.12-3.13. See §§ 3.12-3.13 and power given as security and proxy to vote securities or other membership or ownership interests that is made irrevocable in compliance with applicable legislation, etc, in an AALE & digital assets context, as legislation is evolving.
+>_See §§ 3.12-3.13. See §§ 3.12-3.13 and power given as security and proxy to vote securities or other membership or ownership interests that is made irrevocable in compliance with applicable legislation, etc, in an AALE & digital assets context, as legislation is evolving._
 
 #
 
@@ -400,7 +400,7 @@ or (2) upon the occurrence of circumstances on the basis of which the agent shou
 
 **Chris comment:**
 
->_Again need to specify conditions of “reasonable belief” by third party of authority in AALE context.
+>_Again need to specify conditions of “reasonable belief” by third party of authority in AALE context._
 
 #
 
@@ -408,7 +408,7 @@ or (2) upon the occurrence of circumstances on the basis of which the agent shou
 
 **Chris comment:**
 
->_See power given as security and proxy to vote securities or other membership or ownership interests that is made irrevocable in compliance with applicable legislation, etc, in an AALE & digital assets context, as legislation is evolving.
+>_See power given as security and proxy to vote securities or other membership or ownership interests that is made irrevocable in compliance with applicable legislation, etc, in an AALE & digital assets context, as legislation is evolving._
 
 (1) A power given as security is a power to affect the legal relations of its creator that is created in the form of a manifestation of actual authority and held for the benefit of the holder or a third person. This power is given to protect a legal or equitable title or to secure the performance of a duty apart from any duties owed the holder of the power by its creator that are incident to a relationship of agency under § 1.01. It is given upon the creation of the duty or title or for consideration. It is distinct from actual authority that the holder may exercise if the holder is an agent of the creator of the power.
 
@@ -420,7 +420,7 @@ or (2) upon the occurrence of circumstances on the basis of which the agent shou
 
 **Chris comment:**
 
->_Same remark as previous 3.12.
+>_Same remark as previous 3.12._
 
 (1) A power given as security or an irrevocable proxy is terminated by an event that
 
@@ -448,7 +448,7 @@ or (2) upon the occurrence of circumstances on the basis of which the agent shou
 
 **Chris comment:**
 
->_3.14., 3.15., 3.16. plug back into above principal / agent problematics in AALE context.
+>_3.14., 3.15., 3.16. plug back into above principal / agent problematics in AALE context._
 
 An agent acting in the same transaction or matter on behalf of more than one principal may be one or both of the following:
 
@@ -471,7 +471,7 @@ Two or more persons may as coprincipals appoint an agent to act for them in the 
 
 **Chris comment:**
 
->_The practical conditions of “imputation” may need to be streamlined when Principal and/or agent are AALEs, in particular for cognitive, communication and “notice” issues.
+>_The practical conditions of “imputation” may need to be streamlined when Principal and/or agent are AALEs, in particular for cognitive, communication and “notice” issues._
 
 For purposes of determining a principal's legal relations with a third party, notice of a fact that an agent knows or has reason to know is imputed to the principal if knowledge of the fact is material to the agent's duties to the principal, unless the agent
 
@@ -489,7 +489,7 @@ For purposes of determining a principal's legal relations with a third party, no
 
 **Chris comment:**
 
->_We may anticipate situations where (human) Agent acts adversely to AALE Principal (friction or conflict), or, AALE Agent deals adversely to (human) Principal, either deliberately by wicked governance or by process automatization bug or because it has been hacked.
+>_We may anticipate situations where (human) Agent acts adversely to AALE Principal (friction or conflict), or, AALE Agent deals adversely to (human) Principal, either deliberately by wicked governance or by process automatization bug or because it has been hacked._
 
 For purposes of determining a principal's legal relations with a third party, notice of a fact that an agent knows or has reason to know is not imputed to the principal if the agent acts adversely to the principal in a transaction or matter, intending to act solely for the agent's own purposes or those of another person. Nevertheless, notice is imputed
 
@@ -501,7 +501,7 @@ A third party who deals with a principal through an agent, knowing or having rea
 
 **Chris comment:**
 
->_On this particular aspect “A third party who deals with a principal through an agent, knowing or having reason to know that the agent acts adversely to the principal, does not deal in good faith for this purpose. “ we may need refinement of conditions if third party is itself an AALE.
+>_On this particular aspect “A third party who deals with a principal through an agent, knowing or having reason to know that the agent acts adversely to the principal, does not deal in good faith for this purpose. “ we may need refinement of conditions if third party is itself an AALE._
 
 #
 
@@ -515,7 +515,7 @@ When an agent acting with actual or apparent authority makes a contract on behal
 
 **Chris comment:**
 
->_Same remarks on agreeing to agree on and confirm mutual understanding in AALE context.
+>_Same remarks on agreeing to agree on and confirm mutual understanding in AALE context._
 
 #
 
@@ -529,7 +529,7 @@ When an agent acting with actual or apparent authority makes a contract on behal
 
 **Chris comment:**
 
->_In case of disclosed but unidentified AALE Principal in anonymous or pseudonymous context – using ring signatures, etc, how does it work for the third party that such Principal is a co-party to the contract ; why and how the (human) Agent would want to stay in, or out, of it?
+>_In case of disclosed but unidentified AALE Principal in anonymous or pseudonymous context – using ring signatures, etc, how does it work for the third party that such Principal is a co-party to the contract ; why and how the (human) Agent would want to stay in, or out, of it?_
 
 #
 
@@ -537,7 +537,7 @@ When an agent acting with actual or apparent authority makes a contract on behal
 
 **Chris comment:**
 
->_When the Principal is undisclosed, for this Principal to be an AALE doesn’t seem to affect this clause in principle. Question is, might this affect it in practical implementation conditions as seen above, starting with technical definition of what a “contract” is when an undisclosed AALE Principal is one of the parties, but not a signatory since undisclosed. If other parties are non-AALE, may contract just be paper (see previous clause “§ 3.02 Formal Requirements”).
+>_When the Principal is undisclosed, for this Principal to be an AALE doesn’t seem to affect this clause in principle. Question is, might this affect it in practical implementation conditions as seen above, starting with technical definition of what a “contract” is when an undisclosed AALE Principal is one of the parties, but not a signatory since undisclosed. If other parties are non-AALE, may contract just be paper (see previous clause “§ 3.02 Formal Requirements”)._
 
 When an agent acting with actual authority makes a contract on behalf of an undisclosed principal,
 
@@ -555,7 +555,7 @@ Unless the third party agrees otherwise, a person who makes a contract with a th
 
 **Chris comment:**
 
->_Relevant clause in case AALE Principal is deemed to lack capacity.
+>_Relevant clause in case AALE Principal is deemed to lack capacity._
 
 #
 
@@ -565,7 +565,7 @@ Unless the third party agrees otherwise, a person who makes a contract with a th
 
 **Chris comment:**
 
->_Might be relevant to situations whereas a non-AALE Agent may deviate from its AALE Principal, or, inversely, the AALE Agent is badly engineered in a way that results in such unauthorized deviation.
+>_Might be relevant to situations whereas a non-AALE Agent may deviate from its AALE Principal, or, inversely, the AALE Agent is badly engineered in a way that results in such unauthorized deviation._
 
 (a) the third party seasonably makes a manifestation to the principal of willingness to be bound; and
 
@@ -575,7 +575,7 @@ Unless the third party agrees otherwise, a person who makes a contract with a th
 
 **Chris comment:**
 
->_Might be relevant to cases where either one or more of the several Principals are AALE(s) mixed up with non-AALE in dealing with this Agent ; or, the Agent is an AALE badly engineered in ways that result in this contractual confusion or unauthorized conflagration.
+>_Might be relevant to cases where either one or more of the several Principals are AALE(s) mixed up with non-AALE in dealing with this Agent ; or, the Agent is an AALE badly engineered in ways that result in this contractual confusion or unauthorized conflagration._
 
 (a) if the agent purports to make the combined contract on behalf of disclosed principals, the agent is subject to liability to the third party for breach of the agent's warranty of authority as stated in § 6.10, unless the separate principals are bound by the combined contract;
 
@@ -593,7 +593,7 @@ Unless the third party agrees otherwise, a person who makes a contract with a th
 
 **Chris comment:**
 
->_Some questions are to which extent “(non-)set off” conditions may and should be formalized & if appropriate encoded, when one or several parties are AALEs, in ways that are compliant yet reversible in case some issues arise. Or at least manageable in ways that don’t even further complicate everything when it doesn’t have to be that complicated in the first place.
+>_Some questions are to which extent “(non-)set off” conditions may and should be formalized & if appropriate encoded, when one or several parties are AALEs, in ways that are compliant yet reversible in case some issues arise. Or at least manageable in ways that don’t even further complicate everything when it doesn’t have to be that complicated in the first place._
 
 (1) When an agent makes a contract on behalf of a disclosed or unidentified principal, unless the principal and the third party agree otherwise,
 
@@ -621,7 +621,7 @@ Unless the third party agrees otherwise, a person who makes a contract with a th
 
 **Chris comment:**
 
->_This plugs back into previous remarks when notions such as “manifestation”, “reasonable belief” or “reliance”, honest or mis-“representation”, etc are introduced in an AALE context. But also to the extent to which certain settlement procedures may be formalized and encoded for automation & autonomous execution – which might be both a source of safety or problems.
+>_This plugs back into previous remarks when notions such as “manifestation”, “reasonable belief” or “reliance”, honest or mis-“representation”, etc are introduced in an AALE context. But also to the extent to which certain settlement procedures may be formalized and encoded for automation & autonomous execution – which might be both a source of safety or problems._
 
 (1) A principal's payment to or settlement of accounts with an agent discharges the principal's liability to a third party with whom the agent has made a contract on the principal's behalf only when the principal acts in reasonable reliance on a manifestation by the third party, not induced by misrepresentation by the agent, that the agent has settled the account with the third party.
 
@@ -641,7 +641,7 @@ Unless the third party agrees otherwise, a person who makes a contract with a th
 
 **Chris comment:**
 
->_In a context of AALEs, this may be relevant to situations when the autonomous and automated nature of one or several of the parties is a root cause for “subsequent dealings” dynamics, and therefore suggests caution, dealing with the unintended consequences of AALEs in the mix.
+>_In a context of AALEs, this may be relevant to situations when the autonomous and automated nature of one or several of the parties is a root cause for “subsequent dealings” dynamics, and therefore suggests caution, dealing with the unintended consequences of AALEs in the mix._
 
 (1) When an agent has made a contract with a third party on behalf of a disclosed or unidentified principal, subsequent dealings between the agent and the third party may increase or diminish the principal's rights or liabilities to the third party if the agent acts with actual or apparent authority or the principal ratifies the agent's action.
 
@@ -657,7 +657,7 @@ Unless the third party agrees otherwise, a person who makes a contract with a th
 
 **Chris comment:**
 
->_While key motivations here are to build a robust AALE-based economy, scalable & taxable, that remains affordable to and manageable by the largest possible human population, it is also reasonable to anticipate a substantial rise in law suits brought against AALEs, or by AALEs administrators who consider “their” valid AALE has been wronged and/or harmed. In that sense the ethical duty of professional competence for lawyers in that field, warrant to pay particular attention to “Effect of Judgment Against AALEs Agent or Principal” beyond the scope of Agency Law.
+>_While key motivations here are to build a robust AALE-based economy, scalable & taxable, that remains affordable to and manageable by the largest possible human population, it is also reasonable to anticipate a substantial rise in law suits brought against AALEs, or by AALEs administrators who consider “their” valid AALE has been wronged and/or harmed. In that sense the ethical duty of professional competence for lawyers in that field, warrant to pay particular attention to “Effect of Judgment Against AALEs Agent or Principal” beyond the scope of Agency Law._
 
 When an agent has made a contract with a third party on behalf of a principal, unless the contract provides otherwise,
 (1) the liability, if any, of the principal or the agent to the third party is not discharged if the third party obtains a judgment against the other; and
@@ -670,7 +670,7 @@ When an agent has made a contract with a third party on behalf of a principal, u
 
 **Chris comment:**
 
->_This could be in particular relevant in a context of an AALE Agent gone “rogue” by virtue or rather vice of autonomy and automation, by making a contract, representation, or conveyance to or with a third party on behalf of another person, lacking power to bind that person – either deliberately, or by engineering bug, or having been hacked by bad actors siphoning revenues.
+>_This could be in particular relevant in a context of an AALE Agent gone “rogue” by virtue or rather vice of autonomy and automation, by making a contract, representation, or conveyance to or with a third party on behalf of another person, lacking power to bind that person – either deliberately, or by engineering bug, or having been hacked by bad actors siphoning revenues._
 
 A person who purports to make a contract, representation, or conveyance to or with a third party on behalf of another person, lacking power to bind that person, gives an implied warranty of authority to the third party and is subject to liability to the third party for damages for loss caused by breach of that warranty, including loss of the benefit expected from performance by the principal, unless
 
@@ -686,7 +686,7 @@ A person who purports to make a contract, representation, or conveyance to or wi
 
 **Chris comment:**
 
->_In a similar vein, this could be in particular relevant in a context of an AALE Agent gone “rogue” (for whatever reason) in ways that affect the nature of its “representation” to the extent that various situations and conditions of § 6.11 Agent's Representations apply. Then again how does it pan out in Court when either AALE Agent or another party are a defendant.
+>_In a similar vein, this could be in particular relevant in a context of an AALE Agent gone “rogue” (for whatever reason) in ways that affect the nature of its “representation” to the extent that various situations and conditions of § 6.11 Agent's Representations apply. Then again how does it pan out in Court when either AALE Agent or another party are a defendant._
 
 (1) When an agent for a disclosed or unidentified principal makes a false representation about the agent's authority to a third party, the principal is not subject to liability unless the agent acted with actual or apparent authority in making the representation and the third party does not have notice that the agent's representation is false.
 
@@ -708,7 +708,7 @@ The agent's representation is not attributed to the principal when the third par
 
 **Chris comment:**
 
->_Similar remark on AALE Agent gone “rogue”, whereas “tortious conduct” need to be defined.
+>_Similar remark on AALE Agent gone “rogue”, whereas “tortious conduct” need to be defined._
 
 An agent is subject to liability to a third party harmed by the agent's tortious conduct. Unless an applicable statute provides otherwise, an actor remains subject to liability although the actor acts as an agent or an employee, with actual or apparent authority, or within the scope of employment.
 
@@ -718,7 +718,7 @@ An agent is subject to liability to a third party harmed by the agent's tortious
 
 **Chris comment:**
 
->_Similar remark on AALE Agent gone “rogue”, whereas “tort liability” may be characterized once the criteria of AALE Agent process, while it “breaches a duty that the agent owes to the third party“, have been defined and refined both in broad terms and on case by case basis.
+>_Similar remark on AALE Agent gone “rogue”, whereas “tort liability” may be characterized once the criteria of AALE Agent process, while it “breaches a duty that the agent owes to the third party“, have been defined and refined both in broad terms and on case by case basis._
 
 An agent's breach of a duty owed to the principal is not an independent basis for the agent's tort liability to a third party. An agent is subject to tort liability to a third party harmed by the agent's conduct only when the agent's conduct breaches a duty that the agent owes to the third party.
 
@@ -728,7 +728,7 @@ An agent's breach of a duty owed to the principal is not an independent basis fo
 
 **Chris comment:**
 
->_In particular when Agent is an AALE, the Principal’s liability issues plug back into perhaps 3 notions: -1- mutual cognitive, communication, formalization, possible encoding process when AALE Agent liaise with other parties, -2- AALE Agent gone “rogue” for whatever reason, with appropriate characterization of “tortious conduct”& “tort” by this AALE Agent, -3- last but not least, when Principal is, say, also an AALE which in addition is disclosed but unidentified (anonymous or pseudonymous, involving ring signatures, etc), how exactly does enforcement of consequences of liability get implemented? Lest third party loses all settlements or assets.
+>_In particular when Agent is an AALE, the Principal’s liability issues plug back into perhaps 3 notions: -1- mutual cognitive, communication, formalization, possible encoding process when AALE Agent liaise with other parties, -2- AALE Agent gone “rogue” for whatever reason, with appropriate characterization of “tortious conduct”& “tort” by this AALE Agent, -3- last but not least, when Principal is, say, also an AALE which in addition is disclosed but unidentified (anonymous or pseudonymous, involving ring signatures, etc), how exactly does enforcement of consequences of liability get implemented? Lest third party loses all settlements or assets._
 
 (1) A principal is subject to direct liability to a third party harmed by an agent's conduct when
 
@@ -754,7 +754,7 @@ An agent's breach of a duty owed to the principal is not an independent basis fo
 
 **Chris comment:**
 
->_Similar remarks as previous clause § 7.03 Principal's Liability--In General.
+>_Similar remarks as previous clause § 7.03 Principal's Liability--In General._
 
 A principal is subject to liability to a third party harmed by an agent's conduct when the agent's conduct is within the scope of the agent's actual authority or ratified by the principal; and
 
@@ -768,7 +768,7 @@ A principal is subject to liability to a third party harmed by an agent's conduc
 
 **Chris comment:**
 
->_Similar remarks as previous clause § 7.03 Principal's Liability--In General. In addition, “When a principal has a special relationship with another person, the principal owes that person a duty of reasonable care with regard to risks arising out of the relation“, implies the Principal and that other person should reasonably assess risks of involving an AALE Agent.
+>_Similar remarks as previous clause § 7.03 Principal's Liability--In General. In addition, “When a principal has a special relationship with another person, the principal owes that person a duty of reasonable care with regard to risks arising out of the relation“, implies the Principal and that other person should reasonably assess risks of involving an AALE Agent._
 
 (1) A principal who conducts an activity through an agent is subject to liability for harm to a third party caused by the agent's conduct if the harm was caused by the principal's negligence in selecting, training, retaining, supervising, or otherwise controlling the agent.
 
@@ -780,7 +780,7 @@ A principal is subject to liability to a third party harmed by an agent's conduc
 
 **Chris comment:**
 
->_Similar remarks as previous clause § 7.03 Principal's Liability--In General. 
+>_Similar remarks as previous clause § 7.03 Principal's Liability--In General._
 
 A principal required by contract or otherwise by law to protect another cannot avoid liability by delegating performance of the duty, whether or not the delegate is an agent.
 
@@ -790,7 +790,7 @@ A principal required by contract or otherwise by law to protect another cannot a
 
 **Chris comment:**
 
->_This may be relevant to Present / Future of Work & Business situations, whereas friction and conflict may arise of involving AALEs in the mix with risks at both employer & employee level. In addition, “ (3) (b) the fact that work is performed gratuitously does not relieve a principal of liability.“ may be relevant to reasonably foreseeable situations whereas AALE Agent or even whole ecosystem performs gratuitously vs previously paid human workers, creating social resentment, and, besides rioting, attracting attention and focusing law suits against Principal.
+>_This may be relevant to Present / Future of Work & Business situations, whereas friction and conflict may arise of involving AALEs in the mix with risks at both employer & employee level. In addition, “ (3) (b) the fact that work is performed gratuitously does not relieve a principal of liability.“ may be relevant to reasonably foreseeable situations whereas AALE Agent or even whole ecosystem performs gratuitously vs previously paid human workers, creating social resentment, and, besides rioting, attracting attention and focusing law suits against Principal._
 
 (1) An employer is subject to vicarious liability for a tort committed by its employee acting within the scope of employment.
 
@@ -810,7 +810,7 @@ A principal is subject to vicarious liability for a tort committed by an agent i
 
 **Chris comment:**
 
->_This plugs back in remarks on cognitive, communication, behavior etc issues for AALE Agent gone rogue with apparent authority, that affects Principal’s liability & Estoppel.
+>_This plugs back in remarks on cognitive, communication, behavior etc issues for AALE Agent gone rogue with apparent authority, that affects Principal’s liability & Estoppel._
 
 #
 
@@ -820,7 +820,7 @@ A principal is subject to vicarious liability for a tort committed by an agent i
 
 **Chris comment:**
 
->_Small remarks suggested by second part “The Unauthorized Agent – Perspective from European and Comparative Law”: this really is a great piece of work, and, not that it’s news, but indeed one-size-fits-all frameworks may not fully work even with borderless online AALEs._
+>_Some remarks suggested by second part “The Unauthorized Agent – Perspective from European and Comparative Law”: this really is a great piece of work, and, not that it’s news, but indeed one-size-fits-all legal frameworks may not fully work even with borderless online AALEs, in case they have to connect back to Earth-based local jurisdictions, which most of the time they do._
 
 >_In particular the author is absolutely spot on, with regard to the fact that things work rather differently in Civil Law countries, such as EU countries, in particular France. Civil Law countries do not recognize the concept of Estoppel for ex. Another country of interest is Japan, whose legal system has evolved through various influences in past thousands of years._  
 
@@ -844,57 +844,57 @@ A principal is subject to vicarious liability for a tort committed by an agent i
 
 
 
-Table of Contents
+Table of Contents							page
 
-I	Introduction 				page 219
+I	Introduction 							219
 
 ##
 
-II 	The Restatements of Agency		221
+II 	The Restatements of Agency					221
 
-	1 Style and structure 			222
+	1 	Style and structure 					222
 	
-	2 	Assumed nature of legal subjects 223
+	2 	Assumed nature of legal subjects 			223
 	
-	3 	Relationships among statutes and the common law  223
+	3 	Relationships among statutes and the common law		223
 	
-	4 	Signal characteristics of Restatement (Third)	225
+	4 	Signal characteristics of Restatement (Third)		225
 	
-			(a)	In general			225
+			(a)	In general				225
 			
-			(b)	The significance of manifestations 225
+			(b)	The significance of manifestations 	225
 			
 ##
 			
-III 	Bases for attribution 			227
+III 	Bases for attribution 						227
 
-	1 Actual authority 			227
+	1 	Actual authority 					227
 	
-	2 	Apparent authority 		228
+	2 	Apparent authority 					228
 	
-	3 	Estoppel			231
+	3 	Estoppel						231
 	
-	4 	Undisclosed principals 		234
+	4 	Undisclosed principals 					234
 	
-	5 	Ratification			235
+	5 	Ratification						235
 	
-			(a)	In general 			235
+			(a)	In general 				235
 			
-			(b) 	Entities yet to be formed 	237
+			(b) 	Entities yet to be formed 		237
 			
-	6 	Inherent agency power 				238
+	6 	Inherent agency power 					238
 	
 ##
 
-IV Liabilities of the unauthorised agent 			241
+IV Liabilities of the unauthorised agent 				241
 
-	1 Lack of actual authority 				241
+	1 	Lack of actual authority 				241
 	
-	2 Principal is not bound by agent's action 		242
+	2 	Principal is not bound by agent's action 		242
 	
 ##
 
-V Conclusion 			243
+V Conclusion 								243
 
 ##
 
