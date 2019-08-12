@@ -7,9 +7,9 @@
 
 ###
 
-#### Takeaway from the July 23rd 2019 Live Session from Berlin
+### Full Takeaway from the July 23rd 2019 Live Session from Berlin
 
-#### Directed by Beth in collaboration with Cem & Jim from Publishing DAO 
+#### Session directed by Beth in collaboration with Cem & Jim from Publishing DAO 
 
 ### _(scroll down for full transcript)_
 
