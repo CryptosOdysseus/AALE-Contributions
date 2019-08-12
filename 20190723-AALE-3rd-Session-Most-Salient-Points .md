@@ -40,7 +40,7 @@
 
 **- 3) a feedback loop that takes in the information from the call and generates a summary from it.**
 
-**_So that the insights are crystallized in a usable, chronological form. “_**
+_**So that the insights are crystallized in a usable, chronological form. “**_
 
 #
 
@@ -48,19 +48,19 @@
 
 #
 
-#### -B- Engagement with customer and laying the ground to establish a lawyer-client relationship by first making sure the user better understands ther legal analysis approach.
+#### -B- Engagement with customer and laying the ground to establish a lawyer-client relationship by first making sure the user better understands the Legal analysis approach of what they do on daily basis with a Business & Technological mindset.
 
-While none of this is Legal Advice, nor may be construed as (an attempt at) Legal Practice, the ones in a position to expect from this some form of usefulness & utility include user Publishing DAO: user is in a position to assess the usability of this work when user can complete their Business & Technological polyvalent setup with a legal-analysis-oriented approach. 
+While none of this is Legal Advice, nor may be construed as (an attempt at) Legal Practice, the ones in a position to expect from this some form of usefulness & utility, include user Publishing DAO: user is in a position to assess the usability of this work when user can complete their Business & Technological polyvalent setup with a Legal-analysis-oriented approach. 
 
-There is a difference between Technological and Legal definitions of Roles and Relationships, and therefore legal assessment of Rights and Responsibilities (R4). For ex., depending on context, user Publishing DAO can be an Agent (of a writer acting as Principal) or Publishing DAO can be a Principal, with logistics company acting as Agent. This has severe enough legal & liability consequences to pay attention to. 
+There is a difference between Technological and Legal definitions of Roles and Relationships, and therefore Legal assessment of Rights and Responsibilities (R4). For ex., depending on context, user Publishing DAO can be an Agent (of a writer acting as Principal) or Publishing DAO can be a Principal, with logistics company acting as Agent. This has severe enough legal & liability consequences to pay attention to. 
 
-It also suggests that when Agency Law isnt sufficient to tackle most of the scenarios, it becomes necessary to switch to Contract Law (and Tort etc.) which implies to build a series of disclaimers in order to shield the Publishing DAO from basic legal harm that can be dodged. The nature of the legal structure behind the legal persons involved, and the degree of automation & autonomy also affect the lawyer-client relationship etsbalishment, process & procedures.
+It also suggests that when Agency Law isnt sufficient to tackle most of the scenarios, it becomes necessary to switch to Contract Law (and Tort etc.) which implies to build a series of disclaimers in order to shield the Publishing DAO from basic legal harm that can be dodged. The nature of the legal structure behind the legal persons involved, and the degree of automation & autonomy also affect the lawyer-client relationship establishment, process & procedures.
 
 #
 
 #### -C- Start with simplified use cases and build a primary foundation – then build up complexity. 
 
-Freeze patterns of possible scenarios that happen, then determone R4 and proceed to legal analysis under a type of Law.
+Freeze patterns of possible scenarios that happen, then determine R4 and proceed to legal analysis under any type of Law.
 
 #
 
@@ -76,19 +76,25 @@ Here we use certain selective methods to tame the troika of complexity, granular
 
 ##### -E-1: Pre-Fall objectives (Working Topics as laid out by Dazza in GitHub)
 
-**Quote: “Starting with the basic agency law analysis conducted during our prior session focused on the roles, relationships, rights and responsibilities of the Principal, Agent and Third Party in the three scenarios involving the sale of a book, as a next step we ask:**_
+**Quote:**
+
+**“Starting with the basic agency law analysis conducted during our prior session focused on the roles, relationships, rights and responsibilities of the Principal, Agent and Third Party in the three scenarios involving the sale of a book, as a next step we ask:**_
 
 **• What are the issues, options and opportunities presented when one of the Actors in each scenario is itself a DAO or other type of automated and autonomous legal entity?**
 
 **• Specifically, what issues, options and opportunities arise with respect to the legal concepts:**
 
 -o Binding Assent to Agency Relationship and Contract Formation (lots of open questions)
+
 -o Scope and Type of Authority (addressed above and more questions identified)
+
 -o Estoppel and Detrimental reliance (addressed above and more questions identified)
 
 _**How can an automated system be constructed such that at any given point in time the relevant roles / relationships and rights / responsibilities, and hence most probably legal outcomes, can be assessed at any moment in the transaction or workflow etc.**_
 
-**Note: a very well B/L/T/ engineered system should afford this type of monitoring and reporting "out-of-the-box". “ Unquote.
+**Note: a very well B/L/T/ engineered system should afford this type of monitoring and reporting "out-of-the-box".** “
+
+**Unquote.**
 
 ##
 
@@ -126,7 +132,7 @@ Including when to realize that an Agency Law analysis does NOT apply:
 
 ClickThrough Agreement DAO:Agency “We are not your agent if we do nothing”.
 
-No action or agency relationship: it is extremely important that users understand there is no agency relationship if something is put forth as a vote, because if it is NOT accepted by the (Publishing) DAO, the (Publishing) DAO should be able to drop it as it is non-binding and not executable under an Agency Law relationship. More like a Contract Law relationship then.
+No action or agency relationship: it is extremely important that users understand there is no agency relationship if something is put forth as a vote, because if it is NOT accepted by the (Publishing) DAO, the (Publishing) DAO should be able to drop it as it is non-binding and not executable under an Agency Law relationship. Disclaimer advised: DAO may say yes, no, or do nothing.
 
 ##
 
