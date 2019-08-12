@@ -1035,72 +1035,75 @@ Page 21
 
 ## MISTAKE
 
-§ 151. Mistake Defined
+### § 151. Mistake Defined
+
 A mistake is a belief that is not in accord with the facts.
-§ 152. When Mistake of Both Parties Makes a Contract Voidable
-(1) Where a mistake of both parties at the time a contract was made as to a basic
-assumption on which the contract was made has a material effect on the agreed
-exchange of performances, the contract is voidable by the adversely affected party
+
+### § 152. When Mistake of Both Parties Makes a Contract Voidable
+
+(1) Where a mistake of both parties at the time a contract was made as to a basic assumption on which the contract was made has a material effect on the agreed exchange of performances, the contract is voidable by the adversely affected party
 unless he bears the risk of the mistake under the rule stated in § 154.
-(2) In determining whether the mistake has a material effect on the agreed
-exchange of performances, account is taken of any relief by way of reformation,
-restitution, or otherwise.
-§ 153. When Mistake of One Party Makes a Contract Voidable
-Where a mistake of one party at the time a contract was made as to a basic
-assumption on which he made the contract has a material effect on the agreed
-exchange of performances that is adverse to him, the contract is voidable by him if he
+
+(2) In determining whether the mistake has a material effect on the agreed exchange of performances, account is taken of any relief by way of reformation, restitution, or otherwise.
+
+### § 153. When Mistake of One Party Makes a Contract Voidable
+
+Where a mistake of one party at the time a contract was made as to a basic assumption on which he made the contract has a material effect on the agreed exchange of performances that is adverse to him, the contract is voidable by him if he
 does not bear the risk of the mistake under the rule stated in § 154, and
-(a) the effect of the mistake is such that enforcement of the contract would
-be unconscionable, or
-(b) the other party had reason to know of the mistake or his fault caused
-the mistake.
-§ 154. When a Party Bears the Risk of a Mistake
+
+(a) the effect of the mistake is such that enforcement of the contract would be unconscionable, or
+
+(b) the other party had reason to know of the mistake or his fault caused the mistake.
+
+### § 154. When a Party Bears the Risk of a Mistake
+
 A party bears the risk of a mistake when
+
 (a) the risk is allocated to him by agreement of the parties, or
-(b) he is aware, at the time the contract is made, that he has only limited
-knowledge with respect to the facts to which the mistake relates but treats his
-limited knowledge as sufficient, or
-(c) the risk is allocated to him by the court on the ground that it is
-reasonable in the circumstances to do so. 
+
+(b) he is aware, at the time the contract is made, that he has only limited knowledge with respect to the facts to which the mistake relates but treats his limited knowledge as sufficient, or
+(c) the risk is allocated to him by the court on the ground that it is reasonable in the circumstances to do so. 
+
 Page 22
-§ 155. When Mistake of Both Parties as to Written Expression
-justifies Reformation
-Where a writing that evidences or embodies an agreement in whole or in part
-fails to express the agreement because of a mistake of both parties as to the contents
-or effect of the writing, the court may at the request of a party reform the writing to
-express the agreement, except to the extent that rights of third parties such as good
-faith purchasers for value will be unfairly affected.
-§ 157. Effect of Fault of Party Seeking Relief
-A mistaken party's fault in failing to know or discover the facts before making the
-contract does not bar him from avoidance or reformation under the rules stated in this
-Chapter, unless his fault amounts to a failure to act in good faith and in accordance
-with reasonable standards of fair dealing.
-§ 158. Relief Including Restitution
-(1) In any case governed by the rules stated in this Chapter, either party may
-have a claim for relief including restitution under the rules stated in §§ 240 and 376.
-(2) In any case governed by the rules stated in this Chapter, if those rules
-together with the rules stated in Chapter 16 will not avoid injustice, the court may
-grant relief on such terms as justice requires including protection of the parties'
+
+### § 155. When Mistake of Both Parties as to Written Expression justifies Reformation
+
+Where a writing that evidences or embodies an agreement in whole or in part fails to express the agreement because of a mistake of both parties as to the contents or effect of the writing, the court may at the request of a party reform the writing to express the agreement, except to the extent that rights of third parties such as good faith purchasers for value will be unfairly affected.
+
+### § 157. Effect of Fault of Party Seeking Relief
+
+A mistaken party's fault in failing to know or discover the facts before making the contract does not bar him from avoidance or reformation under the rules stated in this Chapter, unless his fault amounts to a failure to act in good faith and in accordance with reasonable standards of fair dealing.
+
+### § 158. Relief Including Restitution
+
+(1) In any case governed by the rules stated in this Chapter, either party may have a claim for relief including restitution under the rules stated in §§ 240 and 376.
+
+(2) In any case governed by the rules stated in this Chapter, if those rules together with the rules stated in Chapter 16 will not avoid injustice, the court may grant relief on such terms as justice requires including protection of the parties'
 reliance interests.
-CHAPTER 7
-MISREPRESENTATION, DURESS AND UNDUE INFLUENCE
-§ 161. When Non-Disclosure Is Equivalent to an Assertion
-A person's non-disclosure of a fact known to him is equivalent to an assertion
-that the fact does not exist in the following cases only:
-(a) where he knows that disclosure of the fact is necessary to prevent
-some previous assertion from being a misrepresentation or from being
-fraudulent or material.
-(b) where he knows that disclosure of the fact would correct a mistake of
-the other party as to a basic assumption on which that party is making the
-contract and if non-disclosure of the fact amounts to a failure to act in good faith
+
+#
+
+## CHAPTER 7
+
+## MISREPRESENTATION, DURESS AND UNDUE INFLUENCE
+
+### § 161. When Non-Disclosure Is Equivalent to an Assertion
+
+A person's non-disclosure of a fact known to him is equivalent to an assertion that the fact does not exist in the following cases only:
+
+(a) where he knows that disclosure of the fact is necessary to prevent some previous assertion from being a misrepresentation or from being fraudulent or material.
+
+(b) where he knows that disclosure of the fact would correct a mistake of the other party as to a basic assumption on which that party is making the contract and if non-disclosure of the fact amounts to a failure to act in good faith
 and in accordance with reasonable standards of fair dealing.
-(c) where he knows that disclosure of the fact would correct a mistake of
-the other party as to the contents or effect of a writing, evidencing or embodying
-an agreement in whole or in part.
-(d) where the other person is entitled to know the fact because of a relation
-of trust and confidence between them. 
+
+(c) where he knows that disclosure of the fact would correct a mistake of the other party as to the contents or effect of a writing, evidencing or embodying an agreement in whole or in part.
+
+(d) where the other person is entitled to know the fact because of a relation of trust and confidence between them. 
+
 Page 23
-§ 162. When a Misrepresentation Is Fraudulent or Material
+
+### § 162. When a Misrepresentation Is Fraudulent or Material
+
 (1) A misrepresentation is fraudulent if the maker intends his assertion to induce
 a party to manifest his assent and the maker
 (a) knows or believes that the assertion is not in accord with the facts, or
