@@ -1,10 +1,16 @@
-# AALE-3rd-Session-Most-Salient-Points .md
-#
-# UCWIP - Under Construction - Work In Progress
+# MIT Media Lab - Computational Law
 
-#
-# NOTE: Brenden has included important point that weren't talked (much) during Live Session but wre tackled off-the-record in preparatory sessions. Make sure to include these in both SALIENT POINTS and full TAKEAWAY.
+## Law ReImagined-
+## Inventing Automated and Autonomous Legal Entities Part 3
 
+### "AALE" Collaborative Hack with Dazza, Beth, Brenden, Bryan, Silke et al. 
+
+###
+
+#### Most salient points from the July 23rd 2019 3rd Live Session
+#### (from Berlin, directed by Beth in collaboration with Cem & Jim from Publishing DAO)
+ 
+#
 
 #
 
