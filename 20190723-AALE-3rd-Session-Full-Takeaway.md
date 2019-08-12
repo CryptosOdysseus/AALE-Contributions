@@ -29,7 +29,7 @@
  
 ### _This takeaway is best tackled if you first scan the file:_
 
-**" 20190723-AALE-3rd-Session-Most-Salient-Points .md " (https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190723-AALE-3rd-Session-Most-Salient-Points%20.md)**
+**" 20190723-AALE-3rd-Session-Most-Salient-Points.md " (https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190723-AALE-3rd-Session-Most-Salient-Points.md)**
 
 #
 
