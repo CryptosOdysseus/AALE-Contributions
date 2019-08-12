@@ -7,7 +7,7 @@
 
 ###
 
-#### Key take-outs from the July 23rd 2019 Live Session from Berlin
+#### Takeaway from the July 23rd 2019 Live Session from Berlin
 
 #### Directed by Beth in collaboration with Cem & Jim from Publishing DAO 
 
@@ -27,7 +27,7 @@
 
 #
  
-### _This key take-outs are best tackled if you first scan the file:_
+### _This takeaway is best tackled if you first scan the file:_
 
 **" 20190723-AALE-3rd-Session-Most-Salient-Points .md " (https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190723-AALE-3rd-Session-Most-Salient-Points%20.md)**
 
@@ -87,16 +87,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ##
  
-#### -H- Next Steps
-
-##### -H-1: Further consolidating the Agency Law analysis with the Publishing DAO case**
-
-##### -H-2: Transitioning to Contract Law analysis**
-
-##### -H-3: Getting closer to pre-Fall objectives as mentioned in HackMD Working Topics**
-
-##### -H-4: Starting retro-planning of next steps with Indian Summer & Wintery Fall deliverables**
-
+ 
 #
 
 #
@@ -418,40 +409,13 @@ Furthermore (Cem) there are some basic using functions which are not operated by
 ##
 
 #### -G- Other important points requiring further digging XXXXXX TO BE UPDATED WITH SALIENTS POINTS XXXXX
- 
 
 
 
 
- 
-##
 
-##
 
-#### -H- Next Steps XXXXXX TO BE UPDATED WITH SALIENTS POINTS XXXXX
- 
-This is the 2nd iteration of 3rd cycle, an immediate next step in coming week(s) would be a 3rd iteration that refine things done here (also a 1-pager executive summary can be drawn from content structure), follow-up on previous cycles working topics, and introduce new elements.
- 
-H-1: Further consolidating the Agency Law analysis with the Publishing DAO case: work-in-progress
- 
-H-2: Transitioning to Contract Law analysis  
- 
-We’ve started to scan the Contract Law Restatement (2nd) provided by Dazza-thanks, plotting the optimal way to hack through it, smack it with a matrix to boil it down to an essential check-list that matters for our permutation legal outcomes analysis conventional ecosystem vs AALE/DAO.
- 
-H-3: Getting closer to pre-Fall objectives as mentioned in HackMD Working Topics
- 
-In the previous cycle memo, we came up with a table that starts to address questions around Working Topics, so we continue to tweak it in light of new lessons learned in this cycle with the Publishing DAO. We’ll see where that leads us for a possible update in next iteration.
- 
-H-4: Starting retro-planning of next steps with Indian Summer & Wintery Fall deliverables
- 
-Not for us to decide, but the idea is to start thinking about AALE challenge deliverable timelines, might still be a bit premature, so just in case.
- 
-Seasonally, Fall falls in the Sept. 21-Dec. 21 time frame, so we might want to split the time frame like this, Climate Change notwithstanding:
-+ Smoldering to Balmy Summer- now till most of September (it depends where).
-+ Fall till Indian Summer- end September till (technically) the St-Martin week of 11-20 November
-+ Wintery Fall- Don’t want to think about it now. And, other than that, Halloween & Thanksgivings are two noticeable time marks.
- 
-Let’s see how things go until next iteration, we (Chris) remain AALE-active during this summer, feel free to feed-back anytimeJ
+
 
 #
 
