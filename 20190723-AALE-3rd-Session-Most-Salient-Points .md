@@ -12,6 +12,18 @@
  
 #
 
+##### Chris B. DRAFT Unverified – this work is consistently built upon input from above Team Legal Hackers Extraordinaire, thus mistakes, confusions & omissions are ours (non-lawyer Chris) only.  
+ 
+###### Quote of the Summer of 2019:  _Rebel, But With A Regulated Cause._
+
+#
+ 
+**Creative Commons Attribution License: https://creativecommons.org/licenses/by/4.0/**
+
+**Attribution: Christophe Bosquillon, MSc in cryptocurrency, digital assets & blockchain at the University of Nicosia, Cyprus (on-going). Also an alumni of Mines Paritech & HEC (Entrepreneurs) Paris.**
+
+#
+
 #
 
 #### -A- Suggestion for better process by Bryan
