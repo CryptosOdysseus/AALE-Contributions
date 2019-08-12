@@ -470,115 +470,140 @@ Page 7
 
 #
 
-RESTATEMENT (SECOND) OF CONTRACTS
-CHAPTER 1
-MEANING OF TERMS
-§ 1. Contract Defined
-A contract is a promise or a set of promises for the breach of which the law gives
-a remedy, or the performance of which the law in some way recognizes as a duty.
-§ 2. Promise; Promisor; Promisee; Beneficiary
-(1) A promise is a manifestation of intention to act or refrain from acting in a
-specified way, so made as to justify a promisee in understanding that a commitment
-has been made.
-(2) The person manifesting the intention is the promisor.
-(3) The person to whom the manifestation is addressed is the promisee.
-(4) Where performance will benefit a person other than the promisee, that person
-is a beneficiary.
-§ 4. How a Promise May Be Made
-A promise may be stated in words either oral or written, or may be inferred wholly
-or partly from conduct. 
-Page 8
-CHAPTER 2
-FORMATION OF CONTRACTS–PARTIES AND CAPACITY
-§ 12. Capacity to Contract
-(1) No one can be bound by contract who has not legal capacity to incur at least
-voidable contractual duties. Capacity to contract may be partial and its existence in
-respect of a particular transaction may depend upon the nature of the transaction or
-upon other circumstances.
-(2) A natural person who manifests assent to a transaction has full legal capacity
-to incur contractual duties thereby unless he is
-(a) under guardianship, or
-(b) an infant, or
-(c) mentally ill or defective, or
-(d) intoxicated.
-§ 13. Persons Affected by Guardianship
-A person has no capacity to incur contractual duties if his property is under
-guardianship by reason of an adjudication of mental illness or defect.
-§ 14. Infants
-Unless a statute provides otherwise, a natural person has the capacity to incur
-only voidable contractual duties until the beginning of the day before the person's
-eighteenth birthday.
-§ 15. Mental Illness or Defect
-(1) A person incurs only voidable contractual duties by entering into a transaction
-if by reason of mental illness or defect
-(a) he is unable to understand in a reasonable manner the nature and
-consequences of the transaction, or
-(b) he is unable to act in a reasonable manner in relation to the transaction
-and the other party has reason to know of his condition.
-(2) Where the contract is made on fair terms and the other party is without
-knowledge of the mental illness or defect, the power of avoidance under Subsection
-(1) terminates to the extent that the contract has been so performed in whole or in
-part or the circumstances have so changed that avoidance would be unjust. In such a
-case a court may grant relief as justice requires.
-§ 16. Intoxicated Persons
-A person incurs only voidable contractual duties by entering into a transaction if
-the other party has reason to know that by reason of intoxication 
-Page 9
-(a) he is unable to understand in a reasonable manner the nature and
-consequences of the transaction, or
-(b) he is unable to act in a reasonable manner in relation to the transaction.
-CHAPTER 3 
+# RESTATEMENT (SECOND) OF CONTRACTS
 
-FORMATION OF CONTRACTS–MUTUAL ASSENT
-§ 17. Requirement of a Bargain
-(1) Except as stated in Subsection (2), the formation of a contract requires a
-bargain in which there is a manifestation of mutual assent to the exchange and a
-consideration.
-(2) Whether or not there is a bargain a contract may be formed under special
-rules applicable to formal contracts or under the rules stated in §§ 82-94.
-§ 18. Manifestation of Mutual Assent
-Manifestation of mutual assent to an exchange requires that each party either
-make a promise or begin or render a performance.
-[The predecessor of § 18 is § 20 of the First Restatement. It read as follows:
-§ 20. Requirement of Manifestation of Mutual Assent.
-A manifestation of mutual assent by the parties to an informal contract is
-essential to its formation and the acts by which such assent is manifested must be
-done with the intent to do those acts; but, except as qualified by §§ 55, 71 and 72,
-neither mental assent to the promises in the contract nor real or apparent intent that
-the promises shall be legally binding is essential.]
-§ 20. Effect of Misunderstanding
-(1) There is no manifestation of mutual assent to an exchange if the parties
-attach materially different meanings to their manifestations and
+#
+
+## CHAPTER 1
+
+## MEANING OF TERMS
+
+### § 1. Contract Defined
+
+A contract is a promise or a set of promises for the breach of which the law gives a remedy, or the performance of which the law in some way recognizes as a duty.
+
+### § 2. Promise; Promisor; Promisee; Beneficiary
+
+(1) A promise is a manifestation of intention to act or refrain from acting in a specified way, so made as to justify a promisee in understanding that a commitment has been made.
+
+(2) The person manifesting the intention is the promisor.
+
+(3) The person to whom the manifestation is addressed is the promisee.
+
+(4) Where performance will benefit a person other than the promisee, that person is a beneficiary.
+
+### § 4. How a Promise May Be Made
+
+A promise may be stated in words either oral or written, or may be inferred wholly or partly from conduct. 
+
+#
+
+Page 8
+
+## CHAPTER 2
+
+## FORMATION OF CONTRACTS–PARTIES AND CAPACITY
+
+### § 12. Capacity to Contract
+
+(1) No one can be bound by contract who has not legal capacity to incur at least voidable contractual duties. Capacity to contract may be partial and its existence in respect of a particular transaction may depend upon the nature of the transaction or upon other circumstances.
+
+(2) A natural person who manifests assent to a transaction has full legal capacity to incur contractual duties thereby unless he is
+
+(a) under guardianship, or
+
+(b) an infant, or
+
+(c) mentally ill or defective, or
+
+(d) intoxicated.
+
+### § 13. Persons Affected by Guardianship
+
+A person has no capacity to incur contractual duties if his property is under guardianship by reason of an adjudication of mental illness or defect.
+
+### § 14. Infants
+
+Unless a statute provides otherwise, a natural person has the capacity to incur only voidable contractual duties until the beginning of the day before the person's eighteenth birthday.
+
+### § 15. Mental Illness or Defect
+
+(1) A person incurs only voidable contractual duties by entering into a transaction if by reason of mental illness or defect
+
+(a) he is unable to understand in a reasonable manner the nature and consequences of the transaction, or
+
+(b) he is unable to act in a reasonable manner in relation to the transaction and the other party has reason to know of his condition.
+
+(2) Where the contract is made on fair terms and the other party is without knowledge of the mental illness or defect, the power of avoidance under Subsection (1) terminates to the extent that the contract has been so performed in whole or in
+part or the circumstances have so changed that avoidance would be unjust. In such a case a court may grant relief as justice requires.
+
+### § 16. Intoxicated Persons
+
+A person incurs only voidable contractual duties by entering into a transaction if the other party has reason to know that by reason of intoxication 
+
+Page 9
+
+(a) he is unable to understand in a reasonable manner the nature and consequences of the transaction, or
+
+(b) he is unable to act in a reasonable manner in relation to the transaction.
+
+#
+
+## CHAPTER 3 
+
+## FORMATION OF CONTRACTS–MUTUAL ASSENT
+
+### § 17. Requirement of a Bargain
+
+(1) Except as stated in Subsection (2), the formation of a contract requires a bargain in which there is a manifestation of mutual assent to the exchange and a consideration.
+
+(2) Whether or not there is a bargain a contract may be formed under special rules applicable to formal contracts or under the rules stated in §§ 82-94.
+
+### § 18. Manifestation of Mutual Assent
+
+Manifestation of mutual assent to an exchange requires that each party either make a promise or begin or render a performance.
+
+[The predecessor of § 18 is § 20 of the First Restatement. It read as follows: 
+§ 20. Requirement of Manifestation of Mutual Assent. 
+A manifestation of mutual assent by the parties to an informal contract is essential to its formation and the acts by which such assent is manifested must be done with the intent to do those acts; but, except as qualified by §§ 55, 71 and 72,
+neither mental assent to the promises in the contract nor real or apparent intent that the promises shall be legally binding is essential.]
+
+### § 20. Effect of Misunderstanding
+
+(1) There is no manifestation of mutual assent to an exchange if the parties attach materially different meanings to their manifestations and
+
 (a) neither party knows or has reason to know the meaning attached by the
 other; or
+
 (b) each party knows or each party has reason to know the meaning
 attached by the other.
-(2) The manifestations of the parties are operative in accordance with the
-meaning attached to them by one of the parties if
-(a) that party does not know of any different meaning attached by the other,
-and the other knows the meaning attached by the first party; or
-(b) that party has no reason to know of any different meaning attached by
-the other, and the other has reason to know the meaning attached by the first
-party. 
+
+(2) The manifestations of the parties are operative in accordance with the meaning attached to them by one of the parties if
+
+(a) that party does not know of any different meaning attached by the other, and the other knows the meaning attached by the first party; or
+
+(b) that party has no reason to know of any different meaning attached by the other, and the other has reason to know the meaning attached by the first party. 
+
 Page 10
-§ 22. Mode of Assent: Offer and Acceptance
-(1) The manifestation of mutual assent to an exchange ordinarily takes the form
-of an offer or proposal by one party followed by an acceptance by the other party or
-parties.
-(2) A manifestation of mutual assent may be made even though neither offer nor
-acceptance can be identified and even though the moment of formation cannot be
-determined.
-§ 24. Offer Defined
-An offer is the manifestation of willingness to enter into a bargain, so made as to
-justify another person in understanding that his assent to that bargain is invited and
-will conclude it.
-§ 25. Option Contracts
-An option contract is a promise which meets the requirements for the formation
-of a contract and limits the promisor's power to revoke an offer.
-§ 26. Preliminary Negotiations
-A manifestation of willingness to enter into a bargain is not an offer if the person
-to whom it is addressed knows or has reason to know that the person making it does
-not intend to conclude a bargain until he has made a further manifestation of assent.
+
+### § 22. Mode of Assent: Offer and Acceptance
+
+(1) The manifestation of mutual assent to an exchange ordinarily takes the form of an offer or proposal by one party followed by an acceptance by the other party or parties.
+
+(2) A manifestation of mutual assent may be made even though neither offer nor acceptance can be identified and even though the moment of formation cannot be determined.
+
+### § 24. Offer Defined
+
+An offer is the manifestation of willingness to enter into a bargain, so made as to justify another person in understanding that his assent to that bargain is invited and will conclude it.
+
+### § 25. Option Contracts
+
+An option contract is a promise which meets the requirements for the formation of a contract and limits the promisor's power to revoke an offer.
+
+### § 26. Preliminary Negotiations
+
+A manifestation of willingness to enter into a bargain is not an offer if the person to whom it is addressed knows or has reason to know that the person making it does not intend to conclude a bargain until he has made a further manifestation of assent.
+
 [The predecessor of § 26 is § 25 of the First Restatement. It reads as follows:
 § 25. When a Manifestation of Intention is Not an Offer.
 If from a promise, or manifestation of intention, or from the circumstances
@@ -586,214 +611,223 @@ existing at the time, the person to whom the promise or manifestation is address
 knows or has reason to know that the person making it does not intend it as an
 expression of his fixed purpose until he has given a further expression of assent, he
 has not made an offer.]
-§ 27. Existence of Contract Where Written Memorial is Contemplated
-Manifestations of assent that are in themselves sufficient to conclude a contract
-will not be prevented from so operating by the fact that the parties also manifest an
-intention to prepare and adopt a written memorial thereof, but the circumstances may
-show that the agreements are preliminary negotiations.
-§ 30. Form of Acceptance Invited
-(1) An offer may invite or require acceptance to be made by an affirmative
-answer in words, or by performing or refraining from performing a specified act, or
-may empower the offeree to make a selection of terms in his acceptance.
-(2) Unless otherwise indicated by the language or the circumstances, an offer
-invites acceptance in any manner and by any medium reasonable in the
-circumstances. 
+
+### § 27. Existence of Contract Where Written Memorial is Contemplated
+
+Manifestations of assent that are in themselves sufficient to conclude a contract will not be prevented from so operating by the fact that the parties also manifest an intention to prepare and adopt a written memorial thereof, but the circumstances may show that the agreements are preliminary negotiations.
+
+### § 30. Form of Acceptance Invited
+
+(1) An offer may invite or require acceptance to be made by an affirmative answer in words, or by performing or refraining from performing a specified act, or may empower the offeree to make a selection of terms in his acceptance.
+
+(2) Unless otherwise indicated by the language or the circumstances, an offer invites acceptance in any manner and by any medium reasonable in the circumstances. 
+
 Page 11
-§ 32. Invitation of Promise or Performance
-In case of doubt an offer is interpreted as inviting the offeree to accept either by
-promising to perform what the offer requests or by rendering the performance, as the
-offeree chooses.
-§ 33. Certainty
-(1) Even though a manifestation of intention is intended to be understood as an
-offer, it cannot be accepted so as to form a contract unless the terms of the contract
-are reasonably certain.
-(2) The terms of a contract are reasonably certain if they provide a basis for
-determining the existence of a breach and for giving an appropriate remedy. (3) The
-fact that one or more terms of a proposed bargain are left open or uncertain may
-show that a manifestation of intention is not intended to be understood as an offer or
-as an acceptance.
-§ 34. Certainty and Choice of Terms; Effect of Performance or
-Reliance
-(1) The terms of a contract may be reasonably certain even though it empowers
-one or both parties to make a selection of terms in the course of performance.
-(2) Part performance under an agreement may remove uncertainty and establish
-that a contract enforceable as a bargain has been formed.
-(3) Action in reliance on an agreement may make a contractual remedy
-appropriate even though uncertainty is not removed.
-§ 35. The Offeree's Power of Acceptance
-(1) An offer gives to the offeree a continuing power to complete the manifestation
-of mutual assent by acceptance of the offer.
-(2) A contract cannot be created by acceptance of an offer after the power of
-acceptance has been terminated in one of the ways listed in § 36.
-§ 36. Methods of Termination of the Power of Acceptance
+
+### § 32. Invitation of Promise or Performance
+
+In case of doubt an offer is interpreted as inviting the offeree to accept either by promising to perform what the offer requests or by rendering the performance, as the offeree chooses.
+
+### § 33. Certainty
+
+(1) Even though a manifestation of intention is intended to be understood as an offer, it cannot be accepted so as to form a contract unless the terms of the contract are reasonably certain.
+
+(2) The terms of a contract are reasonably certain if they provide a basis for determining the existence of a breach and for giving an appropriate remedy. 
+
+(3) The fact that one or more terms of a proposed bargain are left open or uncertain may show that a manifestation of intention is not intended to be understood as an offer or as an acceptance.
+
+### § 34. Certainty and Choice of Terms; Effect of Performance or Reliance
+
+(1) The terms of a contract may be reasonably certain even though it empowers one or both parties to make a selection of terms in the course of performance.
+
+(2) Part performance under an agreement may remove uncertainty and establish that a contract enforceable as a bargain has been formed.
+
+(3) Action in reliance on an agreement may make a contractual remedy appropriate even though uncertainty is not removed.
+
+### § 35. The Offeree's Power of Acceptance
+
+(1) An offer gives to the offeree a continuing power to complete the manifestation of mutual assent by acceptance of the offer.
+
+(2) A contract cannot be created by acceptance of an offer after the power of acceptance has been terminated in one of the ways listed in § 36.
+
+### § 36. Methods of Termination of the Power of Acceptance
+
 (1) An offeree's power of acceptance may be terminated by
+
 (a) rejection or counter-offer by the offeree, or
+
 (b) lapse of time, or
+
 (c) revocation by the offeror, or
+
 (d) death or incapacity of the offeror or offeree.
-(2) In addition, an offeree's power of acceptance is terminated by the
-nonoccurrence of any condition of acceptance under the terms of the offer.
-§ 38. Rejection
-(1) An offeree's power of acceptance is terminated by his rejection of the offer,
-unless the offeror has manifested a contrary intention. 
+
+(2) In addition, an offeree's power of acceptance is terminated by the nonoccurrence of any condition of acceptance under the terms of the offer.
+
+### § 38. Rejection
+
+(1) An offeree's power of acceptance is terminated by his rejection of the offer, unless the offeror has manifested a contrary intention.
+
 Page 12
-(2) A manifestation of intention not to accept an offer is a rejection unless the
-offeree manifests an intention to take it under further advisement.
-§ 39. Counter-offers
-(1) A counter-offer is an offer made by an offeree to his offeror relating to the
-same matter as the original offer and proposing a substituted bargain differing from
-that proposed by the original offer.
+
+(2) A manifestation of intention not to accept an offer is a rejection unless the offeree manifests an intention to take it under further advisement.
+
+### § 39. Counter-offers
+
+(1) A counter-offer is an offer made by an offeree to his offeror relating to the same matter as the original offer and proposing a substituted bargain differing from that proposed by the original offer.
+
 (2) An offeree's power of acceptance is terminated by his making of a counteroffer, unless the offeror has manifested a contrary intention or unless the counteroffer manifests a contrary intention of the offeree.
+
 [The predecessor of § 39 is § 38 of the First Restatement. It read as follows:
 § 38. Rejection of Offer by Counter-Offer.
 A counter-offer by the offeree, relating to the same matter as the original offer, is
 a rejection of the original offer, unless the offeror in his offer, or the offeree in his
 counter-offer states that in spite of the counter-offer the original offer shall not be
 terminated.]
-§ 40. Time When Rejection or Counter-offer Terminates the Power of
-Acceptance
-Rejection or counter-offer by mail or telegram does not terminate the power of
-acceptance until received by the offeror, but limits the power so that a letter or
-telegram of acceptance started after the sending of an otherwise effective rejection or
-counter-offer is only a counter-offer unless the acceptance is received by the offeror
-before he receives the rejection or counter-offer.
-§ 41. Lapse of Time
-(1) An offeree's power of acceptance is terminated at the time specified in the
-offer, or, if no time is specified, at the end of a reasonable time.
-(2) What is a reasonable time is a question of fact, depending on all the
-circumstances existing when the offer and attempted acceptance are made.
-(3) Unless otherwise indicated by the language or the circumstances, and subject
-to the rule stated in § 49, an offer sent by mail is seasonably accepted if an
-acceptance is mailed at any time before midnight on the day on which the offer is
+
+### § 40. Time When Rejection or Counter-offer Terminates the Power of Acceptance
+
+Rejection or counter-offer by mail or telegram does not terminate the power of acceptance until received by the offeror, but limits the power so that a letter or telegram of acceptance started after the sending of an otherwise effective rejection or
+counter-offer is only a counter-offer unless the acceptance is received by the offeror before he receives the rejection or counter-offer.
+
+### § 41. Lapse of Time
+
+(1) An offeree's power of acceptance is terminated at the time specified in the offer, or, if no time is specified, at the end of a reasonable time.
+
+(2) What is a reasonable time is a question of fact, depending on all the circumstances existing when the offer and attempted acceptance are made.
+
+(3) Unless otherwise indicated by the language or the circumstances, and subjectto the rule stated in § 49, an offer sent by mail is seasonably accepted if an acceptance is mailed at any time before midnight on the day on which the offer is
 received.
-§ 42. Revocation by Communication from Offeror Received by
-Offeree
-An offeree's power of acceptance is terminated when the offeree receives from
-the offeror a manifestation of an intention not to enter into the proposed contract. 
+
+### § 42. Revocation by Communication from Offeror Received by Offeree
+
+An offeree's power of acceptance is terminated when the offeree receives from the offeror a manifestation of an intention not to enter into the proposed contract. 
+
 Page 13
-§ 43. Indirect Communication of Revocation
-An offeree's power of acceptance is terminated when the offeror takes definite
-action inconsistent with an intention to enter into the proposed contract and the
-offeree acquires reliable information to that effect.
-§ 45. Option Contract Created by Part Performance or Tender
-(1) Where an offer invites an offeree to accept by rendering a performance and
-does not invite a promissory acceptance, an option contract is created when the
-offeree tenders or begins the invited performance or tenders a beginning of it.
-(2) The offeror's duty of performance under any option contract so created is
-conditional on completion or tender of the invited performance in accordance with the
-terms of the offer.
-§ 46. Revocation of General Offer
-Where an offer is made by advertisement in a newspaper or other general
-notification to the public or to a number of persons whose identity is unknown to the
-offeror, the offeree's power of acceptance is terminated when a notice of termination
-is given publicity by advertisement or other general notification equal to that given to
-the offer and no better means of notification is reasonably available.
-§ 48. Death or Incapacity of Offeror or Offeree
-An offeree's power of acceptance is terminated when the offeree or offeror dies
-or is deprived of legal capacity to enter into the proposed contract.
-§ 50. Acceptance of Offer Defined; Acceptance by Performance;
-Acceptance by Promise
-(1) Acceptance of an offer is a manifestation of assent to the terms thereof made
-by the offeree in a manner invited or required by the offer.
-(2) Acceptance by performance requires that at least part of what the offer
-requests be performed or tendered and includes acceptance by a performance which
-operates as a return promise.
-(3) Acceptance by a promise requires that the offeree complete every act
-essential to the making of the promise.
-§ 51. Effect of Part Performance Without Knowledge of Offer
-Unless the offeror manifests a contrary intention, an offeree who learns of an
-offer after he has rendered part of the performance requested by the offer may accept
-by completing the requested performance.
-§ 52. Who May Accept an Offer
-An offer can be accepted only by a person whom it invites to furnish the
-consideration. 
+
+### § 43. Indirect Communication of Revocation
+
+An offeree's power of acceptance is terminated when the offeror takes definite action inconsistent with an intention to enter into the proposed contract and the offeree acquires reliable information to that effect.
+
+### § 45. Option Contract Created by Part Performance or Tender
+
+(1) Where an offer invites an offeree to accept by rendering a performance and does not invite a promissory acceptance, an option contract is created when the offeree tenders or begins the invited performance or tenders a beginning of it.
+
+(2) The offeror's duty of performance under any option contract so created is conditional on completion or tender of the invited performance in accordance with the terms of the offer.
+
+### § 46. Revocation of General Offer
+
+Where an offer is made by advertisement in a newspaper or other general notification to the public or to a number of persons whose identity is unknown to the offeror, the offeree's power of acceptance is terminated when a notice of termination
+is given publicity by advertisement or other general notification equal to that given to the offer and no better means of notification is reasonably available.
+
+### § 48. Death or Incapacity of Offeror or Offeree
+
+An offeree's power of acceptance is terminated when the offeree or offeror dies or is deprived of legal capacity to enter into the proposed contract.
+
+### § 50. Acceptance of Offer Defined; Acceptance by Performance;
+
+### Acceptance by Promise
+
+(1) Acceptance of an offer is a manifestation of assent to the terms thereof made by the offeree in a manner invited or required by the offer.
+
+(2) Acceptance by performance requires that at least part of what the offer requests be performed or tendered and includes acceptance by a performance which operates as a return promise.
+
+(3) Acceptance by a promise requires that the offeree complete every act essential to the making of the promise.
+
+### § 51. Effect of Part Performance Without Knowledge of Offer
+
+Unless the offeror manifests a contrary intention, an offeree who learns of an offer after he has rendered part of the performance requested by the offer may accept by completing the requested performance.
+
+### § 52. Who May Accept an Offer
+
+An offer can be accepted only by a person whom it invites to furnish the consideration. 
+
 Page 14
-§ 53. Acceptance by Performance; Manifestation of Intention Not to
-Accept
-(1) An offer can be accepted by the rendering of a performance only if the offer
-invites such an acceptance.
-(2) Except as stated in § 69, the rendering of a performance does not constitute
-an acceptance if within a reasonable time the offeree exercises reasonable diligence
-to notify the offeror of non-acceptance.
-(3) Where an offer of a promise invites acceptance by performance and does not
-invite a promissory acceptance, the rendering of the invited performance does not
-constitute an acceptance if before the offeror performs his promise the offeree
-manifests an intention not to accept.
-§ 54. Acceptance by Performance; Necessity of Notification to
-Offeror
-(1) Where an offer invites an offeree to accept by rendering a performance, no
-notification is necessary to make such an acceptance effective unless the offer
-requests such a notification.
-(2) If an offeree who accepts by rendering a performance has reason to know
-that the offeror has no adequate means of learning of the performance with
-reasonable promptness and certainty, the contractual duty of the offeror is discharged
+
+### § 53. Acceptance by Performance; Manifestation of Intention Not to Accept
+
+(1) An offer can be accepted by the rendering of a performance only if the offer invites such an acceptance.
+
+(2) Except as stated in § 69, the rendering of a performance does not constitute an acceptance if within a reasonable time the offeree exercises reasonable diligence to notify the offeror of non-acceptance.
+
+(3) Where an offer of a promise invites acceptance by performance and does not invite a promissory acceptance, the rendering of the invited performance does not constitute an acceptance if before the offeror performs his promise the offeree manifests an intention not to accept.
+
+### § 54. Acceptance by Performance; Necessity of Notification to Offeror
+
+(1) Where an offer invites an offeree to accept by rendering a performance, no notification is necessary to make such an acceptance effective unless the offer requests such a notification.
+
+(2) If an offeree who accepts by rendering a performance has reason to know that the offeror has no adequate means of learning of the performance with reasonable promptness and certainty, the contractual duty of the offeror is discharged
 unless
-(a) the offeree exercises reasonable diligence to notify the offeror of
-acceptance, or
+
+(a) the offeree exercises reasonable diligence to notify the offeror of acceptance, or
+
 (b) the offeror learns of the performance within a reasonable time, or
+
 (c) the offer indicates that notification of acceptance is not required.
-§ 55. Acceptance of Non-Promissory Offers
-Acceptance by promise may create a contract in which the offeror's performance
-is completed when the offeree's promise is made.
-§ 56. Acceptance by Promise; Necessity of Notification to Offeror
-Except as stated in § 69 or where the offer manifests a contrary intention, it is
-essential to an acceptance by promise either that the offeree exercise reasonable
-diligence to notify the offeror of acceptance or that the offeror receive the acceptance
-seasonably.
-§ 58. Necessity of Acceptance Complying with Terms of Offer
-An acceptance must comply with the requirements of the offer as to the promise
-to be made or the performance to be rendered. 
+
+### § 55. Acceptance of Non-Promissory Offers
+
+Acceptance by promise may create a contract in which the offeror's performance is completed when the offeree's promise is made.
+
+### § 56. Acceptance by Promise; Necessity of Notification to Offeror
+
+Except as stated in § 69 or where the offer manifests a contrary intention, it is essential to an acceptance by promise either that the offeree exercise reasonable diligence to notify the offeror of acceptance or that the offeror receive the acceptance seasonably.
+
+### § 58. Necessity of Acceptance Complying with Terms of Offer
+
+An acceptance must comply with the requirements of the offer as to the promise to be made or the performance to be rendered. 
+
 Page 15
-§ 59. Purported Acceptance Which Adds Qualifications
-A reply to an offer which purports to accept it but is conditional on the offeror's
-assent to terms additional to or different from those offered is not an acceptance but
-is a counter-offer.
-§ 60. Acceptance of Offer Which States Place, Time or Manner of
-Acceptance
-If an offer prescribes the place, time or manner of acceptance its terms in this
-respect must be complied with in order to create a contract. If an offer merely
-suggests a permitted place, time or manner of acceptance, another method of
-acceptance is not precluded.
-§ 61. Acceptance Which Requests Change of Terms
-An acceptance which requests a change or addition to the terms of the offer is
-not thereby invalidated unless the acceptance is made to depend on an assent to the
-changed or added terms.
-§ 62. Effect of Performance by Offeree Where Offer Invites Either
-Performance or Promise
-(1) Where an offer invites an offeree to choose between acceptance by promise
-and acceptance by performance, the tender or beginning of the invited performance
-or a tender of a beginning of it is an acceptance by performance.
+
+### § 59. Purported Acceptance Which Adds Qualifications
+
+A reply to an offer which purports to accept it but is conditional on the offeror's assent to terms additional to or different from those offered is not an acceptance but is a counter-offer.
+
+### § 60. Acceptance of Offer Which States Place, Time or Manner of Acceptance
+
+If an offer prescribes the place, time or manner of acceptance its terms in this respect must be complied with in order to create a contract. If an offer merely suggests a permitted place, time or manner of acceptance, another method of acceptance is not precluded.
+
+### § 61. Acceptance Which Requests Change of Terms
+
+An acceptance which requests a change or addition to the terms of the offer is not thereby invalidated unless the acceptance is made to depend on an assent to the changed or added terms.
+
+### § 62. Effect of Performance by Offeree Where Offer Invites Either Performance or Promise
+
+(1) Where an offer invites an offeree to choose between acceptance by promise and acceptance by performance, the tender or beginning of the invited performance or a tender of a beginning of it is an acceptance by performance.
+
 (2) Such an acceptance operates as a promise to render complete performance.
-§ 63. Time When Acceptance Takes Effect
+
+### § 63. Time When Acceptance Takes Effect
+
 Unless the offer provides otherwise,
-(a) an acceptance made in a manner and by a medium invited by an offer
-is operative and completes the manifestation of mutual assent as soon as put
-out of the offeree's possession, without regard to whether it ever reaches the
-offeror; but
-(b) an acceptance under an option contract is not operative until received
-by the offeror.
-§ 66. Acceptance Must be Properly Dispatched
-An acceptance sent by mail or otherwise from a distance is not operative when
-dispatched, unless it is properly addressed and such other precautions taken as are
-ordinarily observed to insure safe transmission of similar messages.
-§ 69. Acceptance by Silence or Exercise of Dominion
-(1) Where an offeree fails to reply to an offer, his silence and inaction operate as
-an acceptance in the following cases only: 
+
+(a) an acceptance made in a manner and by a medium invited by an offer is operative and completes the manifestation of mutual assent as soon as put out of the offeree's possession, without regard to whether it ever reaches the offeror; but
+
+(b) an acceptance under an option contract is not operative until received by the offeror.
+
+### § 66. Acceptance Must be Properly Dispatched
+
+An acceptance sent by mail or otherwise from a distance is not operative when dispatched, unless it is properly addressed and such other precautions taken as are ordinarily observed to insure safe transmission of similar messages.
+
+### § 69. Acceptance by Silence or Exercise of Dominion
+
+(1) Where an offeree fails to reply to an offer, his silence and inaction operate as an acceptance in the following cases only: 
+
 Page 16
-(a) Where an offeree takes the benefit of offered services with reasonable
-opportunity to reject them and reason to know that they were offered with the
-expectation of compensation.
-(b) Where the offeror has stated or given the offeree reason to understand
-that assent may be manifested by silence or inaction, and the offeree in
-remaining silent and inactive intends to accept the offer.
-(c) Where because of previous dealings or otherwise, it is reasonable that
-the offeree should notify the offeror if he does not intend to accept.
-(2) An offeree who does any act inconsistent with the offeror's ownership of
-offered property is bound in accordance with the offered terms unless they are
-manifestly unreasonable. But if the act is wrongful as against the offeror it is an
-acceptance only if ratified by him.
-CHAPTER 4
-FORMATION OF CONTRACTS–CONSIDERATION
+
+(a) Where an offeree takes the benefit of offered services with reasonable opportunity to reject them and reason to know that they were offered with the expectation of compensation.
+
+(b) Where the offeror has stated or given the offeree reason to understand that assent may be manifested by silence or inaction, and the offeree in remaining silent and inactive intends to accept the offer.
+
+(c) Where because of previous dealings or otherwise, it is reasonable that the offeree should notify the offeror if he does not intend to accept.
+
+(2) An offeree who does any act inconsistent with the offeror's ownership of offered property is bound in accordance with the offered terms unless they are manifestly unreasonable. But if the act is wrongful as against the offeror it is an acceptance only if ratified by him.
+
+##
+
+## CHAPTER 4
+
+## FORMATION OF CONTRACTS–CONSIDERATION
 § 71. Requirement of Exchange; Types of Exchange
 (1) To constitute consideration, a performance or a return promise must be
 bargained for.
