@@ -7,7 +7,7 @@
 
 ###
 
-#### Most salient points from the July 23rd 2019 3rd Live Session
+### Most salient points from the July 23rd 2019 3rd Live Session
 #### (from Berlin, directed by Beth in collaboration with Cem & Jim from Publishing DAO)
  
 #
