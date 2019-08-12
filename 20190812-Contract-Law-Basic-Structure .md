@@ -1,7 +1,28 @@
-# AAA-Contract-Law .md
+# MIT Media Lab - Computational Law
+
+## Law ReImagined-
+## Inventing Automated and Autonomous Legal Entities Part 3
+
+### "AALE" Collaborative Hack with Dazza, Beth, Brenden, Bryan, Silke et al. 
+
+### RESTATEMENT (SECOND) OF CONTRACT LAW - BASIC STRUCTURE
+
+#### Reference: https://www.nylitigationfirm.com/files/restat.pdf
+
+#### This basic structure will be utilized to carry out an AALE/DAOs relevant legal analysis.
+
 #
-Under Construction - Work In Progress
+
 #
+ 
+**Creative Commons Attribution License: https://creativecommons.org/licenses/by/4.0/**
+
+**Attribution: Christophe Bosquillon, MSc in cryptocurrency, digital assets & blockchain at the University of Nicosia, Cyprus (on-going). Also an alumni of Mines Paritech & HEC (Entrepreneurs) Paris.**
+
+#
+
+#
+
 # BASIC STRUCTURE OF CONTRACT LAW
 
 ## Reference: https://www.nylitigationfirm.com/files/restat.pdf
