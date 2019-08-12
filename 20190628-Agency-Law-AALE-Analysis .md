@@ -37,7 +37,7 @@
 
 ##### Step 2- Having done that within the framework of a particular body of Law, that check-list can be used to complement an R4 primary legal analysis, i.e. Roles & Relationships, Rights and Responsibilities.
 
-##### Step 3- You can they move to table/matrix scenarios permutations as follows: "allocate functions to roles, and play scenarios from the perspective of each role (Dazza)". In particular, you can permute scenarios whereas none of the parties is an AALE/DAO, followed by more permutations whereas each of the party in turn is an AALE/DAO (Dazza method here now).
+##### Step 3- You can then move to table/matrix scenarios permutations as follows: "allocate functions to roles, and play scenarios from the perspective of each role (_Dazza summing it up_)". In particular, you can permute scenarios whereas none of the parties is an AALE/DAO, followed by more permutations whereas each of the party in turn is an AALE/DAO (_Dazza's current method_).
 
 ##### Tables/Matrix details will be upcoming.
 
