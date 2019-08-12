@@ -226,9 +226,11 @@ _**“At some point we will come to understand how the bodies of Law meet {compu
 
 #### F. A Question of Method(s) in Legal Analysis conducive to AALE/DAOs-B/L/T/ frameworks
 
-**INSERT CHART **
+#
 
-For readers totally new to this, we draw main lessons below, however please kindly work your own way through Scenarios Permutations details:)
+![Publishing DAO Diagram](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190723%20AALE-DAO%20-%20Publishing%20DAO%20Diagram.png)
+
+_**For readers totally new to this, we draw main lessons below, however please kindly work your own way through Scenarios Permutations details:)**_
 
 ##
 
@@ -314,7 +316,12 @@ And maybe, there's some other examples of how onboarding could go wrong as well 
 
 ##### F-4: Dichotomy between traditional set-up & AALE/DAO in relation with Legal Structures
 
- 
+#
+
+![DAO Agency Outcome Map](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190723%20AALE-DAO-AGENCY%20OUTCOMES%20MAP.png)
+
+##
+
 So a key question now is the dichotomy of traditional ecosystem analysis vs AALE/DAO ecosystem analysis, in relation with the 4 most likely Legal Structures to be concerned in a US (Common) Law context (that may be easily tweaked for EU and other jurisdictions). Then (Bryan) if you start drilling down on the type of entity & issues involved, specific outcomes that are correlated with an Agency Law outcome scenario tracker, then you can start plugging in some of the DAO/scenarios permutations matrix/table, and start building a framework: what happens if this takes place as a General Partnership, or should be seen under the lends of an LLC, or a BB LLC, or an Inc. corporation. And related to that dichotomy, if it’s an AALE/DAO that’s involved, together with its ecosystem and its very polyvalent way of functioning, then we can start comparing and contrasting and understanding what those patterns are between actors and outcomes, such as: what happens if it's an AALE/DAO ; what happens if it's like a human or a set of humans- just doing this without any kind of technological assistance, a kind of paper paradigm, etc. By walking through the Agency Law transaction table, identifying what happens when things go wrong, and identifying what those roles and responsibilities are, we can then start going through the agency outcomes sheet and populating it with the relevant information that we extract.
 
 ##
