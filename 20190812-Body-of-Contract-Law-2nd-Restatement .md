@@ -1,15 +1,15 @@
 # MIT Media Lab - Computational Law
 
 ## Law ReImagined-
-## Inventing Automated and Autonomous Legal Entities Part 3
+## Inventing Automated and Autonomous Legal Entities Part 4
 
 ### "AALE" Collaborative Hack with Dazza, Beth, Brenden, Bryan, Silke et al. 
 
-### RESTATEMENT (SECOND) OF CONTRACT LAW - BASIC STRUCTURE
+### RESTATEMENT (SECOND) OF CONTRACT LAW
 
 #### Reference: https://www.nylitigationfirm.com/files/restat.pdf
 
-#### This basic structure will be utilized to carry out an AALE/DAOs relevant legal analysis.
+#### This legal codification of the body of Contract Law provided by the second restatement is usable to carry out an AALE/DAOs relevant legal analysis. The aim is to surface a few more design requirements and legal engineering success metrics.
 
 #
 
