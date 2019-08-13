@@ -44,7 +44,7 @@ _**So that the insights are crystallized in a usable, chronological form. “**_
 
 #
 
-### Furthermore, bearing in mind some of the ulterior motives are educational, and also advising senior decision makers in various settings, it’s important to keep it all intelligible, digestible & palatable.
+### Bearing in mind some of the ulterior motives are educational, and also advising senior decision makers in various settings, it’s important to keep it all intelligible, digestible & palatable.
 
 #
 
