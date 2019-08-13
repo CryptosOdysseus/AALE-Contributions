@@ -28,7 +28,7 @@
 
 #### -A- Suggestion for better process by Bryan
 
-##### Approved & being implemented (including this data migration to Github):
+##### Approved by Dazza, Brenden et al. & being implemented (including this data migration to Github):
 
 #
 
@@ -50,21 +50,31 @@ _**So that the insights are crystallized in a usable, chronological form. “**_
 
 #### -B- Engagement with customer and laying the ground to establish a lawyer-client relationship by first making sure the user better understands the Legal analysis approach of what they do on daily basis with a Business & Technological mindset.
 
+**This session directed by Beth had been prepared by Beth, Dazza, Brenden, Bryan together with Publishing DAO Cem & Jim.**
+
+_As part of the conversation (discussion) directed by **Beth** with **Cem & Jim**, this was the most important foundational step- and **Dazza made sure we all get these premises of the Legal analysis right**. Non-lawyer readers used to operate mainly within a Business / Technological mindset, and not so much used to tackle situations from a Legal analysis perspective, are kindly encouraged to dig the details in the main "Full Takeaway" feedback, because if there is something to learn, it starts with these foundational steps. Furthermore, experienced lawyers may learn from the art of navigating a DAO circumstances._
+
 While none of this is Legal Advice, nor may be construed as (an attempt at) Legal Practice, the ones in a position to expect from this some form of usefulness & utility, include user Publishing DAO: user is in a position to assess the usability of this work when user can complete their Business & Technological polyvalent setup with a Legal-analysis-oriented approach. 
 
 There is a difference between Technological and Legal definitions of Roles and Relationships, and therefore Legal assessment of Rights and Responsibilities (R4). For ex., depending on context, user Publishing DAO can be an Agent (of a writer acting as Principal) or Publishing DAO can be a Principal, with logistics company acting as Agent. This has severe enough legal & liability consequences to pay attention to. 
 
-It also suggests that when Agency Law isnt sufficient to tackle most of the scenarios, it becomes necessary to switch to Contract Law (and Tort etc.) which implies to build a series of disclaimers in order to shield the Publishing DAO from basic legal harm that can be dodged. The nature of the legal structure behind the legal persons involved, and the degree of automation & autonomy also affect the lawyer-client relationship establishment, process & procedures.
+It also suggests that when Agency Law isnt sufficient to tackle most of the scenarios, it becomes necessary to switch to Contract Law (and Tort etc.) which implies to build a series of disclaimers in order to shield the Publishing DAO from basic legal harm that can be dodged. The nature of the legal structure behind the legal persons involved, and the degree of automation & autonomy also affect the lawyer-client relationship establishment, process & procedures. 
+
+_What matters is, you want to be able to use the legal codification of a given body of Law (here, Agency Law to start with) as provided by a relatively updated Restatement of that Law, in order to carry out an AALE/ DAOs relevant analysis- **as your aim is to surface a number of design requirements and legal engineering success metrics.(Dazza)**_
 
 #
 
 #### -C- Start with simplified use cases and build a primary foundation – then build up complexity. 
+
+**In conversation with Cem & Jim, strong methodological input by Beth, Dazza, Bryan.**
 
 Freeze patterns of possible scenarios that happen, then determine R4 and proceed to legal analysis under any type of Law.
 
 #
 
 #### -D- Taming the troika of complexity, granularity, and guaranteed rabbit holes.
+
+**In conversation with Cem & Jim, strong methodological input by Beth, Dazza, Bryan, with specific insights by Silke.**
 
 Here we use certain selective methods to tame the troika of complexity, granularity, and guaranteed rabbit holes, while not losing sight of the larger picture, and ultimate usefulness & utility of this work & project, starting with convergence toward defining a B/L/T/ mechanism design.
 
@@ -100,21 +110,33 @@ _**How can an automated system be constructed such that at any given point in ti
 
 ##### -E-2: AALE/DAO engineered for self-compliance among members and vis-à-vis external parties
 
+**Which also echoes takeaways from previous sessions with Dazza, Beth, Brenden, Bryan et al.**
+
 _**Risk management measures** - Trustless functions organizing the human systems of AALE/DAOs within the whole ecosystem._
 
 ##
 
 ##### -E-3: "Three-Bees" Functions & Legal Objects
 
+**Points on Functions & Legal Objects principally articulated by Beth & Bryan.**
+
 _These must be defined as **point of obligated passage toward building up frameworks.** See Section F-5._
  
-Brenden rebounding on Silke’s thoughts of engineering much by contract:
+**Brenden rebounding on Silke’s thoughts of engineering much by contract:**
 
 _**“At some point we will come to understand how the bodies of Law meet {computationally}.”**_
 
 #
 
 #### -F- A Question of Method(s) in Legal Analysis
+
+**Chart prepared by Beth & Bryan.** 
+
+**Dazza looming large in keeping on track the Legal analysis methodology, hammering the fact that Legal Roles & Relationships are distinct from Business / Technological Roles & Relationships, and need to be represented distinctly (remember that).**
+
+**Beth/Bryan further noting that one of the aim of the chart is to point out the relationships between NPI natural persons / individual on one hand, and automated & autonomous functions that execute on the other hand.**
+
+**Further input by Brenden and Silke.**
 
 ##
 
@@ -124,27 +146,37 @@ _**“At some point we will come to understand how the bodies of Law meet {compu
 
 ##### -F-1: Apply several legal frameworks & define R4 (Roles & Relationships, Rights & Responsibilities)
 
+**Methodology - Dazza & Beth.**
+
 ##
 
 ##### -F-2: Merits of Agency Law framework
 
-Including when to realize that an Agency Law analysis does NOT apply: 
+**Conversation & evaluation between Cem & Jim and Beth & Dazza.**
+
+_Including when to realize that an Agency Law analysis does NOT apply:_
 
 ClickThrough Agreement DAO:Agency “We are not your agent if we do nothing”.
 
-No action or agency relationship: it is extremely important that users understand there is no agency relationship if something is put forth as a vote, because if it is NOT accepted by the (Publishing) DAO, the (Publishing) DAO should be able to drop it as it is non-binding and not executable under an Agency Law relationship. Disclaimer advised: DAO may say yes, no, or do nothing.
+_**No action or agency relationship: it is extremely important that users understand there is no agency relationship if something is put forth as a vote, because if it is NOT accepted by the (Publishing) DAO, the (Publishing) DAO should be able to drop it as it is non-binding and not executable under an Agency Law relationship.**_
+
+_**Disclaimer advised: DAO may say yes, no, or do nothing (Dazza)._
 
 ##
 
 ##### -F-3: Merits of Contract Law framework (+ some Tort Law maybe)
 
-Agency Law vs. Contract law: Contract law disclaimers for functions(Bryan and Silke)
+**Conversation & evaluation between Cem & Jim and Beth & Dazza.**
+
+_Agency Law vs. Contract law: Contract law disclaimers for functions(Bryan and Silke)_
 
 Much can be done with Contract Law, the question is if things fall through the cracks how does agency law catch that.
 
 ##
 
 ##### -F-4: Dichotomy between traditional set-up & AALE/DAO in relation with Legal Structures
+
+**Char prepared and explained by Beth & Dazza**
 
 ##
 
@@ -162,9 +194,11 @@ Brenden rebounding on Silke’s thoughts of engineering much by contract:
 
 #####
 
-We call these **"Three-Bees" Functions & Legal Objects "** _(**"Three-Bees"** stands for Beth, Bryan, Brenden- et al.)_ 
+We call these **" "Three-Bees" Functions & Legal Objects "** _(**"Three-Bees"**, as a mnemo, stands for **Beth, Bryan, Brenden** but obvioulsy there has long been overall engineering input from **Dazza**)_ 
 
 #####
+
+**Bryan & Silke may further work on disclaimers suggested by Dazza in particular in the upcoming Contract Law framework.**
 
 _**The Functions are instrumental to shield the DAO from legal harm at a minimum via disclaimers- important!!**_
 
@@ -178,6 +212,8 @@ _**The Functions are instrumental to shield the DAO from legal harm at a minimum
 
 ##### -F-6: Guaranteed Rabbit Hole 1- capped & to be tackled later: differences between jurisdictions
 
+**Thorough exchanges between Dazza, Beth, Brenden, Bryan, Silke, Cem & Jim.**
+
 (What are the rights and responsibilities of an espresso book machine in different jurisdictions.)
 
 Ultimately mapping Law & different kinds of law: Agency law, Contract law, Tort Law, Securities Law.
@@ -186,11 +222,15 @@ Ultimately mapping Law & different kinds of law: Agency law, Contract law, Tort 
 
 ##### -F-7: Guaranteed Rabbit Hole 2- capped & to be tackled later: code, free speech, and liability
 
+**Thorough exchanges between Dazza, Beth, Brenden, Bryan, Silke, Cem & Jim.**
+
 Code executed can be evil but code not executed is just text per se. Then comes the chain of events & liabilities.
 
 #
 
 #### -G- Other important points requiring further digging  
+
+**Thanks to Brenden for help with this part -G- in addition to a number of points above.**
 
 ##
 
