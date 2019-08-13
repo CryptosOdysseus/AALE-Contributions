@@ -146,335 +146,337 @@ https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-
 
 # 
 
-## CHAPTER 4
+## [CHAPTER 4](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#chapter-4-1)
 
-## FORMATION OF CONTRACTS–CONSIDERATION
+## [FORMATION OF CONTRACTS–CONSIDERATION](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#formation-of-contractsconsideration-1)
 
-### § 71. Requirement of Exchange; Types of Exchange
+### [§ 71. Requirement of Exchange; Types of Exchange](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-71-requirement-of-exchange-types-of-exchange-1)
 
-### § 73. Performance of Legal Duty
+### [§ 73. Performance of Legal Duty](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-73-performance-of-legal-duty-1)
 
-### § 74. Settlement of Claims
+### [§ 74. Settlement of Claims](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-74-settlement-of-claims-1)
 
-### § 77. Illusory and Alternative Promises
+### [§ 77. Illusory and Alternative Promises](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-77-illusory-and-alternative-promises-1)
 
-### § 79. Adequacy of Consideration; Mutuality of Obligation
+### [§ 79. Adequacy of Consideration; Mutuality of Obligation](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-79-adequacy-of-consideration-mutuality-of-obligation-1)
 
-### § 81. Consideration as Motive or Inducing Cause
+### [§ 81. Consideration as Motive or Inducing Cause](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-81-consideration-as-motive-or-inducing-cause-1)
 
-### § 82. Promise to Pay Indebtedness; Effect on the Statute of Limitations
+### [§ 82. Promise to Pay Indebtedness; Effect on the Statute of Limitations](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-82-promise-to-pay-indebtedness-effect-on-the-statute-of-limitations-1)
 
-### § 83. Promise to Pay Indebtedness Discharged in Bankruptcy 
+### [§ 83. Promise to Pay Indebtedness Discharged in Bankruptcy](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-83-promise-to-pay-indebtedness-discharged-in-bankruptcy-1)
 
-### § 84. Promise to Perform a Duty in Spite of Non-occurrence of a Condition
+### [§ 84. Promise to Perform a Duty in Spite of Non-occurrence of a Condition](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-84-promise-to-perform-a-duty-in-spite-of-non-occurrence-of-a-condition-1)
 
-### § 86. Promise for Benefit Received
+### [§ 86. Promise for Benefit Received](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-86-promise-for-benefit-received-1) 
 
-### § 87. Option Contract
+### [§ 87. Option Contract](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-87-option-contract-1)
 
-### § 89. Modification of Executory Contract
+### [§ 89. Modification of Executory Contract](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-89-modification-of-executory-contract-1)
 
-### § 90. Promise Reasonably Inducing Action or Forbearance
+### [§ 90. Promise Reasonably Inducing Action or Forbearance](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-90-promise-reasonably-inducing-action-or-forbearance-1)
 
-### § 90. Promise Reasonably Inducing Definite and Substantial Action (Restatement First)
+### [§ 90. Promise Reasonably Inducing Definite and Substantial Action (Restatement First)](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-90-promise-reasonably-inducing-action-or-forbearance-1)
 
-### § 95. Requirements for Sealed Contract or Written Contract or Instrument
-
-#
-
-## CHAPTER 5
-
-## THE STATUTE OF FRAUDS
-
-### § 131. General Requisites of a Memorandum
-### § 132. Several Writings
-### § 139. Enforcement by Virtue of Action in Reliance
+### [§ 95. Requirements for Sealed Contract or Written Contract or Instrument](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-95-requirements-for-sealed-contract-or-written-contract-or-instrument-1)
 
 #
 
-## CHAPTER 6
+## [CHAPTER 5](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#chapter-5-1)
 
-## MISTAKE
+## [THE STATUTE OF FRAUDS](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#the-statute-of-frauds-1)
 
-### § 151. Mistake Defined
+### [§ 131. General Requisites of a Memorandum](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-131-general-requisites-of-a-memorandum-1)
 
-### § 152. When Mistake of Both Parties Makes a Contract Voidable
+### [§ 132. Several Writings](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-132-several-writings-1)
 
-### § 153. When Mistake of One Party Makes a Contract Voidable
-
-### § 154. When a Party Bears the Risk of a Mistake
-
-### § 155. When Mistake of Both Parties as to Written Expression justifies Reformation
-
-### § 157. Effect of Fault of Party Seeking Relief
-
-### § 158. Relief Including Restitution
+### [§ 139. Enforcement by Virtue of Action in Reliance](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-139-enforcement-by-virtue-of-action-in-reliance-1)
 
 #
 
-## CHAPTER 7
+## [CHAPTER 6](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#chapter-6-1)
 
-## MISREPRESENTATION, DURESS AND UNDUE INFLUENCE
+## [MISTAKE](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#mistake-1)
 
-### § 161. When Non-Disclosure Is Equivalent to an Assertion
+### [§ 151. Mistake Defined](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-151-mistake-defined-1)
 
-### § 162. When a Misrepresentation Is Fraudulent or Material
+### [§ 152. When Mistake of Both Parties Makes a Contract Voidable](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-152-when-mistake-of-both-parties-makes-a-contract-voidable-1)
 
-### § 164. When a Misrepresentation Makes a Contract Voidable
+### [§ 153. When Mistake of One Party Makes a Contract Voidable](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-153-when-mistake-of-one-party-makes-a-contract-voidable-1)
 
-### § 167. When a Misrepresentation Is an Inducing Cause
+### [§ 154. When a Party Bears the Risk of a Mistake](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-154-when-a-party-bears-the-risk-of-a-mistake-1)
 
-### § 169. When Reliance on an Assertion of Opinion Is Not justified
+### [§ 155. When Mistake of Both Parties as to Written Expression justifies Reformation](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-155-when-mistake-of-both-parties-as-to-written-expression-justifies-reformation-1)
 
-### § 174. When Duress by Physical Compulsion Prevents Formation of a Contract
+### [§ 157. Effect of Fault of Party Seeking Relief](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-157-effect-of-fault-of-party-seeking-relief-1)
 
-### § 175. When Duress by Threat Makes a Contract Voidable
-
-### § 176. When a Threat Is Improper
-
-### § 177. When Undue Influence Makes a Contract Voidable
+### [§ 158. Relief Including Restitution](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-158-relief-including-restitution-1)
 
 #
 
-## CHAPTER 8
+## [CHAPTER 7](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#chapter-7-1)
 
-## UNENFORCEABILITY ON GROUNDS OF PUBLIC POLICY
+## [MISREPRESENTATION, DURESS AND UNDUE INFLUENCE](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#misrepresentation-duress-and-undue-influence-1)
 
-### § 178. When a Term Is Unenforceable on Grounds of Public Policy
+### [§ 161. When Non-Disclosure Is Equivalent to an Assertion](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-161-when-non-disclosure-is-equivalent-to-an-assertion-1)
 
-### § 181. Effect of Failure to Comply with Licensing or Similar Requirement
+### [§ 162. When a Misrepresentation Is Fraudulent or Material](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-162-when-a-misrepresentation-is-fraudulent-or-material-1)
 
-### § 182. Effect of Performance if Intended Use Is Improper
+### [§ 164. When a Misrepresentation Makes a Contract Voidable](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-164-when-a-misrepresentation-makes-a-contract-voidable-1)
 
-### § 187. Non-Ancillary Restraints on Competition
+### [§ 167. When a Misrepresentation Is an Inducing Cause](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-167-when-a-misrepresentation-is-an-inducing-cause-1)
 
-### § 188. Ancillary Restraints on Competition
+### [§ 169. When Reliance on an Assertion of Opinion Is Not justified](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-169-when-reliance-on-an-assertion-of-opinion-is-not-justified-1)
 
-### § 194. Promise Interfering with Contract with Another
+### [§ 174. When Duress by Physical Compulsion Prevents Formation of a Contract](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-174-when-duress-by-physical-compulsion-prevents-formation-of-a-contract-1)
 
-### § 195. Term Exempting from Liability for Harm Caused Intentionally, Recklessly or Negligently
+### [§ 175. When Duress by Threat Makes a Contract Voidable](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-175-when-duress-by-threat-makes-a-contract-voidable-1)
 
-### § 198. Restitution in Favor of Party who Is Excusably Ignorant or Is Not Equally in the Wrong
+### [§ 176. When a Threat Is Improper](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-176-when-a-threat-is-improper-1)
 
-#
-
-## CHAPTER 9
-
-## THE SCOPE OF CONTRACTUAL OBLIGATIONS
-
-### § 201. Whose Meaning Prevails
-
-### § 202. Rules in Aid of Interpretation
-
-### § 203. Standards of Preference in Interpretation
-
-### § 204. Supplying an Omitted Essential Term
-
-### § 205. Duty of Good Faith and Fair Dealing
-
-### § 206. Interpretation Against the Draftsman
-
-### § 208. Unconscionable Contract or Term
-
-### § 209. Integrated Agreements
-
-### § 210. Completely and Partially Integrated Agreements
-
-### § 211. Standardized Agreements
-
-### § 213. Effect of Integrated Agreement on Prior Agreements (Parol Evidence Rule)
-
-### § 214. Evidence of Prior or Contemporaneous Agreements and Negotiations
-
-### § 215. Contradiction of Integrated Terms
-
-### § 216. Consistent Additional Terms
-
-### § 217. Integrated Agreement Subject to Oral Requirement of a Condition
-
-### § 220. Usage Relevant to Interpretation
-
-### § 221. Usage Supplementing an Agreement
-
-### § 222. Usage of Trade
-
-### § 223. Course of Dealing
-
-### § 224. Condition Defined
-
-### § 225. Effects of the Non-Occurrence of a Condition
-
-### § 226. How an Event May Be Made a Condition
-
-### § 227. Standards of Preference with Regard to Conditions 
-
-### § 228. Satisfaction of the Obligor as a Condition
-
-### § 229. Excuse of a Condition to Avoid Forfeiture
+### [§ 177. When Undue Influence Makes a Contract Voidable](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-177-when-undue-influence-makes-a-contract-voidable-1)
 
 #
 
-## CHAPTER 10
+## [CHAPTER 8](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#chapter-8-1)
 
-## PERFORMANCE AND NON-PERFORMANCE
+## [UNENFORCEABILITY ON GROUNDS OF PUBLIC POLICY](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#unenforceability-on-grounds-of-public-policy-1)
 
-### § 234. Order of Performances
+### [§ 178. When a Term Is Unenforceable on Grounds of Public Policy](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-178-when-a-term-is-unenforceable-on-grounds-of-public-policy-1)
 
-### § 235. Effect of Performance as Discharge and of Non-Performance as Breach
+### [§ 181. Effect of Failure to Comply with Licensing or Similar Requirement](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-181-effect-of-failure-to-comply-with-licensing-or-similar-requirement-1)
 
-### § 236. Claims for Damages for Total and for Partial Breach
+### [§ 182. Effect of Performance if Intended Use Is Improper](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-182-effect-of-performance-if-intended-use-is-improper-1)
 
-### § 237. Effect on Other Party's Duties of a Failure to Render Performance
+### [§ 187. Non-Ancillary Restraints on Competition](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-187-non-ancillary-restraints-on-competition-1)
 
-### § 238. Effect on Other Party's Duties of a Failure to Offer Performance
+### [§ 188. Ancillary Restraints on Competition](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-188-ancillary-restraints-on-competition-1)
 
-### § 240. Part Performances as Agreed Equivalents
+### [§ 194. Promise Interfering with Contract with Another](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-194-promise-interfering-with-contract-with-another-1)
 
-### § 241. Circumstances Significant in Determining Whether a Failure Is Material
+### [§ 195. Term Exempting from Liability for Harm Caused Intentionally, Recklessly or Negligently](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-195-term-exempting-from-liability-for-harm-caused-intentionally-recklessly-or-negligently-1)
 
-### § 242. Circumstances Significant in Determining When Remaining Duties are Discharged
-
-### § 243. Effect of a Breach by Non-Performance as Giving Rise to a Claim for Damages for Total Breach
-
-### § 250. When a Statement or an Act Is a Repudiation
-
-### § 251. When a Failure to Give Assurance May Be Treated as a Repudiation
-
-### § 252. Effect of Insolvency
-
-### § 253. Effect of a Repudiation as a Breach and on Other Party's Duties
-
-### § 256. Nullification of Repudiation or Basis for Repudiation
-
-### § 257. Effect of Urging Performance in Spite of Repudiation
+### [§ 198. Restitution in Favor of Party who Is Excusably Ignorant or Is Not Equally in the Wrong](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-198-restitution-in-favor-of-party-who-is-excusably-ignorant-or-is-not-equally-in-the-wrong-1)
 
 #
 
-## CHAPTER 11
+## [CHAPTER 9](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#chapter-9-1)
 
-## IMPRACTICABILITY OF PERFORMANCE AND FRUSTRATION OF PURPOSE
+## [THE SCOPE OF CONTRACTUAL OBLIGATIONS](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#the-scope-of-contractual-obligations-1)
 
-### § 261. Discharge by Supervening Impracticability
+### [§ 201. Whose Meaning Prevails](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-201-whose-meaning-prevails-1)
 
-### § 262. Death or Incapacity of Person Necessary for Performance
+### [§ 202. Rules in Aid of Interpretation](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-202-rules-in-aid-of-interpretation-1)
 
-### § 263. Destruction, Deterioration or Failure to Come into Existence of Thing Necessary for Performance
+### [§ 203. Standards of Preference in Interpretation](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-203-standards-of-preference-in-interpretation-1)
 
-### § 265. Discharge by Supervening Frustration
+### [§ 204. Supplying an Omitted Essential Term](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-204-supplying-an-omitted-essential-term-1)
 
-### § 266. Existing Impracticability or Frustration
+### [§ 205. Duty of Good Faith and Fair Dealing](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-205-duty-of-good-faith-and-fair-dealing-1)
 
-### § 272. Relief Including Restitution
+### [§ 206. Interpretation Against the Draftsman](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-206-interpretation-against-the-draftsman-1)
 
-#
+### [§ 208. Unconscionable Contract or Term](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-208-unconscionable-contract-or-term-1)
 
-## CHAPTER 12
+### [§ 209. Integrated Agreements](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-209-integrated-agreements-1)
 
-## DISCHARGE BY ASSENT OR ALTERATION
+### [§ 210. Completely and Partially Integrated Agreements](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-210-completely-and-partially-integrated-agreements-1)
 
-### § 281. Accord and Satisfaction
+### [§ 211. Standardized Agreements](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-211-standardized-agreements-1)
 
-### § 285. Contract Not to Sue
+### [§ 213. Effect of Integrated Agreement on Prior Agreements (Parol Evidence Rule)](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-213-effect-of-integrated-agreement-on-prior-agreements-parol-evidence-rule-1)
 
-### § 286. Alteration of Writing
+### [§ 214. Evidence of Prior or Contemporaneous Agreements and Negotiations](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-214-evidence-of-prior-or-contemporaneous-agreements-and-negotiations-1)
 
-#
+### [§ 215. Contradiction of Integrated Terms](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-215-contradiction-of-integrated-terms-1)
 
-## CHAPTER 13
+### [§ 216. Consistent Additional Terms](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-216-consistent-additional-terms-1)
 
-## JOINT AND SEVERAL PROMISORS AND PROMISEES
+### [§ 217. Integrated Agreement Subject to Oral Requirement of a Condition](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-217-integrated-agreement-subject-to-oral-requirement-of-a-condition-1)
 
-### § 288. Promises of the Same Performance
+### [§ 220. Usage Relevant to Interpretation](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-220-usage-relevant-to-interpretation-1)
 
-### § 293. Effect of Performance or Satisfaction on Co-promisors
+### [§ 221. Usage Supplementing an Agreement](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-221-usage-supplementing-an-agreement-1)
 
-### § 294. Effect of Discharge on Co-promisors
+### [§ 222. Usage of Trade](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-222-usage-of-trade-1)
 
-#
+### [§ 223. Course of Dealing](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-223-course-of-dealing-1)
 
-## CHAPTER 14
+### [§ 224. Condition Defined](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-224-condition-defined-1)
 
-## CONTRACT BENEFICIARIES
+### [§ 225. Effects of the Non-Occurrence of a Condition](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-225-effects-of-the-non-occurrence-of-a-condition-1)
 
-### § 302. Intended and Incidental Beneficiaries
+### [§ 226. How an Event May Be Made a Condition](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-226-how-an-event-may-be-made-a-condition-1)
 
-### § 309. Defenses Against the Beneficiary
+### [§ 227. Standards of Preference with Regard to Conditions](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-227-standards-of-preference-with-regard-to-conditions-1)
 
-### § 311. Variation of a Duty to a Beneficiary
+### [§ 228. Satisfaction of the Obligor as a Condition](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-228-satisfaction-of-the-obligor-as-a-condition-1)
 
-### § 313. Government Contracts
-
-#
-
-## CHAPTER 15
-
-## ASSIGNMENT AND DELEGATION
-
-### § 317. Assignment of a Right
-
-### § 318. Delegation of Performance of Duty
-
-### § 319. Delegation of Performance of Condition
-
-### § 321. Assignment of Future Rights
-
-### § 322. Contractual Prohibition of Assignment
-
-### § 328. Interpretation of Words of Assignment; Effect of Acceptance of Assignment
-
-### § 331. Partially Effective Assignments
-
-### § 332. Revocability of Gratuitous Assignments
-
-### § 336. Defenses Against an Assignee
+### [§ 229. Excuse of a Condition to Avoid Forfeiture](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-229-excuse-of-a-condition-to-avoid-forfeiture-1)
 
 #
 
-## CHAPTER 16
+## [CHAPTER 10](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#chapter-10-1)
 
-## REMEDIES
+## [PERFORMANCE AND NON-PERFORMANCE](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#performance-and-non-performance-1)
 
-### § 344. Purposes of Remedies
+### [§ 234. Order of Performances](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-234-order-of-performances-1)
 
-### § 346. Availability of Damages
+### [§ 235. Effect of Performance as Discharge and of Non-Performance as Breach](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-235-effect-of-performance-as-discharge-and-of-non-performance-as-breach-1)
 
-### § 347. Measure of Damages in General
+### [§ 236. Claims for Damages for Total and for Partial Breach](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-236-claims-for-damages-for-total-and-for-partial-breach-1)
 
-### § 348. Alternatives to Loss in Value of Performance
+### [§ 237. Effect on Other Party's Duties of a Failure to Render Performance](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-237-effect-on-other-partys-duties-of-a-failure-to-render-performance-1)
 
-### § 349. Damages Based on Reliance Interest
+### [§ 238. Effect on Other Party's Duties of a Failure to Offer Performance](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-238-effect-on-other-partys-duties-of-a-failure-to-offer-performance-1)
 
-### § 350. Avoidability as a Limitation on Damages
+### [§ 240. Part Performances as Agreed Equivalents](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-240-part-performances-as-agreed-equivalents-1)
 
-### § 351. Unforeseeability and Related Limitations on Damages
+### [§ 241. Circumstances Significant in Determining Whether a Failure Is Material](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-241-circumstances-significant-in-determining-whether-a-failure-is-material-1)
 
-### § 352. Uncertainty as a Limitation on Damages
+### [§ 242. Circumstances Significant in Determining When Remaining Duties are Discharged](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-242-circumstances-significant-in-determining-when-remaining-duties-are-discharged-1)
 
-### § 353. Loss Due to Emotional Disturbance
+### [§ 243. Effect of a Breach by Non-Performance as Giving Rise to a Claim for Damages for Total Breach](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-243-effect-of-a-breach-by-non-performance-as-giving-rise-to-a-claim-for-damages-for-total-breach-1)
 
-### § 354. Interest as Damages
+### [§ 250. When a Statement or an Act Is a Repudiation](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-250-when-a-statement-or-an-act-is-a-repudiation-1)
 
-### § 355. Punitive Damages
+### [§ 251. When a Failure to Give Assurance May Be Treated as a Repudiation](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-251-when-a-failure-to-give-assurance-may-be-treated-as-a-repudiation-1)
 
-### § 356. Liquidated Damages and Penalties 
+### [§ 252. Effect of Insolvency](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-252-effect-of-insolvency-1)
 
-### § 359. Effect of Adequacy of Damages
+### [§ 253. Effect of a Repudiation as a Breach and on Other Party's Duties](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-253-effect-of-a-repudiation-as-a-breach-and-on-other-partys-duties-1)
 
-### § 360. Factors Affecting Adequacy of Damages
+### [§ 256. Nullification of Repudiation or Basis for Repudiation](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-256-nullification-of-repudiation-or-basis-for-repudiation-1)
 
-### § 370. Requirement That Benefit Be Conferred
+### [§ 257. Effect of Urging Performance in Spite of Repudiation](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-257-effect-of-urging-performance-in-spite-of-repudiation-1)
 
-### § 371. Measure of Restitution Interest
+#
 
-### § 373. Restitution When Other Party Is in Breach
+## [CHAPTER 11](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#chapter-11-1)
 
-### § 374. Restitution in Favor of Party in Breach
+## [IMPRACTICABILITY OF PERFORMANCE AND FRUSTRATION OF PURPOSE](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#impracticability-of-performance-and-frustration-of-purpose-1)
 
-### § 375. Restitution When Contract Is Within Statute of Frauds
+### [§ 261. Discharge by Supervening Impracticability](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-261-discharge-by-supervening-impracticability-1)
 
-### § 376. Restitution When Contract Is Voidable
+### [§ 262. Death or Incapacity of Person Necessary for Performance](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-262-death-or-incapacity-of-person-necessary-for-performance-1)
 
-### § 377. Restitution in Cases of Impracticability, Frustration, Non-Occurrence of Condition or Disclaimer by Beneficiary
+### [§ 263. Destruction, Deterioration or Failure to Come into Existence of Thing Necessary for Performance](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-263-destruction-deterioration-or-failure-to-come-into-existence-of-thing-necessary-for-performance-1)
+
+### [§ 265. Discharge by Supervening Frustration](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-265-discharge-by-supervening-frustration-1)
+
+### [§ 266. Existing Impracticability or Frustration](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-266-existing-impracticability-or-frustration-1)
+
+### [§ 272. Relief Including Restitution](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-272-relief-including-restitution-1)
+
+#
+
+## [CHAPTER 12](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#chapter-12-1)
+
+## [DISCHARGE BY ASSENT OR ALTERATION](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#discharge-by-assent-or-alteration-1)
+
+### [§ 281. Accord and Satisfaction](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-281-accord-and-satisfaction-1)
+
+### [§ 285. Contract Not to Sue](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-285-contract-not-to-sue-1)
+
+### [§ 286. Alteration of Writing](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-286-alteration-of-writing-1)
+
+#
+
+## [CHAPTER 13](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#chapter-13-1)
+
+## [JOINT AND SEVERAL PROMISORS AND PROMISEES](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#joint-and-several-promisors-and-promisees-1)
+
+### [§ 288. Promises of the Same Performance](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-288-promises-of-the-same-performance-1)
+
+### [§ 293. Effect of Performance or Satisfaction on Co-promisors](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-293-effect-of-performance-or-satisfaction-on-co-promisors-1)
+
+### [§ 294. Effect of Discharge on Co-promisors](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-294-effect-of-discharge-on-co-promisors-1)
+
+#
+
+## [CHAPTER 14](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#chapter-14-1)
+
+## [CONTRACT BENEFICIARIES](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#contract-beneficiaries-1)
+
+### [§ 302. Intended and Incidental Beneficiaries](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-302-intended-and-incidental-beneficiaries-1)
+
+### [§ 309. Defenses Against the Beneficiary](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-309-defenses-against-the-beneficiary-1)
+
+### [§ 311. Variation of a Duty to a Beneficiary](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-311-variation-of-a-duty-to-a-beneficiary-1)
+
+### [§ 313. Government Contracts](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-313-government-contracts-1)
+
+#
+
+## [CHAPTER 15](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#chapter-15-1)
+
+## [ASSIGNMENT AND DELEGATION](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#assignment-and-delegation-1)
+
+### [§ 317. Assignment of a Right](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-317-assignment-of-a-right-1)
+
+### [§ 318. Delegation of Performance of Duty](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-318-delegation-of-performance-of-duty-1)
+
+### [§ 319. Delegation of Performance of Condition](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-319-delegation-of-performance-of-condition-1)
+
+### [§ 321. Assignment of Future Rights](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-321-assignment-of-future-rights-1)
+
+### [§ 322. Contractual Prohibition of Assignment](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-322-contractual-prohibition-of-assignment-1)
+
+### [§ 328. Interpretation of Words of Assignment; Effect of Acceptance of Assignment](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-328-interpretation-of-words-of-assignment-effect-of-acceptance-of-assignment-1)
+
+### [§ 331. Partially Effective Assignments](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-331-partially-effective-assignments-1)
+
+### [§ 332. Revocability of Gratuitous Assignments](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-332-revocability-of-gratuitous-assignments-1)
+
+### [§ 336. Defenses Against an Assignee](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-336-defenses-against-an-assignee-1)
+
+#
+
+## [CHAPTER 16](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#chapter-16-1)
+
+## [REMEDIES](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#remedies-1)
+
+### [§ 344. Purposes of Remedies](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-344-purposes-of-remedies-1)
+
+### [§ 346. Availability of Damages](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-346-availability-of-damages-1)
+
+### [§ 347. Measure of Damages in General](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-347-measure-of-damages-in-general-1)
+
+### [§ 348. Alternatives to Loss in Value of Performance](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-348-alternatives-to-loss-in-value-of-performance-1)
+
+### [§ 349. Damages Based on Reliance Interest](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-349-damages-based-on-reliance-interest-1)
+
+### [§ 350. Avoidability as a Limitation on Damages](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-350-avoidability-as-a-limitation-on-damages-1)
+
+### [§ 351. Unforeseeability and Related Limitations on Damages](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-351-unforeseeability-and-related-limitations-on-damages-1)
+
+### [§ 352. Uncertainty as a Limitation on Damages](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-352-uncertainty-as-a-limitation-on-damages-1)
+
+### [§ 353. Loss Due to Emotional Disturbance](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-353-loss-due-to-emotional-disturbance-1)
+
+### [§ 354. Interest as Damages](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-354-interest-as-damages-1)
+
+### [§ 355. Punitive Damages](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-355-punitive-damages-1)
+
+### [§ 356. Liquidated Damages and Penalties](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-356-liquidated-damages-and-penalties-1)
+
+### [§ 359. Effect of Adequacy of Damages](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-359-effect-of-adequacy-of-damages-1)
+
+### [§ 360. Factors Affecting Adequacy of Damages](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-360-factors-affecting-adequacy-of-damages-1)
+
+### [§ 370. Requirement That Benefit Be Conferred](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-370-requirement-that-benefit-be-conferred-1)
+
+### [§ 371. Measure of Restitution Interest](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-371-measure-of-restitution-interest-1)
+
+### [§ 373. Restitution When Other Party Is in Breach](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-373-restitution-when-other-party-is-in-breach-1)
+
+### [§ 374. Restitution in Favor of Party in Breach](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-374-restitution-in-favor-of-party-in-breach-1)
+
+### [§ 375. Restitution When Contract Is Within Statute of Frauds](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-375-restitution-when-contract-is-within-statute-of-frauds-1)
+
+### [§ 376. Restitution When Contract Is Voidable](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-376-restitution-when-contract-is-voidable-1)
+
+### [§ 377. Restitution in Cases of Impracticability, Frustration, Non-Occurrence of Condition or Disclaimer by Beneficiary](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-377-restitution-in-cases-of-impracticability-frustration-nonoccurrence-of-condition-or-disclaimer-by-beneficiary)
 
 #
 
