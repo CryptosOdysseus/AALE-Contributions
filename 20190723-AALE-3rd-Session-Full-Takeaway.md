@@ -5,7 +5,9 @@
 
 ### "AALE" Collaborative Hack with Dazza, Beth, Brenden, Bryan, Silke et al. 
 
-###
+###  DRAFT WITH “REQUEST FOR COMMENT” - Thank You.
+
+# 
 
 ### Full Takeaway from the July 23rd 2019 Live Session from Berlin
 
