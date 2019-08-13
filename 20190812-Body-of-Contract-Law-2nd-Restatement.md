@@ -115,8 +115,7 @@
 
 ### [§ 50. Acceptance of Offer Defined; Acceptance by Performance; Acceptance by Promise](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-50-acceptance-of-offer-defined-acceptance-by-performance)
 
-### [§ 51. Effect of Part Performance Without Knowledge of Offer](
-https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-51-effect-of-part-performance-without-knowledge-of-offer-1)
+### [§ 51. Effect of Part Performance Without Knowledge of Offer](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-51-effect-of-part-performance-without-knowledge-of-offer-1)
 
 ### [§ 52. Who May Accept an Offer](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-52-who-may-accept-an-offer-1)
 
