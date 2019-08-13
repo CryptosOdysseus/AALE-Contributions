@@ -29,119 +29,120 @@
 
 # 
 
-## CHAPTER 1
+## [CHAPTER 1](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#chapter-1-1)
 
-## MEANING OF TERMS
+## [MEANING OF TERMS](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#meaning-of-terms-1)
 
-### § 1. Contract Defined
+### [§ 1. Contract Defined](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-1-contract-defined-1)
 
-### § 2. Promise; Promisor; Promisee; Beneficiary
+### [§ 2. Promise; Promisor; Promisee; Beneficiary](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-2-promise-promisor-promisee-beneficiary-1)
 
-### § 4. How a Promise May Be Made
-
-#
-
-## [CHAPTER 2] 
-
-## [FORMATION OF CONTRACTS–PARTIES AND CAPACITY] 
-
-### [§ 12. Capacity to Contract] 
-
-### [§ 13. Persons Affected by Guardianship] 
-
-### [§ 14. Infants]
-
-### [§ 15. Mental Illness or Defect] 
-
-### [§ 16. Intoxicated Persons]
+### [§ 4. How a Promise May Be Made](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-4-how-a-promise-may-be-made-1)
 
 #
 
-## CHAPTER 3
+## [CHAPTER 2](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#chapter-2-1) 
 
-## FORMATION OF CONTRACTS–MUTUAL ASSENT
+## [FORMATION OF CONTRACTS–PARTIES AND CAPACITY](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#formation-of-contractsparties-and-capacity-1) 
 
-### § 17. Requirement of a Bargain
+### [§ 12. Capacity to Contract](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-12-capacity-to-contract-1)
 
-### § 18. Manifestation of Mutual Assent
+### [§ 13. Persons Affected by Guardianship](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-13-persons-affected-by-guardianship-1) 
 
-### § 20. Requirement of Manifestation of Mutual Assent. (Restatement First)
+### [§ 14. Infants](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-14-infants-1)
 
-### § 20. Effect of Misunderstanding
+### [§ 15. Mental Illness or Defect](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-15-mental-illness-or-defect-1) 
 
-### § 22. Mode of Assent: Offer and Acceptance
+### [§ 16. Intoxicated Persons](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-16-intoxicated-persons-1)
 
-### § 24. Offer Defined
+#
 
-### § 25. Option Contracts
+## [CHAPTER 3](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#chapter-3-1)
 
-### § 26. Preliminary Negotiations
+## [FORMATION OF CONTRACTS–MUTUAL ASSENT](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#formation-of-contractsmutual-assent-1)
 
-### § 25. When a Manifestation of Intention is Not an Offer
+### [§ 17. Requirement of a Bargain](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-17-requirement-of-a-bargain-1)
 
-### § 27. Existence of Contract Where Written Memorial is Contemplated
+### [§ 18. Manifestation of Mutual Assent](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-18-manifestation-of-mutual-assent-1)
 
-### § 30. Form of Acceptance Invited
+### [§ 20. Requirement of Manifestation of Mutual Assent. (Restatement First)](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-18-manifestation-of-mutual-assent-1)
 
-### § 32. Invitation of Promise or Performance
+### [§ 20. Effect of Misunderstanding](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-20-effect-of-misunderstanding-1)
 
-### § 33. Certainty
+### [§ 22. Mode of Assent: Offer and Acceptance](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-22-mode-of-assent-offer-and-acceptance-1)
 
-### § 34. Certainty and Choice of Terms; Effect of Performance or Reliance
+### [§ 24. Offer Defined](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-24-offer-defined-1)
 
-### § 35. The Offeree's Power of Acceptance
+### [§ 25. Option Contracts](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-25-option-contracts-1)
 
-### § 36. Methods of Termination of the Power of Acceptance
+### [§ 26. Preliminary Negotiations](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-26-preliminary-negotiations-1)
 
-### § 38. Rejection
+### [§ 25. When a Manifestation of Intention is Not an Offer](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-26-preliminary-negotiations-1)
 
-### § 39. Counter-offers 
+### [§ 27. Existence of Contract Where Written Memorial is Contemplated](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-27-existence-of-contract-where-written-memorial-is-contemplated-1)
 
-### § 38. Rejection of Offer by Counter-Offer (Restatement First)
+### [§ 30. Form of Acceptance Invited](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-30-form-of-acceptance-invited-1)
 
-### § 40. Time When Rejection or Counter-offer Terminates the Power of Acceptance
+### [§ 32. Invitation of Promise or Performance](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-32-invitation-of-promise-or-performance-1)
 
-### § 41. Lapse of Time
+### [§ 33. Certainty](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-33-certainty-1)
 
-### § 42. Revocation by Communication from Offeror Received by Offeree
+### [§ 34. Certainty and Choice of Terms; Effect of Performance or Reliance](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-34-certainty-and-choice-of-terms-effect-of-performance-or-reliance-1)
 
-### § 43. Indirect Communication of Revocation
+### [§ 35. The Offeree's Power of Acceptance](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-35-the-offerees-power-of-acceptance-1)
 
-### § 45. Option Contract Created by Part Performance or Tender
+### [§ 36. Methods of Termination of the Power of Acceptance](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-36-methods-of-termination-of-the-power-of-acceptance-1)
 
-### § 46. Revocation of General Offer
+### [§ 38. Rejection](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-38-rejection-1)
 
-### § 48. Death or Incapacity of Offeror or Offeree
+### [§ 39. Counter-offers](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-39-counter-offers-1)
 
-### § 50. Acceptance of Offer Defined; Acceptance by Performance; Acceptance by Promise
+### [§ 38. Rejection of Offer by Counter-Offer (Restatement First)](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-39-counter-offers-1)
 
-### § 51. Effect of Part Performance Without Knowledge of Offer
+### [§ 40. Time When Rejection or Counter-offer Terminates the Power of Acceptance](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-40-time-when-rejection-or-counter-offer-terminates-the-power-of-acceptance-1)
 
-### § 52. Who May Accept an Offer
+### [§ 41. Lapse of Time](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-41-lapse-of-time-1)
 
-### § 53. Acceptance by Performance; Manifestation of Intention Not to Accept
+### [§ 42. Revocation by Communication from Offeror Received by Offeree](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-42-revocation-by-communication-from-offeror-received-by-offeree-1)
 
-### § 54. Acceptance by Performance; Necessity of Notification to Offeror
+### [§ 43. Indirect Communication of Revocation](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-43-indirect-communication-of-revocation-1)
 
-### § 55. Acceptance of Non-Promissory Offers
+### [§ 45. Option Contract Created by Part Performance or Tender](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-45-option-contract-created-by-part-performance-or-tender-1)
 
-### § 56. Acceptance by Promise; Necessity of Notification to Offeror
+### [§ 46. Revocation of General Offer](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-46-revocation-of-general-offer-1)
 
-### § 58. Necessity of Acceptance Complying with Terms of Offer
+### [§ 48. Death or Incapacity of Offeror or Offeree](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-48-death-or-incapacity-of-offeror-or-offeree-1)
 
-### § 59. Purported Acceptance Which Adds Qualifications
+### [§ 50. Acceptance of Offer Defined; Acceptance by Performance; Acceptance by Promise](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-50-acceptance-of-offer-defined-acceptance-by-performance)
 
-### § 60. Acceptance of Offer Which States Place, Time or Manner of Acceptance
+### [§ 51. Effect of Part Performance Without Knowledge of Offer](
+https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-51-effect-of-part-performance-without-knowledge-of-offer-1)
 
-### § 61. Acceptance Which Requests Change of Terms
+### [§ 52. Who May Accept an Offer](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-52-who-may-accept-an-offer-1)
 
-### § 62. Effect of Performance by Offeree Where Offer Invites Either Performance or Promise
+### [§ 53. Acceptance by Performance; Manifestation of Intention Not to Accept](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-53-acceptance-by-performance-manifestation-of-intention-not-to-accept-1)
 
-### § 63. Time When Acceptance Takes Effect
+### [§ 54. Acceptance by Performance; Necessity of Notification to Offeror](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-54-acceptance-by-performance-necessity-of-notification-to-offeror-1)
 
-### § 66. Acceptance Must be Properly Dispatched
+### [§ 55. Acceptance of Non-Promissory Offers](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-55-acceptance-of-non-promissory-offers-1)
 
-### § 69. Acceptance by Silence or Exercise of Dominion
+### [§ 56. Acceptance by Promise; Necessity of Notification to Offeror](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-56-acceptance-by-promise-necessity-of-notification-to-offeror-1)
+
+### [§ 58. Necessity of Acceptance Complying with Terms of Offer](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-58-necessity-of-acceptance-complying-with-terms-of-offer-1)
+
+### [§ 59. Purported Acceptance Which Adds Qualifications](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-59-purported-acceptance-which-adds-qualifications-1)
+
+### [§ 60. Acceptance of Offer Which States Place, Time or Manner of Acceptance](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-60-acceptance-of-offer-which-states-place-time-or-manner-of-acceptance-1)
+
+### [§ 61. Acceptance Which Requests Change of Terms](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-61-acceptance-which-requests-change-of-terms-1)
+
+### [§ 62. Effect of Performance by Offeree Where Offer Invites Either Performance or Promise](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-62-effect-of-performance-by-offeree-where-offer-invites-either-performance-or-promise-1)
+
+### [§ 63. Time When Acceptance Takes Effect](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-63-time-when-acceptance-takes-effect-1)
+
+### [§ 66. Acceptance Must be Properly Dispatched](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-66-acceptance-must-be-properly-dispatched-1)
+
+### [§ 69. Acceptance by Silence or Exercise of Dominion](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-69-acceptance-by-silence-or-exercise-of-dominion-1)
 
 # 
 
