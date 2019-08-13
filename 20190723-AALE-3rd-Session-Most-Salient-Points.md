@@ -44,21 +44,21 @@ _**So that the insights are crystallized in a usable, chronological form. “**_
 
 #
 
-##### Furthermore, bearing in mind some of the ulterior motives are educational, and also advising senior decision makers in various settings, it’s important to keep it all intelligible, digestible & palatable.
+### Furthermore, bearing in mind some of the ulterior motives are educational, and also advising senior decision makers in various settings, it’s important to keep it all intelligible, digestible & palatable.
 
 #
 
-#### -B- Engagement with customer and laying the ground to establish a lawyer-client relationship by first making sure the user better understands the Legal analysis approach of what they do on daily basis with a Business & Technological mindset.
+#### -B- Engagement with customer: laying the ground to establish a lawyer-client relationship by first making sure users better understands the Legal analysis approach of what they do on daily basis with a Business & Technological mindset.
 
-**This session directed by Beth had been prepared by Beth, Dazza, Brenden, Bryan together with Publishing DAO Cem & Jim.**
+**Session directed by Beth, prepared by Beth, Dazza, Brenden, Bryan, together with Publishing DAO Cem & Jim.**
 
 _As part of the conversation (discussion) directed by **Beth** with **Cem & Jim**, this was the most important foundational step- and **Dazza made sure we all get these premises of the Legal analysis right**. Non-lawyer readers used to operate mainly within a Business / Technological mindset, and not so much used to tackle situations from a Legal analysis perspective, are kindly encouraged to dig the details in the main "Full Takeaway" feedback, because if there is something to learn, it starts with these foundational steps. Furthermore, experienced lawyers may learn from the art of navigating a DAO circumstances._
 
-While none of this is Legal Advice, nor may be construed as (an attempt at) Legal Practice, the ones in a position to expect from this some form of usefulness & utility, include user Publishing DAO: user is in a position to assess the usability of this work when user can complete their Business & Technological polyvalent setup with a Legal-analysis-oriented approach. 
+While none of this is Legal Advice, nor may be construed as (an attempt at) Legal Practice, the ones in a position to expect from this some form of usefulness & utility, include users Publishing DAO: users are in a position to assess usability of this work, when users consolidate their polyvalent Business & Technological perspective with a Legal-analysis-oriented approach. 
 
 There is a difference between Technological and Legal definitions of Roles and Relationships, and therefore Legal assessment of Rights and Responsibilities (R4). For ex., depending on context, user Publishing DAO can be an Agent (of a writer acting as Principal) or Publishing DAO can be a Principal, with logistics company acting as Agent. This has severe enough legal & liability consequences to pay attention to. 
 
-It also suggests that when Agency Law isnt sufficient to tackle most of the scenarios, it becomes necessary to switch to Contract Law (and Tort etc.) which implies to build a series of disclaimers in order to shield the Publishing DAO from basic legal harm that can be dodged. The nature of the legal structure behind the legal persons involved, and the degree of automation & autonomy also affect the lawyer-client relationship establishment, process & procedures. 
+It also suggests that when Agency Law isn't sufficient to tackle most of the scenarios, it becomes necessary to switch to Contract Law (and Tort etc.) which implies to build a series of disclaimers in order to shield the Publishing DAO from basic legal harm that can be dodged. The nature of the legal structure behind the legal persons involved, and the degree of automation & autonomy also affect the lawyer-client relationship establishment, process & procedures. 
 
 _What matters is, you want to be able to use the legal codification of a given body of Law (here, Agency Law to start with) as provided by a relatively updated Restatement of that Law, in order to carry out an AALE/ DAOs relevant analysis- **as your aim is to surface a number of design requirements and legal engineering success metrics.(Dazza)**_
 
@@ -88,7 +88,7 @@ Here we use certain selective methods to tame the troika of complexity, granular
 
 **Quote:**
 
-**“Starting with the basic agency law analysis conducted during our prior session focused on the roles, relationships, rights and responsibilities of the Principal, Agent and Third Party in the three scenarios involving the sale of a book, as a next step we ask:**_
+_**“Starting with the basic agency law analysis conducted during our prior session focused on the roles, relationships, rights and responsibilities of the Principal, Agent and Third Party in the three scenarios involving the sale of a book, as a next step we ask:**_
 
 **• What are the issues, options and opportunities presented when one of the Actors in each scenario is itself a DAO or other type of automated and autonomous legal entity?**
 
@@ -160,7 +160,7 @@ ClickThrough Agreement DAO:Agency “We are not your agent if we do nothing”.
 
 _**No action or agency relationship: it is extremely important that users understand there is no agency relationship if something is put forth as a vote, because if it is NOT accepted by the (Publishing) DAO, the (Publishing) DAO should be able to drop it as it is non-binding and not executable under an Agency Law relationship.**_
 
-_**Disclaimer advised: DAO may say yes, no, or do nothing (Dazza)._
+_**Disclaimer advised: DAO may say yes, no, or do nothing (Dazza).**_
 
 ##
 
