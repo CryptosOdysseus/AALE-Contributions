@@ -36,10 +36,7 @@
 ### Preparing next AALE 4th Session-
 ### CWP (Current Working Process) and method so far to tackle AALE vs Contract Law questions
 
-
-
-PREPARATORY WORK FOR NEXT SESSION - BITS OF METHOD CWP – CONTRACT LAW – AAS - AALE
-
+#
 
 #### Some things which have emerged on how we work individually & collectively:
 
@@ -57,7 +54,7 @@ f.	regularly clarify what (evolving) objectives are, but also remind what they�
 
 g.	get language clearance, stay away from the State of Confusion (AAS vs AALE etc).
 
-h.	remain ninjutsu-like agile & nimble like this perfect AALE 3rd Session Live from Berlin.
+h.	remain ninjutsu-like agile & nimble- watch this perfect AALE 3rd Session Live from Berlin.
 
 #
 
@@ -135,7 +132,9 @@ o	to surface a few more **design requirements and legal engineering success metr
 o	focusing at this particular moment in time on the mutual relevance with **Restatement (2nd) of Contract Law**
 https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md 
  
-The thing is not to establish a taxonomy of various A/A & D/D stages per se (although that alone sounds like a worthy purpose) but more to kind of get a feel of how we should break the complexity into smaller bits and prioritize them, e.g. maybe:
+#
+ 
+The thing here & now isn't to establish a taxonomy of various A/A & D/D stages per se (though that alone sounds like a worthy purpose) but more to kind of get a feel of how we should break the complexity into smaller bits & prioritize them, e.g. maybe:
 
 -	a **core chunk to focus the bulk of our design efforts**, whereas, for Autonomous Agents and Automated Transactions, we kind of operate over the **robust foundation of the ESIGN/ UETA frameworks for electronics agents**, and for which a **clear attribution to a responsible legal person is straightforward.**
 
@@ -158,13 +157,13 @@ It might also be useful to consider an AAS that does problematic things, like a 
 
 -	What are (roughly) for AAS the **various stages of A/A and D/D that would _impact attribution_**, and how should AALE be engineered to deal with that.
 
--	Where are (roughly) the legal domain borderlines, within which we may **safely assume that we can execute legal analysis of scenarios for Autonomous Agents and Automated Transactions, under the model of AAS being mere electronic agents as being dealt with by the ESIGN/UETA frameworks, with a clear attribution mechanism …**
+-	Where are (roughly) the legal domain borderlines, within which we may **safely assume that we can execute legal analysis of scenarios for Autonomous Agents and Automated Transactions, under the model of AAS being mere electronic agents as being dealt with by the ESIGN/UETA frameworks, with a clear attribution mechanism ...**
 
--	… whereas there must be a place where we should (roughly) put the legal domain borderlines (think “yet another **capped rabbit hole**” ninja technique à la Beth) for **these stages of A/A & D/D that warrant ambiguity and/or impossibility of a straightforward attribution mechanism and therefore a potential problem of accountability gap and/or legal vacuum** (unless that problem doesn’t really exist, then okay let's drop that angle) …
+- ... whereas there must be a place where we should (roughly) put the legal domain borderlines (think “yet another **capped rabbit hole**” ninja technique à la Beth) for **these stages of A/A & D/D that warrant ambiguity and/or impossibility of a straightforward attribution mechanism and therefore a potential problem of accountability gap and/or legal vacuum** (unless we consider that problem doesn’t really exist _**yet**_, then okay let's drop that angle but reasonably anticipate that problem may eventually pop up) ...
 
--	… whereas there must be a place where we should (roughly) put the legal domains borderlines where we think **the model of AAS being mere electronic agents, as being dealt with by the ESIGN/UETA frameworks, and being managed by AALE as such, _doesn’t apply anymore._**
+- ... whereas there must be a place where we should (roughly) put the legal domains borderlines where we think **the model of AAS being mere electronic agents, as being dealt with by the ESIGN/UETA frameworks, and being managed by AALE as such, _doesn’t apply anymore..._** 
 
-- And instead, there might be ground for **bestowing directly the AAS with the capacities and status of Legal Agent**, or at least provide arguments in favor of the Legal System(s) evolving in that direction. 
+- ... and instead, there might be ground for **bestowing directly the AAS with the capacities and status of Legal Agent**, or at least provide arguments in favor of the Legal System(s) evolving in that direction. 
 
 - In which latest case, what would be the (rough) features to **outfit the AALE with functions to enable the AALE to handle these Legal-Agent-Status capable AAS.** _Because this sounds clearly like a guaranteed rabbit hole, it should be capped._
 
@@ -181,7 +180,7 @@ Regardless of none-partial-full validation of all of the above, what we (non-Law
 
 -	then, scanning through the **Restatement (2nd) of Contract Law** (https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md), look for these sections, articles and underlying legal concepts, **that logically resonate & articulate with issues relevant to above core chunk focus framework,** and write some comments- but doing this first _in abstracto_, not yet getting entangled in any specific scenario. 
 
--	then, from that, like we did for Agency Law, we hope to **derive a check-list of some of Restatement (2nd) of Contract Law's most relevant articles and concepts in usability & applicability to above core chunk focus.** 
+-	then, from that, like we did for Agency Law, we hope to **derive a check-list of some of Restatement (2nd) of Contract Law's most relevant articles and concepts in usability & applicability to above core chunk focus, _then,_ do scenarios.** 
 
 -	at that time we should be able to apply that check-list together with the **R4 (Roles and Relationships, Rights and Responsibilities) & other relevant functions**, to allocate roles to functions and then play some of the scenarios from the perspective of each role, within an AALE/DAO context. 
 
