@@ -195,7 +195,10 @@ But remember: **"You're not stuck in traffic- You _are_ traffic."**
 
 #### Remarks:
 
-Regardless of above (temporary) method brief, if you haven’t done it yet, we encourage you to read Dazza’s August 8th CIVICS post - “Creating a Legal Framework for Autonomous Agents and Automated Transactions” (https://civics.com/2019/08/08/creating-a-legal-framework-for-autonomous-agents-and-automated-transactions/), here are some of most salient points of the full takeaway:
+Regardless of above CWP & method brief, if you haven’t done it yet, we encourage you to read Dazza’s August 8th CIVICS post:
+“Creating a Legal Framework for Autonomous Agents and Automated Transactions” 
+(https://civics.com/2019/08/08/creating-a-legal-framework-for-autonomous-agents-and-automated-transactions/), 
+here are some of the **most salient points** within the full takeaway:
 
 **The most important concept to take away from these legal frameworks in the context of automated and autonomous systems is the need for attribution to a legal person.**
 
