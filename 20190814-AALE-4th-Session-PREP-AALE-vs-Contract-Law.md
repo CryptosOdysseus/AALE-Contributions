@@ -130,8 +130,8 @@ It also includes a pretty foundational Joi Ito video on Autonomous (autonomish..
 o	to surface a few more **design requirements and legal engineering success metrics for AALE.**
 
 o	focusing at this particular moment in time on the mutual relevance with **Restatement (2nd) of Contract Law**
-https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md 
- 
+(https://github.com/mitmedialab/AutomatedLegalEntityChallenge/blob/master/docs/20190812-Body-of-Contract-Law-2nd-Restatement.md)
+
 #
  
 The thing here & now isn't to establish a taxonomy of various A/A & D/D stages per se (though that alone sounds like a worthy purpose) but more to kind of get a feel of how we should break the complexity into smaller bits & prioritize them, e.g. maybe:
@@ -169,6 +169,7 @@ It might also be useful to consider an AAS that does problematic things, like a 
 
 - However the recent case of the **Inventor-AI kind of AAS** has demonstrated that we might be only several years to a couple of decades away from dealing with the issue of _**substantially autonomISH systems that qualify as Legal Agents**_, rather than half-a-century as it is currently assumed by some regulatory senior decision makers occasionally quoted in the Financial Times. _Our work, while remaining within proper boundaries, might want to at least underline this awareness and foresight_ even if we choose to so far deal with it as a "capped guaranteed rabbit hole".
 
+#
 
 #### Next steps of our CWP
 
@@ -206,7 +207,9 @@ Regardless of above (temporary) method brief, if you haven’t done it yet, we e
 
 #
 
-#### More on the content and full takeaway quoting directly from above mentioned Dazza’s CIVICS post “Creating a Legal Framework for Autonomous Agents and Automated Transactions” (https://civics.com/2019/08/08/creating-a-legal-framework-for-autonomous-agents-and-automated-transactions/):
+#### More on the content and full takeaway quoting directly from above mentioned Dazza’s CIVICS post 
+#### “Creating a Legal Framework for Autonomous Agents and Automated Transactions” 
+#### (https://civics.com/2019/08/08/creating-a-legal-framework-for-autonomous-agents-and-automated-transactions/):
 
 Some of the most pressing legal questions are hardly new at all, and in fact legal frameworks in US federal and state law have already been enacted to address those questions. 
 
@@ -216,7 +219,7 @@ In the context of electronic contracts and automated transactions the two key la
 
 and
 
-the Electronic Signatures in Global and National Commerce Act (ESIGN) at the federal level. (https://en.wikipedia.org/wiki/Electronic_Signatures_in_Global_and_National_Commerce_Act)
+- the Electronic Signatures in Global and National Commerce Act (ESIGN) at the federal level (https://en.wikipedia.org/wiki/Electronic_Signatures_in_Global_and_National_Commerce_Act)
 
 
 One of the most relevant parts of these laws relates directly to the use of new technologies like blockchain and AI that enable a high degree of automation and in some cases, even autonomous action.
