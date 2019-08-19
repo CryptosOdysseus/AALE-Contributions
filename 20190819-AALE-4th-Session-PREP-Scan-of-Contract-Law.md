@@ -977,7 +977,7 @@ If the requirement of consideration is met, there is no additional requirement o
 
 (c) "mutuality of obligation."
 
->>Issue of _**attribution to promisor and promisee of Consideration and Mutuality of Obligation in AAS context under AALE process.**_
+>Issue of _**attribution to promisor and promisee of Consideration and Mutuality of Obligation in AAS context under AALE process.**_
 
 ### § 81. Consideration as Motive or Inducing Cause
 
@@ -1114,8 +1114,8 @@ as to be capable of identification when it is delivered.
 >- sub-plot of _**AAS gone rogue**_ (deliberately by internal programming, or accidentally by external hacking) under AALE process
 >- concept of _**attribution to responsible human party (UETA/ESIGN etc.)**_
 >- AAS+AALE combined systems ability to constantly & consistently _**self-monitor, report & correct parameters of actions conducive to fraud.**_
-- inclination of combined AAS & AALE systems to either _**mitigate or exacerbate**_ problematic situations under Statute of Frauds.
-- many legal concepts and sub-processes here _**link back to what has been defined in Section 4, and 3.**_
+>- inclination of combined AAS & AALE systems to either _**mitigate or exacerbate**_ problematic situations under Statute of Frauds.
+>- many legal concepts and sub-processes here _**link back to what has been defined in Section 4, and 3.**_
 
 ### § 131. General Requisites of a Memorandum
 
