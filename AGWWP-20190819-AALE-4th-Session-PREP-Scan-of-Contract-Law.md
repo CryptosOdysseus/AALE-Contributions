@@ -1,4 +1,5 @@
 # AALE vs Contract Law Attempt SCAN OF CONTRACT LAW
+# ADD REQUEST FOR COMMENTS MENTION
 
 (# MIT Media Lab - Computational Law
 
@@ -313,11 +314,25 @@
 
 ## [THE STATUTE OF FRAUDS](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#the-statute-of-frauds-1)
 
+>Part of the problem here in Chapter 5 for the legal sub-process encoding, is to _**define the conditions and modalities under which certain situations can be rattached to and processed under the framework of The Statute of Frauds, and to which extent they're relevant to an AAS context under an AALE process,**_ bearing in mind the following:
+>- _**interaction between (off-chain) human behaviors conducive to fraud and (on-chain) AAS**_
+>- sub-plot of _**AAS gone rogue**_ (deliberately by internal programming, or accidentally by external hacking) under AALE process
+>- concept of _**attribution to responsible human party (UETA/ESIGN etc.)**_
+>- AAS+AALE combined systems ability to constantly & consistently _**self-monitor, report & correct parameters of actions conducive to fraud.**_
+>- inclination of combined AAS & AALE systems to either _**mitigate or exacerbate**_ problematic situations under Statute of Frauds.
+>- many legal concepts and sub-processes here _**link back to what has been defined in Chapters 4, and 3.**_
+
 ### [§ 131. General Requisites of a Memorandum](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-131-general-requisites-of-a-memorandum-1)
+
+>"(c) states with reasonable certainty the essential terms of the unperformed promises in the contract" is directly relevant to AAS+AALE combined systems ability to consistently _**self-monitor,**_ report & correct parameters of actions conducive to fraud.
 
 ### [§ 132. Several Writings](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-132-several-writings-1)
 
+>"memorandum (several) writing(s)" sub-process is directly relevant to AAS+AALE combined systems ability to consistently _**self-monitor**_, report & correct parameters of actions conducive to fraud.
+
 ### [§ 139. Enforcement by Virtue of Action in Reliance](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-139-enforcement-by-virtue-of-action-in-reliance-1)
+
+>The legal concepts and sub-processes here for Enforcement by Virtue of Action in Reliance directly _**link back to these concepts and sub-processes defined in previous sections 4, and 3.**_ Determine _**relevance of the concepts and sub-processes of  inducement of action of forbearance, injustice avoidance, remedy (availability and adequacy, cancellation and restitution), breach, "justice" requirement, linkage forbearance-remedy, constitution of "evidence", "reasonableness" and "foresseability"  of the action of forbearance, in relation with AAS acts and their consequences under an AALE process,**_ and whether _**attribution to promisor and/or promisee changes something.**_ 
 
 #
 
@@ -325,19 +340,42 @@
 
 ## [MISTAKE](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#mistake-1)
 
+>Part of the problem here in Chapter 6 for the legal sub-process encoding, is to _**define the conditions and modalities under which certain situations can be rattached to and processed under the framework of Mistake, and to which extent they're relevant to an AAS context under an AALE process,**_ bearing in mind the following:
+>- say there are (roughly) 3 stages: -1- de facto formation of a "State of Mistake" -2- assessment and characterization of that "State of Mistake" -3- Various methods for parties dealing with that "State of Mistake" ; however, also bearing in mind the definition that _**<A Mistake is a "belief" that is not in "accord" with the "facts">**_ thus referring solely to a _**"human"**_ cognitve and belief formation process.
+>- _**interaction between (off-chain) human behaviors conducive to a "State of Mistake" and (on-chain) AAS**_
+>- sub-plot of AAS being "non-fraudulently" insufficiently debugged and conducive to a "State of Mistake" under AALE process
+>- concept of _**attribution to responsible human party (UETA/ESIGN etc.)**_
+>- AAS+AALE combined systems ability to consistently _**self-monitor,**_ report & correct parameters of actions conducive to a "State of Mistake" in particular _**discrepancies between human cognition / belief and AAS "truth" about evolving states of affairs.**_
+>- inclination of combined AAS & AALE systems to either _**mitigate or exacerbate**_ problematic situations in a "State of Mistake".
+>- -**linkage back to legal concepts and sub-processes defined in Chapters 4, and 3.**_
+
 ### [§ 151. Mistake Defined](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-151-mistake-defined-1)
+
+>See above comment.
 
 ### [§ 152. When Mistake of Both Parties Makes a Contract Voidable](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-152-when-mistake-of-both-parties-makes-a-contract-voidable-1)
 
+>mechanism of _**attribution to a responsible human and sub-process of reformation or restitution or other alternatives.**_
+
 ### [§ 153. When Mistake of One Party Makes a Contract Voidable](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-153-when-mistake-of-one-party-makes-a-contract-voidable-1)
+
+>Relevance of _**encoding contract voidability based on certain probabilistically anticipated "States of Mistake" in AAS context under AALE process.**_
 
 ### [§ 154. When a Party Bears the Risk of a Mistake](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-154-when-a-party-bears-the-risk-of-a-mistake-1)
 
+>In the same vein as _**attribution, relevance of encoding Mistake Risk and its Allocation, based on certain probabilistically anticipated "States of Mistake" in AAS context under AALE process.**_
+
 ### [§ 155. When Mistake of Both Parties as to Written Expression justifies Reformation](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-155-when-mistake-of-both-parties-as-to-written-expression-justifies-reformation-1)
+
+>This is an example of _**mitigation vs exacerbation: relevance of encoding pre-emption of Contract Writing shortcomings and/or sub-processes to expedite their Writing Reformation based on language oriented machine learning, in AAS context under AALE process.**_
 
 ### [§ 157. Effect of Fault of Party Seeking Relief](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-157-effect-of-fault-of-party-seeking-relief-1)
 
+>This link in particular to the _**sub-processes of attribution to a responsible human,**_ and regarding the human cognitive process of "Failure to Know", to the AAS+AALE combined systems ability to consistently _**self-monitor,**_ report & correct parameters of actions conducive to a "State of Mistake", in particular _**discrepancies between human cognition / belief and AAS "truth" about evolving states of affairs.**_
+
 ### [§ 158. Relief Including Restitution](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-158-relief-including-restitution-1)
+
+>_**Relevance of sub-processes of Claim for Relief (including Restitution), of Evaluation of the Parties' Reliance Interests, in AAS context under AALE process.**_
 
 #
 
@@ -345,23 +383,54 @@
 
 ## [MISREPRESENTATION, DURESS AND UNDUE INFLUENCE](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#misrepresentation-duress-and-undue-influence-1)
 
+>Part of the problem here for the legal sub-process encoding, is to define the conditions and modalities under which certain situations can be made to either _**exacerbate or mitigate**_ factors conducive to States of Misrepresentation, Duress and Undue Influence ; and consider approaches that are prone to mitigate rather than exacerbate these, in an AAS context under AALE process, bearing in mind the following:
+>- characterization of steps conducive to States of Misrepresentation, Duress and Undue Influence and encoding of sub-processes and encoding of mitigation sub-processes (could include machine learning techniques).
+>- _**interaction between (off-chain) human behaviors**_ conducive to States of Misrepresentation, Duress and Undue Influence _**and (on-chain) AAS**_**_
+>- _**sub-plots of either AAS being "fraudulently" internally programmed or externally hacked, or inversely, AAS being "non-fraudulently" insufficiently debugged**_, in ways conducive to States of Misrepresentation, Duress and Undue Influence, under AALE process.
+>- concept of _**attribution to responsible human party (UETA/ESIGN etc.)**_
+>- AAS+AALE combined systems ability to consistently _**self-monitor,**_ report & correct parameters of actions conducive to States of Misrepresentation, Duress and Undue Influence, in particular _**discrepancies between human cognition / belief and AAS "truth" about evolving states of affairs.**_
+>- inclination of combined AAS & AALE systems to either _**mitigate or exacerbate**_ problematic situations in States of Misrepresentation, Duress and Undue Influence.
+>- _**linkage back to legal concepts and sub-processes defined in previous Chapters.**_
+
 ### [§ 161. When Non-Disclosure Is Equivalent to an Assertion](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-161-when-non-disclosure-is-equivalent-to-an-assertion-1)
+
+>See above comments under Chapter 7 head. Ways to _**detect, mitigate, suppress root causes that Non-Disclosure Equivalent to an Assertion could be detrimental to some of the parties, in AAS context under AALE process.**_
 
 ### [§ 162. When a Misrepresentation Is Fraudulent or Material](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-162-when-a-misrepresentation-is-fraudulent-or-material-1)
 
+>See above comments under Chapter 7 head. Ways to _**detect, mitigate, suppress root causes that Misrepresentation may be Fraudulent or Material in ways that could be detrimental to some of the parties, in AAS context under AALE process.**_
+
 ### [§ 164. When a Misrepresentation Makes a Contract Voidable](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-164-when-a-misrepresentation-makes-a-contract-voidable-1)
+
+>See above comments under Chapter 7 head. Ways to _**detect, mitigate, suppress root causes that Misrepresentation may occur in the first place in ways that could be detrimental to some of the parties, before it reaches a situation whereas Contract is Voidable, in AAS context under AALE process.**_
 
 ### [§ 167. When a Misrepresentation Is an Inducing Cause](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-167-when-a-misrepresentation-is-an-inducing-cause-1)
 
+>See above comments under Chapter 7 head. This sounds like there could be a _**potentially exacerbated risk of Misrepresentation turning out being an Inducing Cause, in case of mis-calibrated interaction humans-AAS under an AALE process,**_ in particular if _**faulty oracles are involved that exacerbate Misrepresentation both ways- humans and AAS.**_ Relevance of the concept and _**sub-process of Misrepresentation turning out being an Inducing Cause needs to be reviewed in AAS context under AALE process.**_
+
+### [§ 168. Reliance on Assertions of Opinion](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-168-reliance-on-assertion-of-opinion-1) 
+
+>See above comments under Chapter 7 head. This sounds like there could be a _**potentially exacerbated risk of (Detrimental) Reliance on Assertions of Opininion, in case of mis-calibrated interaction humans-AAS under an AALE process,**_ in particular if _**faulty oracles are involved that exacerbate (Detrimental) Reliance on Assertions of Opinion, both ways- humans and AAS.**_ Relevance of the concept and _**sub-process of Reliance, and in particular (Detrimental) Reliance on Assertions of Opinion, needs to be reviewed in AAS context under AALE process.**_
+
 ### [§ 169. When Reliance on an Assertion of Opinion Is Not justified](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-169-when-reliance-on-an-assertion-of-opinion-is-not-justified-1)
+
+>See above comments under Chapter 7 head. This sounds like there could be a _**potentially exacerbated risk of (Detrimental) Reliance on an Assertions of Opiniion That Is Not Justified, in case of mis-calibrated interaction humans-AAS under an AALE process,**_ in particular if faulty oracles are involved that _**exacerbate (Detrimental) Reliance on an Assertions of Opiniion That Is Not Justified, both ways- humans and AAS.**_ Relevance of the concept and _**sub-process of Reliance, and in particular (Detrimental) Reliance on an Assertions of Opiniion That Is Not Justified, needs to be reviewed in AAS context under AALE process.**_
 
 ### [§ 174. When Duress by Physical Compulsion Prevents Formation of a Contract](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-174-when-duress-by-physical-compulsion-prevents-formation-of-a-contract-1)
 
+>See above comments under Chapter 7 head. There could be a _**chance of mitigation of conditions of "Duress" ever happening, that lead to Prevention of Formation of a Contract.**_ Although _**risks for exacerbated Duress by Physical Compulsion may appear in case of mis-calibrated interaction humans-AAS under an AALE process,**_ in particular if _**humans or AAS gone rogue or faulty oracles or other externalities are involved that exacerbate over-reactions both ways- humans and AAS.**_ Relevance of the concept and _**sub-process of Duress by Physical Compulsion, needs to be reviewed in AAS context under AALE process.**_
+
 ### [§ 175. When Duress by Threat Makes a Contract Voidable](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-175-when-duress-by-threat-makes-a-contract-voidable-1)
+
+>Remarks analoguous to § 174 as the _**relevance of the concept and sub-process "Threat" needs to be reviewed in an AAS context under AALE process.**_
 
 ### [§ 176. When a Threat Is Improper](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-176-when-a-threat-is-improper-1)
 
+>Remarks analoguous to § 174 and § 175 as the _**relevance of the concept and sub-process "Threat" and the modalities of its execution need to be reviewed in an AAS context under AALE process.**_
+
 ### [§ 177. When Undue Influence Makes a Contract Voidable](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-177-when-undue-influence-makes-a-contract-voidable-1)
+
+>In additon to above remarks this _**links back to the notions of trustless environment,**_ and _**exacerbation or mitigation of the conditions of Undue Influence, especially if faulty oracles or other externalities are involved.**_ The relevance of the concept and _**sub-process of Undue Influence creating conditions that Make A Contract Voidable need to be reviewed in AAS context under AALE process.**_
 
 #
 
@@ -369,21 +438,43 @@
 
 ## [UNENFORCEABILITY ON GROUNDS OF PUBLIC POLICY](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#unenforceability-on-grounds-of-public-policy-1)
 
+>Part of the problem in this Chapter 8 is the ability to _**assess the relevance of Public Policy-generated externalities in an AAS context under AALE process.**_ Define the encoding of that particular set of _**"Public Policy Functions" linked to conditions and constraints in ways that avoid both the risk of non-compliance with Public Policy and the risk of AAS/AALE systemic paralysis.**_
+
+>Which logically begs the question whether some or all parties involved would be better off, should the engineering of Public Policy - maybe and to a certain extent - _**incorporate at the onset, modalities, process and encoding that make it directly usable and functional in AAS context under AALE process._** With the _**major caveat**_ that the precision surgery of public "statutes" within AAS/AALE context could be as much a complicated, delicate and dysfunctionally disruptive affair, as a flawed, badly engineered meeting (computationally) of various bodies of Law. _**This suggests experimental prudence (sandbox).**_
+
+>In an analoguous vein, inspired by and extrapolating from the CIVICS/Dazza regulatory impact experience since the 1990's (UETA/ESIGN), and further rebounding on the current emerging state of affair of "Automation, Algorithm, A.I. and Blockchain for Government", a kind of working topic revolving around _**"Assess relevance, feasability, and sustainability of Design & Engineering of Public Policy That Is AAS/AALE Compatible"**_ sounds, possibly, like where some of the past, current & future states of Public Policy making reside.
+
 ### [§ 178. When a Term Is Unenforceable on Grounds of Public Policy](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-178-when-a-term-is-unenforceable-on-grounds-of-public-policy-1)
+
+>See above comments under head of Chapter 8. This describes some of the _**functions, sub-processes and parameters to review to "Assess relevance, feasability, and sustainability of Design & Engineering of Public Policy That Is AAS/AALE Compatible".**_
 
 ### [§ 181. Effect of Failure to Comply with Licensing or Similar Requirement](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-181-effect-of-failure-to-comply-with-licensing-or-similar-requirement-1)
 
+>See above comments under head of Chapter 8. This describes some of the _**functions, sub-processes and parameters to review to "Assess relevance, feasability, and sustainability of Design & Engineering of Public Policy That Is AAS/AALE Compatible".**_ In particular, define the _**meaning of public policy that "outweight" other legal decision parameters.**_
+
 ### [§ 182. Effect of Performance if Intended Use Is Improper](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-182-effect-of-performance-if-intended-use-is-improper-1)
+
+>See above comments under head of Chapter 8. This describes some of the _**functions, sub-processes and parameters to review to "Assess relevance, feasability, and sustainability of Design & Engineering of Public Policy That Is AAS/AALE Compatible".**_ In particular, define the _**meaning of "grave social harm" vs other legal decision parameters.**_ This could maybe come a little bit closer to reality in a not so distant future- think encoding, in an AAS context under AALE process, of e.g. gender bias and/or climate change and/or elections manipulation impact mitigation policies, etc, or any cause referred to - at least by certain political constituencies - as "involving grave social harm". 
 
 ### [§ 187. Non-Ancillary Restraints on Competition](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-187-non-ancillary-restraints-on-competition-1)
 
+>See above comments under head of Chapter 8. This describes some of the _**functions, sub-processes and parameters to review to "Assess relevance, feasability, and sustainability of Design & Engineering of Public Policy That Is AAS/AALE Compatible".**_ In particular, this may start to cover some of the issues of _**conflicting trade / antitrust laws, when manipulation of suppliers, oligopolistic-like excessive coordination on sales terms, and other allegedly (open dlt-based) excessive transparency on costs & prices are involved.**_ Part of the problem is _**relevance & limits of the paradigm of "grey area and confidentiality" that is the whole basis of bargaining for mercantile, capitalistic trade & investment**_ (somewhat distinctively from collectivist-model cooperative à la Kolkoz/Kibutz) in an AAS context under AALE process.
+
 ### [§ 188. Ancillary Restraints on Competition](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-188-ancillary-restraints-on-competition-1)
+
+>See above comments under head of Chapter 8. This describes some of the _**functions, sub-processes and parameters to review to "Assess relevance, feasability, and sustainability of Design & Engineering of Public Policy That Is AAS/AALE Compatible".**_ Remarks analogous to § 187 in the case of _**Competition laws**_ in an AAS context under AALE process.
 
 ### [§ 194. Promise Interfering with Contract with Another](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-194-promise-interfering-with-contract-with-another-1)
 
+>See above comments under head of Chapter 8. This describes some of the _**functions, sub-processes and parameters to review to "Assess relevance, feasability, and sustainability of Design & Engineering of Public Policy That Is AAS/AALE Compatible".**_ With emphasis on defining _**relevance of concepts and sub-process of tortious interference, tortiously-induced promise, commitment to breach of contract in an AAS context under AALE process.**_
+
 ### [§ 195. Term Exempting from Liability for Harm Caused Intentionally, Recklessly or Negligently](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-195-term-exempting-from-liability-for-harm-caused-intentionally-recklessly-or-negligently-1)
 
+>See above comments under head of Chapter 8. This describes some of the _**functions, sub-processes and parameters to review to "Assess relevance, feasability, and sustainability of Design & Engineering of Public Policy That Is AAS/AALE Compatible".**_ With emphasis on defining relevance of concepts and _**sub-process of Harm Caused Intentionally, Recklessly, or Negligently, in humans-AAS interactions, with attribution to a responsible human for liability bearing, in an AAS context under AALE process.**_ This seems to cover physical harm and other kinds of harm, and might lead to similar consideration in _**Tort Law.**_
+
 ### [§ 198. Restitution in Favor of Party who Is Excusably Ignorant or Is Not Equally in the Wrong](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-198-restitution-in-favor-of-party-who-is-excusably-ignorant-or-is-not-equally-in-the-wrong-1)
+
+>See above comments under head of Chapter 8. This describes some of the _**functions, sub-processes and parameters to review to "Assess relevance, feasability, and sustainability of Design & Engineering of Public Policy That Is AAS/AALE Compatible".**_ With emphasis on defining relevance of concepts and _**sub-process, in humans-AAS interactions, linked to (human) cognition of some of the parties such as Excusable Ignorance and Not Equally in the Wrong. But maybe also explorable for AAS knowledge status under AALE process.**_ Also links back to _**attribution for liability bearing and the sub-process of Restitution.**_
 
 #
 
