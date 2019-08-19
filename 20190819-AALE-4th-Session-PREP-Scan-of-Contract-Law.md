@@ -7,7 +7,9 @@
 
 (### "AALE" Collaborative Hack with Dazza, Beth, Brenden, Bryan, Silke et al. 
 
-(### RESTATEMENT (SECOND) OF CONTRACTS - LEGAL CODIFICATION OF THE BODY OF CONTRACT LAW
+(### RESTATEMENT (SECOND) OF CONTRACTS-
+(### SCAN OF THE LEGAL CODIFICATION OF THE BODY OF CONTRACT LAW 
+(### IN RELATION WITH AN AALE/DAO ORIENTED LEGAL ANALYSIS
 
 (#### Reference: https://www.nylitigationfirm.com/files/restat.pdf
 
@@ -25,11 +27,15 @@
 
 #
 
-# RESTATEMENT (SECOND) OF CONTRACTS - LEGAL CODIFICATION OF THE BODY OF CONTRACT LAW
+# RESTATEMENT (SECOND) OF CONTRACTS-
+# SCAN OF THE LEGAL CODIFICATION OF THE BODY OF CONTRACT LAW 
+# IN RELATION WITH AN AALE/DAO ORIENTED LEGAL ANALYSIS
 
 ## Reference: https://www.nylitigationfirm.com/files/restat.pdf
 
-# 
+# METHOD
+
+
 
 ## [CHAPTER 1](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#chapter-1-1)
 
@@ -237,35 +243,69 @@
 
 ## [FORMATION OF CONTRACTS–CONSIDERATION](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#formation-of-contractsconsideration-1)
 
+>Definition of Consideration (https://dictionary.law.com/Default.aspx?selected=305): _**1) payment or money. 2) a vital element in the law of contracts, consideration is a benefit which must be bargained for between the parties, and is the essential reason for a party entering into a contract. Consideration must be of value (at least to the parties), and is exchanged for the performance or promise of performance by the other party (such performance itself is consideration). In a contract, one consideration (thing given) is exchanged for another consideration. Not doing an act (forbearance) can be consideration.**_
+
+>As such, _**"consideration" need to be put in perspective, so as to define automatisation of this sub-process, for each below occurences in articles, each time subject to this sub-process relevance in an AAS context under AALE process.**_ This suggests that while Smart Contracts loom large for a number of transactions revolving around digital and/or material assets, that also involves other features such as escrow, multisig, oracles, and mutually confirmed "states" of understanding and realisation, _**there is a need to consider the attribution to a responsible human of what the AAS is doing, and the need to define how this is all being run within an AALE process.**_
+
 ### [§ 71. Requirement of Exchange; Types of Exchange](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-71-requirement-of-exchange-types-of-exchange-1)
+
+>Question of _**attribution to promisor and promisee of AAS acts and their consequences under AALE process.**_
 
 ### [§ 73. Performance of Legal Duty](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-73-performance-of-legal-duty-1)
 
+>Question of _**attribution to promisee of AAS performance acts and their consequences under AALE process.**_
+
 ### [§ 74. Settlement of Claims](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-74-settlement-of-claims-1)
+
+>Definition of forbearance: the action of refraining from exercising a legal right, especially enforcing the payment of a debt.
+
+>Issue of whether the _**sub-process of preliminary or post-facto determination of the validity of a claim has any relevance in an AAS context under AALE process.**_ There may be no issue of _**"belief"**_ (regarding the validity of a claim) in an AAS context under AALE process, only computational law determinism, **_unless such belief may exist within the person to whom there is attribution of the AAS acts ad their consequences.**_ But there could also be e.g. flawed oracles that "mislead" AAS and/or humans that "interpret" the information into "erroneous belief".
 
 ### [§ 77. Illusory and Alternative Promises](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-77-illusory-and-alternative-promises-1)
 
+>Issue of _**attribution to promisor of Illusory and Alternative Promises made in AAS context under AALE process.**_
+
 ### [§ 79. Adequacy of Consideration; Mutuality of Obligation](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-79-adequacy-of-consideration-mutuality-of-obligation-1)
+
+>Issue of _**attribution to promisor and promisee of Consideration and Mutuality of Obligation in AAS context under AALE process.**_
 
 ### [§ 81. Consideration as Motive or Inducing Cause](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-81-consideration-as-motive-or-inducing-cause-1)
 
+>Determine _**relevance of the concept and sub-process of Consideration as Motive or Inducing Cause in relation with AAS acts and their consequences under an AALE process,**_ and whether _**attribution to promisor and/or promisee changes something.**_
+
 ### [§ 82. Promise to Pay Indebtedness; Effect on the Statute of Limitations](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-82-promise-to-pay-indebtedness-effect-on-the-statute-of-limitations-1)
+
+>Determine _**relevance of the concept of antecedent contractual or quasi-contractual indebtedness owed by the promisor in relation with AAS acts and their consequences under an AALE process,**_ and whether _**attribution to promisor and/or promisee changes something for ownership of the indebtedness._** What does _**"statute of limitation" means**_ in an AAS context under an AALE process?
 
 ### [§ 83. Promise to Pay Indebtedness Discharged in Bankruptcy](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-83-promise-to-pay-indebtedness-discharged-in-bankruptcy-1)
 
+>This links to the _**larger question of managing bankruptcy events in relation with AAS acts and their consequences under an AALE process,**_ with _**attribution to a responsible human**_ and re-injection or not of humans in the loop of bankruptcy management.
+
 ### [§ 84. Promise to Perform a Duty in Spite of Non-occurrence of a Condition](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-84-promise-to-perform-a-duty-in-spite-of-non-occurrence-of-a-condition-1)
+
+>Determine _**relevance of the concept of Non Occurence of a Condition in relation with AAS acts and their consequences under an AALE process,**_ and whether _**attribution to promisor and/or promisee changes something. Also issue of Notification sub-process.**_
 
 ### [§ 86. Promise for Benefit Received](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-86-promise-for-benefit-received-1) 
 
+>Determine _**relevance of the concepts and sub-processes of (Recognition of) Benefit Previously Received, Gift, Unjust Enrichment, Value Proportionate or Not to Benefit, in relation with AAS acts and their consequences under an AALE process,**_ and whether _**attribution to promisor and/or promisee changes something.**_
+
 ### [§ 87. Option Contract](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-87-option-contract-1)
+
+>Links back to previous remarks on Option Contract especially in a context of deterministically executable Smart Contracts. Determine _**relevance of the concepts and sub-processes of purported consideration, fair terms, reasonable time (?!! in high speed process), irrevocability by statute, injustice avoidance, in relation with AAS acts and their consequences under an AALE process,**_ and whether _**attribution to promisor and/or promisee changes something.**_
 
 ### [§ 89. Modification of Executory Contract](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-89-modification-of-executory-contract-1)
 
+>Important to consider Executory Contract in a context of deterministically executable Smart Contracts. Determine _**relevance of the concepts and sub-processes of non-full performance, circumstances non anticipated by parties (but informed afterward by oracles?) fair and equitable terms, enforcement by "justice" in view of material change of position in reliance on the promise, in relation with AAS acts and their consequences under an AALE process**_, and whether _**attribution to promisor and/or promisee changes something.**_
+
 ### [§ 90. Promise Reasonably Inducing Action or Forbearance](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-90-promise-reasonably-inducing-action-or-forbearance-1)
+
+>Also important to consider Promise Reasonably Inducing Action or Forbearance in a context of deterministically executable Smart Contracts. Determine _**relevance of the concepts and sub-processes of reasonable expectation, inducement of action of forbearance, injustice avoidance, breach, "justice" requirement, in relation with AAS acts and their consequences under an AALE process,**_ and whether _**attribution to promisor and/or promisee changes something.**_
 
 ### [§ 90. Promise Reasonably Inducing Definite and Substantial Action (Restatement First)](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-90-promise-reasonably-inducing-action-or-forbearance-1)
 
 ### [§ 95. Requirements for Sealed Contract or Written Contract or Instrument](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-95-requirements-for-sealed-contract-or-written-contract-or-instrument-1)
+
+>Links back to UETA/ESIGN process. Also important to consider Requirements for Sealed Contract or Written Contract or Instrument in a context of deterministically executable Smart Contracts, involving multisig & escrow, etc. Determine _**relevance of the concepts and sub-processes of document and writing, in relation with AAS acts and their consequences under an AALE process,**_ and whether _**attribution to promisor and/or promisee changes something.**_ In particular (1) (c) "the promisor and promisee are named in the document or so described as to be capable of identification when it is delivered." links back to _**clear identification, attribution, and naming in case of AAS under AALE process (analoguous to vehicles plates).**_
 
 #
 
