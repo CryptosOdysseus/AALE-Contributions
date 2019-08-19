@@ -5,11 +5,13 @@
 
 ### "AALE" Collaborative Hack with Dazza, Beth, Brenden, Bryan, Silke et al. 
 
-### RESTATEMENT (SECOND) OF CONTRACTS-
-### SCAN OF THE LEGAL CODIFICATION OF THE BODY OF CONTRACT LAW 
-### IN RELATION WITH AN AALE/DAO ORIENTED LEGAL ANALYSIS
+#
 
-### FIRST ITERATION - DRAFT WITH “REQUEST FOR COMMENT” - Thank You.
+### Restatement (Second) of Contracts-
+### Scan of the legal codification of the body of Contract Law 
+### In relation with an AALE/DAO oriented legal analysis 
+
+### First Iteration - DRAFT WITH “REQUEST FOR COMMENT” - Thank You.
 
 #### Reference: https://www.nylitigationfirm.com/files/restat.pdf
 
@@ -27,21 +29,28 @@
 
 #
 
-# RESTATEMENT (SECOND) OF CONTRACTS-
-# SCAN OF THE LEGAL CODIFICATION OF THE BODY OF CONTRACT LAW 
-# IN RELATION WITH AN AALE/DAO ORIENTED LEGAL ANALYSIS
+## Restatement (Second) of Contracts-
+## Scan of the legal codification of the body of Contract Law 
+## In relation with an AALE/DAO oriented legal analysis 
 
-## FIRST ITERATION - DRAFT WITH “REQUEST FOR COMMENT” - Thank You.
+## First Iteration - DRAFT WITH “REQUEST FOR COMMENT” - Thank You.
 
 ## Reference: https://www.nylitigationfirm.com/files/restat.pdf
 
-## METHOD & SUMMARY FINDINGS
+#
+
+## Method and summary findings 
 
 X
+
 X
+
 X
+
 X
+
 X
+
 X
 
 
