@@ -37,9 +37,15 @@
 
 ### [§ 1. Contract Defined](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-1-contract-defined-1)
 
+>Let's bear in mind questions linked to (Bryan's recent remark): _**intent to form a contract, acceptance, and purported alteration of a contract with an automated entity / AAS.**_
+
 ### [§ 2. Promise; Promisor; Promisee; Beneficiary](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-2-promise-promisor-promisee-beneficiary-1)
 
+>Expression of _**"manifestation of intention"**_ for AAS promisor and how that's _**registered within an AALE.**_ Same for _**understanding by AAS promisee**_ that a commitment has been made.
+
 ### [§ 4. How a Promise May Be Made](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-4-how-a-promise-may-be-made-1)
+
+>This definition needs to be enlarged to include AAS- & AALE-relevant protocols ... maybe an add-on like "... or may be inferred wholly or partly from conduct, _**and/or computational law encoding.**_
 
 #
 
@@ -48,6 +54,8 @@
 ## [FORMATION OF CONTRACTS–PARTIES AND CAPACITY](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#formation-of-contractsparties-and-capacity-1) 
 
 ### [§ 12. Capacity to Contract](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-12-capacity-to-contract-1)
+
+>Need to clarify for AAS several aspects as operating within AALE process: _**capacity to incur at least voidable contractual duties**_ ; maybe after "(2) A natural person .." add a "(3)" that defines elementary capacity for an AAS to contract, either independently or as part of an AALE for which capacity to contract needs to be clarified as well (see developments referred to for 2015 Standford Bayern et al. in subsequent publications.) Note that this point is already partially covered by UETA/ESIGN (ref. Dazza's CIVICS post dated August 8th 2019) in terms of electronic agents for which exists a link of attribution toward a responsible (human) party. Finally, like for an incapacited human, the case of an _**AAS gone rogue**_ for whatever reason (deliberate inside job or external hack) and how a clean AALE process should deal with it may be covered.
 
 ### [§ 13. Persons Affected by Guardianship](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-13-persons-affected-by-guardianship-1) 
 
@@ -65,85 +73,163 @@
 
 ### [§ 17. Requirement of a Bargain](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-17-requirement-of-a-bargain-1)
 
+>Define _**requirement of a bargain**_ within AAS context operating under an AALE process via computational law.
+
 ### [§ 18. Manifestation of Mutual Assent](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-18-manifestation-of-mutual-assent-1)
+
+>Define _**manifestation of mutual assent**_ within AAS context operating under an AALE process via computational law.
 
 ### [§ 20. Requirement of Manifestation of Mutual Assent. (Restatement First)](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-18-manifestation-of-mutual-assent-1)
 
 ### [§ 20. Effect of Misunderstanding](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-20-effect-of-misunderstanding-1)
 
+> (1) _**misunderstanding**_ is quite relevant to AAS functionning under AALE process e.g. when the output is garbled or whatever: how do you attest of this non-manifestation and _**reverse the process**_ to make sure there is no "misunderstanding".
+
+> (2) Define computational law conditions for _**manifestations of the parties being operative**_ subject to this sub-process relevance in AAS context under AALE. 
+
 ### [§ 22. Mode of Assent: Offer and Acceptance](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-22-mode-of-assent-offer-and-acceptance-1)
+
+> (1) Define _**Mode of Assent i.e. modalities of offer or proposal and acceptance between parties**_ subject to this sub-process relevance in an AAS context under AALE process.
+
+> (2) Define _**manifestation of mutual assent**_ subject to this __**sub-process relevance in an AAS context under AALE process.**_
 
 ### [§ 24. Offer Defined](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-24-offer-defined-1)
 
+>Terms such as _**manifestation of willingness, understanding of assent**_ in relation with a bargain, are _**human**_ notions related to cognition and will. These should be adapted for a human-AAS interaction or questioned subject to this _**sub-process relevance in an AAS context under AALE process.**_
+
 ### [§ 25. Option Contracts](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-25-option-contracts-1)
 
+>Define automatisation of that sub-process subject to this sub-process relevance in an AAS context under AALE process.
+
 ### [§ 26. Preliminary Negotiations](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-26-preliminary-negotiations-1)
+
+>Define gradual contracting steps modalities subject to this _**sub-process relevance in an AAS context under AALE process**_ and determine under which modalities and process of human-AAS interaction the concept of _**"negotiation"**_ remains relevant.
 
 ### [§ 25. When a Manifestation of Intention is Not an Offer](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-26-preliminary-negotiations-1)
 
 ### [§ 27. Existence of Contract Where Written Memorial is Contemplated](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-27-existence-of-contract-where-written-memorial-is-contemplated-1)
 
+>Define automatisation of that sub-process subject to this _**sub-process relevance in an AAS context under AALE process.**_
+
 ### [§ 30. Form of Acceptance Invited](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-30-form-of-acceptance-invited-1)
+
+>Define automatisation of this sub-process subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### [§ 32. Invitation of Promise or Performance](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-32-invitation-of-promise-or-performance-1)
 
+>Define automatisation of this sub-process subject to this _**sub-process relevance in an AAS context under AALE process.**_
+
 ### [§ 33. Certainty](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-33-certainty-1)
 
+>Define automatisation of this _**sub-process to deal with, reduce, or suppress ambiguity or uncertainty,**_ which should include definition of breach and of remedy, subject to this _**sub-process relevance in an AAS context under AALE process.**_
+
 ### [§ 34. Certainty and Choice of Terms; Effect of Performance or Reliance](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-34-certainty-and-choice-of-terms-effect-of-performance-or-reliance-1)
+
+>Define automatisation of this _**sub-process to deal with, reduce, or suppress ambiguity or uncertainty,**_ which should include definition of appropriate remedy, subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### [§ 35. The Offeree's Power of Acceptance](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-35-the-offerees-power-of-acceptance-1)
 
 ### [§ 36. Methods of Termination of the Power of Acceptance](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-36-methods-of-termination-of-the-power-of-acceptance-1)
 
+>Define automatisation of this _**termination sub-process**_, which is links back to _**Power of Acceptance**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
+
 ### [§ 38. Rejection](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-38-rejection-1)
 
+>Define automatisation of this _**rejection sub-process**_, which is links back to _**Power of Acceptance**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
+
 ### [§ 39. Counter-offers](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-39-counter-offers-1)
+
+>Define automatisation of this _**bargaining sub-process**_, subject to this sub-process relevance in an AAS context under AALE process.
 
 ### [§ 38. Rejection of Offer by Counter-Offer (Restatement First)](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-39-counter-offers-1)
 
 ### [§ 40. Time When Rejection or Counter-offer Terminates the Power of Acceptance](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-40-time-when-rejection-or-counter-offer-terminates-the-power-of-acceptance-1)
 
+>Define automatisation of this _**sub-process, for bargaining, rejection, termination, power of acceptance**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
+
 ### [§ 41. Lapse of Time](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-41-lapse-of-time-1)
+
+>The definition of _**TIME**_ is a central issue in an AAS context under AALE process, in particular for _**extremely high-speed process.**_ There could be issues of asynchronocity, time-stamps gone wrong, etc. _**TIME is not a trivial issue**_ for high speed AAS / AALE processes.
 
 ### [§ 42. Revocation by Communication from Offeror Received by Offeree](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-42-revocation-by-communication-from-offeror-received-by-offeree-1)
 
+>Define automatisation of this _**sub-process, for revocation, power of acceptance**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
+
 ### [§ 43. Indirect Communication of Revocation](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-43-indirect-communication-of-revocation-1)
+
+>Define automatisation of this _**sub-process, for inconsistent communication, revocation, power of acceptance**_ subject to this s_**ub-process relevance in an AAS context under AALE process.**_
 
 ### [§ 45. Option Contract Created by Part Performance or Tender](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-45-option-contract-created-by-part-performance-or-tender-1)
 
+>Define automatisation of this _**sub-process, for option contract, duty of performance, completion, tender, invited performance**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
+
 ### [§ 46. Revocation of General Offer](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-46-revocation-of-general-offer-1)
+
+>_**Important!!**_ This links back to the issue of _**different types of notice**_ - here it would be a _**constructive**_ one - and clearly a need to reactivate the work around _**Open Notice Project (Dazza 2014)**_ because this _**sub-process looks definitely relevant in an AAS context under AALE process.**_
 
 ### [§ 48. Death or Incapacity of Offeror or Offeree](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-48-death-or-incapacity-of-offeror-or-offeree-1)
 
+>_**What happens when one contracting entity "dies off" in an AAS context under AALE process?**_
+
 ### [§ 50. Acceptance of Offer Defined; Acceptance by Performance; Acceptance by Promise](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-50-acceptance-of-offer-defined-acceptance-by-performance)
+
+>Define automatisation of this _**sub-process for manifestation of assent, modalities of (partial) performance and/or of promise**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### [§ 51. Effect of Part Performance Without Knowledge of Offer](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-51-effect-of-part-performance-without-knowledge-of-offer-1)
 
+>Define automatisation of this _**sub-process for part performance, modalities of non-knowledge of offer, completion of performance**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
+
 ### [§ 52. Who May Accept an Offer](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-52-who-may-accept-an-offer-1)
+
+>Define automatisation of this _**sub-process for invitation, furnish the consideration**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### [§ 53. Acceptance by Performance; Manifestation of Intention Not to Accept](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-53-acceptance-by-performance-manifestation-of-intention-not-to-accept-1)
 
+>Define automatisation of this _**sub-process for performance, acceptance**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
+
 ### [§ 54. Acceptance by Performance; Necessity of Notification to Offeror](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-54-acceptance-by-performance-necessity-of-notification-to-offeror-1)
+
+>Define automatisation of this _**sub-process for performance, acceptance, notification, cognition (adequate means of learning), promptness, certainty, etc.**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_ This could link back to some of the _**Publishing DAO cases**_ and is worth digging since it involves cognition, notification, time and certainty, etc.
 
 ### [§ 55. Acceptance of Non-Promissory Offers](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-55-acceptance-of-non-promissory-offers-1)
 
+>Define automatisation of this _**sub-process for acceptance, non-promissory offer**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
+
 ### [§ 56. Acceptance by Promise; Necessity of Notification to Offeror](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-56-acceptance-by-promise-necessity-of-notification-to-offeror-1)
+
+>Define automatisation of this _**sub-process for acceptance, promise, notification, reception**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### [§ 58. Necessity of Acceptance Complying with Terms of Offer](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-58-necessity-of-acceptance-complying-with-terms-of-offer-1)
 
+>Define automatisation of this _**sub-process for acceptance, compliance, offer**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
+
 ### [§ 59. Purported Acceptance Which Adds Qualifications](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-59-purported-acceptance-which-adds-qualifications-1)
+
+>Define automatisation of this _**sub-process for acceptance, purported, change in terms, linking back to counter-offer sub-process**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### [§ 60. Acceptance of Offer Which States Place, Time or Manner of Acceptance](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-60-acceptance-of-offer-which-states-place-time-or-manner-of-acceptance-1)
 
+>Define automatisation of this _**sub-process for acceptance, offer, degrees of stating Place, Time, Maner of Acceptance**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
+
 ### [§ 61. Acceptance Which Requests Change of Terms](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-61-acceptance-which-requests-change-of-terms-1)
+
+>Define automatisation of this sub-process for _**acceptance, change of terms, assent**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### [§ 62. Effect of Performance by Offeree Where Offer Invites Either Performance or Promise](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-62-effect-of-performance-by-offeree-where-offer-invites-either-performance-or-promise-1)
 
+>Define automatisation of this _**sub-process for acceptance, promise, performance, tender**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
+
 ### [§ 63. Time When Acceptance Takes Effect](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-63-time-when-acceptance-takes-effect-1)
+
+>The definition of _**TIME**_ is a central issue in an AAS context under AALE process, in particular for_**extremely high-speed process.**_ There could be issues of asynchronocity, time-stamps gone wrong, etc. _**TIME is not a trivial issue**_ for high speed AAS / AALE processes.
 
 ### [§ 66. Acceptance Must be Properly Dispatched](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-66-acceptance-must-be-properly-dispatched-1)
 
+>Define automatisation of this _**sub-process for acceptance, dispatch, transmission, security, hacking**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
+
 ### [§ 69. Acceptance by Silence or Exercise of Dominion](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-69-acceptance-by-silence-or-exercise-of-dominion-1)
+
+>Define automatisation of this _**sub-process for acceptance, silence, exercise of dominion, wrongful act**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 # 
 
