@@ -1,20 +1,19 @@
-# AALE vs Contract Law Attempt SCAN OF CONTRACT LAW
-# ADD REQUEST FOR COMMENTS MENTION
+# MIT Media Lab - Computational Law
 
-(# MIT Media Lab - Computational Law
+## Law ReImagined-
+## Inventing Automated and Autonomous Legal Entities Part 4
 
-(## Law ReImagined-
-(## Inventing Automated and Autonomous Legal Entities Part 4
+### "AALE" Collaborative Hack with Dazza, Beth, Brenden, Bryan, Silke et al. 
 
-(### "AALE" Collaborative Hack with Dazza, Beth, Brenden, Bryan, Silke et al. 
+### RESTATEMENT (SECOND) OF CONTRACTS-
+### SCAN OF THE LEGAL CODIFICATION OF THE BODY OF CONTRACT LAW 
+### IN RELATION WITH AN AALE/DAO ORIENTED LEGAL ANALYSIS
 
-(### RESTATEMENT (SECOND) OF CONTRACTS-
-(### SCAN OF THE LEGAL CODIFICATION OF THE BODY OF CONTRACT LAW 
-(### IN RELATION WITH AN AALE/DAO ORIENTED LEGAL ANALYSIS
+### FIRST ITERATION - DRAFT WITH “REQUEST FOR COMMENT” - Thank You.
 
-(#### Reference: https://www.nylitigationfirm.com/files/restat.pdf
+#### Reference: https://www.nylitigationfirm.com/files/restat.pdf
 
-(#### This legal codification of the body of Contract Law provided by the 2nd restatement is usable to carry out an AALE/ DAOs relevant analysis. The aim is to surface a few more design requirements and legal engineering success metrics.
+#### This legal codification of the body of Contract Law provided by the 2nd restatement is usable to carry out an AALE/ DAOs relevant analysis. The aim is to surface a few more design requirements and legal engineering success metrics.
 
 #
 
@@ -32,10 +31,18 @@
 # SCAN OF THE LEGAL CODIFICATION OF THE BODY OF CONTRACT LAW 
 # IN RELATION WITH AN AALE/DAO ORIENTED LEGAL ANALYSIS
 
+## FIRST ITERATION - DRAFT WITH “REQUEST FOR COMMENT” - Thank You.
+
 ## Reference: https://www.nylitigationfirm.com/files/restat.pdf
 
-# METHOD
+## METHOD & SUMMARY FINDINGS
 
+X
+X
+X
+X
+X
+X
 
 
 ## [CHAPTER 1](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#chapter-1-1)
