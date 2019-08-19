@@ -507,7 +507,7 @@ A contract is a promise or a set of promises for the breach of which the law giv
 
 (4) Where performance will benefit a person other than the promisee, that person is a beneficiary.
 
->Expression of "manifestation of intention" for AAS promisor and how that's registered within an AALE. Same for understanding by AAS promisee that a commitment has been made.
+>Expression of _**"manifestation of intention"**_ for AAS promisor and how that's _**registered within an AALE.**_ Same for _**understanding by AAS promisee**_ that a commitment has been made.
 
 ### § 4. How a Promise May Be Made
 
@@ -535,7 +535,7 @@ A promise may be stated in words either oral or written, or may be inferred whol
 
 (d) intoxicated.
 
->Need to clarify for AAS several aspects as operating within AALE process: _**capacity to incur at least voidable contractual duties**_ ; maybe after "(2) A natural person .." add a "(3)" that defines elementary capacity for an AAS to contract, either independently or as part of an AALE for which capacity to contract needs to be clarified as well (see developments referred to for 2015 Standford Bayern et al. in subsequent publications.) Note that this point is already partially covered by UETA/ESIGN (ref. Dazza's CIVICS post dated August 8th 2019)in terms of electronic agents for which exists a link of attribution toward a responsible (human) party. Finally, like for an incapacited human, the case of an _**AAS gone rogue**_ for whatever reason (deliberate inside job or external hack) and how a clean AALE process should deal with it may be covered.
+>Need to clarify for AAS several aspects as operating within AALE process: _**capacity to incur at least voidable contractual duties**_ ; maybe after "(2) A natural person .." add a "(3)" that defines elementary capacity for an AAS to contract, either independently or as part of an AALE for which capacity to contract needs to be clarified as well (see developments referred to for 2015 Standford Bayern et al. in subsequent publications.) Note that this point is already partially covered by UETA/ESIGN (ref. Dazza's CIVICS post dated August 8th 2019) in terms of electronic agents for which exists a link of attribution toward a responsible (human) party. Finally, like for an incapacited human, the case of an _**AAS gone rogue**_ for whatever reason (deliberate inside job or external hack) and how a clean AALE process should deal with it may be covered.
 
 ### § 13. Persons Affected by Guardianship
 
@@ -601,7 +601,7 @@ other; or
 (b) each party knows or each party has reason to know the meaning
 attached by the other.
 
->_**misunderstanding**_ is totally relevant to AAS functionning under AALE process e.g. when the output is garbled or whatever: how do you attest of this non-manifestation and reverse the process to make sure there is no "misunderstanding".
+>_**misunderstanding**_ is quite relevant to AAS functionning under AALE process e.g. when the output is garbled or whatever: how do you attest of this non-manifestation and _**reverse the process**_ to make sure there is no "misunderstanding".
 
 (2) The manifestations of the parties are operative in accordance with the meaning attached to them by one of the parties if
 
@@ -619,13 +619,13 @@ attached by the other.
 
 (2) A manifestation of mutual assent may be made even though neither offer nor acceptance can be identified and even though the moment of formation cannot be determined.
 
->Define _**manifestation of mutual assent**_ subject to this sub-process relevance in an AAS context under AALE process.
+>Define _**manifestation of mutual assent**_ subject to this __**sub-process relevance in an AAS context under AALE process.**_
 
 ### § 24. Offer Defined
 
 An offer is the manifestation of willingness to enter into a bargain, so made as to justify another person in understanding that his assent to that bargain is invited and will conclude it.
 
->Terms such as _**manifestation of willingness, understanding of assent**_ in relation with a bargain, are _**human**_ notions related to cognition and will. These should be adapted or questioned subject to this sub-process relevance in an AAS context under AALE process.
+>Terms such as _**manifestation of willingness, understanding of assent**_ in relation with a bargain, are _**human**_ notions related to cognition and will. These should be adapted for a human-AAS interaction or questioned subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### § 25. Option Contracts
 
@@ -637,7 +637,7 @@ An option contract is a promise which meets the requirements for the formation o
 
 A manifestation of willingness to enter into a bargain is not an offer if the person to whom it is addressed knows or has reason to know that the person making it does not intend to conclude a bargain until he has made a further manifestation of assent.
 
->Define gradual conttracting steps modalities subject to this sub-process relevance in an AAS context under AALE process and even "negotiation" if relevant.
+>Define gradual contracting steps modalities subject to this _**sub-process relevance in an AAS context under AALE process**_ and determine under which modalities and process of human-AAS interaction the concept of _**"negotiation"**_ remains relevant.
 
 [The predecessor of § 26 is § 25 of the First Restatement. It reads as follows:
 § 25. When a Manifestation of Intention is Not an Offer.
@@ -651,7 +651,7 @@ has not made an offer.]
 
 Manifestations of assent that are in themselves sufficient to conclude a contract will not be prevented from so operating by the fact that the parties also manifest an intention to prepare and adopt a written memorial thereof, but the circumstances may show that the agreements are preliminary negotiations.
 
->Define automatisation of that sub-process subject to this sub-process relevance in an AAS context under AALE process.
+>Define automatisation of that sub-process subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### § 30. Form of Acceptance Invited
 
@@ -659,13 +659,13 @@ Manifestations of assent that are in themselves sufficient to conclude a contrac
 
 (2) Unless otherwise indicated by the language or the circumstances, an offer invites acceptance in any manner and by any medium reasonable in the circumstances. 
 
->Define automatisation of this sub-process subject to this sub-process relevance in an AAS context under AALE process.
+>Define automatisation of this sub-process subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### § 32. Invitation of Promise or Performance
 
 In case of doubt an offer is interpreted as inviting the offeree to accept either by promising to perform what the offer requests or by rendering the performance, as the offeree chooses.
 
->Define automatisation of this sub-process subject to this sub-process relevance in an AAS context under AALE process.
+>Define automatisation of this sub-process subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### § 33. Certainty
 
@@ -675,7 +675,7 @@ In case of doubt an offer is interpreted as inviting the offeree to accept eithe
 
 (3) The fact that one or more terms of a proposed bargain are left open or uncertain may show that a manifestation of intention is not intended to be understood as an offer or as an acceptance.
 
->Define automatisation of this sub-process to deal with, reduce, or suppress ambiguity or uncertainty, which should include defintion of breach and of remedy, subject to this sub-process relevance  in an AAS context under AALE process.
+>Define automatisation of this _**sub-process to deal with, reduce, or suppress ambiguity or uncertainty,**_ which should include definition of breach and of remedy, subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### § 34. Certainty and Choice of Terms; Effect of Performance or Reliance
 
@@ -685,7 +685,7 @@ In case of doubt an offer is interpreted as inviting the offeree to accept eithe
 
 (3) Action in reliance on an agreement may make a contractual remedy appropriate even though uncertainty is not removed.
 
->Define automatisation of this sub-process to deal with, reduce, or suppress ambiguity or uncertainty, which should include definition of breach and of remedy, subject to this sub-process relevance in an AAS context under AALE process.
+>Define automatisation of this _**sub-process to deal with, reduce, or suppress ambiguity or uncertainty,**_ which should include definition of appropriate remedy, subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### § 35. The Offeree's Power of Acceptance
 
@@ -693,7 +693,7 @@ In case of doubt an offer is interpreted as inviting the offeree to accept eithe
 
 (2) A contract cannot be created by acceptance of an offer after the power of acceptance has been terminated in one of the ways listed in § 36.
 
->Define automatisation of this sub-process, which links back to _**manifestation of mutual assent**_ subject to this sub-process relevance in an AAS context under AALE process.
+>Define automatisation of this sub-process, which links back to _**manifestation of mutual assent**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### § 36. Methods of Termination of the Power of Acceptance
 
@@ -709,7 +709,7 @@ In case of doubt an offer is interpreted as inviting the offeree to accept eithe
 
 (2) In addition, an offeree's power of acceptance is terminated by the nonoccurrence of any condition of acceptance under the terms of the offer.
 
->Define automatisation of this termination sub-process, which is links back to _**Power of Acceptance**_ subject to this sub-process relevance in an AAS context under AALE process.
+>Define automatisation of this _**termination sub-process**_, which is links back to _**Power of Acceptance**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### § 38. Rejection
 
@@ -717,7 +717,7 @@ In case of doubt an offer is interpreted as inviting the offeree to accept eithe
 
 (2) A manifestation of intention not to accept an offer is a rejection unless the offeree manifests an intention to take it under further advisement.
 
->Define automatisation of this rejection sub-process, which is links back to _**Power of Acceptance**_ subject to this sub-process relevance in an AAS context under AALE process.
+>Define automatisation of this _**rejection sub-process**_, which is links back to _**Power of Acceptance**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### § 39. Counter-offers
 
@@ -725,7 +725,7 @@ In case of doubt an offer is interpreted as inviting the offeree to accept eithe
 
 (2) An offeree's power of acceptance is terminated by his making of a counteroffer, unless the offeror has manifested a contrary intention or unless the counteroffer manifests a contrary intention of the offeree.
 
->Define automatisation of this bargaining sub-process, subject to this sub-process relevance in an AAS context under AALE process.
+>Define automatisation of this _**bargaining sub-process**_, subject to this sub-process relevance in an AAS context under AALE process.
 
 [The predecessor of § 39 is § 38 of the First Restatement. It read as follows:
 § 38. Rejection of Offer by Counter-Offer.
@@ -739,7 +739,7 @@ terminated.]
 Rejection or counter-offer by mail or telegram does not terminate the power of acceptance until received by the offeror, but limits the power so that a letter or telegram of acceptance started after the sending of an otherwise effective rejection or
 counter-offer is only a counter-offer unless the acceptance is received by the offeror before he receives the rejection or counter-offer.
 
->Define automatisation of this sub-process, for _**bargaining, rejection, termination, power of acceptance**_ subject to this sub-process relevance in an AAS context under AALE process.
+>Define automatisation of this _**sub-process, for bargaining, rejection, termination, power of acceptance**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### § 41. Lapse of Time
 
@@ -750,19 +750,19 @@ counter-offer is only a counter-offer unless the acceptance is received by the o
 (3) Unless otherwise indicated by the language or the circumstances, and subjectto the rule stated in § 49, an offer sent by mail is seasonably accepted if an acceptance is mailed at any time before midnight on the day on which the offer is
 received.
 
->The definition of _**TIME**_ is a central issue in an AAS context under AALE process, in particular for extremely high-speed process. There could be issues of asynchronocity, time-stamps gone wrong, etc. _**TIME is not a trivial issue**_ for high speed AAS / AALE processes.
+>The definition of _**TIME**_ is a central issue in an AAS context under AALE process, in particular for _**extremely high-speed process.**_ There could be issues of asynchronocity, time-stamps gone wrong, etc. _**TIME is not a trivial issue**_ for high speed AAS / AALE processes.
 
 ### § 42. Revocation by Communication from Offeror Received by Offeree
 
 An offeree's power of acceptance is terminated when the offeree receives from the offeror a manifestation of an intention not to enter into the proposed contract. 
 
->Define automatisation of this sub-process, for _**revocation, power of acceptance**_ subject to this sub-process relevance in an AAS context under AALE process.
+>Define automatisation of this _**sub-process, for revocation, power of acceptance**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### § 43. Indirect Communication of Revocation
 
 An offeree's power of acceptance is terminated when the offeror takes definite action inconsistent with an intention to enter into the proposed contract and the offeree acquires reliable information to that effect.
 
->Define automatisation of this sub-process, for _**inconsistent communication, revocation, power of acceptance**_ subject to this sub-process relevance in an AAS context under AALE process.
+>Define automatisation of this _**sub-process, for inconsistent communication, revocation, power of acceptance**_ subject to this s_**ub-process relevance in an AAS context under AALE process.**_
 
 ### § 45. Option Contract Created by Part Performance or Tender
 
@@ -770,20 +770,20 @@ An offeree's power of acceptance is terminated when the offeror takes definite a
 
 (2) The offeror's duty of performance under any option contract so created is conditional on completion or tender of the invited performance in accordance with the terms of the offer.
 
->Define automatisation of this sub-process, for _**option contract, duty of performance, completion, tender, invited performance**_ subject to this sub-process relevance in an AAS context under AALE process.
+>Define automatisation of this _**sub-process, for option contract, duty of performance, completion, tender, invited performance**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### § 46. Revocation of General Offer
 
 Where an offer is made by advertisement in a newspaper or other general notification to the public or to a number of persons whose identity is unknown to the offeror, the offeree's power of acceptance is terminated when a notice of termination
 is given publicity by advertisement or other general notification equal to that given to the offer and no better means of notification is reasonably available.
 
->_**Important!!**_ This links back to the issue of _**different types of notice**_ - here it would be a _**constructive**_ one - and clearly a need to reactivate the work around _**Open Notice Project (Dazza 2014)**_ because this sub-process is definitely relevant in an AAS context under AALE process.
+>_**Important!!**_ This links back to the issue of _**different types of notice**_ - here it would be a _**constructive**_ one - and clearly a need to reactivate the work around _**Open Notice Project (Dazza 2014)**_ because this _**sub-process looks definitely relevant in an AAS context under AALE process.**_
 
 ### § 48. Death or Incapacity of Offeror or Offeree
 
 An offeree's power of acceptance is terminated when the offeree or offeror dies or is deprived of legal capacity to enter into the proposed contract.
 
->What happens when one contracting entity "dies off" in an AAS context under AALE process?
+>_**What happens when one contracting entity "dies off" in an AAS context under AALE process?**_
 
 ### § 50. Acceptance of Offer Defined; Acceptance by Performance;
 
@@ -795,19 +795,19 @@ An offeree's power of acceptance is terminated when the offeree or offeror dies 
 
 (3) Acceptance by a promise requires that the offeree complete every act essential to the making of the promise.
 
->Define automatisation of this sub-process for _**manifestation of assent, modalities of (partial) performance and/or of promise**_ subject to this sub-process relevance in an AAS context under AALE process.
+>Define automatisation of this _**sub-process for manifestation of assent, modalities of (partial) performance and/or of promise**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### § 51. Effect of Part Performance Without Knowledge of Offer
 
 Unless the offeror manifests a contrary intention, an offeree who learns of an offer after he has rendered part of the performance requested by the offer may accept by completing the requested performance.
 
->Define automatisation of this sub-process for _**part performance, modalities of non-knowledge of offer, completion of performance**_ subject to this sub-process relevance in an AAS context under AALE process.
+>Define automatisation of this _**sub-process for part performance, modalities of non-knowledge of offer, completion of performance**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### § 52. Who May Accept an Offer
 
 An offer can be accepted only by a person whom it invites to furnish the consideration. 
 
->Define automatisation of this sub-process for _**invitation, furnish the consideration**_ subject to this sub-process relevance in an AAS context under AALE process.
+>Define automatisation of this _**sub-process for invitation, furnish the consideration**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### § 53. Acceptance by Performance; Manifestation of Intention Not to Accept
 
@@ -817,7 +817,7 @@ An offer can be accepted only by a person whom it invites to furnish the conside
 
 (3) Where an offer of a promise invites acceptance by performance and does not invite a promissory acceptance, the rendering of the invited performance does not constitute an acceptance if before the offeror performs his promise the offeree manifests an intention not to accept.
 
->Define automatisation of this sub-process for _**performance, acceptance**_ subject to this sub-process relevance in an AAS context under AALE process.
+>Define automatisation of this _**sub-process for performance, acceptance**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### § 54. Acceptance by Performance; Necessity of Notification to Offeror
 
@@ -832,43 +832,43 @@ unless
 
 (c) the offer indicates that notification of acceptance is not required.
 
->Define automatisation of this sub-process for _**performance, acceptance, notification, cognition (adequate means of learning), promptness, certainty, etc.**_ subject to this sub-process relevance in an AAS context under AALE process. This could link back to some of the _**Publishing DAO cases**_ and is worth digging since it involves cognition, notification, time and certainty, etc.
+>Define automatisation of this _**sub-process for performance, acceptance, notification, cognition (adequate means of learning), promptness, certainty, etc.**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_ This could link back to some of the _**Publishing DAO cases**_ and is worth digging since it involves cognition, notification, time and certainty, etc.
 
 ### § 55. Acceptance of Non-Promissory Offers
 
 Acceptance by promise may create a contract in which the offeror's performance is completed when the offeree's promise is made.
 
->Define automatisation of this sub-process for _**acceptance, non-promissory offer**_ subject to this sub-process relevance in an AAS context under AALE process.
+>Define automatisation of this _**sub-process for acceptance, non-promissory offer**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### § 56. Acceptance by Promise; Necessity of Notification to Offeror
 
 Except as stated in § 69 or where the offer manifests a contrary intention, it is essential to an acceptance by promise either that the offeree exercise reasonable diligence to notify the offeror of acceptance or that the offeror receive the acceptance seasonably.
 
->Define automatisation of this sub-process for _**acceptance, promise, notification, reception**_ subject to this sub-process relevance in an AAS context under AALE process.
+>Define automatisation of this _**sub-process for acceptance, promise, notification, reception**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### § 58. Necessity of Acceptance Complying with Terms of Offer
 
 An acceptance must comply with the requirements of the offer as to the promise to be made or the performance to be rendered. 
 
->Define automatisation of this sub-process for _**acceptance, compliance, offer**_ subject to this sub-process relevance in an AAS context under AALE process.
+>Define automatisation of this _**sub-process for acceptance, compliance, offer**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### § 59. Purported Acceptance Which Adds Qualifications
 
 A reply to an offer which purports to accept it but is conditional on the offeror's assent to terms additional to or different from those offered is not an acceptance but is a counter-offer.
 
->Define automatisation of this sub-process for _**acceptance, purported, change in terms, linking back to counter-offer sub-process**_ subject to this sub-process relevance in an AAS context under AALE process.
+>Define automatisation of this _**sub-process for acceptance, purported, change in terms, linking back to counter-offer sub-process**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### § 60. Acceptance of Offer Which States Place, Time or Manner of Acceptance
 
 If an offer prescribes the place, time or manner of acceptance its terms in this respect must be complied with in order to create a contract. If an offer merely suggests a permitted place, time or manner of acceptance, another method of acceptance is not precluded.
 
->Define automatisation of this sub-process for _**acceptance, offer, degrees of stating Place, Time, Maner of Acceptance**_ subject to this sub-process relevance in an AAS context under AALE process.
+>Define automatisation of this _**sub-process for acceptance, offer, degrees of stating Place, Time, Maner of Acceptance**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### § 61. Acceptance Which Requests Change of Terms
 
 An acceptance which requests a change or addition to the terms of the offer is not thereby invalidated unless the acceptance is made to depend on an assent to the changed or added terms.
 
->Define automatisation of this sub-process for _**acceptance, change of terms, assent**_ subject to this sub-process relevance in an AAS context under AALE process.
+>Define automatisation of this sub-process for _**acceptance, change of terms, assent**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### § 62. Effect of Performance by Offeree Where Offer Invites Either Performance or Promise
 
@@ -876,7 +876,7 @@ An acceptance which requests a change or addition to the terms of the offer is n
 
 (2) Such an acceptance operates as a promise to render complete performance.
 
->Define automatisation of this sub-process for _**acceptance, promise, performance, tender**_ subject to this sub-process relevance in an AAS context under AALE process.
+>Define automatisation of this _**sub-process for acceptance, promise, performance, tender**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### § 63. Time When Acceptance Takes Effect
 
@@ -886,13 +886,13 @@ Unless the offer provides otherwise,
 
 (b) an acceptance under an option contract is not operative until received by the offeror.
 
->The definition of _**TIME**_ is a central issue in an AAS context under AALE process, in particular for extremely high-speed process. There could be issues of asynchronocity, time-stamps gone wrong, etc. _**TIME is not a trivial issue**_ for high speed AAS / AALE processes.
+>The definition of _**TIME**_ is a central issue in an AAS context under AALE process, in particular for_**extremely high-speed process.**_ There could be issues of asynchronocity, time-stamps gone wrong, etc. _**TIME is not a trivial issue**_ for high speed AAS / AALE processes.
 
 ### § 66. Acceptance Must be Properly Dispatched
 
 An acceptance sent by mail or otherwise from a distance is not operative when dispatched, unless it is properly addressed and such other precautions taken as are ordinarily observed to insure safe transmission of similar messages.
 
->Define automatisation of this sub-process for _**acceptance, dispatch, transmission, security, hacking**_ subject to this sub-process relevance in an AAS context under AALE process.
+>Define automatisation of this _**sub-process for acceptance, dispatch, transmission, security, hacking**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 ### § 69. Acceptance by Silence or Exercise of Dominion
 
@@ -906,8 +906,7 @@ An acceptance sent by mail or otherwise from a distance is not operative when di
 
 (2) An offeree who does any act inconsistent with the offeror's ownership of offered property is bound in accordance with the offered terms unless they are manifestly unreasonable. But if the act is wrongful as against the offeror it is an acceptance only if ratified by him.
 
->Define automatisation of this sub-process for _**acceptance, silence, exercise of dominion, wrongful act**_ subject to this sub-process relevance in an AAS context under AALE process.
-
+>Define automatisation of this _**sub-process for acceptance, silence, exercise of dominion, wrongful act**_ subject to this _**sub-process relevance in an AAS context under AALE process.**_
 
 #
 
@@ -915,9 +914,9 @@ An acceptance sent by mail or otherwise from a distance is not operative when di
 
 ## FORMATION OF CONTRACTS–CONSIDERATION
 
->Definition of Consideration (https://dictionary.law.com/Default.aspx?selected=305): 1) payment or money. 2) a vital element in the law of contracts, consideration is a benefit which must be bargained for between the parties, and is the essential reason for a party entering into a contract. Consideration must be of value (at least to the parties), and is exchanged for the performance or promise of performance by the other party (such performance itself is consideration). In a contract, one consideration (thing given) is exchanged for another consideration. Not doing an act (forbearance) can be consideration.
+>Definition of Consideration (https://dictionary.law.com/Default.aspx?selected=305): _**1) payment or money. 2) a vital element in the law of contracts, consideration is a benefit which must be bargained for between the parties, and is the essential reason for a party entering into a contract. Consideration must be of value (at least to the parties), and is exchanged for the performance or promise of performance by the other party (such performance itself is consideration). In a contract, one consideration (thing given) is exchanged for another consideration. Not doing an act (forbearance) can be consideration.**_
 
->As such, "consideration" need to be put in perspective, so as to define automatisation of this sub-process, for each below occurences in articles, each time subject to this sub-process relevance in an AAS context under AALE process. This suggests that while Smart Contracts loom large for a number of transactions revolving around digital and/or material assets, that also involve escrow and mutually confirmed "states" of understanding and realisation, there is a need to consider the attribution to a responsible human of what the AAS is doing, and the need to define how this is all being run within an AALE process.
+>As such, _**"consideration" need to be put in perspective, so as to define automatisation of this sub-process, for each below occurences in articles, each time subject to this sub-process relevance in an AAS context under AALE process.**_ This suggests that while Smart Contracts loom large for a number of transactions revolving around digital and/or material assets, that also involves other features such as escrow, multisig, oracles, and mutually confirmed "states" of understanding and realisation, _**there is a need to consider the attribution to a responsible human of what the AAS is doing, and the need to define how this is all being run within an AALE process.**_
 
 ### § 71. Requirement of Exchange; Types of Exchange
 
@@ -935,13 +934,13 @@ An acceptance sent by mail or otherwise from a distance is not operative when di
 
 (4) The performance or return promise may be given to the promisor or to some other person. It may be given by the promisee or by some other person.
 
->Question of attribution to promisor and promisee of AAS acts and their consequences under AALE process.
+>Question of _**attribution to promisor and promisee of AAS acts and their consequences under AALE process.**_
 
 ### § 73. Performance of Legal Duty
 
 Performance of a legal duty owed to a promisor which is neither doubtful nor the subject of honest dispute is not consideration; but a similar performance is consideration if it differs from what was required by the duty in a way which reflects more than a pretense of bargain.
 
->Question of attribution to promisee of AAS performance acts and their consequences under AALE process.
+>Question of _**attribution to promisee of AAS performance acts and their consequences under AALE process.**_
 
 ### § 74. Settlement of Claims
 
@@ -955,7 +954,7 @@ Performance of a legal duty owed to a promisor which is neither doubtful nor the
 
 (2) The execution of a written instrument surrendering a claim or defense by one who is under no duty to execute it is consideration if the execution of the written instrument is bargained for even though he is not asserting the claim or defense and believes that no valid claim or defense exists.
 
->Issue of whether the sub-process of preliminary or post-facto determination of the validity of a claim has any relevance in an AAS context under AALE process. There may be no issue of "belief" (regarding the validity of a claim) in an AAS context under AALE process, only computational law determinism, unless such belief may exist within the person to whom there is attribution of the AAS acts ad their consequences.
+>Issue of whether the _**sub-process of preliminary or post-facto determination of the validity of a claim has any relevance in an AAS context under AALE process.**_ There may be no issue of _**"belief"**_ (regarding the validity of a claim) in an AAS context under AALE process, only computational law determinism, **_unless such belief may exist within the person to whom there is attribution of the AAS acts ad their consequences.**_ But there could also be e.g. flawed oracles that "mislead" AAS and/or humans that "interpret" the information into "erroneous belief".
 
 ### § 77. Illusory and Alternative Promises
 
@@ -966,7 +965,7 @@ A promise or apparent promise is not consideration if by its terms the promisor 
 (b) one of the alternative performances would have been consideration and there is or appears to the parties to be a substantial possibility that before the promisor exercises his choice events may eliminate the alternatives which
 would not have been consideration.
 
->Issue of attribution to promisor of Illusory and Alternative Promises made in AAS context under AALE process.
+>Issue of _**attribution to promisor of Illusory and Alternative Promises made in AAS context under AALE process.**_
 
 ### § 79. Adequacy of Consideration; Mutuality of Obligation
 
@@ -978,7 +977,7 @@ If the requirement of consideration is met, there is no additional requirement o
 
 (c) "mutuality of obligation."
 
->>Issue of attribution to promisor and promisee of Consideration and Mutuality of Obligation in AAS context under AALE process.
+>>Issue of _**attribution to promisor and promisee of Consideration and Mutuality of Obligation in AAS context under AALE process.**_
 
 ### § 81. Consideration as Motive or Inducing Cause
 
@@ -986,7 +985,7 @@ If the requirement of consideration is met, there is no additional requirement o
 
 (2) The fact that a promise does not of itself induce a performance or return promise does not prevent the performance or return promise from being consideration for the promise.
 
->Determine relevance of the concept of Consideration as Motive or Inducing Cause in relation with AAS acts and their consequences under an AALE process, and whether attribution to promisor and/or promisee changes something.
+>Determine _**relevance of the concept and sub-process of Consideration as Motive or Inducing Cause in relation with AAS acts and their consequences under an AALE process,**_ and whether _**attribution to promisor and/or promisee changes something.**_
 
 ### § 82. Promise to Pay Indebtedness; Effect on the Statute of Limitations
 
@@ -1000,13 +999,13 @@ If the requirement of consideration is met, there is no additional requirement o
 
 (c) A statement to the obligee that the statute of limitations will not be pleaded as a defense.
 
->Determine relevance of the concept of antecedent contractual or quasi-contractual indebtedness owed by the promisor in relation with AAS acts and their consequences under an AALE process, and whether attribution to promisor and/or promisee changes something for ownership of the indebtedness. What does "statute of limitation" means in an AAS context under an AALE process?
+>Determine _**relevance of the concept of antecedent contractual or quasi-contractual indebtedness owed by the promisor in relation with AAS acts and their consequences under an AALE process,**_ and whether _**attribution to promisor and/or promisee changes something for ownership of the indebtedness._** What does _**"statute of limitation" means**_ in an AAS context under an AALE process?
 
 ### § 83. Promise to Pay Indebtedness Discharged in Bankruptcy
 
 An express promise to pay all or part of an indebtedness of the promisor, discharged or dischargeable in bankruptcy proceedings begun before the promise is made, is binding.
 
->This links to the larger question of managing bankruptcy events in relation with AAS acts and their consequences under an AALE process, with attribution to a responsible human and re-injection or not of humans in the loop of bankruptcy management.
+>This links to the _**larger question of managing bankruptcy events in relation with AAS acts and their consequences under an AALE process,**_ with _**attribution to a responsible human**_ and re-injection or not of humans in the loop of bankruptcy management.
 
 ### § 84. Promise to Perform a Duty in Spite of Non-occurrence of a Condition
 
@@ -1026,7 +1025,7 @@ promisee or beneficiary of his intention to do so if
 
 (c) the promise is not binding apart from the rule stated in Subsection (1).
 
->Determine relevance of the concept of Non Occurence of a Condition in relation with AAS acts and their consequences under an AALE process, and whether attribution to promisor and/or promisee changes something. Also issue of Notification sub-process.
+>Determine _**relevance of the concept of Non Occurence of a Condition in relation with AAS acts and their consequences under an AALE process,**_ and whether _**attribution to promisor and/or promisee changes something. Also issue of Notification sub-process.**_
 
 ### § 86. Promise for Benefit Received
 
@@ -1038,7 +1037,7 @@ promisee or beneficiary of his intention to do so if
 
 (b) to the extent that its value is disproportionate to the benefit.
 
->Determine relevance of the concepts and sub-processes of (Recognition of) Benefit Previously Received, Gift, Unjust Enrichment, Value Proportionate or Not to Benefit, in relation with AAS acts and their consequences under an AALE process, and whether attribution to promisor and/or promisee changes something.  
+>Determine _**relevance of the concepts and sub-processes of (Recognition of) Benefit Previously Received, Gift, Unjust Enrichment, Value Proportionate or Not to Benefit, in relation with AAS acts and their consequences under an AALE process,**_ and whether _**attribution to promisor and/or promisee changes something.**_
 
 ### § 87. Option Contract
 
@@ -1051,7 +1050,7 @@ promisee or beneficiary of his intention to do so if
 (2) An offer which the offeror should reasonably expect to induce action or forbearance of a substantial character on the part of the offeree before acceptance and which does induce such action or forbearance is binding as an option contract to
 the extent necessary to avoid injustice.
 
->Links back to previous remarks on Option Contract especially in a context of deterministically executable Smart Contracts. Determine relevance of the concepts and sub-processes of purported consideration, fair terms, reasonable time (?!! in high speed process), irrevocability by statute, injustice avoidance, in relation with AAS acts and their consequences under an AALE process, and whether attribution to promisor and/or promisee changes something. 
+>Links back to previous remarks on Option Contract especially in a context of deterministically executable Smart Contracts. Determine _**relevance of the concepts and sub-processes of purported consideration, fair terms, reasonable time (?!! in high speed process), irrevocability by statute, injustice avoidance, in relation with AAS acts and their consequences under an AALE process,**_ and whether _**attribution to promisor and/or promisee changes something.**_
 
 ### § 89. Modification of Executory Contract
 
@@ -1063,7 +1062,7 @@ A promise modifying a duty under a contract not fully performed on either side i
 
 (c) to the extent that justice requires enforcement in view of material change of position in reliance on the promise.
 
->Important to consider Executory Contract in a context of deterministically executable Smart Contracts. Determine relevance of the concepts and sub-processes of non-full performance, circumstances non anticipated by parties (but informed afterward by oracles?) fair and equitable terms, enforcement by "justice" in view of material change of position in reliance on the promise, in relation with AAS acts and their consequences under an AALE process, and whether attribution to promisor and/or promisee changes something. 
+>Important to consider Executory Contract in a context of deterministically executable Smart Contracts. Determine _**relevance of the concepts and sub-processes of non-full performance, circumstances non anticipated by parties (but informed afterward by oracles?) fair and equitable terms, enforcement by "justice" in view of material change of position in reliance on the promise, in relation with AAS acts and their consequences under an AALE process**_, and whether _**attribution to promisor and/or promisee changes something.**_
 
 
 ### § 90. Promise Reasonably Inducing Action or Forbearance
@@ -1073,7 +1072,7 @@ of the promise. The remedy granted for breach may be limited as justice requires
 
 (2) A charitable subscription or a marriage settlement is binding under Subsection (1) without proof that the promise induced action or forbearance.
 
->Also important to consider Promise Reasonably Inducing Action or Forbearance in a context of deterministically executable Smart Contracts. Determine relevance of the concepts and sub-processes of reasonable expectation, inducement of action of forbearance, injustice avoidance, breach, "justice" requirement, in relation with AAS acts and their consequences under an AALE process, and whether attribution to promisor and/or promisee changes something. 
+>Also important to consider Promise Reasonably Inducing Action or Forbearance in a context of deterministically executable Smart Contracts. Determine _**relevance of the concepts and sub-processes of reasonable expectation, inducement of action of forbearance, injustice avoidance, breach, "justice" requirement, in relation with AAS acts and their consequences under an AALE process,**_ and whether _**attribution to promisor and/or promisee changes something.**_
 
 [The predecessor of § 90, in the First Restatement, read as follows:
 § 90. Promise Reasonably Inducing Definite and Substantial Action.
@@ -1102,7 +1101,7 @@ as to be capable of identification when it is delivered.
 
 (b) be expressed in a writing or writings to which both promisor and promisee manifest assent.
 
->Links back to UETA/ESIGN process. Also important to consider Requirements for Sealed Contract or Written Contract or Instrument in a context of deterministically executable Smart Contracts, involving multisig & escrow, etc. Determine relevance of the concepts and sub-processes of document and writing, in relation with AAS acts and their consequences under an AALE process, and whether attribution to promisor and/or promisee changes something. In particular (1) (c) "the promisor and promisee are named in the document or so described as to be capable of identification when it is delivered." links back to _**clear identification, attribution, and naming in case of AAS under AALE process (analoguous to vehicles plates).**_
+>Links back to UETA/ESIGN process. Also important to consider Requirements for Sealed Contract or Written Contract or Instrument in a context of deterministically executable Smart Contracts, involving multisig & escrow, etc. Determine _**relevance of the concepts and sub-processes of document and writing, in relation with AAS acts and their consequences under an AALE process,**_ and whether _**attribution to promisor and/or promisee changes something.**_ In particular (1) (c) "the promisor and promisee are named in the document or so described as to be capable of identification when it is delivered." links back to _**clear identification, attribution, and naming in case of AAS under AALE process (analoguous to vehicles plates).**_
 
 #
 
@@ -1110,13 +1109,13 @@ as to be capable of identification when it is delivered.
 
 ## THE STATUTE OF FRAUDS
 
->Part of the problem here for the legal sub-process encoding, is to define the conditions and modalities under which certain situations can be rattached to and processed under the framework of The Statute of Frauds, and to whcih extent they're relevant to an AAS context under an AALE process, bearing in mind the following:
-- interaction between (off-chain) human behaviors conducive to fraud and (on-chain) AAS
-- sub-plot of AAS gone rogue (deliberately by internal programming, or accidentally by external hacking) under AALE process
-- concept of attribution to responsible human party (UETA/ESIGN etc.)
-- AAS+AALE combined systems ability to consistently self-monitor, report & correct parameters of actions conducive to fraud.
-- inclination of combined AAS & AALE systems to either mitigate or exacerbate problematic situations under Statute of Frauds.
-- many legal concepts and sub-processes here link back to what has been defined in Sectgion 4, and 3.
+>Part of the problem here for the legal sub-process encoding, is to _**define the conditions and modalities under which certain situations can be rattached to and processed under the framework of The Statute of Frauds, and to which extent they're relevant to an AAS context under an AALE process,**_ bearing in mind the following:
+>- _**interaction between (off-chain) human behaviors conducive to fraud and (on-chain) AAS**_
+>- sub-plot of _**AAS gone rogue**_ (deliberately by internal programming, or accidentally by external hacking) under AALE process
+>- concept of _**attribution to responsible human party (UETA/ESIGN etc.)**_
+>- AAS+AALE combined systems ability to constantly & consistently _**self-monitor, report & correct parameters of actions conducive to fraud.**_
+- inclination of combined AAS & AALE systems to either _**mitigate or exacerbate**_ problematic situations under Statute of Frauds.
+- many legal concepts and sub-processes here _**link back to what has been defined in Section 4, and 3.**_
 
 ### § 131. General Requisites of a Memorandum
 
@@ -1128,13 +1127,13 @@ Unless additional requirements are prescribed by the particular statute, a contr
 
 (c) states with reasonable certainty the essential terms of the unperformed promises in the contract.
 
->"(c) states with reasonable certainty the essential terms of the unperformed promises in the contract" is directly relevant to AAS+AALE combined systems ability to consistently self-monitor, report & correct parameters of actions conducive to fraud.
+>"(c) states with reasonable certainty the essential terms of the unperformed promises in the contract" is directly relevant to AAS+AALE combined systems ability to consistently _**self-monitor,**_ report & correct parameters of actions conducive to fraud.
 
 ### § 132. Several Writings
 
 The memorandum may consist of several writings if one of the writings is signed and the writings in the circumstances clearly indicate that they relate to the same transaction.
 
->"memorandum (several) writing(s)" sub-process is directly relevant to AAS+AALE combined systems ability to consistently self-monitor, report & correct parameters of actions conducive to fraud.
+>"memorandum (several) writing(s)" sub-process is directly relevant to AAS+AALE combined systems ability to consistently _**self-monitor**_, report & correct parameters of actions conducive to fraud.
 
 ### § 139. Enforcement by Virtue of Action in Reliance
 
@@ -1152,7 +1151,7 @@ The memorandum may consist of several writings if one of the writings is signed 
 
 (e) the extent to which the action of forbearance was foreseeable by the promisor.
 
->The legal concepts and sub-processes here for Enforcement by Virtue of Action in Reliance directly link back to these concepts and sub-processes defined in previous sections 4, and 3. Determine relevance of the concepts and sub-processes of  inducement of action of forbearance, injustice avoidance, remedy (availability and adequacy, cancellation and restitution), breach, "justice" requirement, linkage forbearance-remedy, constitution of "evidence", "reasonableness" and "foresseability"  of the action of forbearance, in relation with AAS acts and their consequences under an AALE process, and whether attribution to promisor and/or promisee changes something. 
+>The legal concepts and sub-processes here for Enforcement by Virtue of Action in Reliance directly _**link back to these concepts and sub-processes defined in previous sections 4, and 3.**_ Determine _**relevance of the concepts and sub-processes of  inducement of action of forbearance, injustice avoidance, remedy (availability and adequacy, cancellation and restitution), breach, "justice" requirement, linkage forbearance-remedy, constitution of "evidence", "reasonableness" and "foresseability"  of the action of forbearance, in relation with AAS acts and their consequences under an AALE process,**_ and whether _**attribution to promisor and/or promisee changes something.**_ 
 
 #
 
@@ -1160,14 +1159,14 @@ The memorandum may consist of several writings if one of the writings is signed 
 
 ## MISTAKE
 
->Part of the problem here for the legal sub-process encoding, is to define the conditions and modalities under which certain situations can be rattached to and processed under the framework of MISTAKE, and to whcih extent they're relevant to an AAS context under an AALE process, bearing in mind the following:
-- say there are (roughly) 3 stages: -1- de facto formation of a "State of Mistake" -2- assessment and characterization of that "State of Mistake" -3- Various methods for parties dealing with that "State of Mistake" ; however, also bearing in mind the definition that <A Mistake is a "belief" that is not in "accord" with the "facts"> thus referring solely to a "human" cognitve and belief formation process.
-- interaction between (off-chain) human behaviors conducive to a "State of Mistake" and (on-chain) AAS
-- sub-plot of AAS being "non-fraudulently" insufficiently debugged and conducive to a "State of Mistake" under AALE process
-- concept of attribution to responsible human party (UETA/ESIGN etc.)
-- AAS+AALE combined systems ability to consistently self-monitor, report & correct parameters of actions conducive to a "State of Mistake" in particular discrepancies between human cognition / belief and AAS "truth" about evolving states of affairs.
-- inclination of combined AAS & AALE systems to either mitigate or exacerbate problematic situations in a "State of Mistake".
-- linkage back to legal concepts and sub-processes defined in Section 4, and 3.
+>Part of the problem here for the legal sub-process encoding, is to _**define the conditions and modalities under which certain situations can be rattached to and processed under the framework of Mistake, and to which extent they're relevant to an AAS context under an AALE process,**_ bearing in mind the following:
+>- say there are (roughly) 3 stages: -1- de facto formation of a "State of Mistake" -2- assessment and characterization of that "State of Mistake" -3- Various methods for parties dealing with that "State of Mistake" ; however, also bearing in mind the definition that _**<A Mistake is a "belief" that is not in "accord" with the "facts">**_ thus referring solely to a _**"human"**_ cognitve and belief formation process.
+>- _**interaction between (off-chain) human behaviors conducive to a "State of Mistake" and (on-chain) AAS**_
+>- sub-plot of AAS being "non-fraudulently" insufficiently debugged and conducive to a "State of Mistake" under AALE process
+>- concept of _**attribution to responsible human party (UETA/ESIGN etc.)**_
+>- AAS+AALE combined systems ability to consistently _**self-monitor,**_ report & correct parameters of actions conducive to a "State of Mistake" in particular _**discrepancies between human cognition / belief and AAS "truth" about evolving states of affairs.**_
+>- inclination of combined AAS & AALE systems to either _**mitigate or exacerbate**_ problematic situations in a "State of Mistake".
+>- -**linkage back to legal concepts and sub-processes defined in Section 4, and 3.**_
 
 
 ### § 151. Mistake Defined
@@ -1183,7 +1182,7 @@ unless he bears the risk of the mistake under the rule stated in § 154.
 
 (2) In determining whether the mistake has a material effect on the agreed exchange of performances, account is taken of any relief by way of reformation, restitution, or otherwise.
 
->mechanism of attribution to a responsible human and sub-process of reformation or restitution or other alternatives.
+>mechanism of _**attribution to a responsible human and sub-process of reformation or restitution or other alternatives.**_
 
 ### § 153. When Mistake of One Party Makes a Contract Voidable
 
@@ -1194,7 +1193,7 @@ does not bear the risk of the mistake under the rule stated in § 154, and
 
 (b) the other party had reason to know of the mistake or his fault caused the mistake.
 
->relevance of encoding contract voidability based on certain probabilistically anticipated "States of Mistake" in AAS context under AALE process.
+>relevance of _**encoding contract voidability based on certain probabilistically anticipated "States of Mistake" in AAS context under AALE process.**_
 
 ### § 154. When a Party Bears the Risk of a Mistake
 
@@ -1206,19 +1205,19 @@ A party bears the risk of a mistake when
 
 (c) the risk is allocated to him by the court on the ground that it is reasonable in the circumstances to do so. 
 
->In the same vein as attribution, relevance of encoding Mistake Risk and its Allocation, based on certain probabilistically anticipated "States of Mistake" in AAS context under AALE process.
+>In the same vein as _**attribution, relevance of encoding Mistake Risk and its Allocation, based on certain probabilistically anticipated "States of Mistake" in AAS context under AALE process.**_
 
 ### § 155. When Mistake of Both Parties as to Written Expression justifies Reformation
 
 Where a writing that evidences or embodies an agreement in whole or in part fails to express the agreement because of a mistake of both parties as to the contents or effect of the writing, the court may at the request of a party reform the writing to express the agreement, except to the extent that rights of third parties such as good faith purchasers for value will be unfairly affected.
 
->This is an example of mitigation vs exacerbation: relevance of encoding pre-emption of Contract Writing shortcomings and/or sub-processes to expedite their Writing Reformation based on language oriented machine learning, in AAS context under AALE process.
+>This is an example of _**mitigation vs exacerbation: relevance of encoding pre-emption of Contract Writing shortcomings and/or sub-processes to expedite their Writing Reformation based on language oriented machine learning, in AAS context under AALE process.**_
 
 ### § 157. Effect of Fault of Party Seeking Relief
 
 A mistaken party's fault in failing to know or discover the facts before making the contract does not bar him from avoidance or reformation under the rules stated in this Chapter, unless his fault amounts to a failure to act in good faith and in accordance with reasonable standards of fair dealing.
 
->This link in particular to the sub-processes of attribution to a responsible human, and regarding the human cognitive process of "Failure to Know", to the AAS+AALE combined systems ability to consistently self-monitor, report & correct parameters of actions conducive to a "State of Mistake" in particular discrepancies between human cognition / belief and AAS "truth" about evolving states of affairs.
+>This link in particular to the _**sub-processes of attribution to a responsible human,**_ and regarding the human cognitive process of "Failure to Know", to the AAS+AALE combined systems ability to consistently _**self-monitor,**_ report & correct parameters of actions conducive to a "State of Mistake", in particular _**discrepancies between human cognition / belief and AAS "truth" about evolving states of affairs.**_
 
 ### § 158. Relief Including Restitution
 
@@ -1227,7 +1226,7 @@ A mistaken party's fault in failing to know or discover the facts before making 
 (2) In any case governed by the rules stated in this Chapter, if those rules together with the rules stated in Chapter 16 will not avoid injustice, the court may grant relief on such terms as justice requires including protection of the parties'
 reliance interests.
 
->Relevance of sub-processes of Claim for Relief (including Restitution), of Evaluation of the PArties' Reliance Interests, in AAS context under AALE process.
+>_**Relevance of sub-processes of Claim for Relief (including Restitution), of Evaluation of the Parties' Reliance Interests, in AAS context under AALE process.**_
 
 #
 
@@ -1235,14 +1234,14 @@ reliance interests.
 
 ## MISREPRESENTATION, DURESS AND UNDUE INFLUENCE
 
->Part of the problem here for the legal sub-process encoding, is to define the conditions and modalities under which certain situations can be made to either exacerbate or mitigate factors conducive to States of Misrepresentation, Duress and Undue Influence ; and consider approaches that are prone to mitigate rather than exacerbate these, in an AAS context under AALE process, bearing in mind the following:
-- characterization of steps conducive to States of Misrepresentation, Duress and Undue Influence and encoding of sub-processes and encoding of mitigation sub-processes (could include machine learning techniques).
-- interaction between (off-chain) human behaviors conducive to States of Misrepresentation, Duress and Undue Influence and (on-chain) AAS
-- sub-plots of either AAS being "fraudulently" internally programmed or externally hacked, or inversely, AAS being "non-fraudulently" insufficiently debugged, in ways conducive to States of Misrepresentation, Duress and Undue Influence, under AALE process
-- concept of attribution to responsible human party (UETA/ESIGN etc.)
-- AAS+AALE combined systems ability to consistently self-monitor, report & correct parameters of actions conducive to States of Misrepresentation, Duress and Undue Influence, in particular discrepancies between human cognition / belief and AAS "truth" about evolving states of affairs.
-- inclination of combined AAS & AALE systems to either mitigate or exacerbate problematic situations in States of Misrepresentation, Duress and Undue Influence.
-- linkage back to legal concepts and sub-processes defined in previous Chapters.
+>Part of the problem here for the legal sub-process encoding, is to define the conditions and modalities under which certain situations can be made to either _**exacerbate or mitigate**_ factors conducive to States of Misrepresentation, Duress and Undue Influence ; and consider approaches that are prone to mitigate rather than exacerbate these, in an AAS context under AALE process, bearing in mind the following:
+>- characterization of steps conducive to States of Misrepresentation, Duress and Undue Influence and encoding of sub-processes and encoding of mitigation sub-processes (could include machine learning techniques).
+>- _**interaction between (off-chain) human behaviors**_ conducive to States of Misrepresentation, Duress and Undue Influence _**and (on-chain) AAS**_**_
+>- _**sub-plots of either AAS being "fraudulently" internally programmed or externally hacked, or inversely, AAS being "non-fraudulently" insufficiently debugged**_, in ways conducive to States of Misrepresentation, Duress and Undue Influence, under AALE process.
+>- concept of _**attribution to responsible human party (UETA/ESIGN etc.)**_
+>- AAS+AALE combined systems ability to consistently _**self-monitor,**_ report & correct parameters of actions conducive to States of Misrepresentation, Duress and Undue Influence, in particular _**discrepancies between human cognition / belief and AAS "truth" about evolving states of affairs.**_
+>- inclination of combined AAS & AALE systems to either _**mitigate or exacerbate**_ problematic situations in States of Misrepresentation, Duress and Undue Influence.
+>- _**linkage back to legal concepts and sub-processes defined in previous Chapters.**_
 
 ### § 161. When Non-Disclosure Is Equivalent to an Assertion
 
@@ -1257,7 +1256,7 @@ and in accordance with reasonable standards of fair dealing.
 
 (d) where the other person is entitled to know the fact because of a relation of trust and confidence between them. 
 
->See above comments under Chapter 7 head. Ways to detect, mitigate, suppress root causes that Non-Disclosure Equivalent to an Assertion could be detrimental to some of the parties, in AAS context under AALE process.
+>See above comments under Chapter 7 head. Ways to _**detect, mitigate, suppress root causes that Non-Disclosure Equivalent to an Assertion could be detrimental to some of the parties, in AAS context under AALE process.**_
 
 ### § 162. When a Misrepresentation Is Fraudulent or Material
 
@@ -1271,7 +1270,7 @@ and in accordance with reasonable standards of fair dealing.
 
 (2) A misrepresentation is material if it would be likely to induce a reasonable person to manifest his assent, or if the maker knows that it would be likely to induce the recipient to do so.
 
->See above comments under Chapter 7 head. Ways to detect, mitigate, suppress root causes that Misrepresentation may be Fraudulent or Material in ways that could be detrimental to some of the parties, in AAS context under AALE process.
+>See above comments under Chapter 7 head. Ways to _**detect, mitigate, suppress root causes that Misrepresentation may be Fraudulent or Material in ways that could be detrimental to some of the parties, in AAS context under AALE process.**_
 
 ### § 164. When a Misrepresentation Makes a Contract Voidable
 
@@ -1279,13 +1278,13 @@ and in accordance with reasonable standards of fair dealing.
 
 (2) If a party's manifestation of assent is induced by either a fraudulent or a material misrepresentation by one who is not a party to the transaction upon which the recipient is justified in relying, the contract is voidable by the recipient, unless the other party to the transaction in good faith and without reason to know of the misrepresentation either gives value or relies materially on the transaction.
 
->See above comments under Chapter 7 head. Ways to detect, mitigate, suppress root causes that Misrepresentation may occur in the first place in ways that could be detrimental to some of the parties, before it reaches a situation whereas Contract is Voidable, in AAS context under AALE process.
+>See above comments under Chapter 7 head. Ways to _**detect, mitigate, suppress root causes that Misrepresentation may occur in the first place in ways that could be detrimental to some of the parties, before it reaches a situation whereas Contract is Voidable, in AAS context under AALE process.**_
 
 ### § 167. When a Misrepresentation Is an Inducing Cause
 
 A misrepresentation induces a party's manifestation of assent if it substantially contributes to his decision to manifest his assent.
 
->See above comments under Chapter 7 head. This sounds like there could be a potentially exacerbated risk of Misrepresentation turning out being an Inducing Cause, in case of mis-calibrated interaction humans-AAS under an AALE process, in particular if faulty oracles are involved that exacerbate Misrepresentation both ways- humans and AAS. Relevance of the concept and sub-process of Misrepresentation turning out being an Inducing Cause needs to be reviewed in AAS context under AALE process.
+>See above comments under Chapter 7 head. This sounds like there could be a _**potentially exacerbated risk of Misrepresentation turning out being an Inducing Cause, in case of mis-calibrated interaction humans-AAS under an AALE process,**_ in particular if _**faulty oracles are involved that exacerbate Misrepresentation both ways- humans and AAS.**_ Relevance of the concept and _**sub-process of Misrepresentation turning out being an Inducing Cause needs to be reviewed in AAS context under AALE process.**_
 
 ### § 168. Reliance on Assertions of Opinion
 
@@ -1297,7 +1296,7 @@ A misrepresentation induces a party's manifestation of assent if it substantiall
 
 (b) that he knows facts sufficient to justify him in forming it.
 
->See above comments under Chapter 7 head. This sounds like there could be a potentially exacerbated risk of (Detrimental) Reliance on Assertions of Opiniion, in case of mis-calibrated interaction humans-AAS under an AALE process, in particular if faulty oracles are involved that exacerbate (Detrimental) Reliance on Assertions of Opinion, both ways- humans and AAS. Relevance of the concept and sub-process of Reliance, and in particular (Detrimental) Reliance on Assertions of Opinion, needs to be reviewed in AAS context under AALE process.
+>See above comments under Chapter 7 head. This sounds like there could be a _**potentially exacerbated risk of (Detrimental) Reliance on Assertions of Opininion, in case of mis-calibrated interaction humans-AAS under an AALE process,**_ in particular if _**faulty oracles are involved that exacerbate (Detrimental) Reliance on Assertions of Opinion, both ways- humans and AAS.**_ Relevance of the concept and _**sub-process of Reliance, and in particular (Detrimental) Reliance on Assertions of Opinion, needs to be reviewed in AAS context under AALE process.**_
 
 ### § 169. When Reliance on an Assertion of Opinion Is Not justified
 
@@ -1309,13 +1308,13 @@ To the extent that an assertion is one of opinion only, the recipient is not jus
 
 (c) is for some other special reason particularly susceptible to a misrepresentation of the type involved.
 
->See above comments under Chapter 7 head. This sounds like there could be a potentially exacerbated risk of (Detrimental) Reliance on an Assertions of Opiniion That Is Not Justified, in case of mis-calibrated interaction humans-AAS under an AALE process, in particular if faulty oracles are involved that exacerbate (Detrimental) Reliance on an Assertions of Opiniion That Is Not Justified, both ways- humans and AAS. Relevance of the concept and sub-process of Reliance, and in particular (Detrimental) Reliance on an Assertions of Opiniion That Is Not Justified, needs to be reviewed in AAS context under AALE process.
+>See above comments under Chapter 7 head. This sounds like there could be a _**potentially exacerbated risk of (Detrimental) Reliance on an Assertions of Opiniion That Is Not Justified, in case of mis-calibrated interaction humans-AAS under an AALE process,**_ in particular if faulty oracles are involved that _**exacerbate (Detrimental) Reliance on an Assertions of Opiniion That Is Not Justified, both ways- humans and AAS.**_ Relevance of the concept and _**sub-process of Reliance, and in particular (Detrimental) Reliance on an Assertions of Opiniion That Is Not Justified, needs to be reviewed in AAS context under AALE process.**_
 
 ### § 174. When Duress by Physical Compulsion Prevents Formation of a Contract
 
 If conduct that appears to be a manifestation of assent by a party who does not intend to engage in that conduct is physically compelled by duress, the conduct is not effective as a manifestation of assent.
 
->See above comments under Chapter 7 head. There could be a chance of mitigation of conditions of "Duress" ever happening, that lead to Prevention of Formation of a Contract. Although risks for exacerbated Duress by Physical Compulsion may appear in case of mis-calibrated interaction humans-AAS under an AALE process, in particular if humans or AAS gone rogue or faulty oracles or other externalities are involved that exacerbate over-reactions both ways- humans and AAS. Relevance of the concept and sub-process of Duress b y Physical Compulsion, needs to be reviewed in AAS context under AALE process.
+>See above comments under Chapter 7 head. There could be a _**chance of mitigation of conditions of "Duress" ever happening, that lead to Prevention of Formation of a Contract.**_ Although _**risks for exacerbated Duress by Physical Compulsion may appear in case of mis-calibrated interaction humans-AAS under an AALE process,**_ in particular if _**humans or AAS gone rogue or faulty oracles or other externalities are involved that exacerbate over-reactions both ways- humans and AAS.**_ Relevance of the concept and _**sub-process of Duress by Physical Compulsion, needs to be reviewed in AAS context under AALE process.**_
 
 ### § 175. When Duress by Threat Makes a Contract Voidable
 
@@ -1323,7 +1322,7 @@ If conduct that appears to be a manifestation of assent by a party who does not 
 
 (2) If a party's manifestation of assent is induced by one who is not a party to the transaction, the contract is voidable by the victim unless the other party to the transaction in good faith and without reason to know of the duress either gives value or relies materially on the transaction.
 
->Remarks analoguous to § 174 as the relevance of the concept and sub-process "Threat" needs to be reviewed in an AAS context under AALE process.
+>Remarks analoguous to § 174 as the _**relevance of the concept and sub-process "Threat" needs to be reviewed in an AAS context under AALE process.**_
 
 ### § 176. When a Threat Is Improper
 
@@ -1345,7 +1344,7 @@ If conduct that appears to be a manifestation of assent by a party who does not 
 
 (c) what is threatened is otherwise a use of power for illegitimate ends.
 
->Remarks analoguous to § 174 and § 175 as the relevance of the concept and sub-process "Threat" and the modalities of its execution need to be reviewed in an AAS context under AALE process.
+>Remarks analoguous to § 174 and § 175 as the _**relevance of the concept and sub-process "Threat" and the modalities of its execution need to be reviewed in an AAS context under AALE process.**_
 
 ### § 177. When Undue Influence Makes a Contract Voidable
 
@@ -1356,7 +1355,7 @@ If conduct that appears to be a manifestation of assent by a party who does not 
 (3) If a party's manifestation of assent is induced by one who is not a party to the transaction, the contract is voidable by the victim unless the other party to the transaction in good faith and without reason to know of the undue influence either
 gives value or relies materially on the transaction.
 
->In additon to above remarks this links back to the notion of trustless environment, and exacerbation or mitigation of the conditions of Undue Influence, especially if faulty oracles or other externalities are involved. The relevance of the concept and sub-process of Undue Influence creating conditions that Make A Contract Voidable need to be reviewed in AAS context under AALE process.
+>In additon to above remarks this _**links back to the notions of trustless environment,**_ and _**exacerbation or mitigation of the conditions of Undue Influence, especially if faulty oracles or other externalities are involved.**_ The relevance of the concept and _**sub-process of Undue Influence creating conditions that Make A Contract Voidable need to be reviewed in AAS context under AALE process.**_
 
 #
 
@@ -1364,11 +1363,11 @@ gives value or relies materially on the transaction.
 
 ## UNENFORCEABILITY ON GROUNDS OF PUBLIC POLICY
 
->Part of the problem in this Chapter 8 is the ability to assess the relevance of Public Policy-generated externalities in an AAS context under AALE process. Define the encoding of that particular set of "Public Policy Functions" linked to conditions and constraints in ways that avoid both the risk of non-compliance with Public Policy and the risk of AAS/AALE systemic paralysis. 
+>Part of the problem in this Chapter 8 is the ability to _**assess the relevance of Public Policy-generated externalities in an AAS context under AALE process.**_ Define the encoding of that particular set of _**"Public Policy Functions" linked to conditions and constraints in ways that avoid both the risk of non-compliance with Public Policy and the risk of AAS/AALE systemic paralysis.**_
 
->Which logically begs the question whether some or all parties involved would be better off, should the engineering of Public Policy - maybe and to a certain extent - incorporate at the onset, modalities, process and encoding that make it directly usable and functional in AAS context under AALE process. With the major caveat that the precision surgery of public "statutes" within AAS/AALE context could be as much a complicated, delicate and dysfunctionally disruptive affair, as a flawed, badly engineered meeting (computationally) of various bodies of Law. This suggests experimental prudence (sandbox).
+>Which logically begs the question whether some or all parties involved would be better off, should the engineering of Public Policy - maybe and to a certain extent - _**incorporate at the onset, modalities, process and encoding that make it directly usable and functional in AAS context under AALE process._** With the _**major caveat**_ that the precision surgery of public "statutes" within AAS/AALE context could be as much a complicated, delicate and dysfunctionally disruptive affair, as a flawed, badly engineered meeting (computationally) of various bodies of Law. _**This suggests experimental prudence (sandbox).**_
 
->In an analoguous vein, inspired by and extrapolating from the CIVICS/Dazza regulatory impact experience since the 1990's (UETA/ESIGN), and further rebounding on the current emerging state of affair of "Automation, Algorithm, A.I. and Blockchain for Government", a kind of working topic revolving around "Assess relevance, feasability, and sustainability of Design & Engineering of Public Policy That Is AAS/AALE Compatible" sounds, possibly, like where some of the past, current & future states of Public Policy making reside.
+>In an analoguous vein, inspired by and extrapolating from the CIVICS/Dazza regulatory impact experience since the 1990's (UETA/ESIGN), and further rebounding on the current emerging state of affair of "Automation, Algorithm, A.I. and Blockchain for Government", a kind of working topic revolving around _**"Assess relevance, feasability, and sustainability of Design & Engineering of Public Policy That Is AAS/AALE Compatible"**_ sounds, possibly, like where some of the past, current & future states of Public Policy making reside.
 
 ### § 178. When a Term Is Unenforceable on Grounds of Public Policy
 
@@ -1393,7 +1392,7 @@ enforcement of such terms.
 
 (d) the directness of the connection between that misconduct and the term.
 
->See above comments under head of Chapter 8. This describes some of the functions, sub-processes and parameters to review to "Assess relevance, feasability, and sustainability of Design & Engineering of Public Policy That Is AAS/AALE Compatible".
+>See above comments under head of Chapter 8. This describes some of the _**functions, sub-processes and parameters to review to "Assess relevance, feasability, and sustainability of Design & Engineering of Public Policy That Is AAS/AALE Compatible".**_
 
 ### § 181. Effect of Failure to Comply with Licensing or Similar Requirement
 
@@ -1403,7 +1402,7 @@ If a party is prohibited from doing an act because of his failure to comply with
 
 (b) the interest in the enforcement of the promise is clearly outweighed by the public policy behind the requirement. 
 
->See above comments under head of Chapter 8. This describes some of the functions, sub-processes and parameters to review to "Assess relevance, feasability, and sustainability of Design & Engineering of Public Policy That Is AAS/AALE Compatible". In particular, define the meaning of public policy that "outweight" other legal decision parameters.
+>See above comments under head of Chapter 8. This describes some of the _**functions, sub-processes and parameters to review to "Assess relevance, feasability, and sustainability of Design & Engineering of Public Policy That Is AAS/AALE Compatible".**_ In particular, define the _**meaning of public policy that "outweight" other legal decision parameters.**_
 
 ### § 182. Effect of Performance if Intended Use Is Improper
 
@@ -1413,13 +1412,13 @@ If the promisee has substantially performed, enforcement of a promise is not pre
 
 (b) knew of the use and the use involves grave social harm.
 
->See above comments under head of Chapter 8. This describes some of the functions, sub-processes and parameters to review to "Assess relevance, feasability, and sustainability of Design & Engineering of Public Policy That Is AAS/AALE Compatible". In particular, define the meaning of "grave social harm" vs other legal decision parameters. Think encoding, in an AAS context under AALE pricess, of gender bias policies, climate change impact mitigation policies, etc, or any cause referred to - at least by certain political constituencies - as "involving grave social harm".
+>See above comments under head of Chapter 8. This describes some of the _**functions, sub-processes and parameters to review to "Assess relevance, feasability, and sustainability of Design & Engineering of Public Policy That Is AAS/AALE Compatible".**_ In particular, define the _**meaning of "grave social harm" vs other legal decision parameters.**_ This could maybe come a little bit closer to reality in a not so distant future- think encoding, in an AAS context under AALE process, of e.g. gender bias and/or climate change and/or elections manipulation impact mitigation policies, etc, or any cause referred to - at least by certain political constituencies - as "involving grave social harm". 
 
 ### § 187. Non-Ancillary Restraints on Competition
 
 A promise to refrain from competition that imposes a restraint that is not ancillary to an otherwise valid transaction or relationship is unreasonably in restraint of trade.
 
->See above comments under head of Chapter 8. This describes some of the functions, sub-processes and parameters to review to "Assess relevance, feasability, and sustainability of Design & Engineering of Public Policy That Is AAS/AALE Compatible". In particular, this may start to cover some of the issues of conflicting trade / antitrust laws, when manipulation of suppliers, oligopolistic-like excessive coordination on sales terms, and other allegedly excessive transparency on costs & prices are involved. Part of the problem is relevance & limits of the paradigm of "grey area" that is the whole basis of bargaining for mercantile, capitalistic trade (distinct from collectivist-model cooperative Kolkoz/Kibutz) in an AAS context under AALE process.
+>See above comments under head of Chapter 8. This describes some of the _**functions, sub-processes and parameters to review to "Assess relevance, feasability, and sustainability of Design & Engineering of Public Policy That Is AAS/AALE Compatible".**_ In particular, this may start to cover some of the issues of _**conflicting trade / antitrust laws, when manipulation of suppliers, oligopolistic-like excessive coordination on sales terms, and other allegedly (open dlt-based) excessive transparency on costs & prices are involved.**_ Part of the problem is _**relevance & limits of the paradigm of "grey area and confidentiality" that is the whole basis of bargaining for mercantile, capitalistic trade & investment**_ (somewhat distinctively from collectivist-model cooperative à la Kolkoz/Kibutz) in an AAS context under AALE process.
 
 ### § 188. Ancillary Restraints on Competition
 
@@ -1437,13 +1436,13 @@ A promise to refrain from competition that imposes a restraint that is not ancil
 
 (c) a promise by a partner not to compete with the partnership.
 
->See above comments under head of Chapter 8. This describes some of the functions, sub-processes and parameters to review to "Assess relevance, feasability, and sustainability of Design & Engineering of Public Policy That Is AAS/AALE Compatible". Remarks analogous to § 187 in the case of Competition laws in an AAS context under AALE process.
+>See above comments under head of Chapter 8. This describes some of the _**functions, sub-processes and parameters to review to "Assess relevance, feasability, and sustainability of Design & Engineering of Public Policy That Is AAS/AALE Compatible".**_ Remarks analogous to § 187 in the case of _**Competition laws**_ in an AAS context under AALE process.
 
 ### § 194. Promise Interfering with Contract with Another
 
 A promise that tortiously interferes with performance of a contract with a third person or a tortiously induced promise to commit a breach of contract is unenforceable on grounds of public policy.
 
->See above comments under head of Chapter 8. This describes some of the functions, sub-processes and parameters to review to "Assess relevance, feasability, and sustainability of Design & Engineering of Public Policy That Is AAS/AALE Compatible". With emphasis on defining relevance of concepts and sub-process of tortious interference, tortiously-induced promise, commitment to breach of contract in an AAS context under AALE process.
+>See above comments under head of Chapter 8. This describes some of the _**functions, sub-processes and parameters to review to "Assess relevance, feasability, and sustainability of Design & Engineering of Public Policy That Is AAS/AALE Compatible".**_ With emphasis on defining _**relevance of concepts and sub-process of tortious interference, tortiously-induced promise, commitment to breach of contract in an AAS context under AALE process.**_
 
 ### § 195. Term Exempting from Liability for Harm Caused Intentionally, Recklessly or Negligently
 
@@ -1459,7 +1458,7 @@ A promise that tortiously interferes with performance of a contract with a third
 
 (3) A term exempting a seller of a product from his special tort liability for physical harm to a user or consumer is unenforceable on grounds of public policy unless the term is fairly bargained for and is consistent with the policy underlying that liability.
 
->See above comments under head of Chapter 8. This describes some of the functions, sub-processes and parameters to review to "Assess relevance, feasability, and sustainability of Design & Engineering of Public Policy That Is AAS/AALE Compatible". With emphasis on defining relevance of concepts and sub-process of Harm Caused Intentionally, Recklessly, or Negligently, in humans-AAS interactions, with attribution to a responsible human for liability bearing, in an AAS context under AALE process. This seems to cover physical harm and other kinds of harm, and might lead to similar consideration in Tort Law.
+>See above comments under head of Chapter 8. This describes some of the _**functions, sub-processes and parameters to review to "Assess relevance, feasability, and sustainability of Design & Engineering of Public Policy That Is AAS/AALE Compatible".**_ With emphasis on defining relevance of concepts and _**sub-process of Harm Caused Intentionally, Recklessly, or Negligently, in humans-AAS interactions, with attribution to a responsible human for liability bearing, in an AAS context under AALE process.**_ This seems to cover physical harm and other kinds of harm, and might lead to similar consideration in _**Tort Law.**_
 
 ### § 198. Restitution in Favor of Party who Is Excusably Ignorant or Is Not Equally in the Wrong
 
@@ -1469,7 +1468,7 @@ A party has a claim in restitution for performance that he has rendered under or
 
 (b) he was not equally in the wrong with the promisor.
 
->See above comments under head of Chapter 8. This describes some of the functions, sub-processes and parameters to review to "Assess relevance, feasability, and sustainability of Design & Engineering of Public Policy That Is AAS/AALE Compatible". With emphasis on defining relevance of concepts and sub-process, in humans-AAS interactions, linked to (human) cognition of some of the parties such as Excusable Ignorance and Not Equally in the Wrong. But maybe also explorable for AAS knowledge status under AALE process. Also links back to attribution for liability bearing and the sub-process of Restitution.
+>See above comments under head of Chapter 8. This describes some of the _**functions, sub-processes and parameters to review to "Assess relevance, feasability, and sustainability of Design & Engineering of Public Policy That Is AAS/AALE Compatible".**_ With emphasis on defining relevance of concepts and _**sub-process, in humans-AAS interactions, linked to (human) cognition of some of the parties such as Excusable Ignorance and Not Equally in the Wrong. But maybe also explorable for AAS knowledge status under AALE process.**_ Also links back to _**attribution for liability bearing and the sub-process of Restitution.**_
 
 #
 
@@ -1477,7 +1476,7 @@ A party has a claim in restitution for performance that he has rendered under or
 
 ## THE SCOPE OF CONTRACTUAL OBLIGATIONS
 
->Part of the problem in this Chapter 9 is the ability to assess the relevance of the components and functions of the Scope of Contractual Obligations in an AAS context under AALE process. Define the encoding of these particular set of "Scope of Contractual Obligation Functions" that we (arbitrarily) regrouped in 4 sections:
+>Part of the problem in this Chapter 9 is the ability to assess the _**relevance of the components and functions of the Scope of Contractual Obligations in an AAS context under AALE process.**_ Define the encoding of these particular set of "Scope of Contractual Obligation Functions" that we (arbitrarily) regrouped in 4 sections:
 >- **Arbitrarily Defined Section 9-A- Meaning and Interpretation of Language: articles § 201, § 202, § 203, § 204, § 205, § 206, § 207, § 208**
 >- **Arbitrarily Defined Section 9-B- Structure and Components of Agreements: articles § 209, § 210, § 211, § 212, § 213, § 214, § 215, § 216, § 217, § 218, § 219.**
 >- **Arbitrarily Defined Section 9-C- Usage in Relation with Interpretation ; Course of Dealing: articles § 220, § 221, § 222, § 223.**
@@ -1499,7 +1498,7 @@ A party has a claim in restitution for performance that he has rendered under or
 
 (3) Except as stated in this Section, neither party is bound by the meaning attached by the other, even though the result may be a failure of mutual assent.
 
->Define the concept of meaning and sub-process of knowing in AAS-humans interaction, in an AAS context under AALE process.
+>Define the _**concept of Meaning and sub-process of Knowing in AAS-humans interaction, in an AAS context under AALE process.
 
 ### § 202. Rules in Aid of Interpretation
 
@@ -1518,7 +1517,7 @@ objection is given great weight in the interpretation of the agreement.
 
 (5) Wherever reasonable, the manifestations of intention of the parties to a promise or agreement are interpreted as consistent with each other and with any relevant course of performance, course of dealing, or usage of trade.
 
->This links to several elements of subjectivity of human language interpretation sub-process, whose relevance needs to be reviewed as part oh human-AAS interactions, in an AAS context under AALE process: circumstances, relative weight, whole, intention, manifestation, precedent created, reasonableness, course of performance, course of dealing, usage of trade.
+>This links to several elements of _**subjectivity of human language interpretation sub-process, whose relevance needs to be reviewed as part oh human-AAS interactions, in an AAS context under AALE process: circumstances, relative weight, whole, intention, manifestation, precedent created, reasonableness, course of performance, course of dealing, usage of trade.**_
 
 ### § 203. Standards of Preference in Interpretation
 
@@ -1532,36 +1531,36 @@ In the interpretation of a promise or agreement or a term thereof, the following
 
 (d) separately negotiated or added terms are given greater weight than standardized terms or other terms not separately negotiated.
 
->remark analogous to above in case of: <reasonable & lawful & effective meaning>, preference, vs <the opposite> ; hierarchy of decreasing weight between express terms, course of performance, course of dealing, usage of trade ; specific & exact terms vs general language ; separately negotiated or added terms vs standardized terms or other terms not separately negotiated. Note: this at least looks like it's already designed for encoding.
+>remark analogous to above in case of: _**<reasonable & lawful & effective meaning>, preference, vs the opposite ; hierarchy of decreasing weight between express terms, course of performance, course of dealing, usage of trade ; specific & exact terms vs general language ; separately negotiated or added terms vs standardized terms or other terms not separately negotiated.**_ Note: this at least looks like it's _**already designed for encoding.**_
 
 ### § 204. Supplying an Omitted Essential Term
 
 When the parties to a bargain sufficiently defined to be a contract have not agreed with respect to a term which is essential to a determination of their rights and duties, a term which is reasonable in the circumstances is supplied by the court.
 
->remark analogous to above in case of: omitted essential term ; suggests mechanisms to supply it computationally.
+>remark analogous to above in case of: _**omitted essential term ; suggests mechanisms to supply it computationally.**_
 
 ### § 205. Duty of Good Faith and Fair Dealing
 
 Every contract imposes upon each party a duty of good faith and fair dealing in its performance and its enforcement.
 
->remark analogous to above in case of: Duty of Good Faith and Fair Dealing
+>remark analogous to above in case of: _**Duty of Good Faith and Fair Dealing.**_
 
 ### § 206. Interpretation Against the Draftsman
 
 In choosing among the reasonable meanings of a promise or agreement or a term thereof, that meaning is generally preferred which operates against the party who supplies the words or from whom a writing otherwise proceeds.
 
->remark analogous to above in case of: Interpretation Against the Draftsman ; implications for wording supplied by AAS.
+>remark analogous to above in case of: _**Interpretation Against the Draftsman ; implications for wording supplied by AAS.**_
 
 ### § 208. Unconscionable Contract or Term
 
 If a contract or term thereof is unconscionable at the time the contract is made a court may refuse to enforce the contract, or may enforce the remainder of the contract without the unconscionable term, or may so limit the application of any unconscionable term as to avoid any unconscionable result. 
 
->remark analogous to above in case of: Unconscionable Contract or Term, modalities of application and contract enforcement.
+>remark analogous to above in case of: _**Unconscionable Contract or Term, modalities of application and contract enforcement.**_
 
 ### Arbitrarily Defined Section 9-B- Structure and Components of Agreements: 
 ### articles § 209, § 210, § 211, § 212, § 213, § 214, § 215, § 216, § 217, § 218, § 219.
 
->Need to review relevance of structure and components of agreements and sub-process to form these agreements. Article § 214 looks relatively sensitive for admission in evidence to establish certain facts in human-AAS interaction, in AAS context under AALE process.
+>Need to review _**relevance of structure and components of agreements and sub-process to form these agreements. Article § 214 looks relatively sensitive for admission in evidence to establish certain facts in human-AAS interaction, in AAS context under AALE process.**_
 
 ### § 209. Integrated Agreements
 
@@ -1611,7 +1610,7 @@ Agreements and negotiations prior to or contemporaneous with the adoption of a w
 
 (e) ground for granting or denying rescission, reformation, specific performance, or other remedy.
 
->Sensitive article for admission in evidence to establish certain facts in human-AAS interaction, in AAS context under AALE process.
+>_**Seemingly sensitive article for admission in evidence to establish certain facts in human-AAS interaction, in AAS context under AALE process.**_
 
 ### § 215. Contradiction of Integrated Terms
 
@@ -1635,7 +1634,7 @@ Where the parties to a written agreement agree orally that performance of the ag
 ### Arbitrarily Defined Section 9-C- Usage in Relation with Interpretation ; Course of Dealing: 
 ### articles § 220, § 221, § 222, § 223.
 
->Need to review relevance of the legal codification of concept and sub-process of Usage in Relation with Interpretation in human-AAS interaction, in AAS context under AALE process. Same for Course of Dealing. This links back to previous elaborations in relation with subjective human concepts and sub-processes such as interpretation, meaning, knowledge, reasonableness, intention, consistency, and the codification of a variety of (human) usages.
+>Need to review relevance of the legal codification of concept and _**sub-process of Usage in Relation with Interpretation in human-AAS interaction, in AAS context under AALE process._** Same for _**Course of Dealing.**_ This links back to previous elaborations in relation with _**subjective human concepts and sub-processes such as interpretation, meaning, knowledge, reasonableness, intention, consistency, and the codification of a variety of (human) usages.**_
 
 ### § 220. Usage Relevant to Interpretation
 
@@ -1656,7 +1655,7 @@ intention inconsistent with the usage.
 
 (3) Unless otherwise agreed, a usage of trade in the vocation or trade in which the parties are engaged or a usage of trade of which they know or have reason to know gives meaning to or supplements or qualifies their agreement.
 
->This Usage of Trade is a subjective human component (custom or tradition), but relates to behavior codification to a certain extent, as such it may constructively encode relevance to human-AAS interaction in AAS context under AALE process.
+>_**This Usage of Trade is a subjective human component (custom or tradition), but relates to behavior codification to a certain extent, as such it may constructively encode relevance to human-AAS interaction in AAS context under AALE process.**_
 
 ### § 223. Course of Dealing
 
@@ -1664,19 +1663,19 @@ intention inconsistent with the usage.
 
 (2) Unless otherwise agreed, a course of dealing between the parties gives meaning to or supplements or qualifies their agreement.
 
->This Course of Dealing is a subjective human component (custom or tradition), but relates to behavior codification to a certain extent, as such it may constructively encode relevance to human-AAS interaction in AAS context under AALE process.
+>_**This Course of Dealing is a subjective human component (custom or tradition), but relates to behavior codification to a certain extent, as such it may constructively encode relevance to human-AAS interaction in AAS context under AALE process.**_
 
 
 ### Arbitrarily Defined Section 9-D- Conditions: 
 ### § 224, § 225, § 226, § 227, § 228, § 229.
 
->Need to review relevance of the legal codification of concept and sub-process of Conditions as it is defined and operates in human-AAS interaction, in AAS context under AALE process, also introducing two new concepts: obligor vs oblgee.  This links back to previously reviewed human cognition concepts and sub-processes implying the legal codification of a variety of (human) usages: performance, duty, occurence, excuse, breach, event, doubt and its resolution, risk and its assumption, forfeiture and excuse for its avoidance, reasonableness, satisfaction. 
+>Need to review relevance of the legal codification of concept and _**sub-process of Conditions as it is defined and operates in human-AAS interaction, in AAS context under AALE process,**_ also introducing _**two new concepts: obligor vs obligee.**_  This links back to previously reviewed human cognition concepts and _**sub-processes implying the legal codification of a variety of (human) usages: performance, duty, occurence, excuse, breach, event, doubt and its resolution, risk and its assumption, forfeiture and excuse for its avoidance, reasonableness, satisfaction.**_
 
 ### § 224. Condition Defined
 
 A condition is an event, not certain to occur, which must occur, unless its non-occurrence is excused, before performance under a contract becomes due.
 
->Under this definition of Condition, in an AAS context under AALE process, the event (non-)occurence should be recorded and the status of occurence of the event should be assessed. there could be issues of human-AAS interaction and cognition.
+>Under this definition of _**Condition, in an AAS context under AALE process, the event (non-)occurence should be recorded and the status of occurence of the event should be assessed. There could be issues of human-AAS interaction and cognition.**_
 
 ### § 225. Effects of the Non-Occurrence of a Condition
 
@@ -1704,7 +1703,7 @@ An event may be made a condition either by the agreement of the parties or by a 
 
 (3) In case of doubt, an interpretation under which an event is a condition of an obligor's duty is preferred over an interpretation under which the non-occurrence of the event is a ground for discharge of that duty after it has become a duty to perform.
 
->As noted in above comment for Section 9-D, this article is particularly loaded for assessment of relevance of human concepts and sub-process in AAS context under AALE process. 
+>As noted in above comment for Section 9-D, _**this article § 227 is particularly loaded for assessment of relevance of human concepts and sub-process in AAS context under AALE process.**_
 
 ### § 228. Satisfaction of the Obligor as a Condition
 
@@ -1721,14 +1720,14 @@ To the extent that the non-occurrence of a condition would cause disproportionat
 
 ## PERFORMANCE AND NON-PERFORMANCE
 
->Part of the problem in this Chapter 10 is the ability to assess the relevance of the components and functions of Performance and non-Performance (withj the particular case of Repudiation) in an AAS context under AALE process. Define the encoding of these particular set of "Performance and/or Non Performance and/or Repudiation Functions" that we (arbitrarily) regrouped in 2 sections:
+>Part of the problem in this Chapter 10 is the ability to assess the relevance of the components and _**functions or sub-processes of Performance and non-Performance (including the particular case of Repudiation) in an AAS context under AALE process.**_ Define the encoding of these particular sets of _**"Performance and/or Non Performance and/or Repudiation Functions"**_ that we (arbitrarily) regrouped in 2 sections:
 >- **Arbitrarily Defined Section 10-A- Monitoring of Performance and characterization of its status: articles § 234, § 235, § 236, § 237, § 238, § 240, § 241, § 242, § 243.**
 >- **Arbitrarily Defined Section 10-B- Characterization of Repudiation, of its status and consequences: articles § 250, § 251, § 252, § 253, § 256, § 257.**
  
 ### Arbitrarily Defined Section 10-A- Monitoring of Performance and characterization of its status: 
 ### articles § 234, § 235, § 236, § 237, § 238, § 240, § 241, § 242, § 243.
 
->Need to review relevance of the legal codification of concept and sub-process of Monitoring of Performance and characterization of its status in human-AAS interaction, in AAS context under AALE process. This links back to the notion of properly engineered AALE with features that would be able to constantly & consistently monitor, report the status of performance of AAS and other entities (human included) under its management. This could provide at any moment a clear picture of legal status & consequences for the whole ecosystem, as well as risk management measures either A/A or human-directed, to deal with risk mitigation vs exacerbation of consequences of acts- with attribution to a responsinle human looming large. 
+>Need to review relevance of the legal codification of concept and _**sub-process of Monitoring of Performance and characterization of its status in human-AAS interaction, in AAS context under AALE process.**_ This links back to the notion of properly engineered AALE with features that would be able to constantly & consistently _**self-monitor**_, report the status of performance of AAS and other entities (human included) under its management. This could provide at any moment a clear picture of legal status & consequences for the whole ecosystem, as well as _**risk management measures either A/A or human-directed, to deal with risk mitigation vs exacerbation of consequences of acts- with attribution to a responsible human looming large.**_
 
 ### § 234. Order of Performances
 
@@ -1799,7 +1798,7 @@ In determining the time after which a party's uncured material failure to render
 ### Arbitrarily Defined Section 10-B- Characterization of Repudiation, of its status and consequences: 
 ### articles § 250, § 251, § 252, § 253, § 256, § 257.
 
->Need to review relevance of the legal codification of concept and sub-process of Characterization of Repudiation, of its status and consequences, in human-AAS interaction, in AAS context under AALE process. This links back to the notion of properly engineered AALE with features that would be able to constantly & consistently monitor, report the status of performance of AAS and other entities (human included) under its management, focused on that particular aspect of Repudiation. This could provide at any moment a clear picture of legal status & consequences for the whole ecosystem, as well as risk management measures either A/A or human-directed, to deal with risk mitigation vs vs exacerbation of consequences of Repudiation- with attribution to a responsible human looming large. 
+>Need to review relevance of the legal codification of concept and _**sub-process of Characterization of Repudiation, of its status and consequences, in human-AAS interaction, in AAS context under AALE process.**_ This links back to the notion of properly engineered AALE with features that would be able to constantly & consistently _**self-monitor,**_ report the status of performance of AAS and other entities (human included) under its management, focused on that particular aspect of _**Repudiation.**_ This could provide at any moment a clear picture of legal status & consequences for the whole ecosystem, as well as _**risk management measures either A/A or human-directed, to deal with risk mitigation vs exacerbation of consequences of Repudiation- with attribution to a responsible human looming large.**_
 
 ### § 250. When a Statement or an Act Is a Repudiation
 
@@ -1843,7 +1842,7 @@ The injured party does not change the effect of a repudiation by urging the repu
 
 ## IMPRACTICABILITY OF PERFORMANCE AND FRUSTRATION OF PURPOSE
 
->Part of the problem in this Chapter 11 is simialr to Chapter 10, i.e. the ability to assess the relevance of the components and functions of Performance in the case of Impracticability of Performance and Frustration of Purpose, in an AAS context under AALE process. Need to review relevance of the legal codification of concept and sub-process of Impracticability of Performance and Frustration of Purpose in human-AAS interaction, in AAS context under AALE process. This links back to the notion of properly engineered AALE with features that would be able to constantly & consistently monitor, report the status of performance of AAS and other entities (human included) under its management. This could provide at any moment a clear picture of legal status & consequences for the whole ecosystem, as well as risk management measures either A/A or human-directed, to deal with risk mitigation vs exacerbation of consequences of acts- with attribution to a responsinle human looming large. 
+>Part of the problem in this Chapter 11 is simialr to Chapter 10, i.e. the ability to assess the relevance of the components and functions or _**sub-processes of Performance in the case of Impracticability of Performance and Frustration of Purpose, in an AAS context under AALE process.**_ Need to review relevance of the legal codification of concept and _**sub-process of Impracticability of Performance and Frustration of Purpose in human-AAS interaction, in AAS context under AALE process.**_ This links back to the notion of properly engineered AALE with features that would be able to constantly & consistently _**self-monitor,**_ report the status of performance of AAS and other entities (human included) under its management. This could provide at any moment a clear picture of legal status & consequences for the whole ecosystem, as well as _**risk management measures either A/A or human-directed, to deal with risk mitigation vs exacerbation of consequences of acts- with attribution to a responsinle human looming large.**_
 
 ### § 261. Discharge by Supervening Impracticability
 
@@ -1884,7 +1883,7 @@ reliance interests.
 
 ## DISCHARGE BY ASSENT OR ALTERATION
 
->Part of the problem in this Chapter 12 is similar to Chapter 10 & 11, i.e. the ability to assess the relevance of the components and functions of Performance in the case of one particular final leg of a Performance manifesting as Discharge by Assent or Alteration, in an AAS context under AALE process. Need to review relevance of the legal codification of concept and sub-process of Discharge by Assent or Alteration in human-AAS interaction, in AAS context under AALE process. This links back to the notion of properly engineered AALE with features that would be able to constantly & consistently monitor, report the status of performance of AAS and other entities (human included) under its management. This could provide at any moment a clear picture of legal status & consequences for the whole ecosystem, as well as risk management measures either A/A or human-directed, to deal with risk mitigation vs exacerbation of consequences of acts- with attribution to a responsinle human looming large. 
+>Part of the problem in this Chapter 12 is similar to Chapter 10 & 11, i.e. the ability to assess the relevance of the components and functions or _**sub-processes of Performance in the case of one particular final leg of a Performance manifesting as Discharge by Assent or Alteration, in an AAS context under AALE process.**_ Need to review relevance of the legal codification of concept and _**sub-process of Discharge by Assent or Alteration in human-AAS interaction, in AAS context under AALE process.**_ This links back to the notion of properly engineered AALE with features that would be able to constantly & consistently _**self-monitor,**_ report the status of performance of AAS and other entities (human included) under its management. This could provide at any moment a clear picture of legal status & consequences for the whole ecosystem, as well as _**risk management measures either A/A or human-directed, to deal with risk mitigation vs exacerbation of consequences of acts- with attribution to a responsinle human looming large.**_ 
 
 ### § 281. Accord and Satisfaction
 
@@ -1914,7 +1913,7 @@ reliance interests.
 
 ## JOINT AND SEVERAL PROMISORS AND PROMISEES
 
->Maybe this should be positionned more "upstream" in the computational codification body of Contract Law, since these are structural premises for the important "roles" of promisors and promisees. The structure of promisors and promises is an important parameter to integrate in the overall approach of Performance in AAS-human interactions, in an AAS context, under AALE process.
+>Maybe this should be positionned more "upstream" in the computational codification body of Contract Law, since these are structural premises for the important _**"roles" of promisors and promisees. The structure of promisors and promises looks like an important parameter to integrate in the overall approach of Performance in AAS-human interactions, in an AAS context, under AALE process.**_
 
 ### § 288. Promises of the Same Performance
 
@@ -1945,7 +1944,7 @@ is made with a surety and expressly preserves the duty of his principal.
 
 ## CONTRACT BENEFICIARIES
 
->Maybe this should be positionned more "upstream" in the computational codification of the body of Contract Law, since these are structural premises for the important "roles" of contract beneficiaries. The structure of contract beneficiaries is an important parameter to integrate in the overall approach of Performance in AAS-human interactions, in an AAS context, under AALE process.
+>Maybe this should be positionned more "upstream" in the computational codification of the body of Contract Law, since these are structural premises for the important _**"roles" of contract beneficiaries. The structure of contract beneficiaries is an important parameter to integrate in the overall approach of Performance in AAS-human interactions, in an AAS context, under AALE process.**_
 
 ### § 302. Intended and Incidental Beneficiaries
 
@@ -1990,7 +1989,7 @@ performance or failure to perform unless
 
 (b) the promisee is subject to liability to the member of the public for the damages and a direct action against the promisor is consistent with the terms of the contract and with the policy of the law authorizing the contract and prescribing remedies for its breach.
 
->Important aspect as government may eventually be in a position to integrate functioning in AAS context under AALE process.
+>_**Important aspect as government may eventually be in a position to integrate functioning in AAS context under AALE process.**_
 
 #
 
@@ -1998,7 +1997,7 @@ performance or failure to perform unless
 
 ## ASSIGNMENT AND DELEGATION
 
->Part of the problem in this Chapter 15 is the ability to assess the relevance of the components and functions of Assignment and Delegation in particular the case of assignor/assignee human/AAS or AAS/human. Need to review relevance of the legal codification of concept and sub-process of Assignment and Delegation in AAS context under AALE process. This framework is not to be confused with the domains of application of  Agency Law (on behalf of...). This links back to the notion of properly engineered AALE with features that would be able to constantly & consistently monitor, report the status of performance of AAS and other entities (human included) under its management. This could provide at any moment a clear picture of legal status & consequences of situations of Assignment and Delegation, for the whole ecosystem, as well as risk management measures either A/A or human-directed, to deal with risk mitigation vs exacerbation of consequences of acts- with attribution to a responsinle human looming large. 
+>Part of the problem in this Chapter 15 is the ability to assess the relevance of the components and functions or _**sub-processes of Assignment and Delegation in particular the case of assignor/assignee human/AAS or AAS/human.**_ Need to review relevance of the legal codification of concept and _**sub-process of Assignment and Delegation in AAS context under AALE process.**_ This framework is not to be confused with the domains of application of Agency Law (on behalf of...). This links back to the notion of properly engineered AALE with features that would be able to constantly & consistently _**self-monitor,**_ report the status of performance of AAS and other entities (human included) under its management. This could provide at any moment a clear picture of legal status & consequences of situations of Assignment and Delegation, for the whole ecosystem, as well as _**risk management measures either A/A or human-directed, to deal with risk mitigation vs exacerbation of consequences of acts- with attribution to a responsible human looming large.**_ 
 
 
 ### § 317. Assignment of a Right
@@ -2104,7 +2103,7 @@ provided by statute.
 
 ## REMEDIES
 
->Part of the problem in this Chapter 16 is the ability to assess the relevance of the components and functions of Remedies, Damages and Restitution in particular in the case of human/AAS interaction. Need to review relevance of the legal codification of concept and sub-process of Remedies, Damages and Restitution in AAS context under AALE process. This links back to the notion of properly engineered AALE with features that would be able to constantly & consistently monitor, report the status of performance of AAS and other entities (human included) under its management. This could provide at any moment a clear picture of legal status & consequences of situations with potential outcome of Remedies, Damages and Restitution, for the whole ecosystem. As well as risk management measures either A/A or human-directed, to deal with Remedies, Damages and Restitution risk mitigation vs exacerbation of consequences of acts- with attribution to a responsible human looming large. 
+>Part of the problem in this Chapter 16 is the ability to assess the relevance of the components and functions or _**sub-processes of Remedies, Damages and Restitution in particular in the case of human/AAS interaction.**_ Need to review relevance of the legal codification of concept and _**sub-process of Remedies, Damages and Restitution in AAS context under AALE process.**_ This links back to the notion of properly engineered AALE with features that would be able to constantly & consistently _**self-monitor,**_ report the status of performance of AAS and other entities (human included) under its management. This could provide at any moment a clear picture of legal status & consequences of situations with potential outcome of Remedies, Damages and Restitution, for the whole ecosystem. As well as _**risk management measures either A/A or human-directed, to deal with Remedies, Damages and Restitution risk mitigation vs exacerbation of consequences of acts- with attribution to a responsible human looming large.**_ 
 
 ### § 344. Purposes of Remedies
 
