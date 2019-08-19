@@ -408,7 +408,7 @@
 
 >See above comments under Chapter 7 head. This sounds like there could be a _**potentially exacerbated risk of Misrepresentation turning out being an Inducing Cause, in case of mis-calibrated interaction humans-AAS under an AALE process,**_ in particular if _**faulty oracles are involved that exacerbate Misrepresentation both ways- humans and AAS.**_ Relevance of the concept and _**sub-process of Misrepresentation turning out being an Inducing Cause needs to be reviewed in AAS context under AALE process.**_
 
-### [§ 168. Reliance on Assertions of Opinion](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-168-reliance-on-assertion-of-opinion-1) 
+### [§ 168. Reliance on Assertions of Opinion](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-168-reliance-on-assertions-of-opinion-1) 
 
 >See above comments under Chapter 7 head. This sounds like there could be a _**potentially exacerbated risk of (Detrimental) Reliance on Assertions of Opininion, in case of mis-calibrated interaction humans-AAS under an AALE process,**_ in particular if _**faulty oracles are involved that exacerbate (Detrimental) Reliance on Assertions of Opinion, both ways- humans and AAS.**_ Relevance of the concept and _**sub-process of Reliance, and in particular (Detrimental) Reliance on Assertions of Opinion, needs to be reviewed in AAS context under AALE process.**_
 
@@ -482,19 +482,47 @@
 
 ## [THE SCOPE OF CONTRACTUAL OBLIGATIONS](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#the-scope-of-contractual-obligations-1)
 
+>Part of the problem in this Chapter 9 is the ability to assess the _**relevance of the components and functions of the Scope of Contractual Obligations in an AAS context under AALE process.**_ Define the encoding of these particular set of "Scope of Contractual Obligation Functions" that we (arbitrarily) regrouped in 4 sections:
+>- **Arbitrarily Defined Section 9-A- Meaning and Interpretation of Language: articles § 201, § 202, § 203, § 204, § 205, § 206, § 207, § 208**
+>- **Arbitrarily Defined Section 9-B- Structure and Components of Agreements: articles § 209, § 210, § 211, § 212, § 213, § 214, § 215, § 216, § 217, § 218, § 219.**
+>- **Arbitrarily Defined Section 9-C- Usage in Relation with Interpretation ; Course of Dealing: articles § 220, § 221, § 222, § 223.**
+>- **Arbitrarily Defined Section 9-D- Conditions: § 224, § 225, § 226, § 227, § 228, § 229.**
+
+### Arbitrarily Defined Section 9-A- Meaning and Interpretation of Language: 
+### articles § 201, § 202, § 203, § 204, § 205, § 206, § 207, § 208
+
 ### [§ 201. Whose Meaning Prevails](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-201-whose-meaning-prevails-1)
+
+>Define the _**concept of Meaning and sub-process of Knowing in AAS-humans interaction, in an AAS context under AALE process.
 
 ### [§ 202. Rules in Aid of Interpretation](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-202-rules-in-aid-of-interpretation-1)
 
+>This links to several elements of _**subjectivity of human language interpretation sub-process, whose relevance needs to be reviewed as part oh human-AAS interactions, in an AAS context under AALE process: circumstances, relative weight, whole, intention, manifestation, precedent created, reasonableness, course of performance, course of dealing, usage of trade.**_
+
 ### [§ 203. Standards of Preference in Interpretation](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-203-standards-of-preference-in-interpretation-1)
+
+>remark analogous to above in case of: _**<reasonable & lawful & effective meaning>, preference, vs the opposite ; hierarchy of decreasing weight between express terms, course of performance, course of dealing, usage of trade ; specific & exact terms vs general language ; separately negotiated or added terms vs standardized terms or other terms not separately negotiated.**_ Note: this at least looks like it's _**already designed for encoding.**_
 
 ### [§ 204. Supplying an Omitted Essential Term](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-204-supplying-an-omitted-essential-term-1)
 
+>remark analogous to above in case of: _**omitted essential term ; suggests mechanisms to supply it computationally.**_
+
 ### [§ 205. Duty of Good Faith and Fair Dealing](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-205-duty-of-good-faith-and-fair-dealing-1)
+
+>remark analogous to above in case of: _**Duty of Good Faith and Fair Dealing.**_
 
 ### [§ 206. Interpretation Against the Draftsman](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-206-interpretation-against-the-draftsman-1)
 
+>remark analogous to above in case of: _**Interpretation Against the Draftsman ; implications for wording supplied by AAS.**_
+
 ### [§ 208. Unconscionable Contract or Term](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-208-unconscionable-contract-or-term-1)
+
+>remark analogous to above in case of: _**Unconscionable Contract or Term, modalities of application and contract enforcement.**_
+
+### Arbitrarily Defined Section 9-B- Structure and Components of Agreements: 
+### articles § 209, § 210, § 211, § 212, § 213, § 214, § 215, § 216, § 217, § 218, § 219.
+
+>Need to review _**relevance of structure and components of agreements and sub-process to form these agreements. Article § 214 looks relatively sensitive for admission in evidence to establish certain facts in human-AAS interaction, in AAS context under AALE process.**_
 
 ### [§ 209. Integrated Agreements](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-209-integrated-agreements-1)
 
@@ -506,11 +534,18 @@
 
 ### [§ 214. Evidence of Prior or Contemporaneous Agreements and Negotiations](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-214-evidence-of-prior-or-contemporaneous-agreements-and-negotiations-1)
 
+>_**Seemingly sensitive article for admission in evidence to establish certain facts in human-AAS interaction, in AAS context under AALE process.**_
+
 ### [§ 215. Contradiction of Integrated Terms](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-215-contradiction-of-integrated-terms-1)
 
 ### [§ 216. Consistent Additional Terms](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-216-consistent-additional-terms-1)
 
 ### [§ 217. Integrated Agreement Subject to Oral Requirement of a Condition](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-217-integrated-agreement-subject-to-oral-requirement-of-a-condition-1)
+
+### Arbitrarily Defined Section 9-C- Usage in Relation with Interpretation ; Course of Dealing: 
+### articles § 220, § 221, § 222, § 223.
+
+>Need to review relevance of the legal codification of concept and _**sub-process of Usage in Relation with Interpretation in human-AAS interaction, in AAS context under AALE process._** Same for _**Course of Dealing.**_ This links back to previous elaborations in relation with _**subjective human concepts and sub-processes such as interpretation, meaning, knowledge, reasonableness, intention, consistency, and the codification of a variety of (human) usages.**_
 
 ### [§ 220. Usage Relevant to Interpretation](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-220-usage-relevant-to-interpretation-1)
 
@@ -518,15 +553,29 @@
 
 ### [§ 222. Usage of Trade](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-222-usage-of-trade-1)
 
+>_**This Usage of Trade is a subjective human component (custom or tradition), but relates to behavior codification to a certain extent, as such it may constructively encode relevance to human-AAS interaction in AAS context under AALE process.**_
+
 ### [§ 223. Course of Dealing](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-223-course-of-dealing-1)
 
+>_**This Course of Dealing is a subjective human component (custom or tradition), but relates to behavior codification to a certain extent, as such it may constructively encode relevance to human-AAS interaction in AAS context under AALE process.**_
+
+
+### Arbitrarily Defined Section 9-D- Conditions: 
+### § 224, § 225, § 226, § 227, § 228, § 229.
+
+>Need to review relevance of the legal codification of concept and _**sub-process of Conditions as it is defined and operates in human-AAS interaction, in AAS context under AALE process,**_ also introducing _**two new concepts: obligor vs obligee.**_  This links back to previously reviewed human cognition concepts and _**sub-processes implying the legal codification of a variety of (human) usages: performance, duty, occurence, excuse, breach, event, doubt and its resolution, risk and its assumption, forfeiture and excuse for its avoidance, reasonableness, satisfaction.**_
+
 ### [§ 224. Condition Defined](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-224-condition-defined-1)
+
+>Under this definition of _**Condition, in an AAS context under AALE process, the event (non-)occurence should be recorded and the status of occurence of the event should be assessed. There could be issues of human-AAS interaction and cognition.**_
 
 ### [§ 225. Effects of the Non-Occurrence of a Condition](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-225-effects-of-the-non-occurrence-of-a-condition-1)
 
 ### [§ 226. How an Event May Be Made a Condition](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-226-how-an-event-may-be-made-a-condition-1)
 
 ### [§ 227. Standards of Preference with Regard to Conditions](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-227-standards-of-preference-with-regard-to-conditions-1)
+
+>As noted in above comment for Section 9-D, _**this article § 227 is particularly loaded for assessment of relevance of human concepts and sub-process in AAS context under AALE process.**_
 
 ### [§ 228. Satisfaction of the Obligor as a Condition](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-228-satisfaction-of-the-obligor-as-a-condition-1)
 
@@ -537,6 +586,15 @@
 ## [CHAPTER 10](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#chapter-10-1)
 
 ## [PERFORMANCE AND NON-PERFORMANCE](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#performance-and-non-performance-1)
+
+>Part of the problem in this Chapter 10 is the ability to assess the relevance of the components and _**functions or sub-processes of Performance and non-Performance (including the particular case of Repudiation) in an AAS context under AALE process.**_ Define the encoding of these particular sets of _**"Performance and/or Non Performance and/or Repudiation Functions"**_ that we (arbitrarily) regrouped in 2 sections:
+>- **Arbitrarily Defined Section 10-A- Monitoring of Performance and characterization of its status: articles § 234, § 235, § 236, § 237, § 238, § 240, § 241, § 242, § 243.**
+>- **Arbitrarily Defined Section 10-B- Characterization of Repudiation, of its status and consequences: articles § 250, § 251, § 252, § 253, § 256, § 257.**
+ 
+### Arbitrarily Defined Section 10-A- Monitoring of Performance and characterization of its status: 
+### articles § 234, § 235, § 236, § 237, § 238, § 240, § 241, § 242, § 243.
+
+>Need to review relevance of the legal codification of concept and _**sub-process of Monitoring of Performance and characterization of its status in human-AAS interaction, in AAS context under AALE process.**_ This links back to the notion of properly engineered AALE with features that would be able to constantly & consistently _**self-monitor**_, report the status of performance of AAS and other entities (human included) under its management. This could provide at any moment a clear picture of legal status & consequences for the whole ecosystem, as well as _**risk management measures either A/A or human-directed, to deal with risk mitigation vs exacerbation of consequences of acts- with attribution to a responsible human looming large.**_
 
 ### [§ 234. Order of Performances](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-234-order-of-performances-1)
 
@@ -556,6 +614,11 @@
 
 ### [§ 243. Effect of a Breach by Non-Performance as Giving Rise to a Claim for Damages for Total Breach](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-243-effect-of-a-breach-by-non-performance-as-giving-rise-to-a-claim-for-damages-for-total-breach-1)
 
+### Arbitrarily Defined Section 10-B- Characterization of Repudiation, of its status and consequences: 
+### articles § 250, § 251, § 252, § 253, § 256, § 257.
+
+>Need to review relevance of the legal codification of concept and _**sub-process of Characterization of Repudiation, of its status and consequences, in human-AAS interaction, in AAS context under AALE process.**_ This links back to the notion of properly engineered AALE with features that would be able to constantly & consistently _**self-monitor,**_ report the status of performance of AAS and other entities (human included) under its management, focused on that particular aspect of _**Repudiation.**_ This could provide at any moment a clear picture of legal status & consequences for the whole ecosystem, as well as _**risk management measures either A/A or human-directed, to deal with risk mitigation vs exacerbation of consequences of Repudiation- with attribution to a responsible human looming large.**_
+
 ### [§ 250. When a Statement or an Act Is a Repudiation](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-250-when-a-statement-or-an-act-is-a-repudiation-1)
 
 ### [§ 251. When a Failure to Give Assurance May Be Treated as a Repudiation](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-251-when-a-failure-to-give-assurance-may-be-treated-as-a-repudiation-1)
@@ -573,6 +636,8 @@
 ## [CHAPTER 11](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#chapter-11-1)
 
 ## [IMPRACTICABILITY OF PERFORMANCE AND FRUSTRATION OF PURPOSE](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#impracticability-of-performance-and-frustration-of-purpose-1)
+
+>Part of the problem in this Chapter 11 is simialr to Chapter 10, i.e. the ability to assess the relevance of the components and functions or _**sub-processes of Performance in the case of Impracticability of Performance and Frustration of Purpose, in an AAS context under AALE process.**_ Need to review relevance of the legal codification of concept and _**sub-process of Impracticability of Performance and Frustration of Purpose in human-AAS interaction, in AAS context under AALE process.**_ This links back to the notion of properly engineered AALE with features that would be able to constantly & consistently _**self-monitor,**_ report the status of performance of AAS and other entities (human included) under its management. This could provide at any moment a clear picture of legal status & consequences for the whole ecosystem, as well as _**risk management measures either A/A or human-directed, to deal with risk mitigation vs exacerbation of consequences of acts- with attribution to a responsinle human looming large.**_
 
 ### [§ 261. Discharge by Supervening Impracticability](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-261-discharge-by-supervening-impracticability-1)
 
@@ -592,6 +657,8 @@
 
 ## [DISCHARGE BY ASSENT OR ALTERATION](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#discharge-by-assent-or-alteration-1)
 
+>Part of the problem in this Chapter 12 is similar to Chapter 10 & 11, i.e. the ability to assess the relevance of the components and functions or _**sub-processes of Performance in the case of one particular final leg of a Performance manifesting as Discharge by Assent or Alteration, in an AAS context under AALE process.**_ Need to review relevance of the legal codification of concept and _**sub-process of Discharge by Assent or Alteration in human-AAS interaction, in AAS context under AALE process.**_ This links back to the notion of properly engineered AALE with features that would be able to constantly & consistently _**self-monitor,**_ report the status of performance of AAS and other entities (human included) under its management. This could provide at any moment a clear picture of legal status & consequences for the whole ecosystem, as well as _**risk management measures either A/A or human-directed, to deal with risk mitigation vs exacerbation of consequences of acts- with attribution to a responsinle human looming large.**_ 
+
 ### [§ 281. Accord and Satisfaction](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-281-accord-and-satisfaction-1)
 
 ### [§ 285. Contract Not to Sue](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-285-contract-not-to-sue-1)
@@ -603,6 +670,8 @@
 ## [CHAPTER 13](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#chapter-13-1)
 
 ## [JOINT AND SEVERAL PROMISORS AND PROMISEES](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#joint-and-several-promisors-and-promisees-1)
+
+>Maybe this should be positionned more "upstream" in the computational codification body of Contract Law, since these are structural premises for the important _**"roles" of promisors and promisees. The structure of promisors and promises looks like an important parameter to integrate in the overall approach of Performance in AAS-human interactions, in an AAS context, under AALE process.**_
 
 ### [§ 288. Promises of the Same Performance](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-288-promises-of-the-same-performance-1)
 
@@ -616,6 +685,8 @@
 
 ## [CONTRACT BENEFICIARIES](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#contract-beneficiaries-1)
 
+>Maybe this should be positionned more "upstream" in the computational codification of the body of Contract Law, since these are structural premises for the important _**"roles" of contract beneficiaries. The structure of contract beneficiaries is an important parameter to integrate in the overall approach of Performance in AAS-human interactions, in an AAS context, under AALE process.**_
+
 ### [§ 302. Intended and Incidental Beneficiaries](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-302-intended-and-incidental-beneficiaries-1)
 
 ### [§ 309. Defenses Against the Beneficiary](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-309-defenses-against-the-beneficiary-1)
@@ -624,11 +695,15 @@
 
 ### [§ 313. Government Contracts](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-313-government-contracts-1)
 
+>_**Important aspect as government may eventually be in a position to integrate functioning in AAS context under AALE process.**_
+
 #
 
 ## [CHAPTER 15](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#chapter-15-1)
 
 ## [ASSIGNMENT AND DELEGATION](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#assignment-and-delegation-1)
+
+>Part of the problem in this Chapter 15 is the ability to assess the relevance of the components and functions or _**sub-processes of Assignment and Delegation in particular the case of assignor/assignee human/AAS or AAS/human.**_ Need to review relevance of the legal codification of concept and _**sub-process of Assignment and Delegation in AAS context under AALE process.**_ This framework is not to be confused with the domains of application of Agency Law (on behalf of...). This links back to the notion of properly engineered AALE with features that would be able to constantly & consistently _**self-monitor,**_ report the status of performance of AAS and other entities (human included) under its management. This could provide at any moment a clear picture of legal status & consequences of situations of Assignment and Delegation, for the whole ecosystem, as well as _**risk management measures either A/A or human-directed, to deal with risk mitigation vs exacerbation of consequences of acts- with attribution to a responsible human looming large.**_ 
 
 ### [§ 317. Assignment of a Right](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-317-assignment-of-a-right-1)
 
@@ -653,6 +728,8 @@
 ## [CHAPTER 16](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#chapter-16-1)
 
 ## [REMEDIES](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#remedies-1)
+
+>Part of the problem in this Chapter 16 is the ability to assess the relevance of the components and functions or _**sub-processes of Remedies, Damages and Restitution in particular in the case of human/AAS interaction.**_ Need to review relevance of the legal codification of concept and _**sub-process of Remedies, Damages and Restitution in AAS context under AALE process.**_ This links back to the notion of properly engineered AALE with features that would be able to constantly & consistently _**self-monitor,**_ report the status of performance of AAS and other entities (human included) under its management. This could provide at any moment a clear picture of legal status & consequences of situations with potential outcome of Remedies, Damages and Restitution, for the whole ecosystem. As well as _**risk management measures either A/A or human-directed, to deal with Remedies, Damages and Restitution risk mitigation vs exacerbation of consequences of acts- with attribution to a responsible human looming large.**_ 
 
 ### [§ 344. Purposes of Remedies](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#-344-purposes-of-remedies-1)
 
