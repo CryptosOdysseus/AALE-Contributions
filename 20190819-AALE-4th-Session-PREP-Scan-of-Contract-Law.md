@@ -1,5 +1,3 @@
-# FINAL EDITION FORMAT
-
 # MIT Media Lab - Computational Law
 
 ## Law ReImagined-
@@ -41,21 +39,7 @@
 
 #
 
-## Method and summary findings 
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-# Method & Summary - Preliminary & Most Salient Findings - Contract Law Scan
+# Method & Summary - Preliminary & Most Salient Findings
 
 For general background at that stage of our group work, please refer to:
 
@@ -133,9 +117,6 @@ Ch. 3 is mostly a list of sub-processes, starting with mutual assent, requiremen
 - For § 46. Revocation of General Offer: important!! This links back to the issue of different types of notice - here it would be a constructive one - and clearly a need to reactivate the work around Open Notice Project (Dazza 2014) because this sub-process looks definitely relevant in an AAS context under AALE process.
 
 - For § 48. Death or Incapacity of Offeror or Offeree: what happens when one contracting entity "dies off" in an AAS context under AALE process?
-
-- 
-
 
 #### CHAPTER 4 - FORMATION OF CONTRACTS–CONSIDERATION
 
@@ -229,6 +210,8 @@ Part of the problem here for the legal sub-process encoding, is to define the co
 
 See detailed comments. Some articles suggest to look for AAS/AALE ways to detect, mitigate, suppress root causes that certain events may occur in the first place in ways that could be detrimental to some of the parties, before it reaches a critical, irreversible & litigious situation for human-AAS interactions, in AAS context under AALE process. Some other articles suggest potentially exacerbated risk of certain events occuring, in case of mis-calibrated interaction humans-AAS under an AALE process, in particular if faulty oracles are involved that exacerbate the risk both ways- humans and AAS.
 
+##
+
 ### Point D - Issues derived from Human business practices that interact with AAS context under AALE process
 
 ### CHAPTER 9 - THE SCOPE OF CONTRACTUAL OBLIGATIONS / CHAPTER 10 - PERFORMANCE AND NON-PERFORMANCE / CHAPTER 11 - IMPRACTICABILITY OF PERFORMANCE AND FRUSTRATION OF PURPOSE / CHAPTER 12 - DISCHARGE BY ASSENT OR ALTERATION / CHAPTER 15 - ASSIGNMENT AND DELEGATION / CHAPTER 16 - REMEDIES
@@ -279,7 +262,9 @@ In an analoguous vein, inspired by and extrapolating from the CIVICS/Dazza regul
 
 More detailed comments are supplied under each article of Ch. 8. Particularly interesting aspects on Restraint on Competition are to be found in § 187 and § 188, also to be viewed from the perspective of AAS/AALE and competition laws.
 
-Herebelow you may proceed to the table of contents with comments, and clicking on links lands you directly on the relevant body part of Contract Law, where you can see full comments within context.
+#
+
+_**Herebelow you may proceed to the table of contents with comments, and clicking on links lands you directly on the relevant body part of Contract Law, where you can see full comments within context.**_
 
 #
 
