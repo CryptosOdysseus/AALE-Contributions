@@ -11,13 +11,13 @@
 ### Scan of the legal codification of the body of Contract Law 
 ### In relation with an AALE/DAO oriented legal analysis 
 
+#
+
 ### First Iteration - DRAFT WITH “REQUEST FOR COMMENT” - Thank You.
 
 #### Reference: https://www.nylitigationfirm.com/files/restat.pdf
 
 #### This legal codification of the body of Contract Law provided by the 2nd restatement is usable to carry out an AALE/ DAOs relevant analysis. The aim is to surface a few more design requirements and legal engineering success metrics.
-
-#
 
 #
  
@@ -32,6 +32,8 @@
 ## Restatement (Second) of Contracts-
 ## Scan of the legal codification of the body of Contract Law 
 ## In relation with an AALE/DAO oriented legal analysis 
+
+#
 
 ## First Iteration - DRAFT WITH “REQUEST FOR COMMENT” - Thank You.
 
@@ -48,6 +50,8 @@ https://github.com/mitmedialab/AutomatedLegalEntityChallenge/blob/master/docs/20
 https://github.com/mitmedialab/AutomatedLegalEntityChallenge/blob/master/docs/20190812-Body-of-Contract-Law-2nd-Restatement.md (body of Contract Law)
 
 https://github.com/mitmedialab/AutomatedLegalEntityChallenge/blob/master/docs/AAS-as-Legal-Agent-and-other-issues%20.md (some thoughts)
+
+##
 
 ## Method & Summary
 
@@ -71,7 +75,21 @@ We might have all felt collectively that it was much more than a nice-to-have fe
 
 _**Let's hammer this as a point of obligated passage for design, and if you don't have these, you're not going anywhere. Even more so should this be implemented within a framework that mitigates the accountability gap by attribution to a (human) legal person of the actions (and their consequences) of an electronic agent for account of liability, etc.**_ 
 
-It also suggests that, as you outfit AALE with such features and indispensable capacities, like a rocket reusable first stage, you'll be able to define mirror features & capacities that will have to be implemented into AAS in B/L/T/ terms, in order for these AAS to indeed qualify to function in such ecosystems under AALE process. Which is a compelling way to anticipate a kind of Darwinian selection process, that may (at least in part) determine which AAS evolve & thrive and which AAS wither & die. Something that is not without its own implications for legal engineering business: that'd keep us busy for the next decades.
+It also suggests that, as you outfit AALE with such features and indispensable capacities, like a rocket reusable first stage, you'll be able to define mirror features & capacities that will have to be implemented into AAS in B/L/T/ terms, in order for these AAS to indeed qualify to function in such ecosystems under AALE process. Which is a compelling way to anticipate a kind of Darwinian selection process, that may (at least in part) determine which AAS evolve & thrive and which AAS wither & die. Something that is not without its own implications for legal engineering business: that'd keep us busy for the next decades. gr
+
+The below Preliminary & Most Salient Findings are organized around 5 points A, B, C, D, E of Contract Law chapters clusters:
+
+- Point A - Definitions: CHAPTER 1 - MEANING OF TERMS / CHAPTER 13 - JOINT AND SEVERAL PROMISORS AND PROMISEES / CHAPTER 14 - CONTRACT BENEFICIARIES.
+
+- Point B - Formation of Contracts: CHAPTER 2 - FORMATION OF CONTRACTS–PARTIES AND CAPACITY / CHAPTER 3 - FORMATION OF CONTRACTS–MUTUAL ASSENT / CHAPTER 4 - FORMATION OF CONTRACTS–CONSIDERATION.
+
+- Point C - Issues derived from Human behavior that interact with AAS context under AALE process: CHAPTER 5 - THE STATUTE OF FRAUDS / CHAPTER 6 - MISTAKE / CHAPTER 7 - MISREPRESENTATION, DURESS AND UNDUE INFLUENCE.
+
+- Point D - Issues derived from Human business practices that interact with AAS context under AALE process: CHAPTER 9 - THE SCOPE OF CONTRACTUAL OBLIGATIONS / CHAPTER 10 - PERFORMANCE AND NON-PERFORMANCE / CHAPTER 11 - IMPRACTICABILITY OF PERFORMANCE AND FRUSTRATION OF PURPOSE / CHAPTER 12 - DISCHARGE BY ASSENT OR ALTERATION / CHAPTER 15 - ASSIGNMENT AND DELEGATION / CHAPTER 16 - REMEDIES.
+
+- Point E - Public Policy (Unenforceability on ground of-): CHAPTER 8 - UNENFORCEABILITY ON GROUNDS OF PUBLIC POLICY
+
+##
 
 ## Preliminary & Most Salient Findings
 
