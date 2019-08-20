@@ -10,7 +10,7 @@
 
 ### Restatement (Second) of Contracts-
 ### Scan of the legal codification of the body of Contract Law 
-### In relation with an AALE/DAO oriented legal analysis 
+### In relation with an AALE/DAO-relevant legal analysis 
 
 #
 
@@ -32,7 +32,7 @@
 
 ## Restatement (Second) of Contracts-
 ## Scan of the legal codification of the body of Contract Law 
-## In relation with an AALE/DAO oriented legal analysis 
+## In relation with an AALE/DAO-relevant legal analysis 
 
 #
 
