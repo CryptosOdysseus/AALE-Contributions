@@ -55,6 +55,233 @@ X
 
 X
 
+# Method & Summary - Preliminary & Most Salient Findings - Contract Law Scan
+
+For general background at that stage of our group work, please refer to:
+
+https://github.com/mitmedialab/AutomatedLegalEntityChallenge/blob/master/docs/20190814-AALE-4th-Session-PREP-AALE-vs-Contract-Law.md (some method) 
+
+https://github.com/mitmedialab/AutomatedLegalEntityChallenge/blob/master/docs/20190812-Body-of-Contract-Law-2nd-Restatement.md (body of Contract Law)
+
+https://github.com/mitmedialab/AutomatedLegalEntityChallenge/blob/master/docs/AAS-as-Legal-Agent-and-other-issues%20.md (some thoughts)
+
+## Method & Summary
+
+This legal codification of the body of Contract Law provided by the 2nd restatement is usable to carry out an AALE/DAOs relevant analysis. _**The aim is to surface a few more design requirements and legal engineering success metrics.**_
+
+We took the body of Contract Law and scanned it with first iteration legal analysis comments, relevant to an AALE/DAO process encompassing an human-AAS interaction context. For each Chapter and for each Article, we scanned from the very first to the very last, in that order. When there are no comments for an Article, it means that relevant points were already covered in the comments under the Chapter headline, and that we had no additional particular comment for that Article.
+
+Then we copied these comments direclty into the table of content, under the headlines link of each Chapter and each Article. 
+
+Because the devil - and the story behind the legalese - is in the details, we encourage our readers to at least scan the table of contents. So you can get an overview by just reading the comments in the table of content. And by clicking on a Chapter or Article headline link, you land directly in the relevant body part of Contract Law, where you can see comments in context.
+
+In the below preliminary & most salient findings, we just slightly reshuffled the order of Chapters and Articles of Contract Law, when that made sense to regroup them around a common thread. We focused exclusively on that body of Contract Law encoding (U.S. - Restatement (Second)), without any blending nor hybridation with other inputs (such as international law, academic papers recently circulated in Telegram (Stanford Bayern 2015 et al.) and in the process of being consolidated in GitHub, or above linked memos). These substantive complementary inputs may be consolidated in due time.
+
+Nonetheless, we do operate with some specific mindset, that leads to a certain set of assumptions in context, in order to tackle the potential issues of legal & ethical vaccuum: starting with dealing with the accountability gap, with due reference to CIVICS/ Dazza's foundational work, in particular in relation with UETA/ESIGN, etc. Such as attribution of electronic agents acts, and of the consequences of such acts, to a responsible (human) legal person for account of potential liability and other consequences. This is clearly stated in below Preliminary & Most Salient Findings in comments at the onset under Point A - Chapter 1/13/14 (Definitions) and Point B - Chapter 2 (Formations of Contracts-Parties and Capacity).
+
+Part of the common problem for most of the legal encoding of the body of Contract Law, is the ability to assess the relevance of the components and functions or sub-processes that each of these Chapters and their Articles cover, doing this for human-AAS interaction, in an AAS context, under AALE process. Because you function within a human-centered paradigm (still), you need to recognize that because (human) Contract Law is primarily built around the two cardinal constraints of dealing with expected human behaviors and of dealing with conventional business practices, there is no way you are going to ditch the entire structure in favor of a purely machine-oriented logic. Because you're being mindfull of this notion of attribution to a responsible (human) legal person, you're even more compelled to find these legal and computational mechanisms that may keep this attribution feasible, manageable and sustainable- which is a substantial challenge in part due to the issue of mutual "control", among other things. And finally, how do you surface a few more design requirements and legal engineering success metrics, that allow you to deal with transactions within an ecosystem of human-AAS interaction, in an AAS context, under AALE process (by AAS context we mean the opposite of a paper paradigm with little to none technological support or interaction).
+
+Furthermore, the process of this first iteration legal analysis clearly crystallized the following fact: this group working topics and objectives mentionned earlier the desirable feature for an AALE to have this B/L/T/ well-engineered capacity to constantly & consistently self-monitor & report the state of transactions among a human-AAS ecosystem at any given moment, with its instant legal status and most probably legal outcomes. And as such provide risk-management capabilities, either auto-correct via cruise control in AAS mode, or via a human brought back in the loop, emphasizing mitigation over exacerbation so as to avoid litigation, or refer to ADR off & on-chain processes, etc.
+
+We might have all felt collectively that it was much more than a nice-to-have feature, it was intuitively & practically much needed, and Agency Law legal analysis had indeed started to demonstrate that fact. But, as you proceed through Contract Law legal analysis, it falls on you like a ton of brics, that there is absolutely no way that you'll be able to function under Contract Law, or even to make sense at all in a computationally organized consolidation of the various bodies of Law, as an AALE process encompassing human-AAS interaction contexts, if you don't have that feature with these capacities at the onset. 
+
+_**Let's hammer this as a point of obligated passage for design, and if you don't have these, you're not going anywhere. Even more so should this be implemented within a framework that mitigates the accountability gap by attribution to a (human) legal person of the actions (and their consequences) of an electronic agent for account of liability, etc.**_ 
+
+It also suggests that, as you outfit AALE with such features and indispensable capacities, like a rocket reusable first stage, you'll be able to define mirror features & capacities that will have to be implemented into AAS in B/L/T/ terms, in order for these AAS to indeed qualify to function in such ecosystems under AALE process. Which is a compelling way to anticipate a kind of Darwinian selection process, that may (at least in part) determine which AAS evolve & thrive and which AAS wither & die. Something that is not without its own implications for legal engineering business: that'd keep us busy for the next decades.
+
+## Preliminary & Most Salient Findings
+
+### Point A - Definitions
+
+### CHAPTER 1 - MEANING OF TERMS / CHAPTER 13 - JOINT AND SEVERAL PROMISORS AND PROMISEES / CHAPTER 14 - CONTRACT BENEFICIARIES
+
+For Ch. 1, let's bear in mind questions linked to (Bryan's recent remark): intent to form a contract, acceptance, and purported alteration of a contract with an AAS, under an AALE process. Expression of "manifestation of intention" for AAS promisor and how that's registered within an AALE. Same for understanding by AAS promisee that a commitment has been made. The definition of "How A Promise May Be Made" looks like it might need to be enlarged, to include AAS- & AALE-relevant protocols ... maybe an add-on like _"... or may be inferred wholly or partly from conduct, _and/or computational law encoding."_  
+
+Maybe Ch. 13 & 14 should be positionned more "upstream" in the computational codification of the body of Contract Law, since these are structural premises for the important "roles" of promisors/promisees as well as contract beneficiaries. The roles  structures of promisors/promisees and contract beneficiaries look like an important parameter to integrate in the overall approach of Performance in AAS-human interactions, in an AAS context, under AALE process.
+
+Also, CHAPTER 14 - CONTRACT BENEFICIARIES, § 313. Government Contracts, covers an important aspect, as government may eventually be in a position to integrate functioning in AAS context under AALE process. 
+
+##
+
+### Point B - Formation of Contracts
+
+
+### CHAPTER 2 - FORMATION OF CONTRACTS–PARTIES AND CAPACITY / CHAPTER 3 - FORMATION OF CONTRACTS–MUTUAL ASSENT / CHAPTER 4 - FORMATION OF CONTRACTS–CONSIDERATION
+
+#### CHAPTER 2 - FORMATION OF CONTRACTS–PARTIES AND CAPACITY
+
+Need to clarify for AAS several aspects as operating within AALE process: capacity to incur at least voidable contractual duties ; maybe after "(2) A natural person ..." add a "(3)" that defines elementary capacity for an AAS to contract, either independently or as part of an AALE for which capacity to contract needs to be clarified as well (see developments referred to for 2015 Standford Bayern et al. in subsequent publications.) 
+
+Note that this point is already partially covered by UETA/ESIGN (ref. Dazza's CIVICS post dated August 8th 2019) in terms of electronic agents for which exists a link of attribution toward a responsible (human) legal person. 
+
+Finally, like for an incapacited human, the case of an AAS gone rogue for whatever reason (deliberate inside job or external hack or accidentally bugged) and how a clean AALE process should deal with it, may be covered.
+
+#### CHAPTER 3 - FORMATION OF CONTRACTS–MUTUAL ASSENT
+
+Ch. 3 is mostly a list of sub-processes, starting with mutual assent, requirement for bargain, etc. So part of the problem here is to define this sub-processes relevance & characteristics in human-AAS interactions, in AAS context, under AALE process. And do this (mostly) within the paradigm of attribution to a (human) responsible legal person. See table of content.
+
+##### Other Salient Findings for Chapter 3:
+
+- For § 20. Effect of Misunderstanding: misunderstanding is quite relevant to AAS functionning under AALE process e.g. when the output is garbled or whatever: how do you attest of this non-manifestation and reverse the process to make sure there is no "misunderstanding".
+
+- For § 24. Offer Defined: terms such as manifestation of willingness, understanding of assent in relation with a bargain, are human notions related to cognition and will. These should be adapted for a human-AAS interaction or questioned subject to this sub-process relevance in an AAS context under AALE process.
+
+- For § 26. Preliminary Negotiations: define gradual contracting steps modalities subject to this sub-process relevance in an AAS context under AALE process and determine under which modalities and process of human-AAS interaction the concept of "negotiation" remains relevant.
+
+- For § 41. Lapse of Time: the definition of TIME is a central issue in an AAS context under AALE process, in particular for extremely high-speed process. There could be issues of asynchronocity, time-stamps gone wrong, etc. TIME is not a trivial issue for high speed AAS / AALE processes. Same remark for § 63. Time When Acceptance Takes Effect.
+
+- For § 46. Revocation of General Offer: important!! This links back to the issue of different types of notice - here it would be a constructive one - and clearly a need to reactivate the work around Open Notice Project (Dazza 2014) because this sub-process looks definitely relevant in an AAS context under AALE process.
+
+- For § 48. Death or Incapacity of Offeror or Offeree: what happens when one contracting entity "dies off" in an AAS context under AALE process?
+
+- 
+
+
+#### CHAPTER 4 - FORMATION OF CONTRACTS–CONSIDERATION
+
+Definition of Consideration (https://dictionary.law.com/Default.aspx?selected=305): 1) payment or money. 2) a vital element in the law of contracts, consideration is a benefit which must be bargained for between the parties, and is the essential reason for a party entering into a contract. Consideration must be of value (at least to the parties), and is exchanged for the performance or promise of performance by the other party (such performance itself is consideration). In a contract, one consideration (thing given) is exchanged for another consideration. Not doing an act (forbearance) can be consideration.
+
+As such, "consideration" need to be put in perspective, so as to define automatisation of this sub-process, for each below occurences in articles, each time subject to this sub-process relevance in an AAS context under AALE process. This suggests that while Smart Contracts loom large for a number of transactions revolving around digital and/or material assets, that also involves other features such as escrow, multisig, oracles, and mutually confirmed "states" of understanding and realisation, there is a need to consider the attribution to a responsible (human) legal person of what the AAS is doing, and the need to define how this is all being run within an AALE process.
+
+
+##### Other Salient Findings for Chapter 4:
+
+- For § 71. Requirement of Exchange; Types of Exchange: question of attribution to promisor and promisee of AAS acts and their consequences under AALE process.
+
+- For § 73. Performance of Legal Duty: question of attribution to promisee of AAS performance acts and their consequences under AALE process.
+
+- For § 74. Settlement of Claims: issue of whether the sub-process of preliminary or post-facto determination of the validity of a claim has any relevance in an AAS context under AALE process. There may be no issue of "belief" (regarding the validity of a claim) in an AAS context under AALE process, only computational law determinism, unless such belief may exist within the person to whom there is attribution of the AAS acts ad their consequences. But there could also be e.g. flawed oracles that "mislead" AAS and/or humans that "interpret" the information into "erroneous belief".
+
+- For § 77. Illusory and Alternative Promises: issue of attribution to promisor of Illusory and Alternative Promises made in AAS context under AALE process.
+
+- For § 79. Adequacy of Consideration; Mutuality of Obligation: issue of attribution to promisor and promisee of Consideration and Mutuality of Obligation in AAS context under AALE process.
+
+- For § 81. Consideration as Motive or Inducing Cause: determine relevance of the concept and sub-process of Consideration as Motive or Inducing Cause in relation with AAS acts and their consequences under an AALE process, and whether attribution to promisor and/or promisee changes something.
+
+- For § 82. Promise to Pay Indebtedness; Effect on the Statute of Limitations: determine relevance of the concept of antecedent contractual or quasi-contractual indebtedness owed by the promisor in relation with AAS acts and their consequences under an AALE process, and whether attribution to promisor and/or promisee changes something for ownership of the indebtedness. What does "statute of limitation" means in an AAS context under an AALE process?
+
+- For § 83. Promise to Pay Indebtedness Discharged in Bankruptcy: this links to the larger question of managing bankruptcy events in relation with AAS acts and their consequences under an AALE process, with attribution to a responsible human and re-injection or not of humans in the loop of bankruptcy management.
+
+- For § 84. Promise to Perform a Duty in Spite of Non-occurrence of a Condition: determine relevance of the concept of Non Occurence of a Condition in relation with AAS acts and their consequences under an AALE process, and whether attribution to promisor and/or promisee changes something. Also issue of Notification sub-process.
+
+- For § 86. Promise for Benefit Received: determine relevance of the concepts and sub-processes of (Recognition of) Benefit Previously Received, Gift, Unjust Enrichment, Value Proportionate or Not to Benefit, in relation with AAS acts and their consequences under an AALE process, and whether attribution to promisor and/or promisee changes something.
+
+- For § 87. Option Contract: links back to previous remarks on Option Contract especially in a context of deterministically executable Smart Contracts. Determine relevance of the concepts and sub-processes of purported consideration, fair terms, reasonable time (?!! in high speed process), irrevocability by statute, injustice avoidance, in relation with AAS acts and their consequences under an AALE process, and whether attribution to promisor and/or promisee changes something.
+
+- For § 89. Modification of Executory Contract: important to consider Executory Contract in a context of deterministically executable Smart Contracts. Determine relevance of the concepts and sub-processes of non-full performance, circumstances non anticipated by parties (but informed afterward by oracles?) fair and equitable terms, enforcement by "justice" in view of material change of position in reliance on the promise, in relation with AAS acts and their consequences under an AALE process, and whether attribution to promisor and/or promisee changes something.
+
+- For § 90. Promise Reasonably Inducing Action or Forbearance: also important to consider Promise Reasonably Inducing Action or Forbearance in a context of deterministically executable Smart Contracts. Determine relevance of the concepts and sub-processes of reasonable expectation, inducement of action of forbearance, injustice avoidance, breach, "justice" requirement, in relation with AAS acts and their consequences under an AALE process, and whether attribution to promisor and/or promisee changes something.
+
+- For § 95. Requirements for Sealed Contract or Written Contract or Instrument [The Introduction to this topic notes that the effect of a seal is governed by statute in most states.]: _**links back to UETA/ESIGN process.**_ Also important to consider Requirements for Sealed Contract or Written Contract or Instrument in a context of deterministically executable Smart Contracts, involving multisig & escrow, etc. Determine relevance of the concepts and sub-processes of document and writing, in relation with AAS acts and their consequences under an AALE process, and whether attribution to promisor and/or promisee changes something. In particular (1) (c) "the promisor and promisee are named in the document or so described as to be capable of identification when it is delivered." _**links back to clear identification, attribution, and naming in case of AAS under AALE process (analoguous to vehicles plates).**_
+
+##
+
+### Point C - Issues derived from Human behavior that interact with AAS context under AALE process
+
+### CHAPTER 5 - THE STATUTE OF FRAUDS / CHAPTER 6 - MISTAKE / CHAPTER 7 - MISREPRESENTATION, DURESS AND UNDUE INFLUENCE
+
+This Point C regroups these Chapters and Articles that deal with this part of Contract Law that revolves around issues derived from Human behavior: these are of direct concern for situations involving humans that interact with an AAS context under AALE process, all under the paradigm of attribution to a responsible (human) legal person.
+
+#### CHAPTER 5 - THE STATUTE OF FRAUDS
+
+Part of the problem here for the legal sub-process encoding, is to define the conditions and modalities under which certain situations can be rattached to and processed under the framework of The Statute of Frauds, and to which extent they're relevant to an AAS context under an AALE process, bearing in mind the following:
+
+- interaction between (off-chain) human behaviors conducive to fraud and (on-chain) AAS
+- sub-plot of AAS gone rogue (deliberately by internal programming, or accidentally by external hacking) under AALE process
+concept of attribution to responsible human party (UETA/ESIGN etc.)
+- AAS+AALE combined systems ability to constantly & consistently self-monitor, report & correct parameters of actions conducive to fraud.
+- inclination of combined AAS & AALE systems to either mitigate or exacerbate problematic situations under Statute of Frauds.
+Many legal concepts and sub-processes here link back to what has been defined in Section 4, and 3.
+
+##### Other Salient Findings for Chapter 5:
+
+See detailed comments. The legal concepts and sub-processes for Enforcement by Virtue of Action in Reliance directly link back to these concepts and sub-processes defined in previous sections 4, and 3. Determine relevance of the concepts and sub-processes of inducement of action of forbearance, injustice avoidance, remedy (availability and adequacy, cancellation and restitution), breach, "justice" requirement, linkage forbearance-remedy, constitution of "evidence", "reasonableness" and "foresseability" of the action of forbearance, in relation with AAS acts and their consequences under an AALE process, and whether attribution to promisor and/or promisee changes something.
+
+#### CHAPTER 6 - MISTAKE
+
+Part of the problem here for the legal sub-process encoding, is to define the conditions and modalities under which certain situations can be rattached to and processed under the framework of Mistake, and to which extent they're relevant to an AAS context under an AALE process, bearing in mind the following:
+
+- say there are (roughly) 3 stages: -1- de facto formation of a "State of Mistake" -2- assessment and characterization of that "State of Mistake" -3- Various methods for parties dealing with that "State of Mistake" ; however, also bearing in mind the definition that <A Mistake is a "belief" that is not in "accord" with the "facts"> thus referring solely to a "human" cognitive and belief formation process.
+- interaction between (off-chain) human behaviors conducive to a "State of Mistake" and (on-chain) AAS
+- sub-plot of AAS being "non-fraudulently" insufficiently debugged and conducive to a "State of Mistake" under AALE process
+concept of attribution to responsible human party (UETA/ESIGN etc.)
+- AAS+AALE combined systems ability to consistently self-monitor, report & correct parameters of actions conducive to a "State of Mistake" in particular discrepancies between human cognition / belief and AAS "truth" about evolving states of affairs.
+inclination of combined AAS & AALE systems to either mitigate or exacerbate problematic situations in a "State of Mistake".
+- linkage back to legal concepts and sub-processes defined in Section 4, and 3.
+
+##### Other Salient Findings for Chapter 6:
+
+See detailed comments. There is also an example of mitigation vs exacerbation: relevance of encoding pre-emption of Contract Writing shortcomings and/or sub-processes to expedite their Writing Reformation based on language oriented machine learning, in AAS context under AALE process.  
+
+#### CHAPTER 7 - MISREPRESENTATION, DURESS AND UNDUE INFLUENCE
+
+Part of the problem here for the legal sub-process encoding, is to define the conditions and modalities under which certain situations can be made to either exacerbate or mitigate factors conducive to States of Misrepresentation, Duress and Undue Influence ; and consider approaches that are prone to mitigate rather than exacerbate these, in an AAS context under AALE process, bearing in mind the following:
+
+- characterization of steps conducive to States of Misrepresentation, Duress and Undue Influence and encoding of sub-processes and encoding of mitigation sub-processes (could include machine learning techniques).
+- interaction between (off-chain) human behaviors conducive to States of Misrepresentation, Duress and Undue Influence and (on-chain) AAS
+- sub-plots of either AAS being "fraudulently" internally programmed or externally hacked, or inversely, AAS being "non-fraudulently" insufficiently debugged, in ways conducive to States of Misrepresentation, Duress and Undue Influence, under AALE process.
+- concept of attribution to responsible human party (UETA/ESIGN etc.)
+- AAS+AALE combined systems ability to consistently self-monitor, report & correct parameters of actions conducive to States of Misrepresentation, Duress and Undue Influence, in particular discrepancies between human cognition / belief and AAS "truth" about evolving states of affairs.
+- inclination of combined AAS & AALE systems to either mitigate or exacerbate problematic situations in States of Misrepresentation, Duress and Undue Influence.
+- linkage back to legal concepts and sub-processes defined in previous Chapters.
+
+##### Other Salient Findings for Chapter 7:
+
+See detailed comments. Some articles suggest to look for AAS/AALE ways to detect, mitigate, suppress root causes that certain events may occur in the first place in ways that could be detrimental to some of the parties, before it reaches a critical, irreversible & litigious situation for human-AAS interactions, in AAS context under AALE process. Some other articles suggest potentially exacerbated risk of certain events occuring, in case of mis-calibrated interaction humans-AAS under an AALE process, in particular if faulty oracles are involved that exacerbate the risk both ways- humans and AAS.
+
+### Point D - Issues derived from Human business practices that interact with AAS context under AALE process
+
+### CHAPTER 9 - THE SCOPE OF CONTRACTUAL OBLIGATIONS / CHAPTER 10 - PERFORMANCE AND NON-PERFORMANCE / CHAPTER 11 - IMPRACTICABILITY OF PERFORMANCE AND FRUSTRATION OF PURPOSE / CHAPTER 12 - DISCHARGE BY ASSENT OR ALTERATION / CHAPTER 15 - ASSIGNMENT AND DELEGATION / CHAPTER 16 - REMEDIES
+
+This Point D regroups these Chapters and Articles that deal with this part of Contract Law that revolves around issues derived from Human business practices: these are of direct concern for situations involving humans that interact with an AAS context under AALE process, all under the paradigm of attribution to a responsible (human) legal person.
+
+Thus here, part of the common problem for Chapters 9 - 10 - 11 - 12 - 15 - 16 is, the ability to assess the relevance of the components and functions or sub-processes that each of these Chapters and their Articles cover, doing this for human-AAS interaction, in an AAS context, under AALE process. 
+
+Furthermore, this links back to the notion of properly engineered AALE with features that would be able to constantly & consistently self-monitor, report the status of performance of AAS and other entities (human included) under its management. 
+
+This could provide at any moment a clear picture of legal status & outcomes for the whole ecosystem, as well as risk management measures either A/A or human-directed, to deal with risk mitigation vs exacerbation of consequences of acts- with attribution to a responsible (human) legal person looming large, for account of liability and other consequences.
+
+Additional remarks for Chapter 9 & 10:
+
+#### CHAPTER 9 - THE SCOPE OF CONTRACTUAL OBLIGATIONS
+
+We arbitrarily regrouped the sets of "Scope of Contractual Obligation Functions" among 4 sections:
+
+##### Arbitrarily Defined Section 9-A- Meaning and Interpretation of Language: articles § 201, § 202, § 203, § 204, § 205, § 206, § 207, § 208
+
+##### Arbitrarily Defined Section 9-B- Structure and Components of Agreements: articles § 209, § 210, § 211, § 212, § 213, § 214, § 215, § 216, § 217, § 218, § 219.
+
+##### Arbitrarily Defined Section 9-C- Usage in Relation with Interpretation ; Course of Dealing: articles § 220, § 221, § 222, § 223.
+
+##### Arbitrarily Defined Section 9-D- Conditions: § 224, § 225, § 226, § 227, § 228, § 229.
+
+#### CHAPTER 10 - PERFORMANCE AND NON-PERFORMANCE
+
+We arbitrarily regrouped the sets of  "Performance and/or Non Performance and/or Repudiation Functions" among 2 sections:
+
+##### Arbitrarily Defined Section 10-A- Monitoring of Performance and characterization of its status: articles § 234, § 235, § 236, § 237, § 238, § 240, § 241, § 242, § 243.
+
+##### Arbitrarily Defined Section 10-B- Characterization of Repudiation, of its status and consequences: articles § 250, § 251, § 252, § 253, § 256, § 257.
+
+##
+
+### Point E - Public Policy (Unenforceability on ground of-)
+
+### CHAPTER 8 - UNENFORCEABILITY ON GROUNDS OF PUBLIC POLICY
+
+Last but not least, Ch. 8 strikes us as raising useful & important questions for the current and future development of AALE.
+
+Part of the problem in this Chapter 8 is the ability to assess the relevance of Public Policy-generated externalities in an AAS context under AALE process. Define the encoding of that particular set of "Public Policy Functions" linked to conditions and constraints in ways that avoid both the risk of non-compliance with Public Policy and the risk of AAS/AALE systemic paralysis.
+
+Which logically begs the question whether some or all parties involved would be better off, should the engineering of Public Policy - maybe and to a certain extent - incorporate at the onset, modalities, process and encoding that make it directly usable and functional in AAS context under AALE process. With the major caveat that the precision surgery of public "statutes" within AAS/AALE context could be as much a complicated, delicate and dysfunctionally disruptive affair, as a flawed, badly engineered meeting (computationally) of various bodies of Law. This suggests experimental prudence (sandbox).
+
+In an analoguous vein, inspired by and extrapolating from the CIVICS/Dazza regulatory impact experience since the 1990's (UETA/ESIGN etc.), and further rebounding on the current emerging state of affair of "Automation, A.I./M.L./Algorithms, and Blockchain for Government", a kind of working topic revolving around "Assess relevance, feasability, and sustainability of Design & Engineering of Public Policy That Is AAS/AALE Compatible" sounds, possibly, like where some of the past, current & future states of Public Policy making may reside. 
+
+More detailed comments are supplied under each article of Ch. 8. Particularly interesting aspects on Restraint on Competition are to be found in § 187 and § 188, also to be viewed from the perspective of AAS/AALE and competition laws.
+
+Herebelow you may proceed to the table of contents with comments, and clicking on links lands you directly on the relevant body part of Contract Law, where you can see full comments within context.
+
+#
 
 ## [CHAPTER 1](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190812-Body-of-Contract-Law-2nd-Restatement.md#chapter-1-1)
 
