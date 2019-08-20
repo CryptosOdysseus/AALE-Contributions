@@ -2,6 +2,7 @@
 
 ## Law ReImagined-
 ## Inventing Automated and Autonomous Legal Entities Part 4
+## (Preparation Stage)
 
 ### "AALE" Collaborative Hack with Dazza, Beth, Brenden, Bryan, Silke et al. 
 
