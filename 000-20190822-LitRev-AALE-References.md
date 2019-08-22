@@ -6,21 +6,21 @@
 
 #
 
-### [New File For Pull Request Toward MIT Media Lab AALE Challenge Repository](https://github.com/mitmedialab/AutomatedLegalEntityChallenge/new/master)
+#### [New File For Pull Request Toward MIT Media Lab AALE Challenge Repository](https://github.com/mitmedialab/AutomatedLegalEntityChallenge/new/master)
 
 #
 
-## For each entry, include
+### For each entry, include
 
-### Title
+#### Title
 
 [Year]
 
-### [Author]
+#### [Author]
 
 #### [Citation]
 
-### [Link]
+#### [Link]
 
 [File name] 
 
@@ -36,32 +36,32 @@
 ##### Listing criteria: alphabetical order of first letter of first word of entry's title.
 ##### _If the first word is an article (The, An, A) then listing criteria applies to word immediately following the article._
 
-# [A]() - [B]() - [C]() - [D]() - [E]() - [F]() - [G]() - [H]() - [I]() - [J]() - [K]() - [L]() - [M]()
-# [N]() - [O]() - [P]() - [Q]() - [R]() - [S]() - [T]() - [U]() - [V]() - [W]() - [X]() - [Y]() - [Z]()
+## [A]() - [B]() - [C]() - [D]() - [E]() - [F]() - [G]() - [H]() - [I]() - [J]() - [K]() - [L]() - [M]()
+## [N]() - [O]() - [P]() - [Q]() - [R]() - [S]() - [T]() - [U]() - [V]() - [W]() - [X]() - [Y]() - [Z]()
 
 #
 
 #
  
-# [A]
+## [A]
 
-## [AL] - [AR] - [AU]
+### [AL] - [AR] - [AU]
 
-## [AL]
+### [AL]
 
-### Algorithmic Entities
+#### Algorithmic Entities
 
-2018
+#### 2018
 
-### Lynn M. LoPucki
+#### Lynn M. LoPucki
 
-#### Recommended Citation
-#### Lynn M. LoPucki, Algorithmic Entities, 95 Wash. U. L. Rev. 887 (2018).
-#### Available at: https://openscholarship.wustl.edu/law_lawreview/vol95/iss4/7
+##### Recommended Citation
+##### Lynn M. LoPucki, Algorithmic Entities, 95 Wash. U. L. Rev. 887 (2018).
+##### Available at: https://openscholarship.wustl.edu/law_lawreview/vol95/iss4/7
 
-### https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=6319&context=law_lawreview
+#### https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=6319&context=law_lawreview
 
-ALGORITHMIC ENTITIES.pdf
+[File Name] ALGORITHMIC ENTITIES.pdf
 
 [Brief summary of the article] 
 
@@ -75,21 +75,21 @@ ALGORITHMIC ENTITIES.pdf
 
 #
 
-## [AR]
+### [AR]
 
-### ARTIFICIAL INTELLIGENCE AND THE FOG OF INNOVATION: A DEEP-DIVE ON GOVERNANCE AND THE LIABILITY OF AUTONOMOUS SYSTEMS
+#### ARTIFICIAL INTELLIGENCE AND THE FOG OF INNOVATION: A DEEP-DIVE ON GOVERNANCE AND THE LIABILITY OF AUTONOMOUS SYSTEMS
 
-2019
+#### 2019
 
-### Brandon W. Jackson
+#### Brandon W. Jackson
 
-#### Recommended Citation
-#### Brandon W. Jackson, ARTIFICIAL INTELLIGENCE AND THE FOG OF INNOVATION: A DEEP-DIVE ON GOVERNANCE AND THE LIABILITY OF AUTONOMOUS SYSTEMS, 35 Santa Clara High Tech. L.J. 35 (2019). 
-#### Available at: https://digitalcommons.law.scu.edu/chtlj/vol35/iss4/1
+##### Recommended Citation
+##### Brandon W. Jackson, ARTIFICIAL INTELLIGENCE AND THE FOG OF INNOVATION: A DEEP-DIVE ON GOVERNANCE AND THE LIABILITY OF AUTONOMOUS SYSTEMS, 35 Santa Clara High Tech. L.J. 35 (2019). 
+##### Available at: https://digitalcommons.law.scu.edu/chtlj/vol35/iss4/1
 
-### https://digitalcommons.law.scu.edu/chtlj/vol35/iss4/1/
+#### https://digitalcommons.law.scu.edu/chtlj/vol35/iss4/1/
 
-ARTIFICIAL INTELLIGENCE AND THE FOG OF INNOVATION A DEEP-DIVE ON GOVERNANCE AND.pdf
+[File Name] ARTIFICIAL INTELLIGENCE AND THE FOG OF INNOVATION A DEEP-DIVE ON GOVERNANCE AND.pdf
 
 [Brief summary of the article] - optional.
 
@@ -99,23 +99,23 @@ ARTIFICIAL INTELLIGENCE AND THE FOG OF INNOVATION A DEEP-DIVE ON GOVERNANCE AND.
 
 #
 
-## [AU]
+### [AU]
 
 ## 
 
-### AUTONOMOUS WEAPON SYSTEMS: THE POSSIBILITY AND PROBABILITY OF ACCOUNTABILITY 
+#### AUTONOMOUS WEAPON SYSTEMS: THE POSSIBILITY AND PROBABILITY OF ACCOUNTABILITY 
 
-2018
+#### 2018
 
-### Swati Malik
+#### Swati Malik
 
-#### No recommended citation 
-#### Swati Malik, AUTONOMOUS WEAPON SYSTEMS: THE POSSIBILITY AND PROBABILITY OF ACCOUNTABILITY,Wisconsin International Law Journal (2018) - Pages 609-640.
-#### Available at: http://hosted.law.wisc.edu/wordpress/wilj/files/2018/10/Malik_Final.pdf
+##### No recommended citation 
+##### Swati Malik, AUTONOMOUS WEAPON SYSTEMS: THE POSSIBILITY AND PROBABILITY OF ACCOUNTABILITY,Wisconsin International Law Journal (2018) - Pages 609-640.
+##### Available at: http://hosted.law.wisc.edu/wordpress/wilj/files/2018/10/Malik_Final.pdf
 
-### http://hosted.law.wisc.edu/wordpress/wilj/files/2018/10/Malik_Final.pdf
+#### http://hosted.law.wisc.edu/wordpress/wilj/files/2018/10/Malik_Final.pdf
 
-AUTONOMOUS WEAPON SYSTEMS THE POSSIBILITY AND PROBABILITY OF ACCOUNTABILITY.pdf
+[Flie Name] AUTONOMOUS WEAPON SYSTEMS THE POSSIBILITY AND PROBABILITY OF ACCOUNTABILITY.pdf
 
 [Brief summary of the article] - optional.
 
@@ -125,19 +125,19 @@ AUTONOMOUS WEAPON SYSTEMS THE POSSIBILITY AND PROBABILITY OF ACCOUNTABILITY.pdf
 
 #
 
-# [B]
+## [B]
 
-### Bridging the Accountability Gap: Rights for New Entities in the Information Society?
+#### Bridging the Accountability Gap: Rights for New Entities in the Information Society?
 
-2010
+#### 2010
 
-### Bert-Japp Koops, Mireille Hildebrandt, David-Oliver Jaquet-Chiffelle
+#### Bert-Japp Koops, Mireille Hildebrandt, David-Oliver Jaquet-Chiffelle
 
-#### Recommended Citation
-#### Bert-Japp Koops, Mireille Hildebrandt & David-Oliver Jaquet-Chiffelle, Bridging the Accountability Gap: Rights for New Entities in theInformation Society?, 11 Minn. J.L. Sci. & Tech. 497 (2010).
-#### Available at: https://scholarship.law.umn.edu/mjlst/vol11/iss2/4
+##### Recommended Citation
+##### Bert-Japp Koops, Mireille Hildebrandt & David-Oliver Jaquet-Chiffelle, Bridging the Accountability Gap: Rights for New Entities in theInformation Society?, 11 Minn. J.L. Sci. & Tech. 497 (2010).
+##### Available at: https://scholarship.law.umn.edu/mjlst/vol11/iss2/4
 
-### https://pdfs.semanticscholar.org/2086/ac846ba5b4e565951583d96062a6cb005f15.pdf
+#### https://pdfs.semanticscholar.org/2086/ac846ba5b4e565951583d96062a6cb005f15.pdf
 
 [File name] BRIDGING THE ACCOUNTABILITY GAP RIGHTS FOR NEW ENTITIES IN THE INFORMATION SOCIE.pdf
 
@@ -149,21 +149,21 @@ AUTONOMOUS WEAPON SYSTEMS THE POSSIBILITY AND PROBABILITY OF ACCOUNTABILITY.pdf
 
 #
 
-# [C]
+## [C]
 
-## [CA] - [CH] - [CO] - [CR]
+### [CA] - [CH] - [CO] - [CR]
 
-## [CA]
+### [CA]
 
-### Title
+#### Title
 
-[Year]
+#### [Year]
 
-### [Author]
+#### [Author]
 
-#### [Citation]
+##### [Citation]
 
-### [Link]
+#### [Link]
 
 [File name] 
 
@@ -182,21 +182,21 @@ Not Available - See bottom of page 16 of https://www.jud.ct.gov/lawlib/Notebooks
 Cause of Action for Conversion by Bailee.pdf
 Not available - See https://pdfs.semanticscholar.org/23e2/4725943212fe1aeb368f0693eced9a39d873.pdf
 
-## [CH]
+### [CH]
 
-## [CO]
+### [CO]
 
-### TThe Co-Evolution of Autonomous Machines and Legal Responsibility
+#### TThe Co-Evolution of Autonomous Machines and Legal Responsibility
 
-2016
+#### 2016
 
-### Mark A. Chinen
+#### Mark A. Chinen
 
-#### Recommended Citation
-#### Mark A. Chinen, The Co-Evolution of Autonomous Machines and Legal Responsibility, 20 Va. J.L. & Tech. 338 (2016).
-#### Available at: http://digitalcommons.law.seattleu.edu/faculty/757
+##### Recommended Citation
+##### Mark A. Chinen, The Co-Evolution of Autonomous Machines and Legal Responsibility, 20 Va. J.L. & Tech. 338 (2016).
+##### Available at: http://digitalcommons.law.seattleu.edu/faculty/757
 
-### https://digitalcommons.law.seattleu.edu/cgi/viewcontent.cgi?article=1757&context=faculty
+#### https://digitalcommons.law.seattleu.edu/cgi/viewcontent.cgi?article=1757&context=faculty
 
 [File name] THE CO-EVOLUTION OF AUTONOMOUS MACHINES AND LEGAL RESPONSIBILITY.pdf 
 
@@ -208,15 +208,17 @@ Not available - See https://pdfs.semanticscholar.org/23e2/4725943212fe1aeb368f06
 
 #
 
-### Computable Contracts
+#### Computable Contracts
 
-2012
+#### 2012
 
-### Harry Surden
+#### Harry Surden
 
-#### Harry Surden, Computable Contracts, University of California, Davis, Law Review, Volume 46 (2012), pages 629-699.
+##### No recommended citation
+##### Harry Surden, Computable Contracts, University of California, Davis, Law Review, Volume 46 (2012), pages 629-699.
+##### Available at: https://lawreview.law.ucdavis.edu/issues/46/2/articles/46-2_surden.pdf
 
-### https://lawreview.law.ucdavis.edu/issues/46/2/articles/46-2_surden.pdf
+#### https://lawreview.law.ucdavis.edu/issues/46/2/articles/46-2_surden.pdf
 
 [File name] COMPUTABLE CONTRACTS.pdf
 
@@ -228,15 +230,15 @@ Not available - See https://pdfs.semanticscholar.org/23e2/4725943212fe1aeb368f06
 
 #
 
-### Title
+#### Title
 
-[Year]
+#### [Year]
 
-### [Author]
+#### [Author]
 
-#### [Citation]
+##### [Citation]
 
-### [Link]
+#### [Link]
 
 [File name] 
 
@@ -252,17 +254,17 @@ Not available - See https://digitalcommons.law.msu.edu/cgi/viewcontent.cgi?artic
 and https://ipmall.law.unh.edu/sites/default/files/hosted_resources/IDEA/hristov_formatted.pdf
 and https://zenodo.org/record/2001763/files/OwnAI_PuB_CREATe.pdf
 
-### Copyrightability of Artworks Produced by Creative Robots and Originality: The Formality-Objective Model
+#### Copyrightability of Artworks Produced by Creative Robots and Originality: The Formality-Objective Model
 
-2018
+#### 2018
 
-### Shlomit Yanisky-Ravid, Luis Antonio Velez- Hernandez
+#### Shlomit Yanisky-Ravid, Luis Antonio Velez- Hernandez
 
-#### Recommended Citation
-#### Shlomit Yanisky-Ravid & Luis A. Velez- Hernandez, Copyrightability of Artworks Produced by Creative Robots and Originality: The Formality-Objective Model, 19 Minn. J.L. Sci. & Tech. 1 (2018).
-#### Available at: https://scholarship.law.umn.edu/mjlst/vol19/iss1/1
+##### Recommended Citation
+##### Shlomit Yanisky-Ravid & Luis A. Velez- Hernandez, Copyrightability of Artworks Produced by Creative Robots and Originality: The Formality-Objective Model, 19 Minn. J.L. Sci. & Tech. 1 (2018).
+##### Available at: https://scholarship.law.umn.edu/mjlst/vol19/iss1/1
 
-### https://pdfs.semanticscholar.org/1a0c/57c9b779e8af9e69d7117cd5268082772d19.pdf
+#### https://pdfs.semanticscholar.org/1a0c/57c9b779e8af9e69d7117cd5268082772d19.pdf
 
 [File name] COPYRIGHTABILITY OF ARTWORKS PRODUCED BY CREATIVE ROBOTS AND ORIGINALITY THE FOR.pdf 
 
@@ -274,17 +276,17 @@ and https://zenodo.org/record/2001763/files/OwnAI_PuB_CREATe.pdf
 
 #
 
-### Could AI Agents Be Held Criminally Liable? Artificial Intelligence and the Challenges for Criminal Law
+#### Could AI Agents Be Held Criminally Liable? Artificial Intelligence and the Challenges for Criminal Law
 
-2018
+#### 2018
 
-### Dafni Lima
+#### Dafni Lima
 
-#### No recommended citation
-#### Dafni Lima, Could AI Agents Be Held Criminally Liable? Artificial Intelligence and the Challenges for Criminal Law, April South Carolina law review Volume 69 (2018)
-#### Available at: https://www.researchgate.net/publication/335107356_Could_AI_Agents_Be_Held_Criminally_Liable_Artificial_Intelligence_and_the_Challenges_for_Criminal_Law
+##### No recommended citation
+##### Dafni Lima, Could AI Agents Be Held Criminally Liable? Artificial Intelligence and the Challenges for Criminal Law, April South Carolina law review Volume 69 (2018)
+##### Available at: https://www.researchgate.net/publication/335107356_Could_AI_Agents_Be_Held_Criminally_Liable_Artificial_Intelligence_and_the_Challenges_for_Criminal_Law
 
-### [Link] https://www.researchgate.net/publication/335107356_Could_AI_Agents_Be_Held_Criminally_Liable_Artificial_Intelligence_and_the_Challenges_for_Criminal_Law
+#### [Link] https://www.researchgate.net/publication/335107356_Could_AI_Agents_Be_Held_Criminally_Liable_Artificial_Intelligence_and_the_Challenges_for_Criminal_Law
 
 [File name] COULD AI AGENTS BE HELD CRIMINALLY LIABLE ARTIFICIAL INTELLIGENCE AND THE CHALLE.pdf
 
@@ -296,17 +298,17 @@ and https://zenodo.org/record/2001763/files/OwnAI_PuB_CREATe.pdf
 
 #
 
-## [CR]
+### [CR]
 
-### Title
+#### Title
 
-[Year]
+#### [Year]
 
-### [Author]
+#### [Author]
 
-#### [Citation]
+##### [Citation]
 
-### [Link]
+#### [Link]
 
 [File name] 
 
@@ -322,17 +324,17 @@ https://ideaexchange.uakron.edu/cgi/viewcontent.cgi?referer=https://www.google.c
 
 #
 
-# [D]
+## [D]
 
-### Title
+#### Title
 
-[Year]
+#### [Year]
 
-### [Author]
+#### [Author]
 
-#### [Citation]
+##### [Citation]
 
-### [Link]
+#### [Link]
 
 [File name] 
 
@@ -348,17 +350,17 @@ https://pdfs.semanticscholar.org/a17f/f5684327c5fe3c000bb956777f5616e8a6e3.pdf
 
 #
 
-# [E]
+## [E]
 
-### Title
+#### Title
 
-[Year]
+#### [Year]
 
-### [Author]
+#### [Author]
 
-#### [Citation]
+##### [Citation]
 
-### [Link]
+#### [Link]
 
 [File name] 
 
@@ -374,20 +376,20 @@ Not available - see https://pdfs.semanticscholar.org/f5ff/faff3f9c719e22e61f78d4
 
 #
 
-# [F]
+## [F]
 
 FROM DEEP BLUE TO DEEP LEARNING A QUARTER CENTURY OF PROGRESS FOR ARTIFICIAL MIN.pdf
 https://georgetownlawtechreview.org/wp-content/uploads/2017/01/Moussa-and-Windle-1-Geo.-Tech.-L.-Rev.-72-2016.pdf
 
-### Title
+#### Title
 
-[Year]
+#### [Year]
 
-### [Author]
+#### [Author]
 
-#### [Citation]
+##### [Citation]
 
-### [Link]
+#### [Link]
 
 [File name] 
 
