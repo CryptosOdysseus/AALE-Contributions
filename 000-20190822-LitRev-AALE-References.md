@@ -20,7 +20,9 @@
 
 [Link]
 
-[Brief summary of the article] -optional)
+[File name] - default name is Dazza's filing system.
+
+[Brief summary of the article] - optional.
 
 >"[Relevant Quotes or highlights]"
 
@@ -43,6 +45,22 @@
 # [A]
 
 ## [AL] - [AR] - [AU]
+
+### Title
+
+[Author]
+
+[Citation]
+
+[Link]
+
+[File name] - default name is Dazza's filing system.
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
 
 ALGORITHMIC ENTITIES, 95 Wash. U. L. Rev. 887
 https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=6319&context=law_lawreview
@@ -95,12 +113,9 @@ Not available - See https://pdfs.semanticscholar.org/23e2/4725943212fe1aeb368f06
 
 ## [CH]
 
-CHAPTER 3 WHAT ROBOTS WANT AUTONOMOUS MACHINES CODES AND NEW FRONTIERS OF LEGAL.pdf
-https://www.researchgate.net/publication/299853876_What_Robots_Want_Autonomous_Machines_Codes_and_New_Frontiers_of_Legal_Responsibility
-
 ## [CO]
 
-THE CO-EVOLUTION OF AUTONOMOUS MACHINES AND LEGAL RESPONSIBILITY.pdf 
+(THE) CO-EVOLUTION OF AUTONOMOUS MACHINES AND LEGAL RESPONSIBILITY.pdf 
 https://digitalcommons.law.seattleu.edu/cgi/viewcontent.cgi?article=1757&context=faculty
 
 COMPUTABLE CONTRACTS.pdf
@@ -274,6 +289,9 @@ http://cardozolawreview.com/war-torts-autonomous-weapon-systems-and-liability/
 https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=9528&context=penn_law_review
 
 ## [WH]
+
+CHAPTER 3 WHAT ROBOTS WANT AUTONOMOUS MACHINES CODES AND NEW FRONTIERS OF LEGAL.pdf
+https://www.researchgate.net/publication/299853876_What_Robots_Want_Autonomous_Machines_Codes_and_New_Frontiers_of_Legal_Responsibility
 
 WHEN ARTIFICIAL INTELLIGENCE SYSTEMS PRODUCE INVENTIONS AN ALTERNATIVE MODEL FOR.pdf
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2931828
