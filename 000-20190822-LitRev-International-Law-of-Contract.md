@@ -4,6 +4,10 @@
 
 #
 
+### [New File For Pull Request Toward MIT Media Lab AALE Challenge Repository](https://github.com/mitmedialab/AutomatedLegalEntityChallenge/new/master)
+
+#
+
 ### [International Contracts](https://www.printfriendly.com/p/g/LF4PJ3)
 
 
@@ -34,4 +38,4 @@
 ### [HCCH | #40 - Full text](https://www.hcch.net/en/instruments/conventions/full-text/?cid=135)
 
 
-### [New File](https://github.com/mitmedialab/AutomatedLegalEntityChallenge/new/master)
+### [New File For Pull Request Toward MIT Media Lab AALE Challenge Repository](https://github.com/mitmedialab/AutomatedLegalEntityChallenge/new/master)
