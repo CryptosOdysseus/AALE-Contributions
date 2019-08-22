@@ -279,7 +279,7 @@
 ##### Dafni Lima, Could AI Agents Be Held Criminally Liable? Artificial Intelligence and the Challenges for Criminal Law, April South Carolina law review Volume 69 (2018)
 ##### Available at: https://www.researchgate.net/publication/335107356_Could_AI_Agents_Be_Held_Criminally_Liable_Artificial_Intelligence_and_the_Challenges_for_Criminal_Law
 
-#### [Link] https://www.researchgate.net/publication/335107356_Could_AI_Agents_Be_Held_Criminally_Liable_Artificial_Intelligence_and_the_Challenges_for_Criminal_Law
+#### https://www.researchgate.net/publication/335107356_Could_AI_Agents_Be_Held_Criminally_Liable_Artificial_Intelligence_and_the_Challenges_for_Criminal_Law
 
 [File name] COULD AI AGENTS BE HELD CRIMINALLY LIABLE ARTIFICIAL INTELLIGENCE AND THE CHALLE.pdf
 
@@ -293,53 +293,49 @@
 
 ### [CR]
 
-#### Title
+#### The Criminal Liability of Artificial Intelligence Entities - from Science Fiction to Legal Social Control
 
-#### [Year]
+#### 2016
 
-#### [Author]
+#### Gabriel Hallevy
 
-##### [Citation]
+##### Recommended Citation
+##### Hallevy, Gabriel (2010) "The Criminal Liability of Artificial Intelligence Entities - from Science Fiction to Legal Social Control," Akron Intellectual Property Journal: Vol. 4 : Iss. 2 , Article 1.
+##### Available at: https://ideaexchange.uakron.edu/akronintellectualproperty/vol4/iss2/1
 
-#### [Link]
+#### https://ideaexchange.uakron.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1037&context=akronintellectualproperty
 
-[File name] 
+[File name] THE CRIMINAL LIABILITY OF ARTIFICIAL INTELLIGENCE ENTITIES--FROM SCIENCE FICTION.pdf
 
 [Brief summary of the article] - optional.
 
 >"[Relevant Quotes or highlights]"
 
 >>[Commentary or other annotations]
-
-
-(THE) CRIMINAL LIABILITY OF ARTIFICIAL INTELLIGENCE ENTITIES--FROM SCIENCE FICTION.pdf
-https://ideaexchange.uakron.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1037&context=akronintellectualproperty
 
 #
 
 ## [D]
 
-#### Title
+#### Do Automated Trading Systems Dream of Manipulating the Price of Futures Contracts? Policing Markets for Improper Trading Practices by Algorithmic Robots
 
-#### [Year]
+#### 2016
 
-#### [Author]
+#### Gregory Scopino
 
-##### [Citation]
+##### Recommended Citation
+##### Gregory Scopino, Do Automated Trading Systems Dream of Manipulating the Price of Futures Contracts? Policing Markets for Improper Trading Practices by Algorithmic Robots, 67 Fla. L. Rev. 221 (2016).
+##### Available at: http://scholarship.law.ufl.edu/flr/vol67/iss1/5
 
-#### [Link]
+#### https://pdfs.semanticscholar.org/a17f/f5684327c5fe3c000bb956777f5616e8a6e3.pdf
 
-[File name] 
+[File name] DO AUTOMATED TRADING SYSTEMS DREAM OF MANIPULATING THE PRICE OF FUTURES CONTRACT.pdf
 
 [Brief summary of the article] - optional.
 
 >"[Relevant Quotes or highlights]"
 
 >>[Commentary or other annotations]
-
-
-DO AUTOMATED TRADING SYSTEMS DREAM OF MANIPULATING THE PRICE OF FUTURES CONTRACT.pdf
-https://pdfs.semanticscholar.org/a17f/f5684327c5fe3c000bb956777f5616e8a6e3.pdf
 
 #
 
@@ -367,20 +363,21 @@ https://pdfs.semanticscholar.org/a17f/f5684327c5fe3c000bb956777f5616e8a6e3.pdf
 
 ## [F]
 
-FROM DEEP BLUE TO DEEP LEARNING A QUARTER CENTURY OF PROGRESS FOR ARTIFICIAL MIN.pdf
-https://georgetownlawtechreview.org/wp-content/uploads/2017/01/Moussa-and-Windle-1-Geo.-Tech.-L.-Rev.-72-2016.pdf
+#
 
-#### Title
+#### FROM DEEP BLUE TO DEEP LEARNING: A QUARTER CENTURY OF PROGRESS FOR ARTIFICIAL MINDS
 
-#### [Year]
+#### 2016
 
-#### [Author]
+#### Dina Moussa, Garrett Windle
 
-##### [Citation]
+##### Recommended citation
+##### ina Moussa, Garrett Windle, FROM DEEP BLUE TO DEEP LEARNING: A QUARTER CENTURY OF PROGRESS FOR ARTIFICIAL MINDS, 1 GEO. L. TECH. REV. 72 (2016), pages 72-88.
+#### Available at: https://perma.cc/K5ST-LPGA
 
-#### [Link]
+#### https://georgetownlawtechreview.org/wp-content/uploads/2017/01/Moussa-and-Windle-1-Geo.-Tech.-L.-Rev.-72-2016.pdf
 
-[File name] 
+[File name] FROM DEEP BLUE TO DEEP LEARNING A QUARTER CENTURY OF PROGRESS FOR ARTIFICIAL MIN.pdf
 
 [Brief summary of the article] - optional.
 
@@ -394,8 +391,6 @@ https://georgetownlawtechreview.org/wp-content/uploads/2017/01/Moussa-and-Windle
 
 #
 
-## [H]
-
 #### Title
 
 #### [Year]
@@ -414,45 +409,49 @@ https://georgetownlawtechreview.org/wp-content/uploads/2017/01/Moussa-and-Windle
 
 >>[Commentary or other annotations]
 
-HOW TO SUE A ROBOT.pdf
-https://dc.law.utah.edu/cgi/viewcontent.cgi?article=1189&context=ulr
+#
+
+## [H]
+
+#
+
+#### How to Sue a Robot
+
+#### 2018
+
+#### Roger Michalski
+
+##### Recommended Citation
+##### Michalski, Roger (2018) "How to Sue a Robot," Utah Law Review: Vol. 2018 : No. 5 , Article 3.
+##### Available at: https://dc.law.utah.edu/ulr/vol2018/iss5/3
+
+#### https://dc.law.utah.edu/cgi/viewcontent.cgi?article=1189&context=ulr
+
+[File name] HOW TO SUE A ROBOT.pdf
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
 
 #
 
 ## [I]
 
-#### Title
+#### INTELLECTUAL PROPERTY RIGHTS FOR "HUBOTS": ON THE LEGAL IMPLICATIONS OF HUMAN-LIKE ROBOTS AS INNOVATORS AND CREATORS.
 
-#### [Year]
+#### 2017
 
-#### [Author]
+#### Amir H. Khoury 
 
-##### [Citation]
+##### No recommended citation
+##### Amir H. Khoury, INTELLECTUAL PROPERTY RIGHTS FOR "HUBOTS": ON THE LEGAL IMPLICATIONS OF HUMAN-LIKE ROBOTS AS INNOVATORS AND CREATORS, Cardozo Arts & Entertainment Law Journal (2017), Vol. 35 Issue 3, pages 635-668.
+##### Available at (permissioned academic access): https://web.a.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=07367694&AN=126247004&h=cy2NoceD%2fmeuvTiavelSvSealf0dD69ZUWgOMZcw3NzLIuX42IX3Vz%2fz%2bpRQhvsUZybPWxe4nSxG%2bX%2bMi6Mn4g%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d07367694%26AN%3d126247004
 
-#### [Link]
+#### see above link.
 
-[File name] 
-
-[Brief summary of the article] - optional.
-
->"[Relevant Quotes or highlights]"
-
->>[Commentary or other annotations]
-
-INTELLECTUAL PROPERTY RIGHTS FOR HUBOTS ON THE LEGAL IMPLICATIONS OF HUMAN-LIK.pdf
-https://web.a.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=07367694&AN=126247004&h=cy2NoceD%2fmeuvTiavelSvSealf0dD69ZUWgOMZcw3NzLIuX42IX3Vz%2fz%2bpRQhvsUZybPWxe4nSxG%2bX%2bMi6Mn4g%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d07367694%26AN%3d126247004
-
-#### Title
-
-#### [Year]
-
-#### [Author]
-
-##### [Citation]
-
-#### [Link]
-
-[File name] 
+[File name] INTELLECTUAL PROPERTY RIGHTS FOR HUBOTS ON THE LEGAL IMPLICATIONS OF HUMAN-LIK.pdf
 
 [Brief summary of the article] - optional.
 
@@ -460,8 +459,26 @@ https://web.a.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authty
 
 >>[Commentary or other annotations]
 
-(THE) IMPLICATIONS OF MODERN BUSINESS-ENTITY LAW FOR THE REGULATION OF AUTONOMOUS (1).pdf
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2758222
+#
+
+#### The Implications of Modern Business-Entity Law for the Regulation of Autonomous Systems
+
+#### 2016 (posted) - 2017 (last revised)
+
+#### Shawn Bayern
+
+##### Recommended citation
+##### Bayern, Shawn J., The Implications of Modern Business-Entity Law for the Regulation of Autonomous Systems (Octobert 31, 2015). 19 Stanford Technology Law Review 93 (2015); FSU College of Law, Public Law Research Paper No. 797; FSU College of Law, Law, Business & Economics Paper No. 797. Available at SSRN: https://ssrn.com/abstract=2758222
+
+#### https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2758222
+
+[File name] THE IMPLICATIONS OF MODERN BUSINESS-ENTITY LAW FOR THE REGULATION OF AUTONOMOUS (1).pdf
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
 
 #
 
@@ -495,64 +512,43 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2758222
 
 ## [M]
 
-#### Title
+#### MACHINES WITHOUT PRINCIPALS: LIABILITY RULES AND ARTIFICIAL INTELLIGENCE
 
-#### [Year]
+#### 2014
 
-#### [Author]
+#### David C. Vladeck
 
-##### [Citation]
+##### No recommended citation
+##### David C. Vladeck, MACHINES WITHOUT PRINCIPALS: LIABILITY RULES AND ARTIFICIAL INTELLIGENCE, Washington Law Review, Volume 89:117 (2014), pags 117-150.
+##### Available at: http://euro.ecom.cmu.edu/program/law/08-732/AI/Vladeck.pdf
 
-#### [Link]
+#### http://euro.ecom.cmu.edu/program/law/08-732/AI/Vladeck.pdf
 
-[File name] 
+[File name] MACHINES WITHOUT PRINCIPALS LIABILITY RULES AND ARTIFICIAL INTELLIGENCE.pdf
 
 [Brief summary of the article] - optional.
 
 >"[Relevant Quotes or highlights]"
 
 >>[Commentary or other annotations]
-
-MACHINES WITHOUT PRINCIPALS LIABILITY RULES AND ARTIFICIAL INTELLIGENCE.pdf
-http://euro.ecom.cmu.edu/program/law/08-732/AI/Vladeck.pdf
 
 #
 
 ## [N]
 
-#### Title
+#### Non-Autonomous Artificial Intelligence Programs and Products Liability: How New AI Products Challenge Existing Liability Models and Pose New Financial Burdens
 
-#### [Year]
+#### 2019
 
-#### [Author]
+#### Greg Swanson
 
-##### [Citation]
+##### Recommended Citation
+##### Greg Swanson, Non-Autonomous Artificial Intelligence Programs and Products Liability: How New AI Products Challenge Existing Liability Models and Pose New Financial Burdens, 42 SEATTLE U. L. REV. 1201 (2019).
+##### Available at: https://digitalcommons.law.seattleu.edu/sulr/vol42/iss3/11/
 
-#### [Link]
+#### https://digitalcommons.law.seattleu.edu/sulr/vol42/iss3/11/
 
-[File name] 
-
-[Brief summary of the article] - optional.
-
->"[Relevant Quotes or highlights]"
-
->>[Commentary or other annotations]
-
-
-NON-AUTONOMOUS ARTIFICIAL INTELLIGENCE PROGRAMS AND PRODUCTS LIABILITY HOW NEW A.pdf
-https://digitalcommons.law.seattleu.edu/sulr/vol42/iss3/11/
-
-#### Title
-
-#### [Year]
-
-#### [Author]
-
-##### [Citation]
-
-#### [Link]
-
-[File name] 
+[File name] NON-AUTONOMOUS ARTIFICIAL INTELLIGENCE PROGRAMS AND PRODUCTS LIABILITY HOW NEW A.pdf
 
 [Brief summary of the article] - optional.
 
@@ -560,8 +556,28 @@ https://digitalcommons.law.seattleu.edu/sulr/vol42/iss3/11/
 
 >>[Commentary or other annotations]
 
-NOT-SO-SMART BLOCKCHAIN CONTRACTS AND ARTIFICIAL RESPONSIBILITY.pdf
-https://www-cdn.law.stanford.edu/wp-content/uploads/2018/09/Kolber_LL_20180910.pdf
+#
+
+#### Not-So-Smart Blockchain Contracts and Artificial Responsibility
+Adam J. Kolber*
+21 STAN. TECH. L. REV. 198 (2018)
+
+#### 2018
+
+#### Adam J. Kolber
+
+##### No recommended citation
+##### Adam J. Kolber, Not-So-Smart Blockchain Contracts and Artificial Responsibility, 21 STAN. TECH. L. REV. 198 (2018), pages 198-233.
+
+#### https://www-cdn.law.stanford.edu/wp-content/uploads/2018/09/Kolber_LL_20180910.pdf
+
+[File name] NOT-SO-SMART BLOCKCHAIN CONTRACTS AND ARTIFICIAL RESPONSIBILITY.pdf
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
 
 #
 
