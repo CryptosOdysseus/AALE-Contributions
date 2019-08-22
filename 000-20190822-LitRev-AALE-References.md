@@ -1,9 +1,14 @@
-# WORK IN PROGRESS
-# AALE REFERENCE LIST
+# Literature Review
 
 # Automated or Autonomous Legal Entities
-# Article Summaries
 
+## References List & Article Summaries
+
+#
+
+### [New File For Pull Request Toward MIT Media Lab AALE Challenge Repository](https://github.com/mitmedialab/AutomatedLegalEntityChallenge/new/master)
+
+#
 
 ## For each entry, include
 
@@ -246,3 +251,9 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3160981
 
 
 # [Z]
+
+#
+
+### [New File For Pull Request Toward MIT Media Lab AALE Challenge Repository](https://github.com/mitmedialab/AutomatedLegalEntityChallenge/new/master)
+
+#
