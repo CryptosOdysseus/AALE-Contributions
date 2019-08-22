@@ -459,7 +459,25 @@
 
 #
 
+#### Governing autonomous vehicles: emerging responses for safety, liability, privacy, cybersecurity, and industry risks
 
+#### 2018
+
+#### Araz Taeihagh, Hazel Si Min Lim
+
+##### No recommended citation
+##### Araz Taeihagh, Hazel Si Min Lim, Governing autonomous vehicles: emerging responses for safety, liability, privacy, cybersecurity, and industry risks, TRANSPORT REVIEWS (2018)
+##### Available at: https://doi.org/10.1080/01441647.2018.1494640  
+
+#### https://arxiv.org/pdf/1807.05720.pdf
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
 
 #
 
@@ -564,6 +582,30 @@
 
 ## [L]
 
+#
+ 
+#### THE LEGAL ISSUES REGARDING THE REGULATION OF AUTONOMOUS VEHICLES IN THE EUROPEAN UNION (Bachelor Thesis)
+
+#### 2017
+
+#### Katrin Lillemäe
+
+##### No recommended citation
+##### Katrin Lillemäe, THE LEGAL ISSUES REGARDING THE REGULATION OF AUTONOMOUS VEHICLES IN THE EUROPEAN UNION (2017 Bachelor Thesis), TALLINN UNIVERSITY OF TECHNOLOGY, School of Business and Governance, Department of Law.
+##### Available at: https://digi.lib.ttu.ee/i/file.php?DLID=8382&t=1
+ 
+#### https://digi.lib.ttu.ee/i/file.php?DLID=8382&t=1
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+#
+
 #### Title
 
 #### [Year]
@@ -597,6 +639,28 @@
 #### http://euro.ecom.cmu.edu/program/law/08-732/AI/Vladeck.pdf
 
 [File name] MACHINES WITHOUT PRINCIPALS LIABILITY RULES AND ARTIFICIAL INTELLIGENCE.pdf
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+#
+
+#### A Model for Tort Liability in a World of Driverless Cars: Establishing a Framework for the Upcoming Technology
+
+#### 2018
+
+#### Antonio Davola
+
+##### No recommended citation
+##### Antonio Davola, A Model for Tort Liability in a World of Driverless Cars: Establishing a Framework for the Upcoming Technology, SSRN Electronic Journal (2018), DOI: 10.2139/ssrn.3120679
+##### Available at: https://www.researchgate.net/publication/323764950_A_Model_for_Tort_Liability_in_a_World_of_Driverless_Cars_Establishing_a_Framework_for_the_Upcoming_Technology
+ 
+#### https://www.researchgate.net/publication/323764950_A_Model_for_Tort_Liability_in_a_World_of_Driverless_Cars_Establishing_a_Framework_for_the_Upcoming_Technology
+
+[File name] 
 
 [Brief summary of the article] - optional.
 
@@ -1057,13 +1121,18 @@ Not available - see 4 substitutes:
 
 and 
 
-https://www.researchgate.net/publication/323764950_A_Model_for_Tort_Liability_in_a_World_of_Driverless_Cars_Establishing_a_Framework_for_the_Upcoming_Technology
+##### Antonio Davola, A Model for Tort Liability in a World of Driverless Cars: Establishing a Framework for the Upcoming Technology, SSRN Electronic Journal (2018), DOI: 10.2139/ssrn.3120679
+##### Available at: https://www.researchgate.net/publication/323764950_A_Model_for_Tort_Liability_in_a_World_of_Driverless_Cars_Establishing_a_Framework_for_the_Upcoming_Technology
 
 and
-https://arxiv.org/pdf/1807.05720.pdf
+
+##### Araz Taeihagh, Hazel Si Min Lim, Governing autonomous vehicles: emerging responses for safety, liability, privacy, cybersecurity, and industry risks, TRANSPORT REVIEWS (2018)
+##### Available at: https://doi.org/10.1080/01441647.2018.1494640  
 
 and
-https://digi.lib.ttu.ee/i/file.php?DLID=8382&t=1
+
+##### Katrin Lillemäe, THE LEGAL ISSUES REGARDING THE REGULATION OF AUTONOMOUS VEHICLES IN THE EUROPEAN UNION (2017 Bachelor Thesis), TALLINN UNIVERSITY OF TECHNOLOGY, School of Business and Governance, Department of Law.
+##### Available at: https://digi.lib.ttu.ee/i/file.php?DLID=8382&t=1
 
 #
 
@@ -1111,42 +1180,17 @@ Not available
 
 #
 
-### For each entry, include
+#### A Model for Tort Liability in a World of Driverless Cars: Establishing a Framework for the Upcoming Technology
 
-#### Title
+#### 2018
 
-#### [Year]
+#### Antonio Davola
 
-#### [Author]
-
-##### [Citation]
-
-#### [Link]
-
-[File name] 
-
-[Brief summary of the article] - optional.
-
->"[Relevant Quotes or highlights]"
-
->>[Commentary or other annotations]
-
-
-#
-
-#
-
-### For each entry, include
-
-#### Title
-
-#### [Year]
-
-#### [Author]
-
-##### [Citation]
-
-#### [Link]
+##### No recommended citation
+##### Antonio Davola, A Model for Tort Liability in a World of Driverless Cars: Establishing a Framework for the Upcoming Technology, SSRN Electronic Journal (2018), DOI: 10.2139/ssrn.3120679
+##### Available at: https://www.researchgate.net/publication/323764950_A_Model_for_Tort_Liability_in_a_World_of_Driverless_Cars_Establishing_a_Framework_for_the_Upcoming_Technology
+ 
+#### https://www.researchgate.net/publication/323764950_A_Model_for_Tort_Liability_in_a_World_of_Driverless_Cars_Establishing_a_Framework_for_the_Upcoming_Technology
 
 [File name] 
 
@@ -1161,17 +1205,17 @@ Not available
 
 #
 
-### For each entry, include
+#### Governing autonomous vehicles: emerging responses for safety, liability, privacy, cybersecurity, and industry risks
 
-#### Title
+#### 2018
 
-#### [Year]
+#### Araz Taeihagh, Hazel Si Min Lim
 
-#### [Author]
+##### No recommended citation
+##### Araz Taeihagh, Hazel Si Min Lim, Governing autonomous vehicles: emerging responses for safety, liability, privacy, cybersecurity, and industry risks, TRANSPORT REVIEWS (2018)
+##### Available at: https://doi.org/10.1080/01441647.2018.1494640  
 
-##### [Citation]
-
-#### [Link]
+#### https://arxiv.org/pdf/1807.05720.pdf
 
 [File name] 
 
@@ -1181,6 +1225,29 @@ Not available
 
 >>[Commentary or other annotations]
 
+#
+
+#
+ 
+#### THE LEGAL ISSUES REGARDING THE REGULATION OF AUTONOMOUS VEHICLES IN THE EUROPEAN UNION (Bachelor Thesis)
+
+#### 2017
+
+#### Katrin Lillemäe
+
+##### No recommended citation
+##### Katrin Lillemäe, THE LEGAL ISSUES REGARDING THE REGULATION OF AUTONOMOUS VEHICLES IN THE EUROPEAN UNION (2017 Bachelor Thesis), TALLINN UNIVERSITY OF TECHNOLOGY, School of Business and Governance, Department of Law.
+##### Available at: https://digi.lib.ttu.ee/i/file.php?DLID=8382&t=1
+ 
+#### https://digi.lib.ttu.ee/i/file.php?DLID=8382&t=1
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
 
 #
 
