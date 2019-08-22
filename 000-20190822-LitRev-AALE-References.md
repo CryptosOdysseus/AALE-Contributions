@@ -690,11 +690,53 @@ https://scholarship.law.unc.edu/cgi/viewcontent.cgi?article=1362&context=ncjolt
 
 ## [RE]
 
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+
 REGULATING ARTIFICIAL INTELLIGENCE SYSTEMS RISKS CHALLENGES COMPETENCIES AND STR.pdf
 http://jolt.law.harvard.edu/articles/pdf/v29/29HarvJLTech353.pdf
 
+
+#
+
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
 Responsible_AI.PDF
 https://ec.europa.eu/jrc/communities/sites/jrccties/files/03_dignum_v.pdf
+
+#
 
 ## [RO]
 
@@ -763,15 +805,39 @@ Not available
 
 ## [WA]
 
-### Title
+### War Torts, Autonomous Weapon Systems, and Liability: Why a Limited Strict Liability Tort Regime Should Be Implemented
 
-[Year]
+2019
 
-### [Author]
+### Elizabeth Fuzaylova
 
-#### [Citation]
+#### No recommended citation
+#### Elizabeth Fuzaylova, War Torts, Autonomous Weapon Systems, and Liability: Why a Limited Strict Liability Tort Regime Should Be Implemented, Cardozo Law Review, Volume 40 Issue 3 (2019).
+#### Available at: http://cardozolawreview.com/war-torts-autonomous-weapon-systems-and-liability/
 
-### [Link]
+### http://cardozolawreview.com/war-torts-autonomous-weapon-systems-and-liability/
+
+[File name] WAR TORTS AUTONOMOUS WEAPON SYSTEMS AND LIABILITY WHY A LIMITED STRICT LIABILITY.pdf
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+#
+
+### WAR TORTS: ACCOUNTABILITY FOR AUTONOMOUS WEAPONS 
+
+2016
+
+### Rebecca Crootof
+
+#### No recommended citation
+#### Rebecca Crootof, WAR TORTS: ACCOUNTAWBILITY FOR AUTONOMOUS WEAPONS, University of Pennsylvania Law Review, Volume 164 (2016), No. 6, pages 1347-1402.
+#### Available at: https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=9528&context=penn_law_review
+
+### https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=9528&context=penn_law_review
 
 [File name] 
 
@@ -781,65 +847,22 @@ Not available
 
 >>[Commentary or other annotations]
 
-
-WAR TORTS AUTONOMOUS WEAPON SYSTEMS AND LIABILITY WHY A LIMITED STRICT LIABILITY.pdf
-http://cardozolawreview.com/war-torts-autonomous-weapon-systems-and-liability/
-
-### Title
-
-[Year]
-
-### [Author]
-
-#### [Citation]
-
-### [Link]
-
-[File name] 
-
-[Brief summary of the article] - optional.
-
->"[Relevant Quotes or highlights]"
-
->>[Commentary or other annotations]
-
-
-https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=9528&context=penn_law_review
+#
 
 ## [WH]
 
-### Title
+### What Robots Want: Autonomous Machines, Codes and New Frontiers of Legal Responsibility
 
-[Year]
+2013
 
-### [Author]
+### Ugo Pagallo
 
-#### [Citation]
+#### No recommended citation
+#### Ugo Pagallo, What Robots Want: Autonomous Machines, Codes and New Frontiers of Legal Responsibility, In book: Human Law and Computer Law: Comparative Perspectives (March 2013)
 
-### [Link]
+### https://www.researchgate.net/publication/299853876_What_Robots_Want_Autonomous_Machines_Codes_and_New_Frontiers_of_Legal_Responsibility
 
-[File name] 
-
-[Brief summary of the article] - optional.
-
->"[Relevant Quotes or highlights]"
-
->>[Commentary or other annotations]
-
-CHAPTER 3 WHAT ROBOTS WANT AUTONOMOUS MACHINES CODES AND NEW FRONTIERS OF LEGAL.pdf
-https://www.researchgate.net/publication/299853876_What_Robots_Want_Autonomous_Machines_Codes_and_New_Frontiers_of_Legal_Responsibility
-
-### Title
-
-[Year]
-
-### [Author]
-
-#### [Citation]
-
-### [Link]
-
-[File name] 
+[File name] CHAPTER 3 WHAT ROBOTS WANT AUTONOMOUS MACHINES CODES AND NEW FRONTIERS OF LEGAL.pdf
 
 [Brief summary of the article] - optional.
 
@@ -847,20 +870,20 @@ https://www.researchgate.net/publication/299853876_What_Robots_Want_Autonomous_M
 
 >>[Commentary or other annotations]
 
-WHEN ARTIFICIAL INTELLIGENCE SYSTEMS PRODUCE INVENTIONS AN ALTERNATIVE MODEL FOR.pdf
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2931828
+#
 
-### Title
+### When Artificial Intelligence Systems Produce Inventions: The 3A Era and an Alternative Model for Patent Law
 
-[Year]
+2017 (written) - 2018 (published) - 2019 (last revised)
 
-### [Author]
+### Shlomit Yanisky-Ravid, Xiaoqiong (Jackie) Liu
 
-#### [Citation]
+#### Yanisky-Ravid, Shlomit and Liu, Xiaoqiong (Jackie), When Artificial Intelligence Systems Produce Inventions: The 3A Era and an Alternative Model for Patent Law (March 1, 2017). 39 Cardozo Law Review, 2215-2263 (2018). 
+#### Available at SSRN: https://ssrn.com/abstract=2931828 or http://dx.doi.org/10.2139/ssrn.2931828
 
-### [Link]
+### https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2931828
 
-[File name] 
+[File name] WHEN ARTIFICIAL INTELLIGENCE SYSTEMS PRODUCE INVENTIONS AN ALTERNATIVE MODEL FOR.pdf
 
 [Brief summary of the article] - optional.
 
@@ -868,8 +891,26 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2931828
 
 >>[Commentary or other annotations]
 
-WHEN TO PRAISE THE MACHINE THE PROMISE AND PERILS OF AUTOMATED TRANSACTIONAL DRA.pdf
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3160981
+#
+
+### When to Praise the Machine: The Promise and Perils of Automated Transactional Drafting
+
+2018
+
+### William E. Foster, Andrew Lawson
+
+#### Foster, William E. and Lawson, Andrew, When to Praise the Machine: The Promise and Perils of Automated Transactional Drafting (April 11, 2018). South Carolina Law Review, Forthcoming. 
+#### Available at SSRN: https://ssrn.com/abstract=3160981 or http://dx.doi.org/10.2139/ssrn.3160981
+
+### https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3160981
+
+[File name] WHEN TO PRAISE THE MACHINE THE PROMISE AND PERILS OF AUTOMATED TRANSACTIONAL DRA.pdf
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
 
 #
 
@@ -888,3 +929,5 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3160981
 ### [New File For Pull Request Toward MIT Media Lab AALE Challenge Repository](https://github.com/mitmedialab/AutomatedLegalEntityChallenge/new/master)
 
 #
+
+### [ZZZ] UNAVAILABLE REFERENCES FOR A GIVEN FILE NAME
