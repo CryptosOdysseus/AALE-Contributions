@@ -54,7 +54,8 @@
 
 Lynn M. LoPucki
 
-Recommended Citation: Lynn M. LoPucki, Algorithmic Entities, 95 Wash. U. L. Rev. 887 (2018).
+Recommended Citation
+Lynn M. LoPucki, Algorithmic Entities, 95 Wash. U. L. Rev. 887 (2018).
 Available at: https://openscholarship.wustl.edu/law_lawreview/vol95/iss4/7
 
 https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=6319&context=law_lawreview
@@ -73,8 +74,25 @@ ALGORITHMIC ENTITIES.pdf
 
 #
 
-ARTIFICIAL INTELLIGENCE AND THE FOG OF INNOVATION A DEEP-DIVE ON GOVERNANCE AND.pdf
+### ARTIFICIAL INTELLIGENCE AND THE FOG OF INNOVATION: A DEEP-DIVE ON GOVERNANCE AND THE LIABILITY OF AUTONOMOUS SYSTEMS
+
+2019
+
+Brandon W. Jackson
+
+Recommended Citation
+Brandon W. Jackson, ARTIFICIAL INTELLIGENCE AND THE FOG OF INNOVATION: A DEEP-DIVE ON GOVERNANCE AND THE LIABILITY OF AUTONOMOUS SYSTEMS, 35 Santa Clara High Tech. L.J. 35 (2019). 
+Available at: https://digitalcommons.law.scu.edu/chtlj/vol35/iss4/1
+
 https://digitalcommons.law.scu.edu/chtlj/vol35/iss4/1/
+
+ARTIFICIAL INTELLIGENCE AND THE FOG OF INNOVATION A DEEP-DIVE ON GOVERNANCE AND.pdf
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
 
 #
 
