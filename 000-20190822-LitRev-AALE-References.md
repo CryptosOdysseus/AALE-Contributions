@@ -418,15 +418,16 @@
 
 #
 
-#### Title
+#### The Ethics of Artificial Intelligence in Law: Basic Questions
 
-#### [Year]
+#### 2019
 
-#### [Author]
+#### Harry Surden
 
-##### [Citation]
+##### Recommended Citation
+##### Surden, Harry, The Ethics of Artificial Intelligence in Law: Basic Questions (August 22, 2019). Available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3441303
 
-#### [Link]
+#### https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3441303
 
 [File name] 
 
@@ -434,7 +435,7 @@
 
 >"[Relevant Quotes or highlights]"
 
->>[Commentary or other annotations]
+>> Note: forthcoming chapter in Oxford Handbook of Ethics of AI, 2020
 
 #
 
