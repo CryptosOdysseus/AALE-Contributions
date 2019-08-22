@@ -45,6 +45,8 @@
  
 ## [A]
 
+#
+
 ### [AL] - [AR] - [AU]
 
 ### [AL]
@@ -127,6 +129,8 @@
 
 ## [B]
 
+#
+
 #### Bridging the Accountability Gap: Rights for New Entities in the Information Society?
 
 #### 2010
@@ -151,6 +155,8 @@
 
 ## [C]
 
+#
+
 ### [CA] - [CH] - [CO] - [CR]
 
 ### [CA]
@@ -172,16 +178,7 @@
 >"[Relevant Quotes or highlights]"
 
 >>[Commentary or other annotations]
-
-Cause of Action Against Owner to Establish Abandonment of Personal Property.pdf
-Not available
-
-Cause of Action by Finder to Establish Right to Lost Personal Property.pdf
-Not Available - See bottom of page 16 of https://www.jud.ct.gov/lawlib/Notebooks/Pathfinders/Abandoned.pdf
-
-Cause of Action for Conversion by Bailee.pdf
-Not available - See https://pdfs.semanticscholar.org/23e2/4725943212fe1aeb368f0693eced9a39d873.pdf
-
+ 
 ### [CH]
 
 ### [CO]
@@ -248,11 +245,7 @@ Not available - See https://pdfs.semanticscholar.org/23e2/4725943212fe1aeb368f06
 
 >>[Commentary or other annotations]
 
-
-COPYRIGHT LAW AND ARTIFICIAL INTELLIGENCE EMERGING ISSUES.pdf
-Not available - See https://digitalcommons.law.msu.edu/cgi/viewcontent.cgi?article=1199&context=lr
-and https://ipmall.law.unh.edu/sites/default/files/hosted_resources/IDEA/hristov_formatted.pdf
-and https://zenodo.org/record/2001763/files/OwnAI_PuB_CREATe.pdf
+#
 
 #### Copyrightability of Artworks Produced by Creative Robots and Originality: The Formality-Objective Model
 
@@ -369,10 +362,6 @@ https://pdfs.semanticscholar.org/a17f/f5684327c5fe3c000bb956777f5616e8a6e3.pdf
 >"[Relevant Quotes or highlights]"
 
 >>[Commentary or other annotations]
-
-Electronic agents and automated systems.pdf
-
-Not available - see https://pdfs.semanticscholar.org/f5ff/faff3f9c719e22e61f78d452eea95678890a.pdf
 
 #
 
@@ -504,16 +493,6 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2758222
 
 >>[Commentary or other annotations]
 
-
-LIABILITY CONSIDERATIONS WHEN AUTONOMOUS VEHICLES CHOOSE THE ACCIDENT VICTIM.pdf
-Not available - see https://www.ali.org/media/filer_public/6a/26/6a26ebc5-3dfa-4c60-b1ba-7e596819ef43/dc-656837-v1-torts_of_the_future_autonomous_emailable.pdf
-and https://www.researchgate.net/publication/323764950_A_Model_for_Tort_Liability_in_a_World_of_Driverless_Cars_Establishing_a_Framework_for_the_Upcoming_Technology
-and
-https://arxiv.org/pdf/1807.05720.pdf
-and
-https://digi.lib.ttu.ee/i/file.php?DLID=8382&t=1
-
-
 ## [M]
 
 #### Title
@@ -533,7 +512,6 @@ https://digi.lib.ttu.ee/i/file.php?DLID=8382&t=1
 >"[Relevant Quotes or highlights]"
 
 >>[Commentary or other annotations]
-
 
 MACHINES WITHOUT PRINCIPALS LIABILITY RULES AND ARTIFICIAL INTELLIGENCE.pdf
 http://euro.ecom.cmu.edu/program/law/08-732/AI/Vladeck.pdf
@@ -630,10 +608,6 @@ https://law.unlv.edu/nevada-law-journal/vol19/wild-beasts-and-digital-analogues-
 >"[Relevant Quotes or highlights]"
 
 >>[Commentary or other annotations]
-
-
-OPINION IMPERSONATION BOTS AND KANSAS LAW.pdf
-Not available
 
 #
 
@@ -756,13 +730,9 @@ https://scholarship.law.unc.edu/cgi/viewcontent.cgi?article=1362&context=ncjolt
 
 >>[Commentary or other annotations]
 
-
-(THE) ROAD TO AUTONOMY.pdf
-Not available (only for different meanings)
-
 #
 
-# [S]
+## [S]
 
 #### Title
 
@@ -785,21 +755,21 @@ Not available (only for different meanings)
 SENSE SENSIBILITY AND SMART CONTRACTS A VIEW FROM A CONTRACT.pdf
 Not available
 
-# [T] 
+## [T] 
  
 #
 
-# [U]
+## [U]
 
 #
 
-# [V]
+## [V]
 
 #
 
-# [W] 
+## [W] 
 
-## [WA] - [WH]
+### [WA] - [WH]
 
 ### [WA]
 
@@ -915,15 +885,15 @@ Not available
 
 #
 
-# [X]
+## [X]
 
 #
 
-# [Y]
+## [Y]
 
 #
 
-# [Z]
+## [Z]
 
 #
 
@@ -932,3 +902,36 @@ Not available
 #
 
 ### [ZZZ] UNAVAILABLE REFERENCES FOR A GIVEN FILE NAME
+
+Cause of Action Against Owner to Establish Abandonment of Personal Property.pdf
+Not available
+
+Cause of Action by Finder to Establish Right to Lost Personal Property.pdf
+Not Available - See bottom of page 16 of https://www.jud.ct.gov/lawlib/Notebooks/Pathfinders/Abandoned.pdf
+
+Cause of Action for Conversion by Bailee.pdf
+Not available - See https://pdfs.semanticscholar.org/23e2/4725943212fe1aeb368f0693eced9a39d873.pdf
+
+COPYRIGHT LAW AND ARTIFICIAL INTELLIGENCE EMERGING ISSUES.pdf
+Not available - See https://digitalcommons.law.msu.edu/cgi/viewcontent.cgi?article=1199&context=lr
+and https://ipmall.law.unh.edu/sites/default/files/hosted_resources/IDEA/hristov_formatted.pdf
+and https://zenodo.org/record/2001763/files/OwnAI_PuB_CREATe.pdf
+
+Electronic agents and automated systems.pdf
+Not available - see https://pdfs.semanticscholar.org/f5ff/faff3f9c719e22e61f78d452eea95678890a.pdf
+LIABILITY CONSIDERATIONS WHEN AUTONOMOUS VEHICLES CHOOSE THE ACCIDENT VICTIM.pdf
+Not available - see https://www.ali.org/media/filer_public/6a/26/6a26ebc5-3dfa-4c60-b1ba-7e596819ef43/dc-656837-v1-torts_of_the_future_autonomous_emailable.pdf
+and https://www.researchgate.net/publication/323764950_A_Model_for_Tort_Liability_in_a_World_of_Driverless_Cars_Establishing_a_Framework_for_the_Upcoming_Technology
+and
+https://arxiv.org/pdf/1807.05720.pdf
+and
+https://digi.lib.ttu.ee/i/file.php?DLID=8382&t=1
+
+OPINION IMPERSONATION BOTS AND KANSAS LAW.pdf
+Not available
+
+(THE) ROAD TO AUTONOMY.pdf
+Not available (only for different meanings)
+
+SENSE SENSIBILITY AND SMART CONTRACTS A VIEW FROM A CONTRACT.pdf
+Not available
