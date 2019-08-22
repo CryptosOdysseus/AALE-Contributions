@@ -435,7 +435,7 @@
 
 >"[Relevant Quotes or highlights]"
 
->> Note: forthcoming chapter in Oxford Handbook of Ethics of AI, 2020
+>> Note from the author: forthcoming chapter in Oxford Handbook of Ethics of AI, 2020. This is a draft chapter for the Oxford Handbook of Ethics of AI. Please send all errors, omissions, or comments to hsurden@colorado.edu.
 
 #
 
