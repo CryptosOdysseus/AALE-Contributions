@@ -14,13 +14,15 @@
 
 ### Title
 
+[Year]
+
 [Author]
 
 [Citation]
 
 [Link]
 
-[File name] - default name is Dazza's filing system.
+[File name] 
 
 [Brief summary of the article] - optional.
 
@@ -46,28 +48,20 @@
 
 ## [AL] - [AR] - [AU]
 
-### Title
+### Algorithmic Entities
 
-[Author]
+2018
 
-[Citation]
+Lynn M. LoPucki
 
-[Link]
+Recommended Citation: Lynn M. LoPucki, Algorithmic Entities, 95 Wash. U. L. Rev. 887 (2018).
+Available at: https://openscholarship.wustl.edu/law_lawreview/vol95/iss4/7
 
-[File name] - default name is Dazza's filing system.
-
-[Brief summary of the article] - optional.
-
->"[Relevant Quotes or highlights]"
-
->>[Commentary or other annotations]
-
-ALGORITHMIC ENTITIES, 95 Wash. U. L. Rev. 887
 https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=6319&context=law_lawreview
 
-File Name: ALGORITHMIC ENTITIES.pdf
+ALGORITHMIC ENTITIES.pdf
 
-95 Wash. U. L. Rev. 887 Washington University Law Review 2018 Lynn M. Lopucki a1
+[Brief summary of the article] 
 
 Page 1 **Marked text: AALE is a great threat if/when no human controllers.**
 
