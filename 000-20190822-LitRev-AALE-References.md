@@ -387,6 +387,30 @@
 
 ## [E]
 
+#
+
+#### Electronic Agents and the Formation of Contracts
+
+#### 2001
+
+#### Emily M. Weitzenboeck
+
+##### Recommended Citation:
+##### Emily M. Weitzenboeck, Electronic Agents and the Formation of Contracts, International Journal of Law and Information Technology, Vol. 9 No. 3 (2001), pp. 204-234, © Oxford University Press 2001.
+##### Available at: https://pdfs.semanticscholar.org/f5ff/faff3f9c719e22e61f78d452eea95678890a.pdf
+
+#### https://pdfs.semanticscholar.org/f5ff/faff3f9c719e22e61f78d452eea95678890a.pdf
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+#
+
 #### Title
 
 #### [Year]
@@ -1091,7 +1115,7 @@ _Not available_ - See https://pdfs.semanticscholar.org/23e2/4725943212fe1aeb368f
 
 COPYRIGHT LAW AND ARTIFICIAL INTELLIGENCE EMERGING ISSUES.pdf
 
-Not available - See 3 substitutes:
+_Not available_ - See 3 substitutes:
 
 ##### Shlomit Yanisky-Ravid, GENERATING REMBRANDT: ARTIFICIAL INTELLIGENCE, COPYRIGHT, AND ACCOUNTABILITY IN THE 3A ERA—THE HUMAN-LIKE AUTHORS ARE ALREADY HERE—A NEW MODEL, 2017 VISIONARY ARTICLE IN INTELLECTUAL PROPERTY LAW, 2017 MICH. ST. L. REV. 659
 ##### Available at: https://digitalcommons.law.msu.edu/cgi/viewcontent.cgi?article=1199&context=lr
@@ -1110,11 +1134,16 @@ and
 
 Electronic agents and automated systems.pdf
 
-Not available - see https://pdfs.semanticscholar.org/f5ff/faff3f9c719e22e61f78d452eea95678890a.pdf
+_Not available_ - see substitute:
+
+##### Emily M. Weitzenboeck, Electronic Agents and the Formation of Contracts, International Journal of Law and Information Technology, Vol. 9 No. 3 (2001), pp. 204-234, © Oxford University Press 2001.
+##### Available at: https://pdfs.semanticscholar.org/f5ff/faff3f9c719e22e61f78d452eea95678890a.pdf
+
+#
 
 LIABILITY CONSIDERATIONS WHEN AUTONOMOUS VEHICLES CHOOSE THE ACCIDENT VICTIM.pdf
 
-Not available - see 4 substitutes:
+_Not available_ - see 4 substitutes:
 
 ##### Torts of the Future: Autonomous Vehicles Addressing the Liability and Regulatory Implications of Emerging Technologies, Report Prepared for the U.S. Chamber Institute for Legal Reform by Cary Silverman, Phil Goldberg, Jonathan Wilson, and Sarah Goggans, Shook, Hardy & Bacon L.L.P. In collaboration with Robert McKenna, Orrick partner and former Washington State Attorney General
 ##### Available at: https://www.ali.org/media/filer_public/6a/26/6a26ebc5-3dfa-4c60-b1ba-7e596819ef43/dc-656837-v1-torts_of_the_future_autonomous_emailable.pdf
@@ -1144,138 +1173,16 @@ Not available, not even close with these keywords on Google, which is rather str
 
 (THE) ROAD TO AUTONOMY.pdf
 
-Not available (only for different meanings).
+Not available (only for different meanings) - no substitute found.
 
 #
 
 SENSE SENSIBILITY AND SMART CONTRACTS A VIEW FROM A CONTRACT.pdf
 
-Not available
-
-#
-
-#
-
-#### Torts of the Future: Autonomous Vehicles Addressing the Liability and Regulatory Implications of Emerging Technologies
-
-#### 2018
-
-#### Prepared for the U.S. Chamber Institute for Legal Reform by Cary Silverman, Phil Goldberg, Jonathan Wilson, and Sarah Goggans, Shook, Hardy & Bacon L.L.P. In collaboration with Robert McKenna, Orrick partner and former Washington State Attorney General
-
-##### No recommended citation
-##### Torts of the Future: Autonomous Vehicles Addressing the Liability and Regulatory Implications of Emerging Technologies, Report Prepared for the U.S. Chamber Institute for Legal Reform by Cary Silverman, Phil Goldberg, Jonathan Wilson, and Sarah Goggans, Shook, Hardy & Bacon L.L.P. In collaboration with Robert McKenna, Orrick partner and former Washington State Attorney General
-##### Available at: https://www.ali.org/media/filer_public/6a/26/6a26ebc5-3dfa-4c60-b1ba-7e596819ef43/dc-656837-v1-torts_of_the_future_autonomous_emailable.pdf
-
-#### https://www.ali.org/media/filer_public/6a/26/6a26ebc5-3dfa-4c60-b1ba-7e596819ef43/dc-656837-v1-torts_of_the_future_autonomous_emailable.pdf
-
-[File name] 
-
-[Brief summary of the article] - optional.
-
->"[Relevant Quotes or highlights]"
-
->>[Commentary or other annotations]
-
-#
-
-#
-
-#### A Model for Tort Liability in a World of Driverless Cars: Establishing a Framework for the Upcoming Technology
-
-#### 2018
-
-#### Antonio Davola
-
-##### No recommended citation
-##### Antonio Davola, A Model for Tort Liability in a World of Driverless Cars: Establishing a Framework for the Upcoming Technology, SSRN Electronic Journal (2018), DOI: 10.2139/ssrn.3120679
-##### Available at: https://www.researchgate.net/publication/323764950_A_Model_for_Tort_Liability_in_a_World_of_Driverless_Cars_Establishing_a_Framework_for_the_Upcoming_Technology
- 
-#### https://www.researchgate.net/publication/323764950_A_Model_for_Tort_Liability_in_a_World_of_Driverless_Cars_Establishing_a_Framework_for_the_Upcoming_Technology
-
-[File name] 
-
-[Brief summary of the article] - optional.
-
->"[Relevant Quotes or highlights]"
-
->>[Commentary or other annotations]
-
-
-#
-
-#
-
-#### Governing autonomous vehicles: emerging responses for safety, liability, privacy, cybersecurity, and industry risks
-
-#### 2018
-
-#### Araz Taeihagh, Hazel Si Min Lim
-
-##### No recommended citation
-##### Araz Taeihagh, Hazel Si Min Lim, Governing autonomous vehicles: emerging responses for safety, liability, privacy, cybersecurity, and industry risks, TRANSPORT REVIEWS (2018)
-##### Available at: https://doi.org/10.1080/01441647.2018.1494640  
-
-#### https://arxiv.org/pdf/1807.05720.pdf
-
-[File name] 
-
-[Brief summary of the article] - optional.
-
->"[Relevant Quotes or highlights]"
-
->>[Commentary or other annotations]
-
-#
+Not available - no substitute found.
 
 #
  
-#### THE LEGAL ISSUES REGARDING THE REGULATION OF AUTONOMOUS VEHICLES IN THE EUROPEAN UNION (Bachelor Thesis)
-
-#### 2017
-
-#### Katrin Lillemäe
-
-##### No recommended citation
-##### Katrin Lillemäe, THE LEGAL ISSUES REGARDING THE REGULATION OF AUTONOMOUS VEHICLES IN THE EUROPEAN UNION (2017 Bachelor Thesis), TALLINN UNIVERSITY OF TECHNOLOGY, School of Business and Governance, Department of Law.
-##### Available at: https://digi.lib.ttu.ee/i/file.php?DLID=8382&t=1
- 
-#### https://digi.lib.ttu.ee/i/file.php?DLID=8382&t=1
-
-[File name] 
-
-[Brief summary of the article] - optional.
-
->"[Relevant Quotes or highlights]"
-
->>[Commentary or other annotations]
-
-#
-
-#
-
-### For each entry, include
-
-#### Title
-
-#### [Year]
-
-#### [Author]
-
-##### [Citation]
-
-#### [Link]
-
-[File name] 
-
-[Brief summary of the article] - optional.
-
->"[Relevant Quotes or highlights]"
-
->>[Commentary or other annotations]
-
-
-#
-
 #
 
 ### For each entry, include
