@@ -14,11 +14,11 @@
 
 #### Title
 
-[Year]
+#### [Year]
 
 #### [Author]
 
-#### [Citation]
+##### [Citation]
 
 #### [Link]
 
@@ -916,18 +916,33 @@ Adam J. Kolber*
 ### [ZZZ] UNAVAILABLE REFERENCES FOR A GIVEN FILE NAME
 
 Cause of Action Against Owner to Establish Abandonment of Personal Property.pdf
-Not available
+_Not available_
 
 Cause of Action by Finder to Establish Right to Lost Personal Property.pdf
-Not Available - See bottom of page 16 of https://www.jud.ct.gov/lawlib/Notebooks/Pathfinders/Abandoned.pdf
+_Not Available_ - See bottom of page 16 of https://www.jud.ct.gov/lawlib/Notebooks/Pathfinders/Abandoned.pdf
 
 Cause of Action for Conversion by Bailee.pdf
-Not available - See https://pdfs.semanticscholar.org/23e2/4725943212fe1aeb368f0693eced9a39d873.pdf
+_Not available_ - See https://pdfs.semanticscholar.org/23e2/4725943212fe1aeb368f0693eced9a39d873.pdf
+
+#
 
 COPYRIGHT LAW AND ARTIFICIAL INTELLIGENCE EMERGING ISSUES.pdf
-Not available - See https://digitalcommons.law.msu.edu/cgi/viewcontent.cgi?article=1199&context=lr
-and https://ipmall.law.unh.edu/sites/default/files/hosted_resources/IDEA/hristov_formatted.pdf
-and https://zenodo.org/record/2001763/files/OwnAI_PuB_CREATe.pdf
+Not available - See 3 substitutes:
+
+##### Shlomit Yanisky-Ravid, GENERATING REMBRANDT: ARTIFICIAL INTELLIGENCE, COPYRIGHT, AND ACCOUNTABILITY IN THE 3A ERA—THE HUMAN-LIKE AUTHORS ARE ALREADY HERE—A NEW MODEL, 2017 VISIONARY ARTICLE IN INTELLECTUAL PROPERTY LAW, 2017 MICH. ST. L. REV. 659
+##### Available at: https://digitalcommons.law.msu.edu/cgi/viewcontent.cgi?article=1199&context=lr
+
+and
+
+##### Kalin Hristov, ARTIFICIAL INTELLIGENCE AND THE COPYRIGHT DILEMMA, IDEA - The Journal of the Franklin Pierce Center for Intellectual Property, Volume 57, Number 3 (2017), pages 431-453.
+##### Available at: https://ipmall.law.unh.edu/sites/default/files/hosted_resources/IDEA/hristov_formatted.pdf
+
+and
+
+##### Thomas Margoni, Artificial Intelligence, Machine learning and EU copyright law: Who owns AI?, CREATe Working Paper 2018/12 (December 2018), CREATe Working Paper Series DOI: 10.5281/zenodo.2001763. This release was supported by the RCUK funded Centre for Copyright and New Business Models in the Creative Economy (CREATe), AHRC Grant Number AH/K000179/1.
+##### Available at: https://ipmall.law.unh.edu/sites/default/files/hosted_resources/IDEA/hristov_formatted.pdf
+
+#
 
 Electronic agents and automated systems.pdf
 Not available - see https://pdfs.semanticscholar.org/f5ff/faff3f9c719e22e61f78d452eea95678890a.pdf
@@ -947,3 +962,290 @@ Not available (only for different meanings)
 
 SENSE SENSIBILITY AND SMART CONTRACTS A VIEW FROM A CONTRACT.pdf
 Not available
+
+
+#
+
+
+2017 VISIONARY ARTICLE IN INTELLECTUAL PROPERTY
+LAW
+2017 MICH. ST. L. REV. 659
+
+### For each entry, include
+
+#### GENERATING REMBRANDT: ARTIFICIAL INTELLIGENCE, COPYRIGHT, AND ACCOUNTABILITY IN THE 3A ERA—THE HUMAN-LIKE AUTHORS ARE ALREADY HERE—A NEW MODEL
+
+#### 2017
+
+#### Shlomit Yanisky-Ravid
+
+##### Recommended Citation
+##### Shlomit Yanisky-Ravid, GENERATING REMBRANDT: ARTIFICIAL INTELLIGENCE, COPYRIGHT, AND ACCOUNTABILITY IN THE 3A ERA—THE HUMAN-LIKE AUTHORS ARE ALREADY HERE—A NEW MODEL, 2017 VISIONARY ARTICLE IN INTELLECTUAL PROPERTY LAW, 2017 MICH. ST. L. REV. 659
+##### Available at: https://digitalcommons.law.msu.edu/cgi/viewcontent.cgi?article=1199&context=lr
+
+#### https://digitalcommons.law.msu.edu/cgi/viewcontent.cgi?article=1199&context=lr
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+
+#
+
+#
+
+### For each entry, include
+
+#### ARTIFICIAL INTELLIGENCE AND THE COPYRIGHT DILEMMA
+
+#### 2017
+
+#### Kalin Hristov
+
+##### No recommended citation
+##### Kalin Hristov, ARTIFICIAL INTELLIGENCE AND THE COPYRIGHT DILEMMA, IDEA - The Journal of the Franklin Pierce Center for Intellectual Property, Volume 57, Number 3 (2017), pages 431-453.
+##### Available at: https://ipmall.law.unh.edu/sites/default/files/hosted_resources/IDEA/hristov_formatted.pdf
+
+#### https://ipmall.law.unh.edu/sites/default/files/hosted_resources/IDEA/hristov_formatted.pdf
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+
+#
+
+#
+
+### For each entry, include
+
+#### Artificial Intelligence, Machine learning and EU copyright law: Who owns AI?
+
+#### 2018
+
+#### Thomas Margoni
+
+##### Recommended citation
+##### Thomas Margoni, Artificial Intelligence, Machine learning and EU copyright law: Who owns AI?, CREATe Working Paper 2018/12 (December 2018), CREATe Working Paper Series DOI: 10.5281/zenodo.2001763. This release was supported by the RCUK funded Centre for Copyright and New Business Models in the Creative Economy (CREATe), AHRC Grant Number AH/K000179/1.
+##### Available at: https://ipmall.law.unh.edu/sites/default/files/hosted_resources/IDEA/hristov_formatted.pdf
+
+#### https://ipmall.law.unh.edu/sites/default/files/hosted_resources/IDEA/hristov_formatted.pdf
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+
+#
+
+#
+
+### For each entry, include
+
+#### Title
+
+#### [Year]
+
+#### [Author]
+
+##### [Citation]
+
+#### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+
+#
+
+#
+
+### For each entry, include
+
+#### Title
+
+#### [Year]
+
+#### [Author]
+
+##### [Citation]
+
+#### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+
+#
+
+#
+
+### For each entry, include
+
+#### Title
+
+#### [Year]
+
+#### [Author]
+
+##### [Citation]
+
+#### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+
+#
+
+#
+
+### For each entry, include
+
+#### Title
+
+#### [Year]
+
+#### [Author]
+
+##### [Citation]
+
+#### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+
+#
+
+#
+
+### For each entry, include
+
+#### Title
+
+#### [Year]
+
+#### [Author]
+
+##### [Citation]
+
+#### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+
+#
+
+#
+
+### For each entry, include
+
+#### Title
+
+#### [Year]
+
+#### [Author]
+
+##### [Citation]
+
+#### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+
+#
+
+#
+
+### For each entry, include
+
+#### Title
+
+#### [Year]
+
+#### [Author]
+
+##### [Citation]
+
+#### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+
+#
+
+#
+
+### For each entry, include
+
+#### Title
+
+#### [Year]
+
+#### [Author]
+
+##### [Citation]
+
+#### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+
+#
