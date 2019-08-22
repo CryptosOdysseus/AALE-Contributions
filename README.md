@@ -22,6 +22,10 @@
 
 ######
 
+###### Hot files in progress are marked "000".
+
+######
+
 ###### Files that are learning material (such as types of Law) early (re-)working drafts are marked "AAA".
 
 #####
