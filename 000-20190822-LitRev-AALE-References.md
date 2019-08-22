@@ -125,8 +125,6 @@
 
 #
 
-### For each entry, include
-
 #### Artificial Intelligence, Machine learning and EU copyright law: Who owns AI?
 
 #### 2018
@@ -845,6 +843,28 @@ Adam J. Kolber*
  
 #
 
+#### Torts of the Future: Autonomous Vehicles Addressing the Liability and Regulatory Implications of Emerging Technologies
+
+#### 2018
+
+#### Prepared for the U.S. Chamber Institute for Legal Reform by Cary Silverman, Phil Goldberg, Jonathan Wilson, and Sarah Goggans, Shook, Hardy & Bacon L.L.P. In collaboration with Robert McKenna, Orrick partner and former Washington State Attorney General
+
+##### No recommended citation
+##### Torts of the Future: Autonomous Vehicles Addressing the Liability and Regulatory Implications of Emerging Technologies, Report Prepared for the U.S. Chamber Institute for Legal Reform by Cary Silverman, Phil Goldberg, Jonathan Wilson, and Sarah Goggans, Shook, Hardy & Bacon L.L.P. In collaboration with Robert McKenna, Orrick partner and former Washington State Attorney General
+##### Available at: https://www.ali.org/media/filer_public/6a/26/6a26ebc5-3dfa-4c60-b1ba-7e596819ef43/dc-656837-v1-torts_of_the_future_autonomous_emailable.pdf
+
+#### https://www.ali.org/media/filer_public/6a/26/6a26ebc5-3dfa-4c60-b1ba-7e596819ef43/dc-656837-v1-torts_of_the_future_autonomous_emailable.pdf
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+#
+
 ## [U]
 
 #
@@ -989,18 +1009,24 @@ Adam J. Kolber*
 
 ### [ZZZ] UNAVAILABLE REFERENCES FOR A GIVEN FILE NAME
 
+#
+
 Cause of Action Against Owner to Establish Abandonment of Personal Property.pdf
+
 _Not available_
 
 Cause of Action by Finder to Establish Right to Lost Personal Property.pdf
+
 _Not Available_ - See bottom of page 16 of https://www.jud.ct.gov/lawlib/Notebooks/Pathfinders/Abandoned.pdf
 
 Cause of Action for Conversion by Bailee.pdf
+
 _Not available_ - See https://pdfs.semanticscholar.org/23e2/4725943212fe1aeb368f0693eced9a39d873.pdf
 
 #
 
 COPYRIGHT LAW AND ARTIFICIAL INTELLIGENCE EMERGING ISSUES.pdf
+
 Not available - See 3 substitutes:
 
 ##### Shlomit Yanisky-Ravid, GENERATING REMBRANDT: ARTIFICIAL INTELLIGENCE, COPYRIGHT, AND ACCOUNTABILITY IN THE 3A ERA—THE HUMAN-LIKE AUTHORS ARE ALREADY HERE—A NEW MODEL, 2017 VISIONARY ARTICLE IN INTELLECTUAL PROPERTY LAW, 2017 MICH. ST. L. REV. 659
@@ -1019,122 +1045,59 @@ and
 #
 
 Electronic agents and automated systems.pdf
+
 Not available - see https://pdfs.semanticscholar.org/f5ff/faff3f9c719e22e61f78d452eea95678890a.pdf
+
 LIABILITY CONSIDERATIONS WHEN AUTONOMOUS VEHICLES CHOOSE THE ACCIDENT VICTIM.pdf
-Not available - see https://www.ali.org/media/filer_public/6a/26/6a26ebc5-3dfa-4c60-b1ba-7e596819ef43/dc-656837-v1-torts_of_the_future_autonomous_emailable.pdf
-and https://www.researchgate.net/publication/323764950_A_Model_for_Tort_Liability_in_a_World_of_Driverless_Cars_Establishing_a_Framework_for_the_Upcoming_Technology
+
+Not available - see 4 substitutes:
+
+##### Torts of the Future: Autonomous Vehicles Addressing the Liability and Regulatory Implications of Emerging Technologies, Report Prepared for the U.S. Chamber Institute for Legal Reform by Cary Silverman, Phil Goldberg, Jonathan Wilson, and Sarah Goggans, Shook, Hardy & Bacon L.L.P. In collaboration with Robert McKenna, Orrick partner and former Washington State Attorney General
+##### Available at: https://www.ali.org/media/filer_public/6a/26/6a26ebc5-3dfa-4c60-b1ba-7e596819ef43/dc-656837-v1-torts_of_the_future_autonomous_emailable.pdf
+
+and 
+
+https://www.researchgate.net/publication/323764950_A_Model_for_Tort_Liability_in_a_World_of_Driverless_Cars_Establishing_a_Framework_for_the_Upcoming_Technology
+
 and
 https://arxiv.org/pdf/1807.05720.pdf
+
 and
 https://digi.lib.ttu.ee/i/file.php?DLID=8382&t=1
 
+#
+
 OPINION IMPERSONATION BOTS AND KANSAS LAW.pdf
-Not available
+
+Not available, not even close with these keywords on Google, which is rather strange, considering its a hot topic (?).
+
+#
 
 (THE) ROAD TO AUTONOMY.pdf
-Not available (only for different meanings)
+
+Not available (only for different meanings).
+
+#
 
 SENSE SENSIBILITY AND SMART CONTRACTS A VIEW FROM A CONTRACT.pdf
+
 Not available
 
-
-#
- 
-
-### For each entry, include
-
-#
-
-#### GENERATING REMBRANDT: ARTIFICIAL INTELLIGENCE, COPYRIGHT, AND ACCOUNTABILITY IN THE 3A ERA—THE HUMAN-LIKE AUTHORS ARE ALREADY HERE—A NEW MODEL
-
-#### 2017
-
-#### Shlomit Yanisky-Ravid
-
-##### Recommended Citation
-##### Shlomit Yanisky-Ravid, GENERATING REMBRANDT: ARTIFICIAL INTELLIGENCE, COPYRIGHT, AND ACCOUNTABILITY IN THE 3A ERA—THE HUMAN-LIKE AUTHORS ARE ALREADY HERE—A NEW MODEL, 2017 VISIONARY ARTICLE IN INTELLECTUAL PROPERTY LAW, 2017 MICH. ST. L. REV. 659
-##### Available at: https://digitalcommons.law.msu.edu/cgi/viewcontent.cgi?article=1199&context=lr
-
-#### https://digitalcommons.law.msu.edu/cgi/viewcontent.cgi?article=1199&context=lr
-
-[File name] 
-
-[Brief summary of the article] - optional.
-
->"[Relevant Quotes or highlights]"
-
->>[Commentary or other annotations]
-
-
 #
 
 #
 
-### For each entry, include
-
-#### ARTIFICIAL INTELLIGENCE AND THE COPYRIGHT DILEMMA
-
-#### 2017
-
-#### Kalin Hristov
-
-##### No recommended citation
-##### Kalin Hristov, ARTIFICIAL INTELLIGENCE AND THE COPYRIGHT DILEMMA, IDEA - The Journal of the Franklin Pierce Center for Intellectual Property, Volume 57, Number 3 (2017), pages 431-453.
-##### Available at: https://ipmall.law.unh.edu/sites/default/files/hosted_resources/IDEA/hristov_formatted.pdf
-
-#### https://ipmall.law.unh.edu/sites/default/files/hosted_resources/IDEA/hristov_formatted.pdf
-
-[File name] 
-
-[Brief summary of the article] - optional.
-
->"[Relevant Quotes or highlights]"
-
->>[Commentary or other annotations]
-
-
-#
-
-#
-
-### For each entry, include
-
-#### Artificial Intelligence, Machine learning and EU copyright law: Who owns AI?
+#### Torts of the Future: Autonomous Vehicles Addressing the Liability and Regulatory Implications of Emerging Technologies
 
 #### 2018
 
-#### Thomas Margoni
+#### Prepared for the U.S. Chamber Institute for Legal Reform by Cary Silverman, Phil Goldberg, Jonathan Wilson, and Sarah Goggans, Shook, Hardy & Bacon L.L.P. In collaboration with Robert McKenna, Orrick partner and former Washington State Attorney General
 
-##### Recommended citation
-##### Thomas Margoni, Artificial Intelligence, Machine learning and EU copyright law: Who owns AI?, CREATe Working Paper 2018/12 (December 2018), CREATe Working Paper Series DOI: 10.5281/zenodo.2001763. This release was supported by the RCUK funded Centre for Copyright and New Business Models in the Creative Economy (CREATe), AHRC Grant Number AH/K000179/1.
-##### Available at: https://ipmall.law.unh.edu/sites/default/files/hosted_resources/IDEA/hristov_formatted.pdf
+##### No recommended citation
+##### Torts of the Future: Autonomous Vehicles Addressing the Liability and Regulatory Implications of Emerging Technologies, Report Prepared for the U.S. Chamber Institute for Legal Reform by Cary Silverman, Phil Goldberg, Jonathan Wilson, and Sarah Goggans, Shook, Hardy & Bacon L.L.P. In collaboration with Robert McKenna, Orrick partner and former Washington State Attorney General
+##### Available at: https://www.ali.org/media/filer_public/6a/26/6a26ebc5-3dfa-4c60-b1ba-7e596819ef43/dc-656837-v1-torts_of_the_future_autonomous_emailable.pdf
 
-#### https://ipmall.law.unh.edu/sites/default/files/hosted_resources/IDEA/hristov_formatted.pdf
-
-[File name] 
-
-[Brief summary of the article] - optional.
-
->"[Relevant Quotes or highlights]"
-
->>[Commentary or other annotations]
-
-
-#
-
-#
-
-### For each entry, include
-
-#### Title
-
-#### [Year]
-
-#### [Author]
-
-##### [Citation]
-
-#### [Link]
+#### https://www.ali.org/media/filer_public/6a/26/6a26ebc5-3dfa-4c60-b1ba-7e596819ef43/dc-656837-v1-torts_of_the_future_autonomous_emailable.pdf
 
 [File name] 
 
@@ -1143,7 +1106,6 @@ Not available
 >"[Relevant Quotes or highlights]"
 
 >>[Commentary or other annotations]
-
 
 #
 
