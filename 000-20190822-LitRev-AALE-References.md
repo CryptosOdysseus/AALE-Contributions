@@ -79,6 +79,30 @@
 
 ### [AR]
 
+#
+
+#### ARTIFICIAL INTELLIGENCE AND THE COPYRIGHT DILEMMA
+
+#### 2017
+
+#### Kalin Hristov
+
+##### No recommended citation
+##### Kalin Hristov, ARTIFICIAL INTELLIGENCE AND THE COPYRIGHT DILEMMA, IDEA - The Journal of the Franklin Pierce Center for Intellectual Property, Volume 57, Number 3 (2017), pages 431-453.
+##### Available at: https://ipmall.law.unh.edu/sites/default/files/hosted_resources/IDEA/hristov_formatted.pdf
+
+#### https://ipmall.law.unh.edu/sites/default/files/hosted_resources/IDEA/hristov_formatted.pdf
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+#
+
 #### ARTIFICIAL INTELLIGENCE AND THE FOG OF INNOVATION: A DEEP-DIVE ON GOVERNANCE AND THE LIABILITY OF AUTONOMOUS SYSTEMS
 
 #### 2019
@@ -101,9 +125,33 @@
 
 #
 
+### For each entry, include
+
+#### Artificial Intelligence, Machine learning and EU copyright law: Who owns AI?
+
+#### 2018
+
+#### Thomas Margoni
+
+##### Recommended citation
+##### Thomas Margoni, Artificial Intelligence, Machine learning and EU copyright law: Who owns AI?, CREATe Working Paper 2018/12 (December 2018), CREATe Working Paper Series DOI: 10.5281/zenodo.2001763. This release was supported by the RCUK funded Centre for Copyright and New Business Models in the Creative Economy (CREATe), AHRC Grant Number AH/K000179/1.
+##### Available at: https://ipmall.law.unh.edu/sites/default/files/hosted_resources/IDEA/hristov_formatted.pdf
+
+#### https://ipmall.law.unh.edu/sites/default/files/hosted_resources/IDEA/hristov_formatted.pdf
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+#
+
 ### [AU]
 
-## 
+# 
 
 #### AUTONOMOUS WEAPON SYSTEMS: THE POSSIBILITY AND PROBABILITY OF ACCOUNTABILITY 
 
@@ -388,6 +436,32 @@
 #
 
 ## [G]
+
+#
+
+#### GENERATING REMBRANDT: ARTIFICIAL INTELLIGENCE, COPYRIGHT, AND ACCOUNTABILITY IN THE 3A ERA—THE HUMAN-LIKE AUTHORS ARE ALREADY HERE—A NEW MODEL
+
+#### 2017
+
+#### Shlomit Yanisky-Ravid
+
+##### Recommended Citation
+##### Shlomit Yanisky-Ravid, GENERATING REMBRANDT: ARTIFICIAL INTELLIGENCE, COPYRIGHT, AND ACCOUNTABILITY IN THE 3A ERA—THE HUMAN-LIKE AUTHORS ARE ALREADY HERE—A NEW MODEL, 2017 VISIONARY ARTICLE IN INTELLECTUAL PROPERTY LAW, 2017 MICH. ST. L. REV. 659
+##### Available at: https://digitalcommons.law.msu.edu/cgi/viewcontent.cgi?article=1199&context=lr
+
+#### https://digitalcommons.law.msu.edu/cgi/viewcontent.cgi?article=1199&context=lr
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+#
+
+
 
 #
 
@@ -965,13 +1039,11 @@ Not available
 
 
 #
-
-
-2017 VISIONARY ARTICLE IN INTELLECTUAL PROPERTY
-LAW
-2017 MICH. ST. L. REV. 659
+ 
 
 ### For each entry, include
+
+#
 
 #### GENERATING REMBRANDT: ARTIFICIAL INTELLIGENCE, COPYRIGHT, AND ACCOUNTABILITY IN THE 3A ERA—THE HUMAN-LIKE AUTHORS ARE ALREADY HERE—A NEW MODEL
 
