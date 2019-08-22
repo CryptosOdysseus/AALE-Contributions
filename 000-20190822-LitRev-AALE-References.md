@@ -401,21 +401,21 @@ https://georgetownlawtechreview.org/wp-content/uploads/2017/01/Moussa-and-Windle
 
 #
 
-# [G]
+## [G]
 
 #
 
-# [H]
+## [H]
 
-### Title
+#### Title
 
-[Year]
+#### [Year]
 
-### [Author]
+#### [Author]
 
-#### [Citation]
+##### [Citation]
 
-### [Link]
+#### [Link]
 
 [File name] 
 
@@ -430,17 +430,17 @@ https://dc.law.utah.edu/cgi/viewcontent.cgi?article=1189&context=ulr
 
 #
 
-# [I]
+## [I]
 
-### Title
+#### Title
 
-[Year]
+#### [Year]
 
-### [Author]
+#### [Author]
 
-#### [Citation]
+##### [Citation]
 
-### [Link]
+#### [Link]
 
 [File name] 
 
@@ -453,15 +453,15 @@ https://dc.law.utah.edu/cgi/viewcontent.cgi?article=1189&context=ulr
 INTELLECTUAL PROPERTY RIGHTS FOR HUBOTS ON THE LEGAL IMPLICATIONS OF HUMAN-LIK.pdf
 https://web.a.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=07367694&AN=126247004&h=cy2NoceD%2fmeuvTiavelSvSealf0dD69ZUWgOMZcw3NzLIuX42IX3Vz%2fz%2bpRQhvsUZybPWxe4nSxG%2bX%2bMi6Mn4g%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d07367694%26AN%3d126247004
 
-### Title
+#### Title
 
-[Year]
+#### [Year]
 
-### [Author]
+#### [Author]
 
-#### [Citation]
+##### [Citation]
 
-### [Link]
+#### [Link]
 
 [File name] 
 
@@ -476,25 +476,25 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2758222
 
 #
 
-# [J]
+## [J]
 
 #
 
-# [K]
+## [K]
 
 #
 
-# [L]
+## [L]
 
-### Title
+#### Title
 
-[Year]
+#### [Year]
 
-### [Author]
+#### [Author]
 
-#### [Citation]
+##### [Citation]
 
-### [Link]
+#### [Link]
 
 [File name] 
 
@@ -514,17 +514,17 @@ and
 https://digi.lib.ttu.ee/i/file.php?DLID=8382&t=1
 
 
-# [M]
+## [M]
 
-### Title
+#### Title
 
-[Year]
+#### [Year]
 
-### [Author]
+#### [Author]
 
-#### [Citation]
+##### [Citation]
 
-### [Link]
+#### [Link]
 
 [File name] 
 
@@ -540,17 +540,17 @@ http://euro.ecom.cmu.edu/program/law/08-732/AI/Vladeck.pdf
 
 #
 
-# [N]
+## [N]
 
-### Title
+#### Title
 
-[Year]
+#### [Year]
 
-### [Author]
+#### [Author]
 
-#### [Citation]
+##### [Citation]
 
-### [Link]
+#### [Link]
 
 [File name] 
 
@@ -564,15 +564,15 @@ http://euro.ecom.cmu.edu/program/law/08-732/AI/Vladeck.pdf
 NON-AUTONOMOUS ARTIFICIAL INTELLIGENCE PROGRAMS AND PRODUCTS LIABILITY HOW NEW A.pdf
 https://digitalcommons.law.seattleu.edu/sulr/vol42/iss3/11/
 
-### Title
+#### Title
 
-[Year]
+#### [Year]
 
-### [Author]
+#### [Author]
 
-#### [Citation]
+##### [Citation]
 
-### [Link]
+#### [Link]
 
 [File name] 
 
@@ -587,17 +587,17 @@ https://www-cdn.law.stanford.edu/wp-content/uploads/2018/09/Kolber_LL_20180910.p
 
 #
 
-# [O]
+## [O]
 
-### Title
+#### Title
 
-[Year]
+#### [Year]
 
-### [Author]
+#### [Author]
 
-#### [Citation]
+##### [Citation]
 
-### [Link]
+#### [Link]
 
 [File name] 
 
@@ -611,15 +611,17 @@ https://www-cdn.law.stanford.edu/wp-content/uploads/2018/09/Kolber_LL_20180910.p
 OF WILD BEASTS AND DIGITAL ANALOGUES THE LEGAL STATUS OF AUTONOMOUS SYSTEMS.pdf
 https://law.unlv.edu/nevada-law-journal/vol19/wild-beasts-and-digital-analogues-legal-status-autonomous-systems-1765
 
-### Title
+#
 
-[Year]
+#### Title
 
-### [Author]
+#### [Year]
 
-#### [Citation]
+#### [Author]
 
-### [Link]
+##### [Citation]
+
+#### [Link]
 
 [File name] 
 
@@ -635,17 +637,17 @@ Not available
 
 #
 
-# [P]
+## [P]
 
-### Title
+#### Title
 
-[Year]
+#### [Year]
 
-### [Author]
+#### [Author]
 
-#### [Citation]
+##### [Citation]
 
-### [Link]
+#### [Link]
 
 [File name] 
 
@@ -659,15 +661,15 @@ Not available
 PROFESSIONS AND EXPERTISE HOW MACHINE LEARNING AND BLOCKCHAIN ARE REDESIGNING TH.pdf
 https://repository.law.miami.edu/umlr/vol73/iss2/6/
 
-### Title
+#### Title
 
-[Year]
+#### [Year]
 
-### [Author]
+#### [Author]
 
-#### [Citation]
+##### [Citation]
 
-### [Link]
+#### [Link]
 
 [File name] 
 
@@ -681,27 +683,27 @@ https://repository.law.miami.edu/umlr/vol73/iss2/6/
 PROPOSED RULES TO DETERMINE THE LEGAL USE OF AUTONOMOUS AND SEMI-AUTONOMOUS PLAT.pdf
 https://scholarship.law.unc.edu/cgi/viewcontent.cgi?article=1362&context=ncjolt
 
-# [Q]
+## [Q]
 
 #
 
-# [R]
+## [R]
 
-## [RE] - [RO]
+### [RE] - [RO]
 
-## [RE]
+### [RE]
 
-### REGULATING ARTIFICIAL INTELLIGENCE SYSTEMS: RISKS, CHALLENGES, COMPETENCIES, AND STRATEGIES
+#### REGULATING ARTIFICIAL INTELLIGENCE SYSTEMS: RISKS, CHALLENGES, COMPETENCIES, AND STRATEGIES
 
-2016
+#### 2016
 
-### Matthew U. Scherer
+#### Matthew U. Scherer
 
-#### No recommended citation
-#### Matthew U. Scherer, REGULATING ARTIFICIAL INTELLIGENCE SYSTEMS: RISKS, CHALLENGES, COMPETENCIES, AND STRATEGIES, Harvard Journal of Law & Technology Volume 29, Number 2 (2016), pages 353-398.
-#### Available at: http://jolt.law.harvard.edu/articles/pdf/v29/29HarvJLTech353.pdf  
+##### No recommended citation
+##### Matthew U. Scherer, REGULATING ARTIFICIAL INTELLIGENCE SYSTEMS: RISKS, CHALLENGES, COMPETENCIES, AND STRATEGIES, Harvard Journal of Law & Technology Volume 29, Number 2 (2016), pages 353-398.
+##### Available at: http://jolt.law.harvard.edu/articles/pdf/v29/29HarvJLTech353.pdf  
 
-### http://jolt.law.harvard.edu/articles/pdf/v29/29HarvJLTech353.pdf
+#### http://jolt.law.harvard.edu/articles/pdf/v29/29HarvJLTech353.pdf
 
 [File name] REGULATING ARTIFICIAL INTELLIGENCE SYSTEMS RISKS CHALLENGES COMPETENCIES AND STR.pdf
 
@@ -713,16 +715,16 @@ https://scholarship.law.unc.edu/cgi/viewcontent.cgi?article=1362&context=ncjolt
 
 #
 
-### RESPONSIBLE ARTIFICIAL INTELLIGENCE
+#### RESPONSIBLE ARTIFICIAL INTELLIGENCE
 
-2019
+#### 2019
 
-### Prof. Dr. Virginia Dignum
+#### Prof. Dr. Virginia Dignum
 
-#### Prof. Dr. Virginia Dignum, RESPONSIBLE ARTIFICIAL INTELLIGENCE, UMEÅ University, Chair of Social and Ethical Artificial Intelligence - Department of Computer Science, slides presentation (2019).
+##### Prof. Dr. Virginia Dignum, RESPONSIBLE ARTIFICIAL INTELLIGENCE, UMEÅ University, Chair of Social and Ethical Artificial Intelligence - Department of Computer Science, slides presentation (2019).
 #### Available at: https://ec.europa.eu/jrc/communities/sites/jrccties/files/03_dignum_v.pdf
 
-### https://ec.europa.eu/jrc/communities/sites/jrccties/files/03_dignum_v.pdf
+#### https://ec.europa.eu/jrc/communities/sites/jrccties/files/03_dignum_v.pdf
 
 [File name] Responsible_AI.PDF
 
@@ -734,17 +736,17 @@ https://scholarship.law.unc.edu/cgi/viewcontent.cgi?article=1362&context=ncjolt
 
 #
 
-## [RO]
+### [RO]
 
-### Title
+#### Title
 
-[Year]
+#### [Year]
 
-### [Author]
+#### [Author]
 
-#### [Citation]
+##### [Citation]
 
-### [Link]
+#### [Link]
 
 [File name] 
 
@@ -762,15 +764,15 @@ Not available (only for different meanings)
 
 # [S]
 
-### Title
+#### Title
 
-[Year]
+#### [Year]
 
-### [Author]
+#### [Author]
 
-#### [Citation]
+##### [Citation]
 
-### [Link]
+#### [Link]
 
 [File name] 
 
@@ -799,19 +801,19 @@ Not available
 
 ## [WA] - [WH]
 
-## [WA]
+### [WA]
 
-### War Torts, Autonomous Weapon Systems, and Liability: Why a Limited Strict Liability Tort Regime Should Be Implemented
+#### War Torts, Autonomous Weapon Systems, and Liability: Why a Limited Strict Liability Tort Regime Should Be Implemented
 
-2019
+#### 2019
 
-### Elizabeth Fuzaylova
+#### Elizabeth Fuzaylova
 
-#### No recommended citation
-#### Elizabeth Fuzaylova, War Torts, Autonomous Weapon Systems, and Liability: Why a Limited Strict Liability Tort Regime Should Be Implemented, Cardozo Law Review, Volume 40 Issue 3 (2019).
-#### Available at: http://cardozolawreview.com/war-torts-autonomous-weapon-systems-and-liability/
+##### No recommended citation
+##### Elizabeth Fuzaylova, War Torts, Autonomous Weapon Systems, and Liability: Why a Limited Strict Liability Tort Regime Should Be Implemented, Cardozo Law Review, Volume 40 Issue 3 (2019).
+##### Available at: http://cardozolawreview.com/war-torts-autonomous-weapon-systems-and-liability/
 
-### http://cardozolawreview.com/war-torts-autonomous-weapon-systems-and-liability/
+#### http://cardozolawreview.com/war-torts-autonomous-weapon-systems-and-liability/
 
 [File name] WAR TORTS AUTONOMOUS WEAPON SYSTEMS AND LIABILITY WHY A LIMITED STRICT LIABILITY.pdf
 
@@ -823,17 +825,17 @@ Not available
 
 #
 
-### WAR TORTS: ACCOUNTABILITY FOR AUTONOMOUS WEAPONS 
+#### WAR TORTS: ACCOUNTABILITY FOR AUTONOMOUS WEAPONS 
 
-2016
+#### 2016
 
-### Rebecca Crootof
+#### Rebecca Crootof
 
-#### No recommended citation
-#### Rebecca Crootof, WAR TORTS: ACCOUNTAWBILITY FOR AUTONOMOUS WEAPONS, University of Pennsylvania Law Review, Volume 164 (2016), No. 6, pages 1347-1402.
-#### Available at: https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=9528&context=penn_law_review
+##### No recommended citation
+##### Rebecca Crootof, WAR TORTS: ACCOUNTAWBILITY FOR AUTONOMOUS WEAPONS, University of Pennsylvania Law Review, Volume 164 (2016), No. 6, pages 1347-1402.
+##### Available at: https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=9528&context=penn_law_review
 
-### https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=9528&context=penn_law_review
+#### https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=9528&context=penn_law_review
 
 [File name] 
 
@@ -845,18 +847,19 @@ Not available
 
 #
 
-## [WH]
+### [WH]
 
-### What Robots Want: Autonomous Machines, Codes and New Frontiers of Legal Responsibility
+#### What Robots Want: Autonomous Machines, Codes and New Frontiers of Legal Responsibility
 
-2013
+#### 2013
 
-### Ugo Pagallo
+#### Ugo Pagallo
 
-#### No recommended citation
-#### Ugo Pagallo, What Robots Want: Autonomous Machines, Codes and New Frontiers of Legal Responsibility, In book: Human Law and Computer Law: Comparative Perspectives (March 2013)
+##### No recommended citation
+##### Ugo Pagallo, What Robots Want: Autonomous Machines, Codes and New Frontiers of Legal Responsibility, In book: Human Law and Computer Law: Comparative Perspectives (March 2013)
+##### Available at: https://www.researchgate.net/publication/299853876_What_Robots_Want_Autonomous_Machines_Codes_and_New_Frontiers_of_Legal_Responsibility
 
-### https://www.researchgate.net/publication/299853876_What_Robots_Want_Autonomous_Machines_Codes_and_New_Frontiers_of_Legal_Responsibility
+#### https://www.researchgate.net/publication/299853876_What_Robots_Want_Autonomous_Machines_Codes_and_New_Frontiers_of_Legal_Responsibility
 
 [File name] CHAPTER 3 WHAT ROBOTS WANT AUTONOMOUS MACHINES CODES AND NEW FRONTIERS OF LEGAL.pdf
 
@@ -868,16 +871,17 @@ Not available
 
 #
 
-### When Artificial Intelligence Systems Produce Inventions: The 3A Era and an Alternative Model for Patent Law
+#### When Artificial Intelligence Systems Produce Inventions: The 3A Era and an Alternative Model for Patent Law
 
-2017 (written) - 2018 (published) - 2019 (last revised)
+#### 2017 (written) - 2018 (published) - 2019 (last revised)
 
-### Shlomit Yanisky-Ravid, Xiaoqiong (Jackie) Liu
+#### Shlomit Yanisky-Ravid, Xiaoqiong (Jackie) Liu
 
-#### Yanisky-Ravid, Shlomit and Liu, Xiaoqiong (Jackie), When Artificial Intelligence Systems Produce Inventions: The 3A Era and an Alternative Model for Patent Law (March 1, 2017). 39 Cardozo Law Review, 2215-2263 (2018). 
+##### Recommended citation
+##### Yanisky-Ravid, Shlomit and Liu, Xiaoqiong (Jackie), When Artificial Intelligence Systems Produce Inventions: The 3A Era and an Alternative Model for Patent Law (March 1, 2017). 39 Cardozo Law Review, 2215-2263 (2018). 
 #### Available at SSRN: https://ssrn.com/abstract=2931828 or http://dx.doi.org/10.2139/ssrn.2931828
 
-### https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2931828
+#### https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2931828
 
 [File name] WHEN ARTIFICIAL INTELLIGENCE SYSTEMS PRODUCE INVENTIONS AN ALTERNATIVE MODEL FOR.pdf
 
@@ -889,16 +893,17 @@ Not available
 
 #
 
-### When to Praise the Machine: The Promise and Perils of Automated Transactional Drafting
+#### When to Praise the Machine: The Promise and Perils of Automated Transactional Drafting
 
-2018
+#### 2018
 
-### William E. Foster, Andrew Lawson
+#### William E. Foster, Andrew Lawson
 
-#### Foster, William E. and Lawson, Andrew, When to Praise the Machine: The Promise and Perils of Automated Transactional Drafting (April 11, 2018). South Carolina Law Review, Forthcoming. 
-#### Available at SSRN: https://ssrn.com/abstract=3160981 or http://dx.doi.org/10.2139/ssrn.3160981
+#### Recommended citation:
+##### Foster, William E. and Lawson, Andrew, When to Praise the Machine: The Promise and Perils of Automated Transactional Drafting (April 11, 2018). South Carolina Law Review, Forthcoming. 
+##### Available at SSRN: https://ssrn.com/abstract=3160981 or http://dx.doi.org/10.2139/ssrn.3160981
 
-### https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3160981
+#### https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3160981
 
 [File name] WHEN TO PRAISE THE MACHINE THE PROMISE AND PERILS OF AUTOMATED TRANSACTIONAL DRA.pdf
 
