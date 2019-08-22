@@ -128,31 +128,25 @@ AUTONOMOUS WEAPON SYSTEMS THE POSSIBILITY AND PROBABILITY OF ACCOUNTABILITY.pdf
 
 # [B]
 
-### Title
+### Bridging the Accountability Gap: Rights for New Entities in the Information Society?
 
-[Year]
+2010
 
-### [Author]
+### Bert-Japp Koops, Mireille Hildebrandt, David-Oliver Jaquet-Chiffelle
 
-#### [Citation]
+#### Recommended Citation
+#### Bert-Japp Koops, Mireille Hildebrandt & David-Oliver Jaquet-Chiffelle, Bridging the Accountability Gap: Rights for New Entities in theInformation Society?, 11 Minn. J.L. Sci. & Tech. 497 (2010).
+#### Available at: https://scholarship.law.umn.edu/mjlst/vol11/iss2/4
 
-### [Link]
+### https://pdfs.semanticscholar.org/2086/ac846ba5b4e565951583d96062a6cb005f15.pdf
 
-[File name] 
+[File name] BRIDGING THE ACCOUNTABILITY GAP RIGHTS FOR NEW ENTITIES IN THE INFORMATION SOCIE.pdf
 
 [Brief summary of the article] - optional.
 
 >"[Relevant Quotes or highlights]"
 
 >>[Commentary or other annotations]
-
-
-
-
-Bridging the Accountability Gap: Rights for New Entities in the Information Society?
-
-BRIDGING THE ACCOUNTABILITY GAP RIGHTS FOR NEW ENTITIES IN THE INFORMATION SOCIE.pdf
-https://pdfs.semanticscholar.org/2086/ac846ba5b4e565951583d96062a6cb005f15.pdf
 
 #
 
@@ -193,39 +187,19 @@ Not available - See https://pdfs.semanticscholar.org/23e2/4725943212fe1aeb368f06
 
 ## [CO]
 
-### Title
+### TThe Co-Evolution of Autonomous Machines and Legal Responsibility
 
-[Year]
+2016
 
-### [Author]
+### Mark A. Chinen
 
-#### [Citation]
+#### Recommended Citation
+#### Mark A. Chinen, The Co-Evolution of Autonomous Machines and Legal Responsibility, 20 Va. J.L. & Tech. 338 (2016).
+#### http://digitalcommons.law.seattleu.edu/faculty/757
 
-### [Link]
+### https://digitalcommons.law.seattleu.edu/cgi/viewcontent.cgi?article=1757&context=faculty
 
-[File name] 
-
-[Brief summary of the article] - optional.
-
->"[Relevant Quotes or highlights]"
-
->>[Commentary or other annotations]
-
-
-(THE) CO-EVOLUTION OF AUTONOMOUS MACHINES AND LEGAL RESPONSIBILITY.pdf 
-https://digitalcommons.law.seattleu.edu/cgi/viewcontent.cgi?article=1757&context=faculty
-
-### Title
-
-[Year]
-
-### [Author]
-
-#### [Citation]
-
-### [Link]
-
-[File name] 
+[File name] THE CO-EVOLUTION OF AUTONOMOUS MACHINES AND LEGAL RESPONSIBILITY.pdf 
 
 [Brief summary of the article] - optional.
 
@@ -233,9 +207,27 @@ https://digitalcommons.law.seattleu.edu/cgi/viewcontent.cgi?article=1757&context
 
 >>[Commentary or other annotations]
 
+#
 
-COMPUTABLE CONTRACTS.pdf
-https://lawreview.law.ucdavis.edu/issues/46/2/articles/46-2_surden.pdf
+### Computable Contracts
+
+2012
+
+### Harry Surden
+
+#### Harry Surden, Computable Contracts, University of California, Davis, Law Review, Volume 46 (2012), pages 629-699.
+
+### https://lawreview.law.ucdavis.edu/issues/46/2/articles/46-2_surden.pdf
+
+[File name] COMPUTABLE CONTRACTS.pdf
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+#
 
 ### Title
 
@@ -261,38 +253,19 @@ Not available - See https://digitalcommons.law.msu.edu/cgi/viewcontent.cgi?artic
 and https://ipmall.law.unh.edu/sites/default/files/hosted_resources/IDEA/hristov_formatted.pdf
 and https://zenodo.org/record/2001763/files/OwnAI_PuB_CREATe.pdf
 
-### Title
+### Copyrightability of Artworks Produced by Creative Robots and Originality: The Formality-Objective Model
 
-[Year]
+2018
 
-### [Author]
+### Shlomit Yanisky-Ravid, Luis Antonio Velez- Hernandez
 
-#### [Citation]
+#### Recommended Citation
+#### Shlomit Yanisky-Ravid & Luis A. Velez- Hernandez, Copyrightability of Artworks Produced by Creative Robots and Originality: The Formality-Objective Model, 19 Minn. J.L. Sci. & Tech. 1 (2018).
+#### Available at: https://scholarship.law.umn.edu/mjlst/vol19/iss1/1
 
-### [Link]
+### https://pdfs.semanticscholar.org/1a0c/57c9b779e8af9e69d7117cd5268082772d19.pdf
 
-[File name] 
-
-[Brief summary of the article] - optional.
-
->"[Relevant Quotes or highlights]"
-
->>[Commentary or other annotations]
-
-COPYRIGHTABILITY OF ARTWORKS PRODUCED BY CREATIVE ROBOTS AND ORIGINALITY THE FOR.pdf
-https://pdfs.semanticscholar.org/1a0c/57c9b779e8af9e69d7117cd5268082772d19.pdf
-
-### Title
-
-[Year]
-
-### [Author]
-
-#### [Citation]
-
-### [Link]
-
-[File name] 
+[File name] COPYRIGHTABILITY OF ARTWORKS PRODUCED BY CREATIVE ROBOTS AND ORIGINALITY THE FOR.pdf 
 
 [Brief summary of the article] - optional.
 
@@ -300,8 +273,29 @@ https://pdfs.semanticscholar.org/1a0c/57c9b779e8af9e69d7117cd5268082772d19.pdf
 
 >>[Commentary or other annotations]
 
-COULD AI AGENTS BE HELD CRIMINALLY LIABLE ARTIFICIAL INTELLIGENCE AND THE CHALLE.pdf
-https://www.researchgate.net/publication/335107356_Could_AI_Agents_Be_Held_Criminally_Liable_Artificial_Intelligence_and_the_Challenges_for_Criminal_Law
+#
+
+### Could AI Agents Be Held Criminally Liable? Artificial Intelligence and the Challenges for Criminal Law
+
+2018
+
+### Dafni Lima
+
+#### No recommended citation
+#### Dafni Lima, Could AI Agents Be Held Criminally Liable? Artificial Intelligence and the Challenges for Criminal Law, April South Carolina law review Volume 69 (2018)
+#### Available at: https://www.researchgate.net/publication/335107356_Could_AI_Agents_Be_Held_Criminally_Liable_Artificial_Intelligence_and_the_Challenges_for_Criminal_Law
+
+### [Link] https://www.researchgate.net/publication/335107356_Could_AI_Agents_Be_Held_Criminally_Liable_Artificial_Intelligence_and_the_Challenges_for_Criminal_Law
+
+[File name] COULD AI AGENTS BE HELD CRIMINALLY LIABLE ARTIFICIAL INTELLIGENCE AND THE CHALLE.pdf
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+#
 
 ## [CR]
 
