@@ -16,11 +16,11 @@
 
 [Year]
 
-[Author]
+### [Author]
 
-[Citation]
+#### [Citation]
 
-[Link]
+### [Link]
 
 [File name] 
 
@@ -55,9 +55,9 @@
 
 ### Lynn M. LoPucki
 
-Recommended Citation
-Lynn M. LoPucki, Algorithmic Entities, 95 Wash. U. L. Rev. 887 (2018).
-Available at: https://openscholarship.wustl.edu/law_lawreview/vol95/iss4/7
+#### Recommended Citation
+#### Lynn M. LoPucki, Algorithmic Entities, 95 Wash. U. L. Rev. 887 (2018).
+#### Available at: https://openscholarship.wustl.edu/law_lawreview/vol95/iss4/7
 
 ### https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=6319&context=law_lawreview
 
@@ -83,9 +83,9 @@ ALGORITHMIC ENTITIES.pdf
 
 ### Brandon W. Jackson
 
-Recommended Citation
-Brandon W. Jackson, ARTIFICIAL INTELLIGENCE AND THE FOG OF INNOVATION: A DEEP-DIVE ON GOVERNANCE AND THE LIABILITY OF AUTONOMOUS SYSTEMS, 35 Santa Clara High Tech. L.J. 35 (2019). 
-Available at: https://digitalcommons.law.scu.edu/chtlj/vol35/iss4/1
+#### Recommended Citation
+#### Brandon W. Jackson, ARTIFICIAL INTELLIGENCE AND THE FOG OF INNOVATION: A DEEP-DIVE ON GOVERNANCE AND THE LIABILITY OF AUTONOMOUS SYSTEMS, 35 Santa Clara High Tech. L.J. 35 (2019). 
+#### Available at: https://digitalcommons.law.scu.edu/chtlj/vol35/iss4/1
 
 ### https://digitalcommons.law.scu.edu/chtlj/vol35/iss4/1/
 
@@ -109,10 +109,10 @@ ARTIFICIAL INTELLIGENCE AND THE FOG OF INNOVATION A DEEP-DIVE ON GOVERNANCE AND.
 
 ### Swati Malik
 
-No recommended citation 
-Swati Malik, AUTONOMOUS WEAPON SYSTEMS: THE POSSIBILITY AND PROBABILITY OF ACCOUNTABILITY,
+#### No recommended citation 
+#### Swati Malik, AUTONOMOUS WEAPON SYSTEMS: THE POSSIBILITY AND PROBABILITY OF ACCOUNTABILITY,
 Wisconsin International Law Journal (2018) - Pages 609-640.
-Available at: http://hosted.law.wisc.edu/wordpress/wilj/files/2018/10/Malik_Final.pdf
+#### Available at: http://hosted.law.wisc.edu/wordpress/wilj/files/2018/10/Malik_Final.pdf
 
 ### http://hosted.law.wisc.edu/wordpress/wilj/files/2018/10/Malik_Final.pdf
 
@@ -128,6 +128,29 @@ AUTONOMOUS WEAPON SYSTEMS THE POSSIBILITY AND PROBABILITY OF ACCOUNTABILITY.pdf
 
 # [B]
 
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+
+
+
+Bridging the Accountability Gap: Rights for New Entities in the Information Society?
+
 BRIDGING THE ACCOUNTABILITY GAP RIGHTS FOR NEW ENTITIES IN THE INFORMATION SOCIE.pdf
 https://pdfs.semanticscholar.org/2086/ac846ba5b4e565951583d96062a6cb005f15.pdf
 
@@ -138,6 +161,24 @@ https://pdfs.semanticscholar.org/2086/ac846ba5b4e565951583d96062a6cb005f15.pdf
 ## [CA] - [CH] - [CO] - [CR]
 
 ## [CA]
+
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
 
 Cause of Action Against Owner to Establish Abandonment of Personal Property.pdf
 Not available
@@ -152,24 +193,136 @@ Not available - See https://pdfs.semanticscholar.org/23e2/4725943212fe1aeb368f06
 
 ## [CO]
 
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+
 (THE) CO-EVOLUTION OF AUTONOMOUS MACHINES AND LEGAL RESPONSIBILITY.pdf 
 https://digitalcommons.law.seattleu.edu/cgi/viewcontent.cgi?article=1757&context=faculty
 
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+
 COMPUTABLE CONTRACTS.pdf
 https://lawreview.law.ucdavis.edu/issues/46/2/articles/46-2_surden.pdf
+
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
 
 COPYRIGHT LAW AND ARTIFICIAL INTELLIGENCE EMERGING ISSUES.pdf
 Not available - See https://digitalcommons.law.msu.edu/cgi/viewcontent.cgi?article=1199&context=lr
 and https://ipmall.law.unh.edu/sites/default/files/hosted_resources/IDEA/hristov_formatted.pdf
 and https://zenodo.org/record/2001763/files/OwnAI_PuB_CREATe.pdf
 
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
 COPYRIGHTABILITY OF ARTWORKS PRODUCED BY CREATIVE ROBOTS AND ORIGINALITY THE FOR.pdf
 https://pdfs.semanticscholar.org/1a0c/57c9b779e8af9e69d7117cd5268082772d19.pdf
+
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
 
 COULD AI AGENTS BE HELD CRIMINALLY LIABLE ARTIFICIAL INTELLIGENCE AND THE CHALLE.pdf
 https://www.researchgate.net/publication/335107356_Could_AI_Agents_Be_Held_Criminally_Liable_Artificial_Intelligence_and_the_Challenges_for_Criminal_Law
 
 ## [CR]
+
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
 
 (THE) CRIMINAL LIABILITY OF ARTIFICIAL INTELLIGENCE ENTITIES--FROM SCIENCE FICTION.pdf
 https://ideaexchange.uakron.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1037&context=akronintellectualproperty
@@ -178,12 +331,49 @@ https://ideaexchange.uakron.edu/cgi/viewcontent.cgi?referer=https://www.google.c
 
 # [D]
 
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+
 DO AUTOMATED TRADING SYSTEMS DREAM OF MANIPULATING THE PRICE OF FUTURES CONTRACT.pdf
 https://pdfs.semanticscholar.org/a17f/f5684327c5fe3c000bb956777f5616e8a6e3.pdf
 
 #
 
 # [E]
+
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
 
 Electronic agents and automated systems.pdf
 
@@ -196,6 +386,24 @@ Not available - see https://pdfs.semanticscholar.org/f5ff/faff3f9c719e22e61f78d4
 FROM DEEP BLUE TO DEEP LEARNING A QUARTER CENTURY OF PROGRESS FOR ARTIFICIAL MIN.pdf
 https://georgetownlawtechreview.org/wp-content/uploads/2017/01/Moussa-and-Windle-1-Geo.-Tech.-L.-Rev.-72-2016.pdf
 
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
 #
 
 # [G]
@@ -204,6 +412,24 @@ https://georgetownlawtechreview.org/wp-content/uploads/2017/01/Moussa-and-Windle
 
 # [H]
 
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
 HOW TO SUE A ROBOT.pdf
 https://dc.law.utah.edu/cgi/viewcontent.cgi?article=1189&context=ulr
 
@@ -211,8 +437,44 @@ https://dc.law.utah.edu/cgi/viewcontent.cgi?article=1189&context=ulr
 
 # [I]
 
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
 INTELLECTUAL PROPERTY RIGHTS FOR HUBOTS ON THE LEGAL IMPLICATIONS OF HUMAN-LIK.pdf
 https://web.a.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=07367694&AN=126247004&h=cy2NoceD%2fmeuvTiavelSvSealf0dD69ZUWgOMZcw3NzLIuX42IX3Vz%2fz%2bpRQhvsUZybPWxe4nSxG%2bX%2bMi6Mn4g%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d07367694%26AN%3d126247004
+
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
 
 (THE) IMPLICATIONS OF MODERN BUSINESS-ENTITY LAW FOR THE REGULATION OF AUTONOMOUS (1).pdf
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2758222
@@ -229,6 +491,24 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2758222
 
 # [L]
 
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
 
 LIABILITY CONSIDERATIONS WHEN AUTONOMOUS VEHICLES CHOOSE THE ACCIDENT VICTIM.pdf
 Not available - see https://www.ali.org/media/filer_public/6a/26/6a26ebc5-3dfa-4c60-b1ba-7e596819ef43/dc-656837-v1-torts_of_the_future_autonomous_emailable.pdf
@@ -241,6 +521,25 @@ https://digi.lib.ttu.ee/i/file.php?DLID=8382&t=1
 
 # [M]
 
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+
 MACHINES WITHOUT PRINCIPALS LIABILITY RULES AND ARTIFICIAL INTELLIGENCE.pdf
 http://euro.ecom.cmu.edu/program/law/08-732/AI/Vladeck.pdf
 
@@ -248,8 +547,45 @@ http://euro.ecom.cmu.edu/program/law/08-732/AI/Vladeck.pdf
 
 # [N]
 
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+
 NON-AUTONOMOUS ARTIFICIAL INTELLIGENCE PROGRAMS AND PRODUCTS LIABILITY HOW NEW A.pdf
 https://digitalcommons.law.seattleu.edu/sulr/vol42/iss3/11/
+
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
 
 NOT-SO-SMART BLOCKCHAIN CONTRACTS AND ARTIFICIAL RESPONSIBILITY.pdf
 https://www-cdn.law.stanford.edu/wp-content/uploads/2018/09/Kolber_LL_20180910.pdf
@@ -258,8 +594,46 @@ https://www-cdn.law.stanford.edu/wp-content/uploads/2018/09/Kolber_LL_20180910.p
 
 # [O]
 
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+
 OF WILD BEASTS AND DIGITAL ANALOGUES THE LEGAL STATUS OF AUTONOMOUS SYSTEMS.pdf
 https://law.unlv.edu/nevada-law-journal/vol19/wild-beasts-and-digital-analogues-legal-status-autonomous-systems-1765
+
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
 
 OPINION IMPERSONATION BOTS AND KANSAS LAW.pdf
 Not available
@@ -268,8 +642,46 @@ Not available
 
 # [P]
 
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+
 PROFESSIONS AND EXPERTISE HOW MACHINE LEARNING AND BLOCKCHAIN ARE REDESIGNING TH.pdf
 https://repository.law.miami.edu/umlr/vol73/iss2/6/
+
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
 
 PROPOSED RULES TO DETERMINE THE LEGAL USE OF AUTONOMOUS AND SEMI-AUTONOMOUS PLAT.pdf
 https://scholarship.law.unc.edu/cgi/viewcontent.cgi?article=1362&context=ncjolt
@@ -292,12 +704,49 @@ https://ec.europa.eu/jrc/communities/sites/jrccties/files/03_dignum_v.pdf
 
 ## [RO]
 
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+
 (THE) ROAD TO AUTONOMY.pdf
 Not available (only for different meanings)
 
 #
 
 # [S]
+
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
 
 SENSE SENSIBILITY AND SMART CONTRACTS A VIEW FROM A CONTRACT.pdf
 Not available
@@ -320,19 +769,110 @@ Not available
 
 ## [WA]
 
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
+
 WAR TORTS AUTONOMOUS WEAPON SYSTEMS AND LIABILITY WHY A LIMITED STRICT LIABILITY.pdf
 http://cardozolawreview.com/war-torts-autonomous-weapon-systems-and-liability/
+
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
 
 https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=9528&context=penn_law_review
 
 ## [WH]
 
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
+
 CHAPTER 3 WHAT ROBOTS WANT AUTONOMOUS MACHINES CODES AND NEW FRONTIERS OF LEGAL.pdf
 https://www.researchgate.net/publication/299853876_What_Robots_Want_Autonomous_Machines_Codes_and_New_Frontiers_of_Legal_Responsibility
+
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
 
 WHEN ARTIFICIAL INTELLIGENCE SYSTEMS PRODUCE INVENTIONS AN ALTERNATIVE MODEL FOR.pdf
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2931828
 
+### Title
+
+[Year]
+
+### [Author]
+
+#### [Citation]
+
+### [Link]
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
 
 WHEN TO PRAISE THE MACHINE THE PROMISE AND PERILS OF AUTOMATED TRANSACTIONAL DRA.pdf
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3160981
