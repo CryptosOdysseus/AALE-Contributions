@@ -96,10 +96,26 @@ ARTIFICIAL INTELLIGENCE AND THE FOG OF INNOVATION A DEEP-DIVE ON GOVERNANCE AND.
 
 #
 
-AUTONOMOUS WEAPON SYSTEMS THE POSSIBILITY AND PROBABILITY OF ACCOUNTABILITY.pdf
+### AUTONOMOUS WEAPON SYSTEMS: THE POSSIBILITY AND PROBABILITY OF ACCOUNTABILITY 
+
+2018
+
+Swati Malik
+
+No recommended citation 
+Swati Malik, AUTONOMOUS WEAPON SYSTEMS: THE POSSIBILITY AND PROBABILITY OF ACCOUNTABILITY,
+Wisconsin International Law Journal (2018) - Pages 609-640.
+Available at: http://hosted.law.wisc.edu/wordpress/wilj/files/2018/10/Malik_Final.pdf
+
 http://hosted.law.wisc.edu/wordpress/wilj/files/2018/10/Malik_Final.pdf
 
-#
+AUTONOMOUS WEAPON SYSTEMS THE POSSIBILITY AND PROBABILITY OF ACCOUNTABILITY.pdf
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>[Commentary or other annotations]
 
 # [B]
 
