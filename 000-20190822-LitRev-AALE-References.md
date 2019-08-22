@@ -36,29 +36,30 @@
 ##### Listing criteria: alphabetical order of first letter of first word of entry's title.
 ##### _If the first word is an article (The, An, A) then listing criteria applies to word immediately following the article._
 
-
 # [A]() - [B]() - [C]() - [D]() - [E]() - [F]() - [G]() - [H]() - [I]() - [J]() - [K]() - [L]() - [M]()
 # [N]() - [O]() - [P]() - [Q]() - [R]() - [S]() - [T]() - [U]() - [V]() - [W]() - [X]() - [Y]() - [Z]()
 
+#
 
-
- 
+#
  
 # [A]
 
 ## [AL] - [AR] - [AU]
 
+## [AL]
+
 ### Algorithmic Entities
 
 2018
 
-Lynn M. LoPucki
+### Lynn M. LoPucki
 
 Recommended Citation
 Lynn M. LoPucki, Algorithmic Entities, 95 Wash. U. L. Rev. 887 (2018).
 Available at: https://openscholarship.wustl.edu/law_lawreview/vol95/iss4/7
 
-https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=6319&context=law_lawreview
+### https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=6319&context=law_lawreview
 
 ALGORITHMIC ENTITIES.pdf
 
@@ -74,17 +75,19 @@ ALGORITHMIC ENTITIES.pdf
 
 #
 
+## [AR]
+
 ### ARTIFICIAL INTELLIGENCE AND THE FOG OF INNOVATION: A DEEP-DIVE ON GOVERNANCE AND THE LIABILITY OF AUTONOMOUS SYSTEMS
 
 2019
 
-Brandon W. Jackson
+### Brandon W. Jackson
 
 Recommended Citation
 Brandon W. Jackson, ARTIFICIAL INTELLIGENCE AND THE FOG OF INNOVATION: A DEEP-DIVE ON GOVERNANCE AND THE LIABILITY OF AUTONOMOUS SYSTEMS, 35 Santa Clara High Tech. L.J. 35 (2019). 
 Available at: https://digitalcommons.law.scu.edu/chtlj/vol35/iss4/1
 
-https://digitalcommons.law.scu.edu/chtlj/vol35/iss4/1/
+### https://digitalcommons.law.scu.edu/chtlj/vol35/iss4/1/
 
 ARTIFICIAL INTELLIGENCE AND THE FOG OF INNOVATION A DEEP-DIVE ON GOVERNANCE AND.pdf
 
@@ -96,18 +99,22 @@ ARTIFICIAL INTELLIGENCE AND THE FOG OF INNOVATION A DEEP-DIVE ON GOVERNANCE AND.
 
 #
 
+## [AU]
+
+## 
+
 ### AUTONOMOUS WEAPON SYSTEMS: THE POSSIBILITY AND PROBABILITY OF ACCOUNTABILITY 
 
 2018
 
-Swati Malik
+### Swati Malik
 
 No recommended citation 
 Swati Malik, AUTONOMOUS WEAPON SYSTEMS: THE POSSIBILITY AND PROBABILITY OF ACCOUNTABILITY,
 Wisconsin International Law Journal (2018) - Pages 609-640.
 Available at: http://hosted.law.wisc.edu/wordpress/wilj/files/2018/10/Malik_Final.pdf
 
-http://hosted.law.wisc.edu/wordpress/wilj/files/2018/10/Malik_Final.pdf
+### http://hosted.law.wisc.edu/wordpress/wilj/files/2018/10/Malik_Final.pdf
 
 AUTONOMOUS WEAPON SYSTEMS THE POSSIBILITY AND PROBABILITY OF ACCOUNTABILITY.pdf
 
@@ -116,6 +123,8 @@ AUTONOMOUS WEAPON SYSTEMS THE POSSIBILITY AND PROBABILITY OF ACCOUNTABILITY.pdf
 >"[Relevant Quotes or highlights]"
 
 >>[Commentary or other annotations]
+
+#
 
 # [B]
 
