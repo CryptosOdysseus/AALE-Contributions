@@ -110,8 +110,7 @@ ARTIFICIAL INTELLIGENCE AND THE FOG OF INNOVATION A DEEP-DIVE ON GOVERNANCE AND.
 ### Swati Malik
 
 #### No recommended citation 
-#### Swati Malik, AUTONOMOUS WEAPON SYSTEMS: THE POSSIBILITY AND PROBABILITY OF ACCOUNTABILITY,
-Wisconsin International Law Journal (2018) - Pages 609-640.
+#### Swati Malik, AUTONOMOUS WEAPON SYSTEMS: THE POSSIBILITY AND PROBABILITY OF ACCOUNTABILITY,Wisconsin International Law Journal (2018) - Pages 609-640.
 #### Available at: http://hosted.law.wisc.edu/wordpress/wilj/files/2018/10/Malik_Final.pdf
 
 ### http://hosted.law.wisc.edu/wordpress/wilj/files/2018/10/Malik_Final.pdf
@@ -195,7 +194,7 @@ Not available - See https://pdfs.semanticscholar.org/23e2/4725943212fe1aeb368f06
 
 #### Recommended Citation
 #### Mark A. Chinen, The Co-Evolution of Autonomous Machines and Legal Responsibility, 20 Va. J.L. & Tech. 338 (2016).
-#### http://digitalcommons.law.seattleu.edu/faculty/757
+#### Available at: http://digitalcommons.law.seattleu.edu/faculty/757
 
 ### https://digitalcommons.law.seattleu.edu/cgi/viewcontent.cgi?article=1757&context=faculty
 
@@ -690,51 +689,46 @@ https://scholarship.law.unc.edu/cgi/viewcontent.cgi?article=1362&context=ncjolt
 
 ## [RE]
 
-### Title
+### REGULATING ARTIFICIAL INTELLIGENCE SYSTEMS: RISKS, CHALLENGES, COMPETENCIES, AND STRATEGIES
 
-[Year]
+2016
 
-### [Author]
+### Matthew U. Scherer
 
-#### [Citation]
+#### No recommended citation
+#### Matthew U. Scherer, REGULATING ARTIFICIAL INTELLIGENCE SYSTEMS: RISKS, CHALLENGES, COMPETENCIES, AND STRATEGIES, Harvard Journal of Law & Technology Volume 29, Number 2 (2016), pages 353-398.
+#### Available at: http://jolt.law.harvard.edu/articles/pdf/v29/29HarvJLTech353.pdf  
 
-### [Link]
+### http://jolt.law.harvard.edu/articles/pdf/v29/29HarvJLTech353.pdf
 
-[File name] 
+[File name] REGULATING ARTIFICIAL INTELLIGENCE SYSTEMS RISKS CHALLENGES COMPETENCIES AND STR.pdf
 
 [Brief summary of the article] - optional.
 
 >"[Relevant Quotes or highlights]"
 
 >>[Commentary or other annotations]
-
-
-REGULATING ARTIFICIAL INTELLIGENCE SYSTEMS RISKS CHALLENGES COMPETENCIES AND STR.pdf
-http://jolt.law.harvard.edu/articles/pdf/v29/29HarvJLTech353.pdf
-
 
 #
 
-### Title
+### RESPONSIBLE ARTIFICIAL INTELLIGENCE
 
-[Year]
+2019
 
-### [Author]
+### Prof. Dr. Virginia Dignum
 
-#### [Citation]
+#### Prof. Dr. Virginia Dignum, RESPONSIBLE ARTIFICIAL INTELLIGENCE, UMEÅ University, Chair of Social and Ethical Artificial Intelligence - Department of Computer Science, slides presentation (2019).
+#### Available at: https://ec.europa.eu/jrc/communities/sites/jrccties/files/03_dignum_v.pdf
 
-### [Link]
+### https://ec.europa.eu/jrc/communities/sites/jrccties/files/03_dignum_v.pdf
 
-[File name] 
+[File name] Responsible_AI.PDF
 
 [Brief summary of the article] - optional.
 
 >"[Relevant Quotes or highlights]"
 
 >>[Commentary or other annotations]
-
-Responsible_AI.PDF
-https://ec.europa.eu/jrc/communities/sites/jrccties/files/03_dignum_v.pdf
 
 #
 
