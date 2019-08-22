@@ -583,27 +583,24 @@ Adam J. Kolber*
 
 ## [O]
 
-#### Title
+#### Of Wild Beasts and Digital Analogues: The Legal Status of Autonomous Systems
 
-#### [Year]
+#### 2018
 
-#### [Author]
+#### Matthew U. Scherer
 
-##### [Citation]
+##### Recommended Citation
+##### Matthew U. Scherer, Of Wild Beasts and Digital Analogues: The Legal Status of Autonomous Systems, 19 Nev. L.J. 259 (2018).
 
-#### [Link]
+#### https://law.unlv.edu/nevada-law-journal/vol19/wild-beasts-and-digital-analogues-legal-status-autonomous-systems-1765
 
-[File name] 
+[File name] OF WILD BEASTS AND DIGITAL ANALOGUES THE LEGAL STATUS OF AUTONOMOUS SYSTEMS.pdf
 
 [Brief summary of the article] - optional.
 
 >"[Relevant Quotes or highlights]"
 
 >>[Commentary or other annotations]
-
-
-OF WILD BEASTS AND DIGITAL ANALOGUES THE LEGAL STATUS OF AUTONOMOUS SYSTEMS.pdf
-https://law.unlv.edu/nevada-law-journal/vol19/wild-beasts-and-digital-analogues-legal-status-autonomous-systems-1765
 
 #
 
@@ -629,17 +626,19 @@ https://law.unlv.edu/nevada-law-journal/vol19/wild-beasts-and-digital-analogues-
 
 ## [P]
 
-#### Title
+#### Professions and Expertise: How Machine Learning and Blockchain Are Redesigning the Landscape of Professional Knowledge and Organization
 
-#### [Year]
+#### 2019
 
-#### [Author]
+#### John Flood, Lachlan Robb 
 
-##### [Citation]
+##### Recommended Citation
+##### John Flood and Lachlan Robb, Professions and Expertise: How Machine Learning and Blockchain Are Redesigning the Landscape of Professional Knowledge and Organization, 73 U. Miami L. Rev. 443 (2019) 
+##### Available at: https://repository.law.miami.edu/umlr/vol73/iss2/6
 
 #### [Link]
 
-[File name] 
+[File name] PROFESSIONS AND EXPERTISE HOW MACHINE LEARNING AND BLOCKCHAIN ARE REDESIGNING TH.pdf
 
 [Brief summary of the article] - optional.
 
@@ -647,21 +646,21 @@ https://law.unlv.edu/nevada-law-journal/vol19/wild-beasts-and-digital-analogues-
 
 >>[Commentary or other annotations]
 
+#
 
-PROFESSIONS AND EXPERTISE HOW MACHINE LEARNING AND BLOCKCHAIN ARE REDESIGNING TH.pdf
-https://repository.law.miami.edu/umlr/vol73/iss2/6/
+#### Proposed Rules to Determine the Legal Use of Autonomous and Semi-Autonomous Platforms in Domestic U.S. Law Enforcement
 
-#### Title
+#### 2018
 
-#### [Year]
+#### Michael Sinclair
 
-#### [Author]
+##### Recommended Citation
+##### Michael Sinclair, Proposed Rules to Determine the Legal Use of Autonomous and Semi-Autonomous Platforms in Domestic U.S. Law Enforcement, 20 N.C. J.L. & Tech. 1 (2018).
+##### Available at: https://scholarship.law.unc.edu/ncjolt/vol20/iss1/1
 
-##### [Citation]
+#### https://scholarship.law.unc.edu/cgi/viewcontent.cgi?article=1362&context=ncjolt
 
-#### [Link]
-
-[File name] 
+[File name] PROPOSED RULES TO DETERMINE THE LEGAL USE OF AUTONOMOUS AND SEMI-AUTONOMOUS PLAT.pdf
 
 [Brief summary of the article] - optional.
 
@@ -669,9 +668,7 @@ https://repository.law.miami.edu/umlr/vol73/iss2/6/
 
 >>[Commentary or other annotations]
 
-
-PROPOSED RULES TO DETERMINE THE LEGAL USE OF AUTONOMOUS AND SEMI-AUTONOMOUS PLAT.pdf
-https://scholarship.law.unc.edu/cgi/viewcontent.cgi?article=1362&context=ncjolt
+#
 
 ## [Q]
 
@@ -768,8 +765,7 @@ https://scholarship.law.unc.edu/cgi/viewcontent.cgi?article=1362&context=ncjolt
 
 >>[Commentary or other annotations]
 
-SENSE SENSIBILITY AND SMART CONTRACTS A VIEW FROM A CONTRACT.pdf
-Not available
+#
 
 ## [T] 
  
