@@ -63,11 +63,11 @@ ALGORITHMIC ENTITIES.pdf
 
 [Brief summary of the article] 
 
-Page 1 **Marked text: AALE is a great threat if/when no human controllers.**
+- Page 1 **Marked text: AALE is a great threat if/when no human controllers.**
 
 >"This Article argues that algorithmic entities--legal entities that have no human controllers--greatly exacerbate the threat of artificial intelligence"
 
-Page 1: **Marked text: Reasons why AALE with no human controller are a threat**
+- Page 1: **Marked text: Reasons why AALE with no human controller are a threat**
 
 >"Algorithmic entities are likely to prosper first and most in criminal, terrorist, and other anti-social activities because that is where they have their greatest comparative advantage over human-controlled entities. Control of legal entities will contribute to the threat algorithms pose by providing them with identities. Those identities will enable them to conceal their algorithmic natures while they participate in commerce, accumulate wealth, and carry out anti-social activities."
 
