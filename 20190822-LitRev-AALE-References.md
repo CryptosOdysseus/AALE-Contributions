@@ -1,15 +1,8 @@
-# ALMOST THERE
+# Literature Review
 
-# ADD MORE NEW REFERENCES
+# Automated or Autonomous Legal Entities
 
-### LETTERS LINKS DONE & WORKING
-
-
-(# Literature Review
-
-(# Automated or Autonomous Legal Entities
-
-(## References List & Article Summaries
+## References List & Article Summaries
 
 #
 
