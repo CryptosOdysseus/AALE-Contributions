@@ -2,7 +2,7 @@
 
 # ADD MORE NEW REFERENCES
 
-# FIX THE LINKS BETWEEN LETTERS
+### LETTERS LINKS DONE & WORKING
 
 
 (# Literature Review
@@ -258,6 +258,30 @@
 
 #
 
+#### Company Law and Autonomous Systems: A Blueprint for Lawyers, Entrepreneurs, and Regulators
+
+#### 2017
+
+#### Shawn Bayern, Thomas Burri, Thomas D. Grant, Daniel M. Häusermann, Florian Möslein et al.
+
+##### Recommended Citation
+##### Shawn Bayern, Thomas Burri, Thomas D. Grant, Daniel M. Häusermann, Florian Möslein, and Richard Williams, Company Law and Autonomous Systems: A Blueprint for Lawyers, Entrepreneurs, and Regulators, 9 HastingsInt'l & Comp.L. Rev. 135 (2017).
+##### Available at: http://repository.uchastings.edu/hastings_science_technology_law_journal/vol9/iss2/1
+
+#### https://pdfs.semanticscholar.org/1349/612d2929ef34aba57dd55ec44ac4dc333c98.pdf
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>This is a follow-up team work to Shawn Bayern's 2015 paper and Daniel M. Häusermann's 2016 initial response:
+>>Bayern, Shawn J., The Implications of Modern Business-Entity Law for the Regulation of Autonomous Systems (Octobert 31, 2015). 19 Stanford Technology Law Review 93 (2015); FSU College of Law, Public Law Research Paper No. 797; FSU College of Law, Law, Business & Economics Paper No. 797. Available at SSRN: https://ssrn.com/abstract=2758222
+>>Häusermann, Daniel Markus, Memberless Legal Entities Operated by Autonomous Systems - Some Thoughts on Shawn Bayern's Article 'The Implications of Modern Business-Entity Law for the Regulation of Autonomous Systems' from a Swiss Law Perspective (August 13, 2016). U. of St.Gallen Law & Economics Working Paper No. 2016-06. Available at SSRN: https://ssrn.com/abstract=2827504 or http://dx.doi.org/10.2139/ssrn.2827504
+
+#
+
 #### Computable Contracts
 
 #### 2012
@@ -265,7 +289,7 @@
 #### Harry Surden
 
 ##### No recommended citation
-##### Harry Surden, Computable Contracts, University of California, Davis, Law Review, Volume 46 (2012), pages 629-699.
+##### Harry Surden, Computable Contracts, University of California Davis Law Review, Volume 46 (2012), pages 629-699.
 ##### Available at: https://lawreview.law.ucdavis.edu/issues/46/2/articles/46-2_surden.pdf
 
 #### https://lawreview.law.ucdavis.edu/issues/46/2/articles/46-2_surden.pdf
@@ -590,7 +614,8 @@
 #### Shawn Bayern
 
 ##### Recommended citation
-##### Bayern, Shawn J., The Implications of Modern Business-Entity Law for the Regulation of Autonomous Systems (Octobert 31, 2015). 19 Stanford Technology Law Review 93 (2015); FSU College of Law, Public Law Research Paper No. 797; FSU College of Law, Law, Business & Economics Paper No. 797. Available at SSRN: https://ssrn.com/abstract=2758222
+##### Bayern, Shawn J., The Implications of Modern Business-Entity Law for the Regulation of Autonomous Systems (Octobert 31, 2015). 19 Stanford Technology Law Review 93 (2015); FSU College of Law, Public Law Research Paper No. 797; FSU College of Law, Law, Business & Economics Paper No. 797. 
+##### Available at SSRN: https://ssrn.com/abstract=2758222
 
 #### https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2758222
 
@@ -656,6 +681,8 @@
 
 >>[Commentary or other annotations]
 
+#
+
 ## [M]
 
 #### MACHINES WITHOUT PRINCIPALS: LIABILITY RULES AND ARTIFICIAL INTELLIGENCE
@@ -677,6 +704,31 @@
 >"[Relevant Quotes or highlights]"
 
 >>[Commentary or other annotations]
+
+#
+
+#
+
+#### Memberless Legal Entities Operated by Autonomous Systems - Some Thoughts on Shawn Bayern's Article 'The Implications of Modern Business-Entity Law for the Regulation of Autonomous Systems' from a Swiss Law Perspective
+
+#### 2016
+
+#### Daniel M. Häusermann
+
+##### Recommended Citation
+##### Häusermann, Daniel Markus, Memberless Legal Entities Operated by Autonomous Systems - Some Thoughts on Shawn Bayern's Article 'The Implications of Modern Business-Entity Law for the Regulation of Autonomous Systems' from a Swiss Law Perspective (August 13, 2016). U. of St.Gallen Law & Economics Working Paper No. 2016-06. 
+##### Available at SSRN: https://ssrn.com/abstract=2827504 or http://dx.doi.org/10.2139/ssrn.2827504
+
+#### https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2827504
+
+[File name] 
+
+[Brief summary of the article] - optional.
+
+>"[Relevant Quotes or highlights]"
+
+>>This is a response to Shawn Bayern's 2015 work:
+>>Bayern, Shawn J., The Implications of Modern Business-Entity Law for the Regulation of Autonomous Systems (Octobert 31, 2015). 19 Stanford Technology Law Review 93 (2015); FSU College of Law, Public Law Research Paper No. 797; FSU College of Law, Law, Business & Economics Paper No. 797. Available at SSRN: https://ssrn.com/abstract=2758222
 
 #
 
