@@ -54,7 +54,7 @@
 
 #
 
-### [AL] - [AR] - [AU]
+### [AL](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/000-20190822-LitRev-AALE-References.md#al) - [AR](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/000-20190822-LitRev-AALE-References.md#ar) - [AU](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/000-20190822-LitRev-AALE-References.md#au)
 
 ### [AL]
 
@@ -210,7 +210,7 @@
 
 #
 
-### [CA] - [CH] - [CO] - [CR]
+### [CA](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/000-20190822-LitRev-AALE-References.md#ca) - [CH](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/000-20190822-LitRev-AALE-References.md#ch) - [CO](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/000-20190822-LitRev-AALE-References.md#co) - [CR](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/000-20190822-LitRev-AALE-References.md#cr)
 
 ### [CA]
 
@@ -844,7 +844,7 @@ Adam J. Kolber*
 
 ## [R]
 
-### [RE] - [RO]
+### [RE](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/000-20190822-LitRev-AALE-References.md#re) - [RO](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/000-20190822-LitRev-AALE-References.md#ro)
 
 ### [RE]
 
@@ -971,7 +971,7 @@ Adam J. Kolber*
 
 ## [W] 
 
-### [WA] - [WH]
+### [WA](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/000-20190822-LitRev-AALE-References.md#wa) - [WH](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/000-20190822-LitRev-AALE-References.md#wh)
 
 ### [WA]
 
