@@ -229,7 +229,7 @@
 
 ### [CO]
 
-#### TThe Co-Evolution of Autonomous Machines and Legal Responsibility
+#### The Co-Evolution of Autonomous Machines and Legal Responsibility
 
 #### 2016
 
@@ -270,7 +270,9 @@
 >"[Relevant Quotes or highlights]"
 
 >>This is a follow-up team work to Shawn Bayern's 2015 paper and Daniel M. Häusermann's 2016 initial response:
+>>
 >>Bayern, Shawn J., The Implications of Modern Business-Entity Law for the Regulation of Autonomous Systems (Octobert 31, 2015). 19 Stanford Technology Law Review 93 (2015); FSU College of Law, Public Law Research Paper No. 797; FSU College of Law, Law, Business & Economics Paper No. 797. Available at SSRN: https://ssrn.com/abstract=2758222
+>>
 >>Häusermann, Daniel Markus, Memberless Legal Entities Operated by Autonomous Systems - Some Thoughts on Shawn Bayern's Article 'The Implications of Modern Business-Entity Law for the Regulation of Autonomous Systems' from a Swiss Law Perspective (August 13, 2016). U. of St.Gallen Law & Economics Working Paper No. 2016-06. Available at SSRN: https://ssrn.com/abstract=2827504 or http://dx.doi.org/10.2139/ssrn.2827504
 
 #
