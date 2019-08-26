@@ -2,7 +2,56 @@
 # 000-20190825-SALI-LMSS-usability-for-AALE.md
 # WORK IN PROGRESS
 
-## SALI Legal Matter Standard Update Presentation (June 2018)
+(# SALI Alliance - LMSS Legal matter Specifciation Standard Draft Project: 
+(# Relevance and Usability for our AALE Challenge.
+
+The below Part A contains our observations on the relevance and usability of SALI-LMSS for our AALE Challenge.
+
+Parts B to XXXXXXX are a reproduction of SALI LMSS draft and other working and demonstration materials, including tables, chats and sample coding. For sake of ease of use, we wanted to have them all regrouped kin one GitHub file to start with.
+
+(## The main reference document here is Draft Legal Matter Specification Standard (LMSS) 1.0, Rev 2 (June 2019)
+(### https://salilegal.org/sali3/docs/SALI%20LMSS%201.0%20rev2c.pdf?1566567194
+(### Version Revision 2c - Last Update: 2019-06-08 - SALI Matter Specification Committee - Adam L. Stock
+(#
+(#### © Copyright 2019 Standards Advancement for the Legal Industry Alliance - This SALI-LMSS work is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License
+#
+
+
+With its efficient & cost-conscious, productivity & performance streamlining oriented approach, this SALI-LMSS draft tool should be quite attractive for professionals and senior decision makers. Also for its well explained, intuitive ease of use and clear-cut BPM approach, in the context of practicing Law and/or providing alternative Legal services, it has our vote.
+
+No mind-stretching decentralized thinking, yet, there, we're talking about BPM that is usable, now, within the still dominant paper paradigm of a heavily structured, old-fashioned legal profession. 
+
+While SALI-LMSS attributes (tree-based structured, hierarchical, objects and parameters based) may not sound too earth-shattering (one could argue on reality-reduction by hierarchy, parameters, and language), they hold a clear advantage of functioning in an intelligible, digestible and palastable way, so that we can start working on training wheels and build up complexity from there. 
+
+We won't speculate whether SALI-LMSS tool will ultimately nail the standard, or even if there will be "a" standard, but to us it sounds like a move in "a" (if not "the") right direction. Furthermore, we are intrigued by SALI-LMSS'possible relevance and usability for our AALE challenge, as we like what this draft tool does, and because it could do even more with some flexible and modular extensions, having been conceived with that mindset.
+
+In [Part A](), we look at ....
+
+In [Part B - SALI Legal Matter Standard Update Presentation (June 2018)](),  xxxx
+
+In [Part C - Draft Legal Matter Specification Standard (LMSS) 1.0, Rev 2 (June 2019)](), look at the draft tool details, starting with a [Table of Contents]() that links to the full [Body]() of the SALI-LMSS draft tool 
+
+In [Part D](), we list 
+
+In [Part E]()
+
+TALK ABOUT SAMPLE CODING
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Part B - SALI Legal Matter Standard Update Presentation (June 2018)
 #### https://salilegal.org/sali3/docs/SALI%20Matter%20Standard%20Updates%202018-06-21.pdf
 #
 
@@ -92,7 +141,7 @@ INSERT TREE
 
 #
 #
-## Draft Legal Matter Specification Standard (LMSS) 1.0, Rev 2 (June 2019)
+## Part C - Draft Legal Matter Specification Standard (LMSS) 1.0, Rev 2 (June 2019)
 ### https://salilegal.org/sali3/docs/SALI%20LMSS%201.0%20rev2c.pdf?1566567194
 ### Version Revision 2c - Last Update: 2019-06-08 - SALI Matter Specification Committee - Adam L. Stock
 #
