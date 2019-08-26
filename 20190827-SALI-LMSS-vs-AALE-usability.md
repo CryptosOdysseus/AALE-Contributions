@@ -67,10 +67,11 @@ For the 2017 Zeitgeist around the conception of the SALI-LMSS draft tool at the 
 
 In [Part C - Draft Legal Matter Specification Standard (LMSS) 1.0, Rev 2 (June 2019)](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-c---draft-legal-matter-specification-standard-lmss-10-rev-2-june-2019), we look at the draft tool details, starting with a [Table of Contents](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#table-of-contents---draft-legal-matter-specification-standard-lmss-10-rev-2-june-2019) that links to the full [Body](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#body-of-draft-legal-matter-specification-standard-lmss-10-rev-2-june-2019) of the SALI-LMSS draft tool.
 
-In [Part D](), we include the fully expanded SALI LMSS tree structure (also shown in Part B) and list detailed parameters of SALI LMSS structure and code browsers.
+In [Part D](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-d---fully-expanded-sali-lmss-tree-structure-and-detailed-parameters-of-sali-lmss-structure-and-code-browsers), we include the fully expanded SALI LMSS tree structure (also shown in Part B) and list detailed parameters of SALI LMSS structure and code browsers.
 
-In [Part E](), we list other detailed examples of coding (https://salilegal.org/sali3/docs/LMSS%20Examples.pdf?1566567194), in addition to the sample coding already provided in the [Body](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#body-of-draft-legal-matter-specification-standard-lmss-10-rev-2-june-2019) of [Part C](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-c---draft-legal-matter-specification-standard-lmss-10-rev-2-june-2019).
+In [Part E](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-e---additional-samples-of-sali-lmss-coding), we list other detailed examples of coding (reference: https://salilegal.org/sali3/docs/LMSS%20Examples.pdf?1566567194), in addition to the sample coding already provided in the [Body](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#body-of-draft-legal-matter-specification-standard-lmss-10-rev-2-june-2019) of [Part C](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-c---draft-legal-matter-specification-standard-lmss-10-rev-2-june-2019).
 
+#
 #
 
 ## Part A - Relevance and Usability of SALI-LMSS for our AALE Challenge
@@ -101,7 +102,7 @@ NON HIERARCHICAL FEATURESQAQ
 TALK ABOUT CHARTING COLLAPSIBLE TREES 
 
 
-
+#
 #
 
 ## Part B - SALI Legal Matter Standard Update Presentation (June 2018)
