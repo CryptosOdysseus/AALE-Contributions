@@ -93,95 +93,97 @@ INSERT TREE
 #
 ## Draft Legal Matter Specification Standard (LMSS) 1.0, Rev 2 (June 2019)
 ### https://salilegal.org/sali3/docs/SALI%20LMSS%201.0%20rev2c.pdf?1566567194
+### Version Revision 2c - Last Update: 2019-06-08 - SALI Matter Specification Committee - Adam L. Stock
 #
-#
-#
-DRAFT Legal Matter Specification Standard (LMSS), Rev. 2
-Version Revision 2c - Last Update: 2019-06-08 - SALI Matter Specification Committee - Adam L. Stock
-
 #### © Copyright 2019 Standards Advancement for the Legal Industry Alliance - This work is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License
+#
+#
+## [Table of Contents - Draft Legal Matter Specification Standard (LMSS) 1.0, Rev 2 (June 2019)]()
+#
+## [1 Overview]()  
+### [1.1 What do we mean by a “legal matter”?]() 
+### [1.2 What do we mean by the “legal matter lifecycle”?]()  
+### [1.3 What are the components of the LMSS?]()  
+#
+## [2 Design Principles]()  
+### [2.1 Player/Viewer independence]()  
+### [2.2 Successive refinement and additive coding]()   
+### [2.3 Standards based]()  
+### [2.4 Extensible]()  
+### [2.5 Agile approach]()  
+#
+## [3 Legal Matter Specification (LMSS) Components]()  
+### [3.1 LMSS Structure]()  
+### [3.2 LMSS Allowed Values]()  
+#### [3.2.1 Enumerated Values]()  
+#### [3.2.2 Text Values]()  
+#### [3.2.3 Numeric Values]()  
+### [3.3 Dependencies]()  
+### [3.4 LMSS Encodings]()  
+### [3.5 Extensions to the LMSS Codes]()  
+#### [3.5.1 Extension Example]()  
+#
+## [4 Structure of LMSS Document]()   
+### [4.1 Overview]()  
+### [4.2 Document]()  
+### [4.3 Document Header]()  
+#### [4.3.1 Title]()  
+#### [4.3.2 Version]()  
+#### [4.3.3 Type]()  
+#### [4.3.4 Language]()  
+#### [4.3.5 Charset]()  
+#### [4.3.6 Extension Link]()  
+### [4.4 Extension]()  
+#### [4.4.1 Code Set]()  
+#### [4.4.2 Code]()  
+#### [4.4.3 Parent]()  
+#### [4.4.4 Name]()  
+### [4.5 Declaration]()  
+#### [4.5.1 NameID]()  
+#### [4.5.2 Name]()  
+### [4.6 Matter]()  
+#### [4.6.1 Title]()  
+#### [4.6.2 Locale]()  
+### [4.7 Narrative]()  
+#### [4.7.1 Type]()  
+#### [4.7.2 Usage]()  
+#### [4.7.3 Source]()  
+### [4.8 Description]()  
+#### [4.8.1 Text]()  
+#### [4.8.2 Format]()  
+#### [4.8.3 Language]()  
+### [4.9 Process]()  
+#### [4.9.1 Title]()  
+#### [4.9.2 Description]()  
+#### [4.9.3 Process Type]()  
+#### [4.9.4 Area of Law]()  
+### [4.10 Player]() 
+#### [4.10.1 Name]()  
+#### [4.10.2 Player Role]()  
+#### [4.10.4 Legal Entity]()  
+#### [4.10.5 Governmental Authority]()  
+### [4.11 Counsel]()  
+#### [4.11.1 Name]()  
+#### [4.11.2 Firm Name]()  
+#### [4.11.3 Representation Role]()  
+### [4.12 Process Object]()  
+### [4.13 Monetary Value]() 
+#
+## [5 The Legal Matter Application Programming Interfaces (APIs)]()  
+### [5.1 LMSS Instance]()  
+### [5.2 LMSS Queries]()  
+#### [5.2.1 LMSS Query WHERE Clauses]()  
+#### [5.2.2 LMSS Query SELECT Statements]()  
+### [5.3 LMSS UI/Synch API]()  
+#
+## [6 Code Sets]()  
+### [6.1 Code Set Types]()  
 
-## Contents
 #
-## 1 Overview  
-### 1.1 What do we mean by a “legal matter”?  
-### 1.2 What do we mean by the “legal matter lifecycle”?  
-### 1.3 What are the components of the LMSS?  
-#
-## 2 Design Principles  
-### 2.1 Player/Viewer independence  
-### 2.2 Successive refinement and additive coding   
-### 2.3 Standards based  
-### 2.4 Extensible  
-### 2.5 Agile approach  
-#
-## 3 Legal Matter Specification (LMSS) Components  
-### 3.1 LMSS Structure  
-### 3.2 LMSS Allowed Values  
-#### 3.2.1 Enumerated Values  
-#### 3.2.2 Text Values  
-#### 3.2.3 Numeric Values  
-### 3.3 Dependencies  
-### 3.4 LMSS Encodings  
-### 3.5 Extensions to the LMSS Codes  
-#### 3.5.1 Extension Example  
-#
-## 4 Structure of LMSS Document   
-### 4.1 Overview  
-### 4.2 Document  
-### 4.3 Document Header  
-#### 4.3.1 Title  
-#### 4.3.2 Version  
-#### 4.3.3 Type  
-#### 4.3.4 Language  
-#### 4.3.5 Charset  
-#### 4.3.6 Extension Link  
-### 4.4 Extension  
-#### 4.4.1 Code Set  
-#### 4.4.2 Code  
-#### 4.4.3 Parent  
-#### 4.4.4 Name  
-### 4.5 Declaration  
-#### 4.5.1 NameID  
-#### 4.5.2 Name  
-### 4.6 Matter  
-#### 4.6.1 Title  
-#### 4.6.2 Locale  
-### 4.7 Narrative  
-#### 4.7.1 Type  
-#### 4.7.2 Usage  
-#### 4.7.3 Source  
-### 4.8 Description  
-#### 4.8.1 Text  
-#### 4.8.2 Format  
-#### 4.8.3 Language  
-### 4.9 Process  
-#### 4.9.1 Title  
-#### 4.9.2 Description  
-#### 4.9.3 Process Type  
-#### 4.9.4 Area of Law  
-### 4.10 Player  
-#### 4.10.1 Name  
-#### 4.10.2 Player Role  
-#### 4.10.4 Legal Entity  
-#### 4.10.5 Governmental Authority  
-### 4.11 Counsel  
-#### 4.11.1 Name  
-#### 4.11.2 Firm Name  
-#### 4.11.3 Representation Role  
-### 4.12 Process Object  
-### 4.13 Monetary Value 
-#
-## 5 The Legal Matter Application Programming Interfaces (APIs)  
-### 5.1 LMSS Instance  
-### 5.2 LMSS Queries  
-#### 5.2.1 LMSS Query WHERE Clauses  
-#### 5.2.2 LMSS Query SELECT Statements  
-### 5.3 LMSS UI/Synch API  
-#
-## 6 Code Sets  
-### 6.1 Code Set Types  
 
+# Body of Draft Legal Matter Specification Standard (LMSS) 1.0, Rev 2 (June 2019)
+
+#
 
 ## 1 Overview
 
