@@ -1210,5 +1210,180 @@ This described a selected sample of SALI LMSS Value encoding, starting from the 
 ![SALI-LMSS-Representative-Role-LCOUN](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/Image-of-SALI-LMSS-Code-Browser-LCOUN.png)
 
 
+# MORE CODING SAMPLES
+
+#### Guess the LMSS 01
+
+```
+
+{
+    "document" : {
+        "header" : {
+            "lmss type" : "QRY" //Query
+            ,"lmss version" : "1.02" //Draft LMSS 1.0 Rev 2
+            ,"language" : "en-us"
+            ,"charset" : "UTF-8"
+        }
+        ,"matter" : {
+            "locale" : "NAM-US-US+RI" //North America:United States of America (the):Rhode Island
+            ,"process" : {
+                "process type" : "B-USCHAP11" //Restructuring/Bankruptcy:US Chapter 11
+                ,"area of law" : "BKCY" //Bankruptcy and Restructuring
+                ,"player" : {
+                    "player role" : "DEBT" //Debtor
+                    ,"legal entity" : "ENTITY-LLC" //Entity:Limited Liability Company
+                    ,"counsel" : {
+                        "firm name" : "Dewey Stockbridge"
+                        ,"representation role" : "COUN" //Counsel/Attorney
+                    }
+                }
+            }
+        }
+    }
+}
+
+```
 #
+
+#### Guess the LMSS 02
+
+```
+
+{
+    "document" : {
+        "header" : {
+            "lmss type" : "INST" //Instance
+            ,"lmss version" : "1.02" //Draft LMSS 1.0 Rev 2
+            ,"language" : "en-us"
+            ,"charset" : "UTF-8"
+        }
+        ,"matter" : {
+            "locale" : "NAM-US-US+CA" //North America:United States of America (the):California
+            ,"process" : {
+                "process type" : "D-CCI" //Dispute:Court Proceeding, Civil
+                ,"area of law" : "INTP-PATE" //Intellectual Property Law:Patent Law
+                ,"player" : [{
+                    "name" : "Apple Inc."
+                    ,"player role" : "PLTF" //Plaintiff
+                    ,"legal entity" : "ENTITY-CORP" //Entity:Corporation
+                    ,"industry" : "TEC" //Technology
+                }
+                ,{
+                    "name" : "Samsung Electronics Co. Ltd."
+                    ,"player role" : "DEFT" //Defendant
+                    ,"legal entity" : "ENTITY-CORP" //Entity:Corporation
+                    ,"industry" : "TEC" //Technology
+                }
+                ,{
+                    "name" : "Nathanael M Cousins"
+                    ,"player role" : "JUDG" //Judge
+                    ,"legal entity" : "INDV" //Individual
+                }
+                ,{
+                    "name" : "Nokia Corporation"
+                    ,"player role" : "APPT" //Applicant/Petitioner
+                    ,"legal entity" : "ENTITY-CORP" //Entity:Corporation
+                    ,"industry" : "TEL" //Telecommunications
+                }]
+                ,"process object" : {
+                    "filing date" : "2011-04-15"
+                    ,"dispute: venue" : "USCTS-DISCOUS-CACD" //U.S. Courts:U.S. District Courts:District Court, C.D.      California
+                    ,"dispute: venue other" : "US District Court for the Northern District of California"
+                    ,"dispute: trial type" : "TRIJRY" //Jury Trial
+                    ,"dispute: case name" : "Apple Inc. v. Samsung Electronics Co. Ltd. et al"
+                }
+            }
+        }
+    }
+}
+
+```
+#
+
+#### Guess the LMSS 03
+
+```
+
+{
+    "document" : {
+        "header" : {
+            "lmss type" : "INST" //Instance
+            ,"lmss version" : "1.02" //Draft LMSS 1.0 Rev 2
+            ,"language" : "en-au"
+            ,"charset" : "UTF-8"
+        }
+        ,"matter" : {
+            "locale" : "OCA-AU-AU+NSW" //Oceana:Australia:New South Wales
+            ,"process" : {
+                "process type" : "T-FOR" //Transaction:Formation
+                ,"area of law" : "CORP-MRGA" //Corporate Law:Mergers and Acquisitions
+                ,"player" : [{
+                    "name" : "Sydney Sailboats"
+                    ,"player role" : "AQRR" //Acquiror
+                    ,"legal entity" : "ENTITY-CORP" //Entity:Corporation
+                    ,"counsel" : {
+                        "firm name" : "Sly & Wentworth"
+                        ,"representation role" : "SOLI" //Solicitor
+                    }
+                    ,"industry" : "COP" //Consumer Products
+                }
+                ,{
+                    "name" : "NSW Outboard Motors"
+                    ,"player role" : "AQRE" //Acquiree
+                    ,"legal entity" : "ENTITY-CORP" //Entity:Corporation
+                    ,"counsel" : {
+                        "name" : "Howard Clark"
+                        ,"representation role" : "SOLI" //Solicitor
+                    }
+                }]
+                ,"process object" : {
+                    "term sheet date" : "2018-11-05"
+                    ,"effective date" : "2018-12-01"
+                    ,"monetary value" : {
+                        "currency" : "AUD" //Australian dollar
+                        ,"value" : "8000000"
+                    }
+                    ,"non-monetary value" : "1,000,000 Shares of Preferred Stock to Aquiree"
+                }
+            }
+        }
+    }
+}
+
+```
+
+#
+
+#### Guess the LMSS 04
+
+```
+
+{
+    "document" : {
+        "header" : {
+            "lmss type" : "QRY" //Query
+            ,"lmss version" : "1.02" //Draft LMSS 1.0 Rev 2
+            ,"language" : "en-us"
+            ,"charset" : "UTF-8"
+        }
+        ,"matter" : {
+             "locale" : "NAM-US-US+CA" //North America:United States of America (the):California
+            ,"process" : {
+                "process type" : "R-COM" //Regulatory (Non-Dispute):Compliance
+                ,"area of law" : "ENVT-ENIA" //Environmental and Natural Resource Law:Impact Assessment
+                ,"player" : {
+                    "industry" : "FAG" //Food and Agriculture
+                }
+                ,"process object" : {
+                    "asset location" : "Madera County, CA"
+                }
+            }
+        }
+    }
+}
+
+```
+
+#### ++++ End of text ++++
+
  
