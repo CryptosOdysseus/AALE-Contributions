@@ -1,3 +1,37 @@
+# MIT Media Lab - Computational Law
+
+## Law ReImagined-
+## Inventing Automated and Autonomous Legal Entities Part 4
+## (Preparation Stage)
+
+### "AALE" Collaborative Hack with Dazza, Beth, Brenden, Bryan, Silke et al. 
+
+#
+
+### Restatement (Second) of Contracts-
+### Scan of the legal codification of the body of Contract Law 
+### In relation with an AALE/DAO-relevant legal analysis 
+
+#
+
+### First Iteration - DRAFT WITH “REQUEST FOR COMMENT” - Thank You.
+
+#### Reference: https://www.nylitigationfirm.com/files/restat.pdf
+
+#### This legal codification of the body of Contract Law provided by the 2nd restatement is usable to carry out an AALE/ DAOs relevant analysis. The aim is to surface a few more design requirements and legal engineering success metrics.
+
+#
+ 
+**Creative Commons Attribution License: https://creativecommons.org/licenses/by/4.0/**
+
+**Attribution: Christophe Bosquillon, MSc in cryptocurrency, digital assets & blockchain at the University of Nicosia, Cyprus (on-going). Also an alumni of Mines Paritech & HEC (Entrepreneurs) Paris.**
+
+#
+
+#
+
+
+
 # Table of contents LINKs and other LINKS: DO ONLY ONCE SURE OF >>> FINAL FILE NAME <<<
 # 000-20190825-SALI-LMSS-usability-for-AALE.md
 # WORK IN PROGRESS
