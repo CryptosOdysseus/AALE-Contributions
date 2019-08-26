@@ -100,14 +100,15 @@ TALK ABOUT CHARTING COLLAPSIBLE TREES
 
 
 
-
+#
 
 ## Part B - SALI Legal Matter Standard Update Presentation (June 2018)
 #### https://salilegal.org/sali3/docs/SALI%20Matter%20Standard%20Updates%202018-06-21.pdf
+
 #
 
-The SALI Alliance is an independent organization of law firms, companies, solution providers, industry organizations
-and academics focused on developing open, practical standards for the legal industry.
+_**The SALI Alliance is an independent organization of law firms, companies, solution providers, industry organizations
+and academics focused on developing open, practical standards for the legal industry.**_
 
 ### SALI stakeholders represent all parts of the legal industry: 
 - Legal services buyers (companies)
@@ -291,13 +292,19 @@ _**WHY IS THIS SO HARD?**_
 
 _**The SALI Legal Matter Specification Standard (LMSS) was developed by the Standards for the Advancement of the Legal Industry (SALI) Alliance to provide a standard way for parties to specify, describe and exchange information describing legal services at the matter level throughout a legal matter’s lifecycle. The SALI LMSS is designed to function as a worldwide legal matter standard.**_
 
+#
+
 ### 1.1 What do we mean by a “legal matter”?
 
 For the purpose of the LMSS, a Legal Matter is considered to be any group of activities for the purposes of delivering a legal service to one or more parties. The activities are either a major project with start and end point (e.g. litigation, acquisition of a business, a regulatory filing, etc.) or a grouping of micro projects (e.g. advice).
 
+#
+
 ### 1.2 What do we mean by the “legal matter lifecycle”?
 
 The legal matter lifecycle means the description of the matter from its conception as a request for services through its inception and execution through closing. Because the LMSS must support a matter that will evolve through its lifecycle, it is designed accommodate the evolution of the matter without jeopardizing the integrity of systems that are depending on data provided at an earlier stage of the matter.
+
+#
 
 ### 1.3 What are the components of the LMSS?
 
@@ -308,15 +315,20 @@ The SALI LMSS has following components:
 - The legal matter application programming interfaces (APIs) include: the transport API for exchanging data and the UX API for supporting the user interface of applications that use the standard.
 
 #
+#
 
 ## 2 Design Principles
 
 _**The SALI LMSS was designed using the following principles:**_
 
+#
+
 ### 2.1 Player/Viewer independence
 
 The standard is designed to provide clear guidance and party-independent enumerated values to ensure that matters are encoded the same way independent of the party involved in matter. As an example, the standard supports terms such as “plaintiff” and
 “defendant” which have the same meaning no matter who is looking at the matter over terms like “client” and “opposing party” which change depending upon a player’s role in the matter.
+
+#
 
 ### 2.2 Successive refinement and additive coding
 
@@ -326,13 +338,19 @@ Furthermore, each code in a code set is guaranteed to be unique, and each code i
 standard has adopted codes from other standards that don’t adhere to this requirement, the "+" notation is used. For example both US, California and El Salvador, Cardenas use the same ISO code "CA". To distinguish these, the code is prepended with the
 parent code followed by a "+". USA ("US"), California ("CA") is coded as "US+CA"; El Salvador ("SV"), Cardenas ("CA") is coded as "CV+CA".
 
+#
+
 ### 2.3 Standards based
 
 The LMSS is built on and incorporates existing international standards in addition to specifying new codes applicable to the legal services domain.
 
+#
+
 ### 2.4 Extensible
 
 Since the LMSS cannot anticipate all needs, there is a well-defined way to extend the standard while staying within the design and API functionality. There is a methodology for providing including private structural components and private allowable values that at some point may be submitted and considered for incorporation into to future versions of the LMSS.
+
+#
 
 ### 2.5 Agile approach
 
@@ -346,6 +364,9 @@ The process is as follows is described in the table below:
 |Draft LMSS 1.0 Rev <n> | Nth draft revision 1 of the LMSS 1.0 specification | For each successive draft, the revision number is incremented.|
 |LMMS 1.0 | Final version of the LMSS 1.0 standard | "Draft" and "Rev. <#>" are removed from the title once the standard is adopted by SALI Alliance members.|
 |Draft LMSS 2.0 Rev 1 | First draft revision 1 of the LMSS 2.0 specification | Successive versions of the standard will increment LMSS number.|
+
+#
+#
 
 ## 3 Legal Matter Specification (LMSS) Components
 
@@ -361,6 +382,8 @@ In addition, the LMSS supports both:
 - matter instances (the description of specific matters), and
 - matter templates (the description of classes of matters).
 
+#
+
 ### 3.1 LMSS Structure
 
 The LMSS Structure specifies where descriptive elements of matter are stored and how those elements relate to each other. The structure is comprised of components called “containers.” Containers can be thought of as tables in a relational database. The
@@ -368,9 +391,13 @@ structure defines structure of each container – its elements – how container
 
 The LMSS structure can be expressed as a database schema for storage or an XML or JSON structure for transmission of the matter information.
 
+#
+
 ### 3.2 LMSS Allowed Values
 
 The LMSS Allowed Values specify the type of information that may be stored in different elements of the containers. Allowed values fall into the following categories:
+
+#
 
 #### 3.2.1 Enumerated Values
 
@@ -416,11 +443,15 @@ Text values are unstructured natural language descriptions intended to be human 
 
 Numeric values store scalar numeric information. Numeric values are subject to common mathematical operations. Numeric values can be floating point, whole number and boolean.
 
+#
+
 ### 3.3 Dependencies
 
 Dependencies restrict which structural components and which allowed values may appear in a valid matter instance based on other values in the matter. As an example, if a process is of type “transaction,” the players in that transaction may not be of the type “plaintiff” or “defendant.” These values are restricted to process of type “dispute.”
 
 > Remark: Dependencies are not part of Draft LMSS 1.0 Rev 2.
+
+#
 
 ### 3.4 LMSS Encodings
 
@@ -479,6 +510,8 @@ Codes are extended by:
 
 - Embedding the extension table or a reference to it in the header.
 
+#
+
 #### 3.5.1 Extension Example
 
 Law firm AM would like to extend the SALI industry codes to include subcategories of real estate. In this example the "Real Estate" industry type with code "RES" will be extended by adding subtypes of real estate below it.
@@ -510,8 +543,11 @@ _**The following show and example of how the code would appear in an LMSS Struct
  ```
 
 #
+#
 
 ## 4 Structure of LMSS Document
+
+#
 
 ### 4.1 Overview
 
@@ -531,6 +567,8 @@ A well-formed document is required in the interchange of instances of matters be
 
 A well-formed document is not required when the LMSS is used in a query. In those instances, a missing field matches all instances. See LMSS Queries below.
 
+#
+
 ### 4.2 Document
 
 The Document container is the top-level container in the LMSS instance. The Document must have a Header and one or more Matters.
@@ -541,6 +579,8 @@ Document container elements:
 |---------|-----|-------|------|----------|
 | Header | Y | N | Container | The header information for the document. |
 | Matter | Y | Y | Container | The matters included in the document. |
+
+#
 
 ### 4.3 Document Header
 
@@ -556,6 +596,8 @@ The LMSS document header is describes the version, type, default language and ch
 | Extension Link | N | Y | Text: URI | A link to an extension file. |
 | Extension | N | Y | Container | One or more extension definitions. |
 | Declaration | N | Y | Container | Declarations are indexes of names that need to be cross referenced in a specification. NameIDs can be used in place of names wherever names may appear. |
+
+#
 
 #### 4.3.1 Title
 
@@ -587,6 +629,8 @@ default encoding is UTF-8.
 #### 4.3.6 Extension Link
 
 A link to an extension file that conforms to the LMSS Extension file format.
+
+#
 
 ### 4.4 Extension
 
@@ -659,6 +703,8 @@ The parent code. The parent code must be an existing standard code in the code s
 
 The short name of extension code.
 
+#
+
 ### 4.5 Declaration
 
 A declaration may be used to assign and index to an item to ensure accurate cross referencing. Declarations are typically used for legal entities but can be used in place of a Name (See 4.10.1, 4.11.1 and 4.11.2).
@@ -674,6 +720,8 @@ The matter may be encoded to have two processes – one for review and another o
 | NameID | Y | N | Text(40) | The NameID of the entity. | Must be of the regular expression form \^[A-Za-z0-9_-]{1,39} |
 | Name | Y | N | Text(250) | Name to be inserted wherever the NameID appears. |
 
+#
+
 #### 4.5.1 NameID
 
 The ID to be used in place of a name. NameIDs must begin with a caret symbol. (e.g. ^102 or ^EntityXYZ).
@@ -681,6 +729,8 @@ The ID to be used in place of a name. NameIDs must begin with a caret symbol. (e
 #### 4.5.2 Name
 
 The name to be used in place of the NameID.
+
+#
 
 ### 4.6 Matter
 
@@ -696,6 +746,8 @@ Matter container elements:
 | Process | Y | Y | Container | The process or processes for this matter. |
 | Narrative | Y | N | Container | The description of the matter. |
 
+#
+
 #### 4.6.1 Title
 
 A required title for the process.
@@ -703,6 +755,8 @@ A required title for the process.
 #### 4.6.2 Locale
 
 A required locale for the matter. The locale is an enumeration.
+
+#
 
 ### 4.7 Narrative
 
@@ -721,6 +775,8 @@ Narrative container elements:
 | Description | Y | Y | Container | One or more descriptions of a narrative. |
 | Source | N | Y | Text(250) | The source of the narrative. |
 
+#
+
 #### 4.7.1 Type
 
 The narrative type is an enumerated list intended to capture the sensitivity of the narrative. Values include: public, confidential, private, generic, etc.
@@ -733,6 +789,8 @@ Usage is an optional human readable field that should capture the audience or us
 
 The source is an optional element that describe the source of the narrative. You may provide multiple sources. Examples include: "2015 litigation department compensation memo," and "2017 environmental practice Chambers submission."
 
+#
+
 ### 4.8 Description
 
 The description in an container encapsulates the specific text of a specific narrative. The description has text, a format and a language. If the language is not specified, it is inherited from the matter. For example, if a firm keeps French and English versions of the same narrative, or plain text and HTML formatted versions of the same narrative, these would be accommodated in the description container.
@@ -742,6 +800,8 @@ The description in an container encapsulates the specific text of a specific nar
 | Text | Y | N | Text(4000) | The description of the matter. |
 | Format | Y | N | Enumeration of Narrative Formats | Text or HTML |
 | Language | N | N | Enumeration: IETF BCP 47 | The language of the description. If omitted, it is assumed to be the same as that of the matter. |
+
+#
 
 #### 4.8.1 Text
 
@@ -754,6 +814,8 @@ Two formats are supported: Text and HTML.
 #### 4.8.3 Language
 
 Language is optionally specified by using BCP 47.
+
+#
 
 ### 4.9 Process
 
@@ -781,6 +843,8 @@ Process container elements:
 | Player | Y | Y | Container | The players involved in a process.
 | Process Object | N | Y | Container | The process object hold information specific to each kind of process. See the discussion below. |
 
+#
+
 #### 4.9.1 Title
 
 The optional title of the process. Examples include: "LLC formation in California", and "License of technology to French company.".
@@ -798,6 +862,8 @@ A SALI enumerated value. Top-level process types are transactions, disputes, reg
 The Area of Law is a SALI enumerated value that provides context to the process. The area of law should be thought of the primary subject of law for the process — think the class that’s the attorney was in when she learned about the applicable law. 
 
 The area of law is provided primarily for context as in the examples, “He prosecuted the defendant” and “She prosecuted the patent.” The first is criminal law, the second is intellectual property law. There can be multiple areas of law.
+
+#
 
 ### 4.10 Player
 
@@ -820,6 +886,8 @@ Player container elements:
 
 *Either a Name or a NameID is required.
 
+#
+
 #### 4.10.1 Name
 
 The name is the name of player in human readable form. If a NameID is used, an Name
@@ -841,6 +909,8 @@ Legal entity describes the type of the player. In law, a "legal person" or "lega
 
 The enumerated identification of the governmental authority if the player is a governmental authority.
 
+#
+
 ### 4.11 Counsel
 
 The counsel container includes all of the legal representatives of the player. The fields of the counsel container are described below:
@@ -855,6 +925,8 @@ Counsel container elements:
 
 *Either a Name or a NameID is required.
 
+#
+
 #### 4.11.1 Name
 
 The name is the name of counsel in human readable form. 
@@ -868,6 +940,8 @@ The firm name is the name of firm that the counsel is part of in human readable 
 #### 4.11.3 Representation Role
 
 The role of the legal representative. Role is an enumerated value.
+
+#
 
 ### 4.12 Process Object
 
@@ -908,6 +982,8 @@ The process object can simply be a summary of key attributes of the overall proc
 
 See the table above for descriptions.
 
+#
+
 ### 4.13 Monetary Value
 
 Monetary Value encapsulates a financial value attribute. It consists of a floating point number and a currency code.
@@ -919,6 +995,9 @@ Monetary value container elements:
 | Currency | Y | N | Enumeration: Currency | A currency code a defined by ISO 4217. |
 | Value | Y | N | Float | A floating point number that represents the value. |
 
+#
+#
+
 ## 5 The Legal Matter Application Programming Interfaces (APIs)
 
 LMSS APIs are not supported in Draft LMSS 1.0 Rev 2.
@@ -929,6 +1008,8 @@ The LMSS supports several types of APIs:
 - LMSS Queries
 - LMSS UI/Sych API
 
+#
+
 ### 5.1 LMSS Instance
 
 The Instance API is used to create, import and export matters. It also supports default values and user-defined extensions.
@@ -938,9 +1019,13 @@ The Instance API is used to create, import and export matters. It also supports 
 - Supports user-defined extensions
 - Supports default values/templates
 
+#
+
 ### 5.2 LMSS Queries
 
 An important part of the LMSS is to support the querying of data stores against different criteria. The standard leverages the LMSS definition — structure, enumerated values, text and numeric values — to specify search criteria. In these instances sparse version of the LMSS are applied to develop search criteria.
+
+#
 
 #### 5.2.1 LMSS Query WHERE Clauses
 
@@ -1074,6 +1159,8 @@ We anticipate the following select specifications as part of the API.
 | Full Structures | Full lists of full structures |   |
 | Comparison Operators | >, >=, <, <=, <>, LIKE, NOT, IN | Need to support wildcard characters. |
 
+#
+
 ### 5.3 LMSS UI/Synch API
 
 >Remark: Not implemented in Draft LMSS 1.0 Rev 2
@@ -1086,7 +1173,11 @@ The LMSS has an API designed to help application providers drive keep the applic
 | List Supported Enumerations | Returns list of enumerations. |   |
 | Get Enumeration List | Returns key value pairs of a given enumeration to drive dropdown and autocomplete user interface elements. Supports simple filtering by level, by "contains" and by "starts with". |   |
 
+#
+
 ## 6 Code Sets
+
+#
 
 ### 6.1 Code Set Types
 
