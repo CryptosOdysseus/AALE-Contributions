@@ -1088,123 +1088,107 @@ The following code sets are used by Draft LMSS 1.0 Rev 2.:
 #
 #
 
-## Structure Browser: https://salilegal.org/sali3/structure2.php
+### SALI-LMSS Structure Collapsible interactive tree:
 
-### Click the carets to expand/contract the sublist. Click each item to see permissible values.
+![SALI-LMSS Structure tree](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/Image-of-SALI-LMSS-Structure-Collapsible-Interactive-Tree.png)
 
-#
 
-### Header
-#### LMSS Type
-#### LMSS Version
-#### Title?
-#### Language?
-#### Charset?
-#### Extension Link*
+### Structure Browser: https://salilegal.org/sali3/structure2.php
 
-#
+We use code syntax to show the parralelism with coding samples and practice.
 
-### +++Extension*
-#### ++++++Code Set
-#### ++++++Code
-#### ++++++Parent
-#### ++++++Name
+```
 
-#
+Header
+    LMSS Type
+    LMSS Version
+    Title?
+    Language?
+    Charset?
+    Extension Link*
 
-### +++Declaration*
-#### ++++++NameID
-#### ++++++Name
+        Extension*
+            Code Set
+            Code
+            Parent
+            Name
 
-#
-#
+        Declaration*
+            NameID
+            Name
 
-### Matter+
-#### Title
-#### Locale
 
-#
-#
+Matter+
+    Title
+    Locale
 
-### +++Process+
-#### ++++++Title?
-#### ++++++Description?
-#### ++++++Process Type
-#### ++++++Area of Law+
+        Process+
+            Title?
+            Description?
+            Process Type
+            Area of Law+
 
-#
+            Player+
+                Name
+                Player Role+
+                Legal Entity?
 
-### ++++++Player+
-#### +++++++++Name
-#### +++++++++Player Role+
-#### +++++++++Legal Entity?
+                Counsel*
+                    Name?
+                    Firm Name?
+                    Representation Role?
+                Industry?
+                Governmental Authority?
 
-#
+        Process Object*
+            Description?
+            Status?
+            Cross-Border?
+            Filing Date?
+            Term Sheet Date?
+            Effective Date?
+            Closing Date?
+            Announce Date?
+            Asset Location*
+            Asset Description?
 
-### +++++++++Counsel*
-#### ++++++++++++Name?
-#### ++++++++++++Firm Name?
-#### ++++++++++++Representation Role?
-#### ++++++++++++Industry?
-#### ++++++++++++Governmental Authority?
+            Monetary Value?
+                Value
+                Currency
+            Non-Monetary Value?
+            Transaction: Consideration?
+            Transaction: Location*
+            Transaction: Deal Type?
+            Transaction Legal Entity*
+            Regulatory: Authority*
+            Regulatory: Authority Other*
+            Dispute: Venue*
+            Dispute: Venue Other*
+            Dispute: Trial Type?
+            Dispute: Case Name?
+            Dispute: Resolution?
+            Dispute: Resolution Date?
+            Dispute: Duration (Months)?
+            Dispute: Multi-Jurisdictional?
+            Dispute: Number of Depositions?
+            Dispute: Number of Experts?
 
-#
 
-### ++++++Process Object*
-#### +++++++++Description?
-#### +++++++++Status?
-#### +++++++++Cross-Border?
-#### +++++++++Filing Date?
-#### +++++++++Term Sheet Date?
-#### +++++++++Effective Date?
-#### +++++++++Closing Date?
-#### +++++++++Announce Date?
-#### +++++++++Asset Location*
-#### +++++++++Asset Description?
+        Narrative*
+            Type
+            Usage?
 
-#
+            Description+
+                Text
+                Format
+                Language?
+            Source*
 
-### +++++++++Monetary Value?
-#### ++++++++++++Value
-#### ++++++++++++Currency
-#### ++++++++++++Non-Monetary Value?
-#### ++++++++++++Transaction: Consideration?
-#### ++++++++++++Transaction: Location*
-#### ++++++++++++Transaction: Deal Type?
-#### ++++++++++++Transaction Legal Entity*
-#### ++++++++++++Regulatory: Authority*
-#### ++++++++++++Regulatory: Authority Other*
-#### ++++++++++++Dispute: Venue*
-#### ++++++++++++Dispute: Venue Other*
-#### ++++++++++++Dispute: Trial Type?
-#### ++++++++++++Dispute: Case Name?
-#### ++++++++++++Dispute: Resolution?
-#### ++++++++++++Dispute: Resolution Date?
-#### ++++++++++++Dispute: Duration (Months)?
-#### ++++++++++++Dispute: Multi-Jurisdictional?
-#### ++++++++++++Dispute: Number of Depositions?
-#### ++++++++++++Dispute: Number of Experts?
+```
 
-#
-#
+### Code Browser: https://salilegal.org/sali3/browser.php
 
-### +++Narrative*
-#### ++++++Type
-#### ++++++Usage?
 
-#
-
-### ++++++Description+
-#### +++++++++Text
-#### +++++++++Format
-#### +++++++++Language?
-#### ++++++Source*
-
-#
-#
-#
-
-# Code Browser: https://salilegal.org/sali3/browser.php
 
 #
 #
