@@ -1,3 +1,4 @@
+# Table of contents LINKs and other LINKS: DO ONLY ONCE SURE OF >>> FINAL FILE NAME <<<
 # 000-20190825-SALI-LMSS-usability-for-AALE.md
 # WORK IN PROGRESS
 
@@ -326,6 +327,8 @@ The LMSS can be encoded machine readable formats. JSON is the baseline supported
 
 Machine Readable JSON
 
+```
+
 {
  "document" : {
  "header" : {
@@ -356,6 +359,10 @@ Machine Readable JSON
  }
  }
 }
+
+```
+
+#
 
 ### 3.5 Extensions to the LMSS Codes
 
