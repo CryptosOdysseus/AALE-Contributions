@@ -139,10 +139,10 @@ _**WHY IS THIS SO HARD?**_
 #### For a LMS to be practical, it needs to identify a matter in a constant manner as it evolves with minimal disruption to existing systems that are depending up on the data
 #### The legal matter specification must be able to describe the matter through its lifecycle: as the legal matter progresses, we need to describe it in a way that does not invalidate the previous descriptions
 #### Different uses of the data must identify matters consistently over time:
-- --> Marketing: What experience does your law firm/department have in providing these services?
-- --> Matter Staffing: Which time-keepers have the expertise we need?
-- --> Pricing: What are the budgets and potential pricing options / costs for the requested services?
-- --> Project Management: Is the matter appropriately staffed? Is the matter on budget?
+- ---> Marketing: What experience does your law firm/department have in providing these services?
+- ------> Matter Staffing: Which time-keepers have the expertise we need?
+- ---------> Pricing: What are the budgets and potential pricing options / costs for the requested services?
+- ------------> Project Management: Is the matter appropriately staffed? Is the matter on budget?
 
 #
 
@@ -150,10 +150,10 @@ _**WHY IS THIS SO HARD?**_
 
 ### VIEWER INVARIANCE
 #### No matter which party is describing the matter, it should be coded consistently using **viewer-independent descriptors:**
-- --> DON'T: Client / Adverse Party 
-- --> DO: Plaintiff / Defendant 
-- --> DO: Lessor / Lessee
-- --> DO: Licensor / Licensee
+- ---> DON'T: Client / Adverse Party 
+- ------> DO: Plaintiff / Defendant 
+- ---------> DO: Lessor / Lessee
+- ------------> DO: Licensor / Licensee
 #### Maintain constancy through viewer independent descriptors (GPS analogy: say turn West, don't say turn Left, etc.)
 
 #
@@ -181,28 +181,33 @@ _**WHY IS THIS SO HARD?**_
 
 **Instance**
 
-• Helps create conforming matters
-• Validates matter structures
-• Supports user-defined extensions
-• Supports default values/templates
+- Helps create conforming matters
+- Validates matter structures
+- Supports user-defined extensions
+- Supports default values/templates
 
 **Query** 
 
-• Provide a protocol for requesting information and returning results
+- Provide a protocol for requesting information and returning results
 
 **UI/Synch**
 
-• Supports applications in getting the latest version of the standard, new codes, etc.
+- Supports applications in getting the latest version of the standard, new codes, etc.
 
 #
 #
+
 ## Part C - Draft Legal Matter Specification Standard (LMSS) 1.0, Rev 2 (June 2019)
 ### https://salilegal.org/sali3/docs/SALI%20LMSS%201.0%20rev2c.pdf?1566567194
 ### Version Revision 2c - Last Update: 2019-06-08 - SALI Matter Specification Committee - Adam L. Stock
+
 #
+
 #### © Copyright 2019 Standards Advancement for the Legal Industry Alliance - This work is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License
+
 #
 #
+
 ## [Table of Contents - Draft Legal Matter Specification Standard (LMSS) 1.0, Rev 2 (June 2019)](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#body-of-draft-legal-matter-specification-standard-lmss-10-rev-2-june-2019)
 #
 ## [1 Overview](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#1-overview-1)  
