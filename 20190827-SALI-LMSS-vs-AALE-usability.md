@@ -8,18 +8,23 @@
 
 #
 
-### Restatement (Second) of Contracts-
-### Scan of the legal codification of the body of Contract Law 
-### In relation with an AALE/DAO-relevant legal analysis 
+### SALI Alliance - LMSS Legal Matter Specification Standard Draft Project (last update June 2019): 
+### Relevance and Usability for our AALE Challenge.
+### First Iteration - DRAFT WITH “REQUEST FOR COMMENT” - Thank You.
 
 #
 
-### First Iteration - DRAFT WITH “REQUEST FOR COMMENT” - Thank You.
+#### The idea from taking a stab at SALI LMSS in an AALE context came from a relevant Computational Law discussion.
 
-#### Reference: https://www.nylitigationfirm.com/files/restat.pdf
+#### This was triggered by our CL colleague Diana together with Dazza's serendipitous comments on his pics taken at the SALI LMSS presentation at ILTACON https://www.iltacon.org conference in Orlando, Florida on August 18th-22nd 2019. 
 
-#### This legal codification of the body of Contract Law provided by the 2nd restatement is usable to carry out an AALE/ DAOs relevant analysis. The aim is to surface a few more design requirements and legal engineering success metrics.
+#### The main reference document here is the SALI Alliance's Draft Legal Matter Specification Standard (LMSS) 1.0, Rev 2 (June 2019) together with its associated SALI Alliance reference working materials:
 
+#### https://salilegal.org/sali3/docs/SALI%20LMSS%201.0%20rev2c.pdf?1566567194
+#### Version Revision 2c - Last Update: 2019-06-08 - SALI Matter Specification Committee - Adam L. Stock
+#
+#### These reference materials are subject to © Copyright 2019 Standards Advancement for the Legal Industry Alliance - This SALI-LMSS work is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.
+#### See also: SALI Alliance Intellectual Property Rights Policy - Draft 07 June 2018: https://salilegal.org/sali3/docs/SALI%20IPR%20Policy%2007JUN18.pdf .
 #
  
 **Creative Commons Attribution License: https://creativecommons.org/licenses/by/4.0/**
@@ -30,26 +35,15 @@
 
 #
 
+### SALI Alliance - LMSS Legal Matter Specification Standard Draft Project (last update June 2019): 
+### Relevance and Usability for our AALE Challenge.
+### First Iteration - DRAFT WITH “REQUEST FOR COMMENT” - Thank You.
 
 
-# Table of contents LINKs and other LINKS: DO ONLY ONCE SURE OF >>> FINAL FILE NAME <<<
-# 000-20190825-SALI-LMSS-usability-for-AALE.md
-# WORK IN PROGRESS
-
-(# SALI Alliance - LMSS Legal matter Specifciation Standard Draft Project: 
-(# Relevance and Usability for our AALE Challenge.
 
 The below Part A contains some observations on the relevance and usability of SALI-LMSS for our AALE Challenge.
 
-Parts B to E are a reproduction of SALI LMSS draft tool features, and other working and demonstration materials, including tables, chats and sample coding. For sake of ease of use, we wanted to have them all handy in one GitHub file to start with.
-
-(## The main reference document here is Draft Legal Matter Specification Standard (LMSS) 1.0, Rev 2 (June 2019)
-(### https://salilegal.org/sali3/docs/SALI%20LMSS%201.0%20rev2c.pdf?1566567194
-(### Version Revision 2c - Last Update: 2019-06-08 - SALI Matter Specification Committee - Adam L. Stock
-(#
-(#### © Copyright 2019 Standards Advancement for the Legal Industry Alliance - This SALI-LMSS work is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License
-#
-INSERT CB CC MENTION
+Parts B to E are a reproduction of SALI LMSS draft tool features, and other working and demonstration materials, including tables, chats and sample coding. For sake of ease of use, we wanted to have the content extracted from above mentioned SALI Alliance reference materials all available and handy in this GitHub file to start with.
 
 With its efficient, cost-conscious, productivity & performance streamlining oriented approach, this SALI-LMSS draft tool should be quite attractive for professionals and senior decision makers. Also for its well explained, intuitive ease of use and clear-cut BPM approach, in the context of practicing Law and/or providing alternative Legal services, it has our vote.
 
@@ -75,8 +69,7 @@ In [Part D](), we list detailed parameters of some of SALI-LMSS browsers ....
 
 In [Part E](), we list other detailed examples of coding (https://salilegal.org/sali3/docs/LMSS%20Examples.pdf?1566567194), in addition to the sample coding already provided in the [Body]() of [Part C]()
 
-TALK ABOUT SAMPLE CODING
-
+#
 
 ## Part A - Relevance and Usability of SALI-LMSS for our AALE Challenge
 
