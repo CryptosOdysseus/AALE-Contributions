@@ -330,9 +330,9 @@ Machine Readable JSON
 ```
 
 {
- "document" : {
- "header" : {
- "lmss version" : "1.02" //Draft LMSS 1.0 Rev 2
+    "document" : {
+       "header" : {
+          "lmss version" : "1.02" //Draft LMSS 1.0 Rev 2
  ,"lmss type" : "INST" //Instance
  ,"language" : "en-us"
  ,"charset" : "UTF-8"
@@ -344,7 +344,7 @@ Machine Readable JSON
  "title" : "Wage and hour class action against XYZ Corp."
  ,"process type" : "D-CCI" //Court Proceeding, Civil
  ,"area of law" : "LEMP-WGHR" //Wage and Hour Law
-,"player" : [{
+ ,"player" : [{
  "name" : "Jane Smith and co-workers"
  ,"player role" : "PLTF" //Plaintiff
  ,"legal entity" : "GROUP-CLASS" //Class of Plaintiffs
