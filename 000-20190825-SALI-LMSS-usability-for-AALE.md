@@ -15,7 +15,7 @@ Parts B to E are a reproduction of SALI LMSS draft tool features, and other work
 (#
 (#### © Copyright 2019 Standards Advancement for the Legal Industry Alliance - This SALI-LMSS work is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License
 #
-INSERAT CB CC MENTION
+INSERT CB CC MENTION
 
 With its efficient, cost-conscious, productivity & performance streamlining oriented approach, this SALI-LMSS draft tool should be quite attractive for professionals and senior decision makers. Also for its well explained, intuitive ease of use and clear-cut BPM approach, in the context of practicing Law and/or providing alternative Legal services, it has our vote.
 
@@ -1088,14 +1088,16 @@ The following code sets are used by Draft LMSS 1.0 Rev 2.:
 #
 #
 
-### SALI-LMSS Structure Collapsible interactive tree:
+### SALI-LMSS Structure Collapsible interactive tree (static pic fully expanded):
+
+### Reference tree: https://salilegal.org/sali3/stree.php
 
 ![SALI-LMSS Structure tree](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/Image-of-SALI-LMSS-Structure-Collapsible-Interactive-Tree.png)
 
 
 ### Structure Browser: https://salilegal.org/sali3/structure2.php
 
-We use code syntax to show the parralelism with coding samples and practice.
+We use code syntax framing to show the parralelism with coding samples and practice.
 
 ```
 
@@ -1116,7 +1118,6 @@ Header
         Declaration*
             NameID
             Name
-
 
 Matter+
     Title
@@ -1188,12 +1189,26 @@ Matter+
 
 ### Code Browser: https://salilegal.org/sali3/browser.php
 
+This described a selected sample of SALI LMSS Value encoding, starting from the code browser Value Menu:
+
+#### Code Browser Value Menu:
+![SALI-LMSS-Code-Browser-Value-Menu](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/Image-of-SALI-LMSS-Code-Browser-Value-Menu.png)
+
+#### SALI Area of Law - COTL-TRNS - Commercial & Trade Law AND Commercial Transaction
+![SALI-LMSS-Area-of-Law-COTL-TRNS](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/Image-of-SALI-LMSS-Code-Browser-COTL-TRNS.png)
+
+#### SALI Legal Entity - ENTITY-LLC - Entity AND Limited Liability Company
+![SALI-LMSS-Legal-Entity-ENTITY-LLC](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/Image-of-SALI-LMSS-Code-Browser-ENTITY-LLC.png)
+
+#### SALI Player Role - PART-GENP - Partner AND General Partner
+![SALI-LMSS-Player-Role-PART-GENP](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/Image-of-SALI-LMSS-Code-Browser-PART-GENP.png)
+
+#### SALI Process - RMON - Regulatory (Non-Dispute) AND Monitoring
+![SALI-LMSS-Process-RMON](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/Image-of-SALI-LMSS-Code-Browser-R-MON.png)
+
+#### SALI Representation Role - LCOUN - Legal Counsel
+![SALI-LMSS-Representative-Role-LCOUN](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/Image-of-SALI-LMSS-Code-Browser-LCOUN.png)
 
 
 #
-#
-#
-# Tree: https://salilegal.org/sali3/stree.php
-#
-#
-#
+ 
