@@ -331,33 +331,33 @@ Machine Readable JSON
 
 {
     "document" : {
-       "header" : {
-          "lmss version" : "1.02" //Draft LMSS 1.0 Rev 2
- ,"lmss type" : "INST" //Instance
- ,"language" : "en-us"
- ,"charset" : "UTF-8"
- }
- ,"matter" : {
- "title" : "Wage and hour class action against XYZ Corp."
- ,"locale" : "NAM-US-US+NY" //New York
- ,"process" : {
- "title" : "Wage and hour class action against XYZ Corp."
- ,"process type" : "D-CCI" //Court Proceeding, Civil
- ,"area of law" : "LEMP-WGHR" //Wage and Hour Law
- ,"player" : [{
- "name" : "Jane Smith and co-workers"
- ,"player role" : "PLTF" //Plaintiff
- ,"legal entity" : "GROUP-CLASS" //Class of Plaintiffs
- }
- ,{
- "name" : "XYZ Corporation, Inc."
- ,"player role" : "DEFT" //Defendant
- ,"legal entity" : "ENTITY-CORP" //Corporation
- ,"industry" : "TEC" //Technology
- }]
- }
- }
- }
+        "header" : {
+            "lmss version" : "1.02" //Draft LMSS 1.0 Rev 2
+            ,"lmss type" : "INST" //Instance
+            ,"language" : "en-us"
+            ,"charset" : "UTF-8"
+        }
+        ,"matter" : {
+            "title" : "Wage and hour class action against XYZ Corp."
+            ,"locale" : "NAM-US-US+NY" //New York
+            ,"process" : {
+                "title" : "Wage and hour class action against XYZ Corp."
+                ,"process type" : "D-CCI" //Court Proceeding, Civil
+                ,"area of law" : "LEMP-WGHR" //Wage and Hour Law
+                ,"player" : [{
+                    "name" : "Jane Smith and co-workers"
+                    ,"player role" : "PLTF" //Plaintiff
+                    ,"legal entity" : "GROUP-CLASS" //Class of Plaintiffs
+                }
+                ,{
+                    "name" : "XYZ Corporation, Inc."
+                    ,"player role" : "DEFT" //Defendant
+                    ,"legal entity" : "ENTITY-CORP" //Corporation
+                    ,"industry" : "TEC" //Technology
+                }]
+            }
+        }
+    }
 }
 
 ```
@@ -398,11 +398,15 @@ The extension table would have this the following data.
 
 _**The following show and example of how the code would appear in an LMSS Structure:**_
 
+```
+
 "player": [{
- "name": "ZZZ Corporation, Inc",
- "legal-entity": "ENTITY-CORP",
- "industry": "RES-@AM:OFFICE" //Real Estate - Office
- }]
+        "name": "ZZZ Corporation, Inc",
+        "legal-entity": "ENTITY-CORP",
+        "industry": "RES-@AM:OFFICE" //Real Estate - Office
+        }]
+ 
+ ```
 
 #
 
@@ -498,41 +502,45 @@ The scope applies to the document.
 
 A sample in-document extension is shown below:
 
+```
+
 {
- "document" : {
- "header" : {
- "lmss version" : "1.02" //Draft LMSS 1.0 Rev 2
- ,"lmss type" : "INST" //Instance
- ,"language" : "en-us"
- ,"charset" : "UTF-8"
- ,"extension" : [{
- "code set" : "SALI-IND"
- ,"code" : "@MULFAM"
- ,"parent" : "RES"
- ,"name" : "Multi-Family Residential"
- }
- ,{
- "code set" : "SALI-IND"
- ,"code" : "@OFFICE"
- ,"parent" : "RES"
- ,"name" : "Office"
- }
- ,{
- "code set" : "SALI-IND"
- ,"code" : "@INDUST"
- ,"parent" : "RES"
- ,"name" : "Industrial"
- }
- ,{
- "code set" : "SALI-IND"
- ,"code" : "@RESIDL"
- ,"parent" : "RES"
- ,"name" : "Residential"
- }]
- }
- }
+    "document" : {
+        "header" : {
+            "lmss version" : "1.02" //Draft LMSS 1.0 Rev 2
+            ,"lmss type" : "INST" //Instance
+            ,"language" : "en-us"
+            ,"charset" : "UTF-8"
+            ,"extension" : [{
+                "code set" : "SALI-IND"
+                ,"code" : "@MULFAM"
+                ,"parent" : "RES"
+                ,"name" : "Multi-Family Residential"
+            }
+            ,{
+                "code set" : "SALI-IND"
+                ,"code" : "@OFFICE"
+                ,"parent" : "RES"
+                ,"name" : "Office"
+            }
+            ,{
+                "code set" : "SALI-IND"
+                ,"code" : "@INDUST"
+                ,"parent" : "RES"
+                ,"name" : "Industrial"
+            }
+            ,{
+                "code set" : "SALI-IND"
+                ,"code" : "@RESIDL"
+                ,"parent" : "RES"
+                ,"name" : "Residential"
+            }]
+        }
+    }
 }
 
+```
+#
 
 #### 4.4.1 Code Set
 
@@ -845,98 +853,111 @@ QUERY STRUCTURE
 
 - Select all matters WHERE lease transactions are in New York State:
 
+```
+
 {
- "document" : {
- "header" : {
- "lmss version" : "1.02" //Draft LMSS 1.0 Rev 2
- ,"lmss type" : "QRY" //Query
- ,"language" : "en-us"
- ,"charset" : "UTF-8"
- }
- ,"matter" : {
- "locale" : "NAM-US-US+NY" //New York
- ,"process" : {
- "process type" : "T-LEA" //Lease
- }
- }
- }
+    "document" : {
+        "header" : {
+            "lmss version" : "1.02" //Draft LMSS 1.0 Rev 2
+            ,"lmss type" : "QRY" //Query
+            ,"language" : "en-us"
+            ,"charset" : "UTF-8"
+        }
+        ,"matter" : {
+            "locale" : "NAM-US-US+NY" //New York
+            ,"process" : {
+                "process type" : "T-LEA" //Lease
+            }
+        }
+    }
 }
+
+```
 
 - Select all matters WHERE McEvoy & Edwards represented the buyer in real estate transactions
 
+```
+
 {
- "document" : {
- "header" : {
- "lmss version" : "1.02" //Draft LMSS 1.0 Rev 2
- ,"lmss type" : "QRY" //Query
- ,"language" : "en-us"
- ,"charset" : "UTF-8"
- }
- ,"matter" : {
- "process" : {
- "process type" : "T" //Transaction
- ,"area of law" : "REAL" //Real Property Law
- ,"player" : {
- "player role" : "BUYR" //Buyer
- ,"counsel" : {
- "firm name" : "McEvoy & Edwards%"
- ,"representation role" : "COUN" //Counsel/Atto
-rney
- }
- }
- }
- }
- }
+    "document" : {
+        "header" : {
+            "lmss version" : "1.02" //Draft LMSS 1.0 Rev 2
+            ,"lmss type" : "QRY" //Query
+            ,"language" : "en-us"
+            ,"charset" : "UTF-8"
+        }
+        ,"matter" : {
+            "process" : {
+                "process type" : "T" //Transaction
+                ,"area of law" : "REAL" //Real Property Law
+                ,"player" : {
+                    "player role" : "BUYR" //Buyer
+                    ,"counsel" : {
+                        "firm name" : "McEvoy & Edwards%"
+                        ,"representation role" : "COUN" //Counsel/Attorney
+                    }
+                }
+            }
+        }
+    }
 }
+
+```
 
 - Select all civil court matters where Wells Fargo was the defendant in an employment class action.
 
+```
+
 {
- "document" : {
- "header" : {
- "lmss version" : "1.02" //Draft LMSS 1.0 Rev 2
- ,"lmss type" : "QRY" //Query
- ,"language" : "en-us"
- ,"charset" : "UTF-8"
- }
- ,"matter" : {
- "process" : {
- "area of law" : "LEMP" //Labor and Employment Law
- ,"player" : [{
- "name" : "Wells Fargo%"
- ,"player role" : "DEFT" //Defendant
- }
- ,{
- "player role" : "PLTF" //Plaintiff
- ,"legal entity" : "GROUP-CLASS" //Class of Plaint
-iffs
- }]
- }
- }
- }
+    "document" : {
+        "header" : {
+            "lmss version" : "1.02" //Draft LMSS 1.0 Rev 2
+            ,"lmss type" : "QRY" //Query
+            ,"language" : "en-us"
+            ,"charset" : "UTF-8"
+        }
+        ,"matter" : {
+            "process" : {
+                "area of law" : "LEMP" //Labor and Employment Law
+                ,"player" : [{
+                    "name" : "Wells Fargo%"
+                    ,"player role" : "DEFT" //Defendant
+                }
+                ,{
+                    "player role" : "PLTF" //Plaintiff
+                    ,"legal entity" : "GROUP-CLASS" //Class of Plaintiffs
+                }]
+            }
+        }
+    }
 }
+
+```
 
 - Select all matters where there is an enforcement action involving the U.S. National Labor Relations Board
 
+```
+
 {
- "document" : {
- "header" : {
- "lmss version" : "1.02" //Draft LMSS 1.0 Rev 2
- ,"lmss type" : "QRY" //Query
- ,"language" : "en-us"
- ,"charset" : "UTF-8"
- }
- ,"matter" : {
- "process" : {
- "process type" : "R-ENF" //Enforcement
- ,"process object" : {
- "regulatory: authority" : "US-FD-NLRB" //National
-Labor Relations Board
- }
- }
- }
- }
+    "document" : {
+        "header" : {
+            "lmss version" : "1.02" //Draft LMSS 1.0 Rev 2
+            ,"lmss type" : "QRY" //Query
+            ,"language" : "en-us"
+            ,"charset" : "UTF-8"
+        }
+        ,"matter" : {
+            "process" : {
+                "process type" : "R-ENF" //Enforcement
+                ,"process object" : {
+                    "regulatory: authority" : "US-FD-NLRB" //National Labor Relations Board
+                }
+            }
+        }
+    }
 }
+
+```
 
 #### 5.2.2 LMSS Query SELECT Statements
 
