@@ -484,15 +484,17 @@ Numeric values can be _**floating point, whole number and boolean**_.
 
 ### 3.3 Dependencies
 
-Dependencies restrict which structural components and which allowed values may appear in a valid matter instance based on other values in the matter. As an example, if a process is of type “transaction,” the players in that transaction may not be of the type “plaintiff” or “defendant.” These values are restricted to process of type “dispute.”
+_**Dependencies restrict which structural components and which allowed values may appear in a valid matter instance based on other values in the matter**_. 
 
-> Remark: Dependencies are not part of Draft LMSS 1.0 Rev 2.
+As an example, if a process is of type “transaction,” the players in that transaction may not be of the type “plaintiff” or “defendant.” These values are restricted to process of type “dispute.”
+
+> Remark: _**Dependencies are not part of Draft LMSS 1.0 Rev 2.**_
 
 #
 
 ### 3.4 LMSS Encodings
 
-The LMSS can be encoded machine readable formats. JSON is the baseline supported format.
+_**The LMSS can be encoded machine readable formats. JSON is the baseline supported format.**_
 
 Machine Readable JSON
 
@@ -535,17 +537,19 @@ Machine Readable JSON
 
 ### 3.5 Extensions to the LMSS Codes
 
-The LMSS is intended to be adaptable to the needs of customers. It is our intent that later versions of the standard will incorporate extensions that have been developed.
+The LMSS is intended to be _**adaptable to the needs of customers.**_ 
 
-The LMSS has a well-defined way to extend enumerated codes.
+It is our intent that _later versions of the standard will incorporate extensions that have been developed._
+
+_**The LMSS has a well-defined way to extend enumerated codes.**_
 
 Codes are extended by:
 
-- Defining an extension prefix of the format "@<alphanumeric(6)>". This prefix followed by a colon (":") will be used as a prefix to any extended codes.
+- Defining an _**extension prefix**_ of the format "@<alphanumeric(6)>". This prefix followed by a colon (":") will be used as a prefix to any extended codes.
 
-- Creating and extension code table that conforms to the specification in section 3.2.1.
+- Creating an _**extension code table**_ that conforms to the specification in section 3.2.1.
 
-- Embedding the extension table or a reference to it in the header.
+- Embedding the _**extension table or a reference to it in the header**_.
 
 #
 
@@ -553,9 +557,9 @@ Codes are extended by:
 
 Law firm AM would like to extend the SALI industry codes to include subcategories of real estate. In this example the "Real Estate" industry type with code "RES" will be extended by adding subtypes of real estate below it.
 
-The prefix code chosen is "@am". This prefix is chosen arbitrarily, but in planned versions of the API, extension keys and be registered and stored to facilitate data exchange.)
+The prefix code chosen is "@am". This prefix is chosen arbitrarily, but in planned versions of the API, extension keys and prefix may be registered and stored to facilitate data exchange.
 
-The extension table would have this the following data.
+The extension table would have the following data.
 
 |Code | Set Code | Parent Code | Full Code Name |
 |-----|----------|-------------|----------------|
@@ -588,27 +592,38 @@ _**The following show and example of how the code would appear in an LMSS Struct
 
 ### 4.1 Overview
 
-The LMSS document is comprised of a Header and one or more Matters. 
+The LMSS document is comprised of _**a Header and one or more Matters**_. 
 
-The Header and the Matter(s) are containers Each container has elements that may be of type Text, Numeric, Enumeration or Container. 
+The _**Header and the Matter(s) are containers**_.
 
-Enumerations are stored in Text(250) fields to accommodate multiple levels of specificity that are represented as concatenated codes.
+Each container has elements that may be of type _**Text, Numeric, Enumeration or Container.**_
 
-Containers are pointers to other structures.
+_**Enumerations**_ are stored in Text(250) fields to accommodate multiple levels of specificity that are represented as _**concatenated codes**_.
 
-A well-formed Document is a structure that includes all required fields. (Note that the concept of a well-formed document applies to instance but not templates or queries.) 
+_**Containers are pointers**_ to other structures.
 
-In the tables below, “REQ” indicates whether the element is required (in an LMSS instance but not a query), “MULT” indicates whether multiple values are permitted. 
+_**A well-formed Document is a structure that includes all required fields.**_
 
-A well-formed document is required in the interchange of instances of matters between systems. 
+(Note that the concept of a _**well-formed document applies to instance but not templates or queries**_.) 
 
-A well-formed document is not required when the LMSS is used in a query. In those instances, a missing field matches all instances. See LMSS Queries below.
+In the tables below, 
+
+- “REQ” indicates whether the _**element is required**_ (in an LMSS instance but not a query), 
+- “MULT” indicates whether _**multiple values are permitted**_. 
+
+A well-formed document _**is required in the interchange of instances of matters between systems**_. 
+
+A well-formed document _**is not required when the LMSS is used in a query**_. 
+
+In those instances, a missing field matches all instances. See LMSS Queries below.
 
 #
 
 ### 4.2 Document
 
-The Document container is the top-level container in the LMSS instance. The Document must have a Header and one or more Matters.
+The _**Document container is the top-level container in the LMSS instance**_. 
+
+The Document must have _**a Header and one or more Matters**_.
 
 Document container elements:
 
@@ -621,7 +636,7 @@ Document container elements:
 
 ### 4.3 Document Header
 
-The LMSS document header is describes the version, type, default language and character set needed to for correctly read the LMSS document.
+The LMSS document _**Header describes the version, type, default language and character set needed to correctly read the LMSS document**_.
 
 |ELEMENT | REQ | MULT. | TYPE | COMMENTS |
 |--------|-----|-------|------|----------|
@@ -638,34 +653,33 @@ The LMSS document header is describes the version, type, default language and ch
 
 #### 4.3.1 Title
 
-An optional title for the document.
+An _**optional title**_ for the document.
 
 #### 4.3.2 Version
 
-The LMSS version is defined and maintained by SALI. Published version of the
-standard may be found at Sali.org
+The LMSS version is defined and maintained by SALI. Published version of the standard may be found at _**Sali.org**_.
 
 #### 4.3.3 Type
 
-Type refers to the type of the Document. Permissible values include:
+Type refers to the _**type of the Document. Permissible values include**_:
 
-- Instance – An instance encodes a specific matter. Instances have required containers and elements to be well formed.
-- Template – A template encodes default settings of an instance. Parts of templates that are not specified are assumed to accept all values. Templates must adhere to the LMSS container structure, however required elements are relaxed.
-- Query – A query encodes a database query following a SQL-like structure. Queries have select, where, order by and limit structures.
+- **Instance** – An instance encodes a specific matter. Instances have required containers and elements to be well formed.
+- **Template** – A template encodes default settings of an instance. Parts of templates that are not specified are assumed to accept all values. Templates must adhere to the LMSS container structure, however required elements are relaxed.
+- **Query** – A query encodes a database query _**following a SQL-like structure**_. Queries have select, where, order by and limit structures.
 
 #### 4.3.4 Language
 
-Language declares the default language of the LMSS structure. Languages follow the
-Internet Engineering Task Force recommendation in BCP 47.
+Language declares the default language of the LMSS structure. 
+
+Languages follow the _**Internet Engineering Task Force recommendation in BCP 47**_.
 
 #### 4.3.5 Charset
 
-The charset describes the encoding of the characters in the LMSS document. The
-default encoding is UTF-8.
+The charset describes the encoding of the characters in the LMSS document. _**The default encoding is UTF-8**_.
 
 #### 4.3.6 Extension Link
 
-A link to an extension file that conforms to the LMSS Extension file format.
+A _**link to an extension file**_ that conforms to the _**LMSS Extension file format**_.
 
 #
 
@@ -726,15 +740,15 @@ A sample in-document extension is shown below:
 
 #### 4.4.1 Code Set
 
-The LMSS Code of the code set. (See 6.1)
+The _**LMSS Code of the code set**_. (See 6.1)
 
 #### 4.4.2 Code
 
-The code assigned to the extension. The code will have a "@" prepended to it when used.
+The _**code assigned to the extension**_. The code will have _**a "@" prepended to it**_ when used.
 
 #### 4.4.3 Parent
 
-The parent code. The parent code must be an existing standard code in the code set, or a previously defined extension. Examples include "RES" or "@OFFICE".
+The _**parent code**_. The parent code must be an _**existing standard code**_ in the code set, or a _**previously defined extension**_. Examples include "RES" or "@OFFICE".
 
 #### 4.4.4 Name
 
