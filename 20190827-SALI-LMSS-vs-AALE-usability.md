@@ -8,7 +8,9 @@
 
 #
 
-### SALI Alliance - LMSS Legal Matter Specification Standard Draft Project (last update June 2019): 
+### SALI Alliance 
+### LMSS Legal Matter Specification Standard Draft Project 
+### (June 2019 last update) 
 ### Relevance and Usability for our AALE Challenge.
 ### First Iteration - DRAFT WITH “REQUEST FOR COMMENT” - Thank You.
 
@@ -18,16 +20,16 @@
 
 #### This was serendipitously triggered by our CL colleague Diana remarks, together with Dazza's comments on his pics taken at the SALI LMSS presentation at ILTACON https://www.iltacon.org conference in Orlando, Florida on August 18th-22nd 2019. 
 
-#### In addition to Dazza's pics comprehensively reflecting the SALI LMSS presentation at ILTACON, the main reference document we use here is the SALI Alliance's Draft Legal Matter Specification Standard (LMSS) 1.0, Rev 2 (June 2019), together with its associated SALI Alliance reference working materials- which alltogether cover the content of the presentation pics:
+#### In addition to Dazza's pics comprehensively reflecting the SALI LMSS presentation at ILTACON, the main reference document we use here is the SALI Alliance's Draft Legal Matter Specification Standard (LMSS) 1.0, Rev 2 (June 2019), together with its associated SALI Alliance reference working materials- which alltogether cover the content of the ILTACON presentation pics:
 
 #### https://salilegal.org/sali3/docs/SALI%20LMSS%201.0%20rev2c.pdf?1566567194
 #### Version Revision 2c - Last Update: 2019-06-08 - SALI Matter Specification Committee - Adam L. Stock
 #
-#### These reference materials are subject to © Copyright 2019 Standards Advancement for the Legal Industry Alliance - This SALI-LMSS work is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.
+#### These reference materials are subject to © Copyright 2019 Standards Advancement for the Legal Industry Alliance - This SALI LMSS work is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.
 #### See also: SALI Alliance Intellectual Property Rights Policy - Draft 07 June 2018: https://salilegal.org/sali3/docs/SALI%20IPR%20Policy%2007JUN18.pdf .
 #
 
-#### For the rest of the content that is our own remarks (below Part A):
+#### For our (non-Lawyer Chris) own comments in below Part A:
  
 **Creative Commons Attribution License: https://creativecommons.org/licenses/by/4.0/**
 
@@ -37,31 +39,38 @@
 
 #
 
-### SALI Alliance - LMSS Legal Matter Specification Standard Draft Project (last update June 2019): 
+### SALI Alliance 
+### LMSS Legal Matter Specification Standard Draft Project 
+### (June 2019 last update) 
 ### Relevance and Usability for our AALE Challenge.
 ### First Iteration - DRAFT WITH “REQUEST FOR COMMENT” - Thank You.
 
 
 
-The below Part A contains some observations on the relevance and usability of SALI-LMSS for our AALE Challenge.
+The below Part A contains some observations on the relevance and usability of SALI LMSS for our AALE Challenge.
 
-Parts B to E are a reproduction of SALI LMSS draft tool features, and other working and demonstration materials, including tables, chats and sample coding. For sake of ease of use, we wanted to have the content extracted from above mentioned SALI Alliance reference materials all available and handy in this GitHub file to start with.
+Parts B to E are a reproduction of SALI LMSS draft featuresas of June 2019 , and other working and demonstration materials, including tables, chats and sample coding. For sake of ease of use, we wanted to have the content extracted from above mentioned SALI Alliance reference materials, all available and handy in this GitHub file to start with.
 
-With its efficient, cost-conscious, productivity & performance streamlining oriented approach, this SALI-LMSS draft tool should be quite attractive for professionals and senior decision makers. Also for its well explained, intuitive ease of use and clear-cut BPM approach, in the context of practicing Law and/or providing alternative Legal services, it has our vote.
+With its efficient, cost-conscious, productivity & performance streamlining oriented approach, these SALI LMSS draft features should be quite attractive for professionals and senior decision makers. Also for SALI LMSS well explained, intuitive ease of use and clear-cut BPM approach, in the context of practicing Law and/or providing alternative Legal services, it has our vote.
 
-No mind-stretching decentralized thinking, yet, there we're talking about BPM that is usable, now, within the still dominant paper paradigm of a heavily structured, old-fashioned legal profession. 
+No mind-stretching decentralized thinking, yet, here we're talking mostly about BPM that is usable, now, within the still dominant paper paradigm of a heavily structured, old-fashioned legal profession moving toward integration of "Legal Tech". 
 
-While SALI-LMSS attributes (tree-based structured, hierarchical, objects and parameters based) may not sound too earth-shattering (one could argue on reality-reduction by hierarchy, parameters, and language), they hold a clear advantage of functioning in an intelligible, digestible and palastable way, so that we can start working on training wheels and build up complexity from there. 
+While SALI LMSS features (tree-based structure, hierarchical, objects and parameters based) may not sound too earth-shattering (one could argue on reality-reduction by hierarchy, parameters, and language), they hold a clear advantage of functioning in an intelligible, digestible and palastable way, so that "we can start working on training wheels and build up complexity from there" (Dazza). 
 
-We won't speculate whether SALI-LMSS tool will ultimately nail the standard, or even if there should and will be "a" standard (there is probably such a need, though), but to us it sounds like a move in "a" (if not "the") right direction. Furthermore, we are intrigued by SALI-LMSS'possible relevance and usability for our AALE challenge: we like what this draft tool does, and because it could do even more with some flexible and modular extensions, having been conceived with that mindset.
+We won't speculate whether SALI LMSS features will ultimately nail the standard, or even if there should and will be "a" standard (there is probably such a need, though), but to us it sounds like a move in "a" (if not "the") right direction. 
 
-In [Part A](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-a---relevance-and-usability-of-sali-lmss-for-our-aale-challenge), we look at the relevance and usability of SALI-LMSS draft tool for our AALE Computational Law Challenge.
+Furthermore, and this is the point here, we are intrigued by some of SALI LMSS features possible relevance and usability for our AALE challenge: we like what this SALI LMSS tool does, and because it could do even more with some flexible and modular extensions, having been conceived with that mindset.
 
-In [Part B - SALI Legal Matter Standard Update Presentation (June 2018)](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-b---sali-legal-matter-standard-update-presentation-june-2018),  we review the June 2018 high level outlook of the draft tool, that was initially conceived in 2017. 
+In [Part A](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-a---relevance-and-usability-of-sali-lmss-for-our-aale-challenge), we look at the relevance and usability of SALI LMSS feastures for our AALE Computational Law Challenge.
 
-For the 2017 Zeitgeist around the conception of the SALI-LMSS draft tool at the time, see also: 
+In [Part B - SALI Legal Matter Standard Update Presentation (June 2018)](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-b---sali-legal-matter-standard-update-presentation-june-2018),  we review the June 2018 high level outlook of the SALI LMSS project, that was initially conceived in 2017. 
 
-- SKU for legal services (SKU = Stock Keeping Unit) http://www.legalexecutiveinstitute.com/skus-matter-standards/ (2017) by David Curle, Director, Enterprise Content - Technology and Innovation, Legal Executive Institute, Thomson Reuters, Director of the Technology and Innovation Platform for Thomson Reuters Legal Executive Institute, providing research and thought leadership around the competitive environment and the changing legal services industry (follow David on Twitter: @davidcurle), and (of course!),
+For the 2017 Zeitgeist around the conception of the SALI LMSS project at the time, see also: 
+
+- SKU for legal services (SKU = Stock Keeping Unit) http://www.legalexecutiveinstitute.com/skus-matter-standards/ (2017) by David Curle. David Curle is Director of the Technology and Innovation Platform for Thomson Reuters Legal Executive Institute, providing research and thought leadership around the competitive environment and the changing legal services industry - follow David on Twitter: @davidcurle, 
+
+and (of course!),
+
 - CodeX Future Law 2017 conference materials at https://conferences.law.stanford.edu/futurelaw2017/materials/.
 
 
