@@ -22,7 +22,7 @@
 
 #### This was serendipitously triggered by our CL colleague Diana, together with Dazza and pics he took at the SALI LMSS presentation - ILTACON conference https://www.iltacon.org in Orlando, Florida on August 18th-22nd 2019. 
 
-#### In addition to Dazza's pics comprehensively reflecting the SALI LMSS presentation, the reference document we use here is the SALI Alliance's Draft Legal Matter Specification Standard (LMSS) 1.0, Rev 2 (June 2019), together with its associated SALI Alliance reference working materials- which alltogether cover the content of the ILTACON presentation pics:
+#### In addition to Dazza's pics comprehensively reflecting the SALI LMSS presentation, the reference document we use is the SALI Alliance's Draft Legal Matter Specification Standard (LMSS) 1.0, Rev 2 (June 2019), together with associated SALI Alliance reference working materials- which alltogether cover the content of the ILTACON presentation pics:
 
 #### https://salilegal.org/sali3/docs/SALI%20LMSS%201.0%20rev2c.pdf?1566567194
 #### Version Revision 2c - Last Update: 2019-06-08 - SALI Matter Specification Committee - Adam L. Stock
@@ -40,24 +40,23 @@
 #
 
 #
-
 ### SALI Alliance 
-### LMSS Legal Matter Specification Standard Draft Project 
-### (June 2019 last update) 
+### LMSS Legal Matter Specification Standard
+### (Draft Project - last update June 2019) 
 ### Relevance and Usability for our AALE Challenge.
 ### First Iteration - DRAFT WITH “REQUEST FOR COMMENT” - Thank You.
 
-
+#
 
 The below Part A contains some observations on the relevance and usability of SALI LMSS for our AALE Challenge.
 
 Parts B to E are a reproduction of SALI LMSS draft featuresas of June 2019 , and other working and demonstration materials, including tables, chats and sample coding. For sake of ease of use, we wanted to have the content extracted from above mentioned SALI Alliance reference materials, all available and handy in this GitHub file to start with.
 
-With its efficient, cost-conscious, productivity & performance streamlining oriented approach, these SALI LMSS draft features should be quite attractive for professionals and senior decision makers. Also for SALI LMSS well explained, intuitive ease of use and clear-cut BPM approach, in the context of practicing Law and/or providing alternative Legal services, it has our vote.
+With their efficient, productivity & performance-streamlining oriented cost-conscious approach, these SALI LMSS draft features should be quite attractive for professionals and senior decision makers. Also for SALI LMSS well explained, intuitive ease of use and clear-cut legal profession BPM approach, in the context of practicing Law and/or providing alternative Legal services, it has our vote. 
 
-No mind-stretching decentralized thinking, yet, here we're talking mostly about BPM that is usable, now, within the still dominant paper paradigm of a heavily structured, old-fashioned legal profession moving toward integration of "Legal Tech". 
+No mind-stretching decentralized thinking nor much bleeding-edge tech yet ... here, we're talking about straightforward legal profession BPM that is usable, now, within the legal profession still dominant paper paradigm: according to the project leaders, _"The LMSS structure can be expressed as a database schema for storage or an XML or JSON structure for transmission of the matter information"._ 
 
-While SALI LMSS features (tree-based structure, hierarchical, objects and parameters based) may not sound too earth-shattering (one could argue on reality-reduction by hierarchy, parameters, and language), they hold a clear advantage of functioning in an intelligible, digestible and palastable way, so that "we can start working on training wheels and build up complexity from there" (Dazza). 
+Incorporating features such as tree-based structure, hierarchical, objects and parameters based, this may not sound too earth-shattering, but _it does the job_. One could argue on reality-reduction by hierarchy, parameters, and language, but these features hold a clear advantage of functioning in an intelligible, digestible and palastable way, so that "we can start working on training wheels and build up complexity from there" (Dazza). 
 
 We won't speculate whether SALI LMSS features will ultimately nail the standard, or even if there should and will be "a" standard (there is probably such a need, though), but to us it sounds like a move in "a" (if not "the") right direction. 
 
@@ -309,29 +308,31 @@ _**WHY IS THIS SO HARD?**_
 
 ## 1 Overview
 
-_**The SALI Legal Matter Specification Standard (LMSS) was developed by the Standards for the Advancement of the Legal Industry (SALI) Alliance to provide a standard way for parties to specify, describe and exchange information describing legal services at the matter level throughout a legal matter’s lifecycle. The SALI LMSS is designed to function as a worldwide legal matter standard.**_
+_**The SALI Legal Matter Specification Standard (LMSS) was developed by the Standards for the Advancement of the Legal Industry (SALI) Alliance to provide a standard way for parties to specify, describe and exchange information describing legal services at the matter level throughout a legal matter’s lifecycle.**_
+
+_**The SALI LMSS is designed to function as a worldwide legal matter standard.**_
 
 #
 
 ### 1.1 What do we mean by a “legal matter”?
 
-For the purpose of the LMSS, a Legal Matter is considered to be any group of activities for the purposes of delivering a legal service to one or more parties. The activities are either a major project with start and end point (e.g. litigation, acquisition of a business, a regulatory filing, etc.) or a grouping of micro projects (e.g. advice).
+For the purpose of the LMSS, _**a Legal Matter is considered to be any group of activities for the purposes of delivering a legal service to one or more parties.**_ The activities are either a major project with start and end point (e.g. litigation, acquisition of a business, a regulatory filing, etc.) or a grouping of micro projects (e.g. advice).
 
 #
 
 ### 1.2 What do we mean by the “legal matter lifecycle”?
 
-The legal matter lifecycle means the description of the matter from its conception as a request for services through its inception and execution through closing. Because the LMSS must support a matter that will evolve through its lifecycle, it is designed accommodate the evolution of the matter without jeopardizing the integrity of systems that are depending on data provided at an earlier stage of the matter.
+The _**legal matter lifecycle means the description of the matter from its conception as a request for services through its inception and execution through closing.**_ Because the LMSS must support a matter that will evolve through its lifecycle, it is designed to accommodate the evolution of the matter _**without jeopardizing the integrity of systems that are depending on data provided at an earlier stage of the matter.**_
 
 #
 
 ### 1.3 What are the components of the LMSS?
 
-The SALI LMSS has following components:
+The SALI LMSS has the following components:
 
-- The legal matter specification includes: structure, allowed values, and dependencies and supports both matter instances (the description of specific matters), and matter templates (the description of classes of matters).
+- The legal matter specification includes: _**structure, allowed values, and dependencies**_ and supports both _**matter instances**_ (the description of specific matters), and _**matter templates**_ (the description of classes of matters).
 
-- The legal matter application programming interfaces (APIs) include: the transport API for exchanging data and the UX API for supporting the user interface of applications that use the standard.
+- The legal matter application programming interfaces (APIs) include: the _**transport API for exchanging data**_ and the _**UX API for supporting the user interface of applications that use the standard.**_
 
 #
 #
@@ -344,36 +345,43 @@ _**The SALI LMSS was designed using the following principles:**_
 
 ### 2.1 Player/Viewer independence
 
-The standard is designed to provide clear guidance and party-independent enumerated values to ensure that matters are encoded the same way independent of the party involved in matter. As an example, the standard supports terms such as “plaintiff” and
-“defendant” which have the same meaning no matter who is looking at the matter over terms like “client” and “opposing party” which change depending upon a player’s role in the matter.
+The standard is designed to provide clear guidance and _**party-independent enumerated values**_ to ensure that matters are encoded the same way independent of the party involved in matter. As an example, the standard supports terms such as _**“plaintiff” and “defendant”**_ which have the same meaning no matter who is looking at the matter over terms like “client” and “opposing party” which change depending upon a player’s role in the matter.
 
 #
 
 ### 2.2 Successive refinement and additive coding
 
-Because the LMSS is intended to be used legal matters to describe legal matters that are being executed, the standard implements hierarchical and additive coding. As an example, when a matter begins, the area of law for a matter may not yet be fully determined, for example, we may know that it is a environmental matter, but not what specialty in environmental law. Such a matter would initially be encoded as environmental – ENVT. At a later point it may be determined that the matter is an air quality matter -- AIRQ. This would be encoded as "ENVT-AIRQ" The successive code is added to the previous code and is a further refinement of the previous code. This design ensure that other systems that depend upon the initial restructuring code continue to work.
+Because the LMSS is intended to be used for legal matters, _**to describe legal matters that are being executed, the standard implements hierarchical and additive coding.**_
 
-Furthermore, each code in a code set is guaranteed to be unique, and each code is guaranteed to have a single parent code. This means that if you simply use the code "AIRQ", the full coding path "ENVT-AIRQ" can be derived. In cases where the SALI
-standard has adopted codes from other standards that don’t adhere to this requirement, the "+" notation is used. For example both US, California and El Salvador, Cardenas use the same ISO code "CA". To distinguish these, the code is prepended with the
-parent code followed by a "+". USA ("US"), California ("CA") is coded as "US+CA"; El Salvador ("SV"), Cardenas ("CA") is coded as "CV+CA".
+As an example, when a matter begins, _**the area of law for a matter may not yet be fully determined.**_
+
+For example, we may know that it is a environmental matter, but not what specialty in environmental law. Such a matter would initially be encoded as environmental – ENVT. At a later point it may be determined that the matter is an air quality matter -- AIRQ. This would be encoded as "ENVT-AIRQ" The successive code is added to the previous code and is a further refinement of the previous code. 
+
+_**This design ensure that other systems that depend upon the initial restructuring code continue to work.**_
+
+Furthermore, each code in a code set _**is guaranteed to be unique, and each code is guaranteed to have a single parent code.**_ This means that if you simply use the code "AIRQ", the full coding path "ENVT-AIRQ" can be derived. 
+
+In cases where the SALI standard has adopted codes from _**other standards that don’t adhere to this requirement, the "+" notation is used.**_
+
+For example both US, California and El Salvador, Cardenas use the same ISO code "CA". To distinguish these, the code is prepended with the parent code followed by a "+". USA ("US"), California ("CA") is coded as "US+CA"; El Salvador ("SV"), Cardenas ("CA") is coded as "CV+CA".
 
 #
 
 ### 2.3 Standards based
 
-The LMSS is built on and incorporates existing international standards in addition to specifying new codes applicable to the legal services domain.
+The LMSS is _**built on and incorporates existing international standards in addition to specifying new codes applicable to the legal services domain.**_ 
 
 #
 
 ### 2.4 Extensible
 
-Since the LMSS cannot anticipate all needs, there is a well-defined way to extend the standard while staying within the design and API functionality. There is a methodology for providing including private structural components and private allowable values that at some point may be submitted and considered for incorporation into to future versions of the LMSS.
+Since the LMSS cannot anticipate all needs, there is a _**well-defined way to extend the standard while staying within the design and API functionality.**_ There is a methodology for providing including _**private structural components and private allowable values**_ that at some point may be submitted and considered for incorporation into future versions of the LMSS.
 
 #
 
 ### 2.5 Agile approach
 
-The LMSS is designed using an agile approach wherein the proposed standard drafts are revised and tested by a broad group of stakeholders representing law firms, clients and solution providers to ensure that the standard is practical and appropriate to the specific needs and use cases being addressed.
+The LMSS is designed using an agile approach wherein the proposed standard drafts are _**revised and tested by a broad group of stakeholders representing law firms, clients and solution providers**_ to ensure that the standard is practical and appropriate to the specific needs and use cases being addressed.
 
 The process is as follows is described in the table below:
 
@@ -389,41 +397,45 @@ The process is as follows is described in the table below:
 
 ## 3 Legal Matter Specification (LMSS) Components
 
-The legal matter specification includes the following components:
+The _**legal matter specification**_ includes the following components:
 
-- structure,
-- allowed values,
-- dependencies, and,
-- extensions.
+- **structure**,
+- **allowed values**,
+- **dependencies**, and,
+- **extensions**.
 
 In addition, the LMSS supports both:
 
-- matter instances (the description of specific matters), and
-- matter templates (the description of classes of matters).
+- **matter instances** (the description of specific matters), and
+- **matter templates** (the description of classes of matters).
 
 #
 
 ### 3.1 LMSS Structure
 
-The LMSS Structure specifies where descriptive elements of matter are stored and how those elements relate to each other. The structure is comprised of components called “containers.” Containers can be thought of as tables in a relational database. The
-structure defines structure of each container – its elements – how containers relate to each other, which elements are required and which are optional, and whether the relationship between containers are one-to-one or one-to-many.
+The _**LMSS Structure**_ specifies where descriptive elements of matter are stored and how those elements relate to each other. 
 
-The LMSS structure can be expressed as a database schema for storage or an XML or JSON structure for transmission of the matter information.
+The structure is comprised of components called _**“containers.”**_ Containers can be thought of as _tables in a relational database._ 
+
+The structure defines _structure of each container – its **elements** –_ how containers _relate to each other_, which elements are _required and which are optional_, and whether the _**relationship**_ between containers are _one-to-one or one-to-many_.
+
+The LMSS structure can be expressed as a _**database schema for storage or an XML or JSON structure for transmission of the matter information**_.
 
 #
 
 ### 3.2 LMSS Allowed Values
 
-The LMSS Allowed Values specify the type of information that may be stored in different elements of the containers. Allowed values fall into the following categories:
+The _**LMSS Allowed Values**_ specify the _**type of information**_ that may be stored in different elements of the containers. Allowed values fall into the following categories:
 
 #
 
 #### 3.2.1 Enumerated Values
 
-Enumerated values are specifically defined values that are allowed at permitted as values of specific container elements.
+_**Enumerated values are specifically defined values that are allowed at permitted as values of specific container elements.**_
 
-The LMSS relies extensively on enumerated values to ensure that common definitions across systems and languages. Some standards are officially incorporated in the standard such as ISO-4217, which provides standard codes standard names codes for
-currencies. Enumerated values components are summarized in the table below
+The LMSS relies extensively on enumerated values to ensure that _**common definitions across systems and languages are incorporated.**_
+
+Some standards are officially incorporated in the standard such as ISO-4217, which provides standard codes standard names codes for currencies. Enumerated values components are summarized in the table below
 
 _**Enumerated value components**_
 
@@ -431,20 +443,20 @@ _**Enumerated value components**_
 |------|------------|-------------|
 | **Code Set** | Text(40) | The name of the code set |
 | **Code** | Up to 16 | A code for the value. |
-| **Parent Code** | Text(250) | The code of the of the parent in a hierarchical coding system. This is null for top level codes.|
+| **Parent Code** | Text(250) | The code of the parent in a hierarchical coding system. This is null for top level codes.|
 | **Short Name** | Up to 40 | The name of the value intended for use in user interfaces and other applications with limited space.|
 | **Name** | Up to 100 | The full name of the value.|
 | **Description** | Up to 4000 | A description of the value.|
 | **Tags** | Up to 10 | Synonyms or common usage. Tags are used to enhance search.|
 | **URL** | Text(250) | Optional URL used as a reference.|
 
->- Codes are alphanumeric characters excluding the ‘-‘ character. They are case insensitive. Codes are typically stored in Text(250) fields because codes may be additive. Separate code may be appended to each other using the “-“ character as a separator. The 16 character limit does not include extension prefixes.
+>- Codes are alphanumeric characters excluding the ‘-‘ character. They are _**case insensitive**_. Codes are typically stored in Text(250) fields because codes may be additive. Separate code may be appended to each other using the “-“ character as a separator. The 16 character limit does not include extension prefixes.
 >
 >- Codes are of the form: (@[A-Z0-9]+:)?([A-Z0-9.]+ | [A-Z0-9.]+[+][A-Z0-9.]+)
 >
->- '+' has a special meaning to support non-conforming code sets.
+>- '+' has a special meaning _**to support non-conforming code sets**_.
 
-Enumerated value codes are combine by adding a "-" (dash character) and the next most specific code as a suffix.
+_**Enumerated value codes**_ are combined by adding a "-" (dash character) and _**the next most specific code as a suffix.**_
 
 Examples:
 
@@ -456,11 +468,17 @@ Examples:
 
 #### 3.2.2 Text Values
 
-Text values are unstructured natural language descriptions intended to be human readable and informative. Text values are also used to store information not yet specified by the standard. Text values are intended to be searchable, and subject to standard text operations.
+_**Text values are unstructured natural language descriptions**_ intended to be _**human readable and informative**_. 
+
+Text values are also used to _**store information not yet specified by the standard**_. Text values are intended to be _**searchable, and subject to standard text operations**_.
 
 #### 3.2.3 Numeric Values
 
-Numeric values store scalar numeric information. Numeric values are subject to common mathematical operations. Numeric values can be floating point, whole number and boolean.
+_**Numeric values store scalar numeric information**_. 
+
+Numeric values are subject to _**common mathematical operations**_. 
+
+Numeric values can be _**floating point, whole number and boolean**_.
 
 #
 
