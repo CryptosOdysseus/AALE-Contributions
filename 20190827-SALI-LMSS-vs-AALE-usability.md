@@ -685,7 +685,9 @@ A _**link to an extension file**_ that conforms to the _**LMSS Extension file fo
 
 ### 4.4 Extension
 
-An extension container is an in-document definition of an extension. A document may include an array of these in the header.
+An _**extension container**_ is an _**in-document definition of an extension**_. 
+
+A document may _**include an array of these in the header**_.
 
 The scope applies to the document.
 
@@ -752,19 +754,23 @@ The _**parent code**_. The parent code must be an _**existing standard code**_ i
 
 #### 4.4.4 Name
 
-The short name of extension code.
+The _**short name of extension code**_.
 
 #
 
 ### 4.5 Declaration
 
-A declaration may be used to assign and index to an item to ensure accurate cross referencing. Declarations are typically used for legal entities but can be used in place of a Name (See 4.10.1, 4.11.1 and 4.11.2).
+A _**declaration**_ may be used to _**assign and index to an item to ensure accurate cross referencing**_. 
 
-A legal person or entity is any human or non-human entity, in other words, any human being, firm, or government agency that is recognized as having privileges and obligations, such as having the ability to enter into contracts, to sue, and to be sued.
+Declarations are typically used for _**legal entities**_ but can be used _**in place of a Name**_ (See 4.10.1, 4.11.1 and 4.11.2).
 
-Entities are used to maintain referential integrity across LMSS structure. For example, if the matter includes two processes that refer to the same legal entity as in the example, "Review and negotiate project labor agreement for Jane Smith." 
+A _**legal person or entity is any human or non-human entity**_, in other words, any _**human being, firm, or government agency**_ that is recognized as having _**privileges and obligations**_, such as having _**the ability to enter into contracts, to sue, and to be sued**_.
 
-The matter may be encoded to have two processes – one for review and another of negotiation. But the review and negotiation are the same legal entity. An entity declaration should be used in this instance and the entity NameID should be used in each process to ensure that it is understood that the objects of both process are the same.
+_**Entities**_ are used to maintain _**referential integrity across LMSS structure**_. 
+
+For example, if the matter includes _**two processes that refer to the same legal entity**_ as in the example, "Review and negotiate project labor agreement for Jane Smith." 
+
+The matter may be encoded to have two processes – one for review and another of negotiation. But the review and negotiation concern the same legal entity. An entity declaration should be used in this instance and the entity NameID should be used in each process to ensure that it is understood that the objects of both process are the same.
 
 | ELEMENT | REQ. | MULT. | TYPE | COMMENTS |
 |---------|------|-------|------|----------|
@@ -775,18 +781,25 @@ The matter may be encoded to have two processes – one for review and another o
 
 #### 4.5.1 NameID
 
-The ID to be used in place of a name. NameIDs must begin with a caret symbol. (e.g. ^102 or ^EntityXYZ).
+The _**ID to be used in place of a name**_. NameIDs must begin with a caret symbol. (e.g. ^102 or ^EntityXYZ).
 
 #### 4.5.2 Name
 
-The name to be used in place of the NameID.
+The _**name to be used in place of the NameID**_.
 
 #
 
 ### 4.6 Matter
 
-The Matter container encapsulates the information for a matter. There may be more than one matter per document. The matter must have a title, a human readable description, a locale and one or more processes. The locale may restrict the types of
-the processes. For example, certain bankruptcy processes are limited to the US because those processes a defined by US Bankruptcy law.
+The _**Matter container encapsulates the information for a matter**_. 
+
+There may be _**more than one matter per document**_. 
+
+The matter must have a _**title, a human readable description, a locale and one or more processes**_. 
+
+The _**locale may restrict the types of the processes**_. F
+
+or example, certain bankruptcy processes are limited to the US because those processes a defined by US Bankruptcy law.
 
 Matter container elements:
 
@@ -801,21 +814,25 @@ Matter container elements:
 
 #### 4.6.1 Title
 
-A required title for the process.
+A _**required title for the process**_.
 
 #### 4.6.2 Locale
 
-A required locale for the matter. The locale is an enumeration.
+A _**required locale for the matter**_. The _**locale is an enumeration**_.
 
 #
 
 ### 4.7 Narrative
 
-A narrative holds a group of related matter descriptions. It includes a required type which is an enumerated list, an optional usage tag, and an optional source. 
+A _**narrative**_ holds a _**group of related matter descriptions**_. 
 
-Each narrative can have a specified usage so a Matter can have multiple narratives based on the audience. each narrative is intended to capture a logically unique matter interpretation of the matter. 
+It includes a _**required type**_ which is an _**enumerated list**_, an _**optional usage tag**_, and _**an optional source**_. 
 
-Formatting and language variants are accommodated in the description container.
+Each _**narrative can have a specified usage**_ so _**a Matter can have multiple narratives based on the audience**_. 
+
+Each _**narrative is intended to capture a logically unique interpretation of the matter**_. 
+
+_**Formatting**_ and _**language variants**_ are accommodated in the _**description container**_.
 
 Narrative container elements:
 
@@ -830,21 +847,39 @@ Narrative container elements:
 
 #### 4.7.1 Type
 
-The narrative type is an enumerated list intended to capture the sensitivity of the narrative. Values include: public, confidential, private, generic, etc.
+The _**narrative type**_ is an _**enumerated list**_ intended to _**capture the sensitivity of the narrative**_. 
+
+Values include: _**public, confidential, private, generic, etc**_.
 
 #### 4.7.2 Usage
 
-Usage is an optional human readable field that should capture the audience or usage of the narrative. Examples for the same matter might be: "Narrative written for pitches to lenders," "Narrative written for pitches to borrowers," and "Narrative written for generic finance pitches."
+_**Usage**_ is an _**optional human readable field**_ that should capture the _**audience or usage of the narrative**_. 
+
+Examples for the same matter might be: 
+
+- "Narrative written for pitches to lenders",
+- "Narrative written for pitches to borrowers"
+- "Narrative written for generic finance pitches"
 
 #### 4.7.3 Source
 
-The source is an optional element that describe the source of the narrative. You may provide multiple sources. Examples include: "2015 litigation department compensation memo," and "2017 environmental practice Chambers submission."
+The _**source_** is an _**optional element**_ that describe the _**source of the narrative**_. 
+
+You may provide _**multiple sources**_. 
+
+Examples include: "2015 litigation department compensation memo," and "2017 environmental practice Chambers submission."
 
 #
 
 ### 4.8 Description
 
-The description in an container encapsulates the specific text of a specific narrative. The description has text, a format and a language. If the language is not specified, it is inherited from the matter. For example, if a firm keeps French and English versions of the same narrative, or plain text and HTML formatted versions of the same narrative, these would be accommodated in the description container.
+The _**description in a container**_ encapsulates the _**specific text of a specific narrative**_. 
+
+The description has _**text, a format and a language**_. 
+
+If the _**language is not specified, it is inherited from the matter**_. 
+
+For example, if a firm keeps French and English versions of the same narrative, or plain text and HTML formatted versions of the same narrative, these would be accommodated in the description container.
 
 | ELEMENT | REQ. | MULT. | TYPE | COMMENTS |
 |---------|------|-------|------|----------|
@@ -856,32 +891,47 @@ The description in an container encapsulates the specific text of a specific nar
 
 #### 4.8.1 Text
 
-The text holds the characters of the description. The format of the text is interpreted based on the description type.
+The _**text holds the characters of the description**_. 
+
+The _**format of the text is interpreted based on the description type**_.
 
 #### 4.8.2 Format
 
-Two formats are supported: Text and HTML.
+_**Two formats are supported: Text and HTML.**_
 
 #### 4.8.3 Language
 
-Language is optionally specified by using BCP 47.
+_**Language is optionally specified by using BCP 47.**_
 
 #
 
 ### 4.9 Process
 
-The Process container describes the process, service or product being delivered.
+The _**Process container**_ describes the _**process, service or product being delivered**_.
 
-Every process must have a single process type. Top-level process types are transactions, disputes, regulatory proceedings, bankruptcy/restructurings, and advisory.
+Every _**process**_ must have _**a single process type**_. 
 
-If we think of the process as a sentence, the process type reprints the “verb.” They
-describe the action that is being taken.
+Top-level _**process types**_ are _**transactions, disputes, regulatory proceedings, bankruptcy/restructurings, and advisory**_.
 
-The players are the legal entities involved in the process. These should be thought of the subject (Joe Smith) and object (Company X) in the sentence “Joe Smith sued Company X for $500,000 for breach of contract.”
+If we think of the process as a sentence, _**the process type reprints the “verb.”**_ 
 
-The process predicate contains the predecessors or outcomes of the process. In the sentence above, “for $500,000” and “for breach of contract.”
+They describe _**the action that is being taken.**_
 
-The Area of Law provides context to the process. The area of law should be thought of the primary subject of law for the process — think the class that’s the attorney was in when she learned about the applicable law. The area of law is provided primarily for context as in the examples, “He prosecuted the defendant” and “She prosecuted the patent.” The first is criminal law, the second is intellectual property law.
+The _**players are the legal entities involved in the process.**_ 
+
+These should be thought of the subject (Joe Smith) and object (Company X) in the sentence “Joe Smith sued Company X for $500,000 for breach of contract.”
+
+The _**process predicate**_ contains the _**predecessors or outcomes of the process.**_ 
+
+In the sentence above, “for $500,000” and “for breach of contract.”
+
+The _**Area of Law provides context to the process.**_ 
+
+The _**Area of Law**_ should be thought of the _**primary subject of law for the process.**_ 
+
+Think the class that’s the attorney was in when she learned about the applicable law. 
+
+The area of law is provided primarily for _**context**_ as in the examples, “He prosecuted the defendant” and “She prosecuted the patent.” The first is criminal law, the second is intellectual property law.
 
 Process container elements:
 
@@ -898,29 +948,41 @@ Process container elements:
 
 #### 4.9.1 Title
 
-The optional title of the process. Examples include: "LLC formation in California", and "License of technology to French company.".
+The _**optional title of the process**_. 
+
+Examples include: "LLC formation in California", and "License of technology to French company.".
 
 #### 4.9.2 Description
 
-An optional field to store additional information about the process.
+An _**optional field**_ to _**store additional information about the process.**_
 
 #### 4.9.3 Process Type
 
-A SALI enumerated value. Top-level process types are transactions, disputes, regulatory proceedings, bankruptcy/ restructurings, and advisory. If we think of the process as a sentence, the process type reprints the “verb.” They describe the action that is being taken.
+A _**SALI enumerated value.**_ 
+
+Top-level process types are _**transactions, disputes, regulatory proceedings, bankruptcy/restructurings, and advisory. 
+
+If we think of the process as a sentence, the process type reprints the “verb.” They describe the action that is being taken.
 
 #### 4.9.4 Area of Law
 
-The Area of Law is a SALI enumerated value that provides context to the process. The area of law should be thought of the primary subject of law for the process — think the class that’s the attorney was in when she learned about the applicable law. 
+The _**Area of Law is a SALI enumerated value that provides context to the process.**_ 
 
-The area of law is provided primarily for context as in the examples, “He prosecuted the defendant” and “She prosecuted the patent.” The first is criminal law, the second is intellectual property law. There can be multiple areas of law.
+The Area of Law should be thought of the _**primary subject of law for the process.**_ 
+
+Think the class that’s the attorney was in when she learned about the applicable law. 
+
+The area of law is provided primarily for _**context**_ as in the examples, “He prosecuted the defendant” and “She prosecuted the patent.” The first is criminal law, the second is intellectual property law. 
+
+There can be _**multiple areas of law.**_
 
 #
 
 ### 4.10 Player
 
-The players are the subject of the sentence and sometimes the object. 
+The _**players are the subject of the sentence and sometimes the object.**_ 
 
-Primary players are the primary parties involved in a legal process. 
+_**Primary players are the primary parties involved in a legal process.**_ 
 
 The Player container has the following fields:
 
@@ -941,30 +1003,43 @@ Player container elements:
 
 #### 4.10.1 Name
 
-The name is the name of player in human readable form. If a NameID is used, an Name
-is not required.
+The _**name is the name of player in human readable form._** If a NameID is used, a Name is not required.
 
 #### 4.10.2 Player Role
 
-The Player Role is an optional element that provides context. Examples of roles are Plaintiff, Defendant, Acquiror, etc. .The Roles span both legal roles and functional roles. .Play is an enumerated value
+The _**Player Role is an optional element that provides context.**_ 
+
+Examples of roles are _**Plaintiff, Defendant, Acquiror, etc.**_
+
+_**The Roles span both legal roles and functional roles.**_ 
+
+_**Player Role is an enumerated value.**_
 
 #### 4.10.3 Industry
 
-The industry is an optional field that describes the industry of the player. Industry is an enumerated value.
+The industry is _**an optional field that describes the industry of the player.**_ 
+
+_**Industry is an enumerated value.**_
 
 #### 4.10.4 Legal Entity
 
-Legal entity describes the type of the player. In law, a "legal person" or "legal entity" is any human or non-human entity, in other words, any human being, firm, or government agency that is recognized as having privileges and obligations, such as having the ability to enter into contracts, to sue, and to be sued. Legal Entity is an enumerated value.
+_**Legal entity describes the type of the player.**_ 
+
+In Law, _**a "legal person" or "legal entity" is any human or non-human entity,**_ in other words, _**any human being, firm, or government agency that is recognized as having privileges and obligations,**_ such as having _**the ability to enter into contracts, to sue, and to be sued.**_ 
+
+_**Legal Entity is an enumerated value.**_
 
 #### 4.10.5 Governmental Authority
 
-The enumerated identification of the governmental authority if the player is a governmental authority.
+_**The enumerated identification of the governmental authority if the player is a governmental authority.**_
 
 #
 
 ### 4.11 Counsel
 
-The counsel container includes all of the legal representatives of the player. The fields of the counsel container are described below:
+_**The counsel container includes all of the legal representatives of the player.**_ 
+
+The fields of the counsel container are described below:
 
 Counsel container elements:
 
@@ -980,25 +1055,35 @@ Counsel container elements:
 
 #### 4.11.1 Name
 
-The name is the name of counsel in human readable form. 
+The _**name is the name of counsel in human readable form.**_ 
 
 If a NameID is used, a Name is not required. (NameIDs are indicated by prefixing them with a caret "^" symbol. e.g. "^103".)
 
 #### 4.11.2 Firm Name
 
-The firm name is the name of firm that the counsel is part of in human readable form. If a NameID is used, a Firm Name is not required.
+The _**firm name is the name of firm that the counsel is part of in human readable form.**_
+
+If a NameID is used, a Firm Name is not required.
 
 #### 4.11.3 Representation Role
 
-The role of the legal representative. Role is an enumerated value.
+The _**role of the legal representative.**_ 
+
+_**Role is an enumerated value.**_
 
 #
 
 ### 4.12 Process Object
 
-The process object encapsulates important elements of the process. A process can have multiple process object. 
+The _**process object encapsulates important elements of the process.**_
 
-The process object can simply be a summary of key attributes of the overall process. Additional process objects can be attached to describe the preconditions and post conditions of a process. For example, for a merger, there optionally can be individual process objects describing the predecessor entities and resulting entity.
+A _**process can have multiple process object.**_ 
+
+The process object can simply be a _**summary of key attributes of the overall process.**_ 
+
+Additional process objects can be attached to describe _**the preconditions and post conditions of a process.**_
+
+For example, for a merger, there optionally can be individual process objects describing the predecessor entities and resulting entity.
 
 | ELEMENT | REQ. | MULT. | TYPE | COMMENTS |
 |---------|------|-------|------|----------|
@@ -1037,7 +1122,9 @@ See the table above for descriptions.
 
 ### 4.13 Monetary Value
 
-Monetary Value encapsulates a financial value attribute. It consists of a floating point number and a currency code.
+_**Monetary Value encapsulates a financial value attribute._**
+
+It consists of a _**floating point number and a currency code.**_
 
 Monetary value container elements:
 
@@ -1051,19 +1138,21 @@ Monetary value container elements:
 
 ## 5 The Legal Matter Application Programming Interfaces (APIs)
 
-LMSS APIs are not supported in Draft LMSS 1.0 Rev 2.
+_**LMSS APIs are not supported in Draft LMSS 1.0 Rev 2.**_
 
 The LMSS supports several types of APIs:
 
-- LMSS Instance
-- LMSS Queries
-- LMSS UI/Sych API
+- **LMSS Instance**
+- **LMSS Queries**
+- **LMSS UI/Synch API**
 
 #
 
 ### 5.1 LMSS Instance
 
-The Instance API is used to create, import and export matters. It also supports default values and user-defined extensions.
+The _**Instance API is used to create, import and export matters._ 
+
+It also supports _**default values and user-defined extensions.**_
 
 - Helps create conforming matters
 - Validates matter structures
@@ -1074,15 +1163,19 @@ The Instance API is used to create, import and export matters. It also supports 
 
 ### 5.2 LMSS Queries
 
-An important part of the LMSS is to support the querying of data stores against different criteria. The standard leverages the LMSS definition — structure, enumerated values, text and numeric values — to specify search criteria. In these instances sparse version of the LMSS are applied to develop search criteria.
+An important part of the LMSS is to support _**the querying of data stores against different criteria.**_ 
+
+The standard leverages the LMSS definition — _structure, enumerated values, text and numeric values_ — to _**specify search criteria.**_ 
+
+In these instances sparse version of the LMSS are applied to develop search criteria.
 
 #
 
 #### 5.2.1 LMSS Query WHERE Clauses
 
-In the standard SQL queries clauses SELECT, WHERE, and ORDER BY, the LMSS template can be used to define the WHERE clauses.
+In the _**standard SQL queries clauses SELECT, WHERE, and ORDER BY,**_ the LMSS template can be used to define the WHERE clauses.
 
-For enumerated values that are filled in, the search uses the “starts with” criteria for specifying a search. For text and numeric fields, you can apply standard SQL wildcard matching.
+For enumerated values that are filled in, the search uses the _**“starts with” criteria**_ for specifying a search. For _**text and numeric fields,**_ you can apply _**standard SQL wildcard matching.**_
 
 Below are several examples of how this applied, using LMSS Templates in Queries:
 
@@ -1200,7 +1293,7 @@ QUERY STRUCTURE
 
 We anticipate the following select specifications as part of the API.
 
->Remark: Not implemented in Draft LMSS 1.0 Rev 2
+>Remark: _**Not implemented in Draft LMSS 1.0 Rev 2**_
 
 | SELECT TYPE | RETURN TYPES | COMMENTS |
 |-------------|--------------|----------| 
@@ -1214,7 +1307,7 @@ We anticipate the following select specifications as part of the API.
 
 ### 5.3 LMSS UI/Synch API
 
->Remark: Not implemented in Draft LMSS 1.0 Rev 2
+>Remark: _**Not implemented in Draft LMSS 1.0 Rev 2**_
 
 
 The LMSS has an API designed to help application providers drive keep the applications updated with the most current versions of the standard. The API supports returning structures code information.
