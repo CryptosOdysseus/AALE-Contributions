@@ -195,11 +195,43 @@ In Dazza's words:
 
 Here's a non-exhaustive list of some SALI LMSS aspects that retained our attention and _ring a bell in relation with AALE design_, which motivated us to complete the current memo, and do this without getting to hung up with the Keep It Simple and (not too) Stupid SQL aspect- an important, yes, but still separate, issue. 
 
-We introduce relevant links to the Body of SALI LMSS in Part C so readers not familiar with it can get up to speed easily.
+We introduce relevant links to the Body of SALI LMSS in Parts B & C so readers not familiar with it can get up to speed easily.
 
-LIST ASPECTS
+### Most salient Computational Law aspects of SALI LMSS:
 
-BPM /// LAWYER CLIENT RELATIONSHIP MANAGEMENT
+The SALI LMSS delivers [structure, codes, and APIs](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#what-the-lms-standard-is-delivering).
+
+The SALI LMSS structure defines [where information is stored](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#the-lms-structure-defines-where-information-is-stored).
+
+The SALI LMSS code sets define what are [allowable values](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#the-lms-code-sets-define-what-are-allowable-values).
+
+The SALI LMSS APIs are tools to help [implement the standard](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#the-lms-apis-are-tools-to-help-implement-the-standard).
+
+The [Computational Law components of the LMSS](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#13-what-are-the-components-of-the-lmss-1) help think about an AALE context as well, as they cover structure, allowed values, and dependencies and supports both matter instances and matter templates. The legal matter application programming interfaces (APIs) include: the transport API for exchanging data and the UX API for supporting the user interface of applications that use the standard. Structure & components first details can be found [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#3-legal-matter-specification-lmss-components-1).
+
+Because the standard is designed to provide clear guidance and [party-independent enumerated values](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#21-playerviewer-independence-1) to ensure that matters are encoded the same way independent of the party involved in matter, this is relevant to an AALE/DAO and a legal counsel establishing a lawyer-client realtionship and setting up a process and procedures (either with AALE/DAO as a whole or with a specific individual loaded with "attribution").
+
+Because the LMSS is intended to be used for legal matters, to describe legal matters that are being executed, the standard implements [hierarchical and additive coding.](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#22-successive-refinement-and-additive-coding-1). For example, when a matter begins, the area of law for a matter may not yet be fully determined: with the Publishing DAO legal analysis, it only became clearly apparent after a while that Agency Law wasn't sufficient to cover all scenarios and that Contract Law was required to replace and/or supplement Agency Law in most scenarios. _**The SALI LMSS design ensure that other systems that depend upon the initial restructuring code continue to work.**_  
+
+Since the LMSS cannot anticipate all needs, there is a well-defined way to [extend the standard while staying within the design and API functionality](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#24-extensible-1). This would be useful to add and plug-in many new ontologies born from AAS/AALE needs.
+
+As part of [LMSS Components](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#3-legal-matter-specification-lmss-components-1), the [Extensions](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#35-extensions-to-the-lmss-codes-1) to the LMSS code are ntended to be adaptable to the needs of customers. The processus is straightforward and could be sued to test-experiment new strucutres and codes in the context of new ontologies born from AAS/AALE needs. All there is to do is to define these.
+
+The [structure](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#4-structure-of-lmss-document-1) of SALI LMSS documents provide a template for what would be required as parameters and output to warrant AALE interoperability with SALI LMSS, including but not limited to managing AAS ontologies in a human-AAS interaction and attribution context.
+
+In order to do that, specific care should be placed on formatting AAS/AALE ontologies with respect to [Matter](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#46-matter-1), [Narrative](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#47-narrative-1), [Description](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#48-description-1). The issue of language may or not be optional.
+
+Because the [Process](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#49-process-1) container describes the process, service or product being delivered, it would be the bulk of efforts to further define the lawyer-client relationship process in a AALE/human-AAS context, and register all parameters of actions taken in that context. 
+
+New types of [Players](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#410-player-1) would need to be defined, since we might as well have electronic agents whose (consequences of) actions are attributed to a (human) legal person, but also possibly AAS as full fledge legal agent.
+
+And the AALE itself is a [Legal Entity](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#4104-legal-entity-1) player.
+
+The [Counsel](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#411-counsel-1) matters as well, since it could be human, or it could be partially or fully an AAS/AALE itself, in a context where a Counsel-AAS/AALE has a "constructive" interaction with a human-AAS/AALE context in order to mitigate rather than exacerbate the risks of litigation, faciliate ADR in various ways, etc.
+
+The [Process Object](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#412-process-object-1) itself would need to internalize a number of extensions and changes in a human-AAS/AALE context. Because a process can have multiple process objects (a process object itself can simply be a summary of key attributes of the overall process), that functionality would allow to test-experiment additional layers of process objects linked to the human-AAS/AALE in a modular way, until that works well with the human-only inherited paradigm.
+
+The component of [Monetary Value](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#413-monetary-value-1) might want to be expanded to integrate various cryptrocurrencies, not merely "a currency code as defined by ISO 4217".
 
 ROLES
 
