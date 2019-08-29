@@ -12,7 +12,7 @@
 #
 ### SALI LMSS Computational Law Relevance and Usability for our AALE Challenge.
 #
-### Building up from SALI Alliance - LMSS Legal Matter Specification Standard Draft Project (last update June 2019) 
+#### Building up from SALI Alliance - LMSS Legal Matter Specification Standard Draft Project (updated June 2019) 
 #
 ### First Iteration - DRAFT WITH “REQUEST FOR COMMENT” - Thank You.
 
