@@ -286,18 +286,14 @@ Yet, the case is handled by a relatively middle-of-the-road local Law firm from 
 
 Suppose that, meanwhile, some good enough solutions to deal with AAS issues under AALE management have emerged out of Cambridge (guess who), etc: obviously you want the two systems SALI LMSS and AALE B/L/T/ process to be able to work together. 
 
-We noticed some _**interoperability**_ aspects in previous paragraph A-1-3, there, there, there, there, there, and there 
-
-LIST INTEROPERABILITY ASPECTS
-
-
+We noticed some 9 (nine) _**interoperability aspects**_ in previous paragraph A-1-3, [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect-), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--1), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--2), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--3), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--4), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--5), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--6), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--7), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--8), and [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--9).
 
 #
 #
 
 ### PART A-2 What SALI LMSS won't do and other issues left out
 
-Content:
+### Content:
 
 #### [A-2-1: Expected paradigm of exponentially increasing dynamic data]
 #### [A-2-2: Expected paradigm of increasing share of ultra high-speed M2M transactions under AALE management]
