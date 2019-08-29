@@ -56,7 +56,7 @@ With their efficient, productivity & performance-streamlining oriented, cost-con
 
 Also for SALI LMSS well explained, intuitive ease of use and clear-cut legal profession BPM approach, in the context of practicing Law and/or providing alternative Legal services, it has our vote. 
 
-No mind-stretching decentralized thinking nor much bleeding-edge tech yet ... here, mostly an SQL-based system that mostly does queries. We're talking about straightforward legal profession BPM that is simple, effective, usable, now, within the legal profession still dominant paper paradigm.
+No mind-stretching decentralized thinking nor much bleeding-edge tech yet ... here, mostly an SQL-based system that mostly does queries. We're talking about straightforward legal profession BPM that is simple, effective, usable, now, within a legal profession still dominant paper paradigm, that nonetheless has started to pivot toward integrating more Legal Tech.
 
 According to the project leaders:
 
@@ -144,30 +144,30 @@ No horse is to dead to be flogged. We could take example from the SALI LMSS narr
 
 - educational purpose: Law firms established senior partners not too eager for Legal Tech adoption might find SALI LMSS intelligible, digestible, and palatable enough to adopt it, letting more tech-eager juniors do the search & rescue of data. And partners who are already comfortable with various kinds of Legal software might seek a similar level of use of ease.
 
-- political & senior decision makers persuasion purpose: SALI LLMS sticks to the KISS principle (Keep It Simple and (not too) Stupid) and may work well with the most automatisation-reluctant policy & law makers and senior regulators. This sounds wise.
-
+- political & senior decision makers persuasion purpose: SALI LLMS sticks to the KISS principle (Keep It Simple and (not too) Stupid) and may work well with the most automatisation-reluctant policy & law makers and senior regulators. 
 #
 
 #### A-1-2. It's a (legal) BPM issue- Keep It Simple and (not too) Stupid
 
 >_**Note: careful with the word "process"!!!**_. 
 >
->In SALI LMSS, "process" is understood as a specific legal practice process within a set of defined structures and parameters. >
+>In SALI LMSS, the term "process" is to be understood as a specific legal practice process within a set of defined structures and parameters. 
+>
 >Therefore the SALI LMSS "process" is _not to be understood as_ one of the following:
 >
 >- "process" in SALI LMSS is _not to be understood as_ the different clerical operations in a _case management_ (desk officer's work), that are covered by an array of "Legal Case Management Software" as described e.g. there: https://www.g2.com/categories/legal-case-management#learn-more .
 >
 >- "process" in SALI LMSS is _not to be understood as_ the combination of legal object and legal functions that we have considered in previous AALE sessions.
 >
->"process" in SSALI LMSS is _not to be understood as_ the set of functions and "sub-processes" that we have covered in a recent Contract Law vs AALE analysis. 
+>- "process" in SALI LMSS is _not to be understood as_ the set of functions and "sub-processes" that we have covered in a recent Contract Law vs AALE analysis. 
 >
->When we say that Contract Law revolves roughly around two categories of functionalities, one related to the consequences of human behavior, and one related to the consequences of established business practices, we mention that each categories cover a number of "(sub-)processes". We might want to stop using the generic term (sub-)process there, and stick to (sub-)functions only, to avoid confusion when simultaneously talking about the SALI LMSS "process" context.
+>When we say that Contract Law revolves roughly around two categories of functionalities, one related to the consequences of human behavior, and one related to the consequences of established business practices, we mention that each categories cover a number of "(sub-)processes". We might want to stop using the generic term (sub-)process, sticking to (sub-)functions only, to avoid confusion when simultaneously talking about the SALI LMSS "process" context.
 
 SALI LMSS is first and foremost _a simple SQL-based Legal BPM "progressive" improvement proposition_ for the legal profession. 
 
 It suggests a next evolutionary stage, beyond current "Legal Case Management Software" (LCMS), often used together with eDiscovery, and with more accounting oriented internal BPM systems to co-manage billing. 
 
-For Law firms partners of various generations and backgrounds, used to no-brainer LCMS, it looks rather mindful and wise for SALI LMSS to come across as equally user-friendly under the form of a simple SQL database approach, i.e. Keep It Simple and (not too) Stupid. 
+For Law firms partners of various backgrounds, used to no-brainer LCMS, it looks rather mindful and wise for SALI LMSS to come across as equally user-friendly under the form of an SQL database approach, i.e. Keep It Simple and (not too) Stupid. 
 
 #
 
@@ -226,10 +226,10 @@ _**The SALI LMSS design ensure that other systems that depend upon the initial r
 Since the LMSS cannot anticipate all needs, there is a well-defined way to [extend the standard while staying within the design and API functionality](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#24-extensible-1). _This would be useful to add and plug-in many new ontologies born from AAS/AALE needs._
 
 ##### Interoperability aspect-
-As part of [LMSS Components](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#3-legal-matter-specification-lmss-components-1), the [Extensions](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#35-extensions-to-the-lmss-codes-1) to the LMSS code are ntended to be adaptable to the needs of customers. _The processus is straightforward and could be used to test-experiment new structures and codes in the context of new ontologies born from AAS/AALE needs._ All there is to do is to define these.
+As part of [LMSS Components](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#3-legal-matter-specification-lmss-components-1), the [Extensions](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#35-extensions-to-the-lmss-codes-1) to the LMSS code are intended to be adaptable to the needs of customers. _The processus is straightforward and could be used to test-experiment new structures and codes in the context of new ontologies born from AAS/AALE needs._ All there is to do is to define these.
 
 ##### Interoperability aspect-
-The [structure](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#4-structure-of-lmss-document-1) of SALI LMSS documents provide a template for what would be required as parameters and output to warrant AALE interoperability with SALI LMSS, including but not limited to managing new AAS ontologies in a human-AAS interaction and attribution context.
+The [structure](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#4-structure-of-lmss-document-1) of SALI LMSS documents provide a template for what would be required as parameters and output to warrant AALE _interoperability_ with SALI LMSS, including but not limited to managing new AAS ontologies in a human-AAS interaction and attribution context.
 
 In order to do that, specific care should be placed on formatting AAS/AALE ontologies with respect to [Matter](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#46-matter-1), [Narrative](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#47-narrative-1), [Description](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#48-description-1). The issue of language may or not be optional.
 
@@ -247,7 +247,7 @@ The [Process Object](https://github.com/CryptosOdysseus/AALE-Contributions/blob/
 
 The component of [Monetary Value](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#413-monetary-value-1) might want to be expanded to integrate various cryptrocurrencies, not merely "a currency code as defined by ISO 4217". 
 
-_Non-monetary value type of assets of digital / crypto nature_ would also require definition and integration under bodies of Law, etc.
+_Non-monetary value type of assets of digital / crypto nature_ would also require definition and integration under bodies of Law.
 
 ##### Interoperability aspect-
 Settlements and Restitutions involving on-chain digital / cryptoassets processes might want to be considered.
@@ -255,22 +255,40 @@ Settlements and Restitutions involving on-chain digital / cryptoassets processes
 ##### Interoperability aspect-
 While [LMSS APIs](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#5-the-legal-matter-application-programming-interfaces-apis-1) are not supported in Draft LMSS 1.0 Rev 2, suffice to say that they primarily support queries, SQL primary raison d'être, not data verification and validation in relation with blockchains and oracles, etc. This point links back to the conversation on APIs and Protocols where we might want to dig more education and clarifications.
 
-[Code Sets](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#6-code-sets-1) types might need to be enriched, also as part of the actions required as parameters and output, to warrant AALE interoperability with SALI LMSS, including but not limited to managing new AAS ontologies in a human-AAS interaction and attribution context.
+[Code Sets](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#6-code-sets-1) types might need to be enriched, also as part of the actions required as parameters and output, to warrant AALE _interoperability_ with SALI LMSS, including but not limited to managing new AAS ontologies in a human-AAS interaction and attribution context.
 
-In [Part D](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-d---fully-expanded-sali-lmss-tree-structure-and-detailed-parameters-of-sali-lmss-structure-and-code-browsers) we provided a fully expanded SALI LMSS tree structure and detailed parameters of SALI LMSS structure and code browsers. Goingh through the fine print shows where parameters generated by new AAS ontologies in a human-AAS interaction and attribution context; starting obvioulsy with type of legal entity (AALE/DAO), role of human player in relation with AALE/DAO, role of human in a context of attribution of (consequences of) actions of an electronic agent, a possible fully fledged AAS legal agent, type of Law related to characterization and treatment of specific digital / crypto assets, cyber / internet Law and other Laws applicable (Property, Contract, Tort & Restitution, etc) like we again discussed recently, whereas Common Law sounds more advanced than Civil law as we speak.
+In [Part D](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-d---fully-expanded-sali-lmss-tree-structure-and-detailed-parameters-of-sali-lmss-structure-and-code-browsers) we provided a fully expanded SALI LMSS tree structure and detailed parameters of SALI LMSS structure and code browsers. Goingh through the fine print shows where parameters generated by new AAS ontologies in a human-AAS interaction and attribution context, starting obvioulsy with:
+
+- type of legal entity (AALE/DAO), 
+- role of human player in relation with AALE/DAO, 
+- role of human in a context of attribution of (consequences of) actions of an electronic agent, 
+- a possible fully fledged AAS legal agent, 
+- type of Law related to characterization and treatment of specific digital / crypto assets, 
+- cyber / internet Law and other Laws applicable (Property, Contract, Tort & Restitution, etc) 
+
+like we again discussed recently, whereas Common Law sounds more advanced than Civil law as we speak.
 
 _**The question of R4 - Roles and Relationships, Rights and Responsibilities**_
 
 The R4 framework is very important and useful for us to consider for legal analysis in an AALE/human-AAS context. 
 
-In SALI LMSS structure and codes, R4 doesn't appear exactly as such, and this would require some tweaking: Players can in fact have several Roles with distinctive Relationships with other Players, so that would have to be structured in Extensions. Rights and Responsibilities are somewhat reflected by "Privileges and Obligations" so that too might do the job. 
+In SALI LMSS structure and codes, R4 doesn't appear exactly as such, and this would require some tweaking: 
+
+- Players can in fact have several Roles with distinctive Relationships with other Players, so that would have to be structured in Extensions. 
+- Rights and Responsibilities are somewhat reflected by "Privileges and Obligations" so that too might do the job. 
 
 _**AALE/human-AAS context Legal Objects and Legal Functions vs SALI LMSS structure, codes and processes**_
 
-We also refer to discussions on AALE/human-AAS context Legal Objects and Legal Functions in recent Live sessions, in particular 3rd Live session in Berlin, with Beth, Cem & Jim, Dazza, Bryan, Brenden, and Silke.
+We also refer to discussions on AALE/human-AAS context Legal Objects and Legal Functions in recent Live sessions, in particular 3rd Live session in Berlin, with Beth, Cem & Jim, Dazza, Bryan, Brenden, and Silke:
 
 ##### Interoperability aspect-
-Intuitively we should still move ahead in a totally independent fashion with regard to specific AALE B/L/T/ design, but bear in mind the issues of _interoperability_ and/or parallelism with the SALI LMSS features. More on this below. Also, it could be that some of the most (though SQL-based) features of SALI LMSS may be sort of extracted, and integrated with the AALE B/L/T/ design either as a plug-in or as one of the AALE components. In which case the extracted SALI LMS relevant features become wrapped up within the AALE B/L/T/ construct. Intuitively it should matter whether we "like" or not integrating some of SALI LMSS upcoming APIs with the various AALE B/L/T/ construct-based Protocols. So we need to dig more these aspects maybe.
+Intuitively we should still move ahead in a totally independent fashion with regard to specific AALE B/L/T/ design, but bear in mind the issues of _interoperability_ and/or parallelism with the SALI LMSS features. More on this below. 
+
+Also, it could be that some of the most relevant (though merely SQL-based) features of SALI LMSS may be sort of extracted, and integrated with the AALE B/L/T/ design either as a plug-in or as one of the AALE components. 
+
+In which case the extracted SALI LMSS relevant features become wrapped up within the AALE B/L/T/ construct. 
+
+Intuitively it should matter whether we "like" or not integrating some of SALI LMSS upcoming APIs with the various AALE B/L/T/ construct-based Protocols. So we need to dig more these aspects, maybe.
 
 #
 
@@ -282,11 +300,11 @@ Suppose for example that a few years from now, there is a critical mass of legal
 
 Say a fleet of fetch-pay-deliver drones have been hacked and gone rogue somewhere in the middle of 'Murica but they AAS drones are legally under management of a highly sophisticated Vermont BBLLC that supports a DAO with a system of attribution to (human) legal entities for the consequences of their acts, starting with liability.
 
-Yet, the case is handled by a relatively middle-of-the-road local Law firm from where the harmed parties originate, and while that local law firm has integrated the SALI LMSS features in its legal practice process, it is rather clueless with regard to AAS/AALE B/L/T/ process management issues.
+Yet, the case on the plaintiffs side is handled by a relatively middle-of-the-road local Law firm from where the harmed parties originate, and while that local law firm has integrated the SALI LMSS features in its legal practice process, it is rather clueless with regard to AAS/AALE B/L/T/ process management issues.
 
-Suppose that, meanwhile, some good enough solutions to deal with AAS issues under AALE management have emerged out of Cambridge (guess who), etc: obviously you want the two systems SALI LMSS and AALE B/L/T/ process to be able to work together. 
+Suppose that, meanwhile, some good enough solutions to deal with human-AAS issues under AALE management have emerged from Cambridge: obviously you want the two systems SALI LMSS and AALE B/L/T/ process to be able to work together. 
 
-We noticed some 10 (ten) _**interoperability aspects**_ in previous paragraph A-1-3, [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect-), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--1), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--2), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--3), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--4), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--5), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--6), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--7), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--8), and [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--9).
+We noticed some 10 (ten) _**interoperability aspects**_ in above previous paragraph A-1-3, [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect-), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--1), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--2), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--3), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--4), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--5), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--6), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--7), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--8), and [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--9).
 
 #
 #
@@ -305,7 +323,7 @@ We noticed some 10 (ten) _**interoperability aspects**_ in previous paragraph A-
 
 #### A-2-1: Expected paradigm of exponentially increasing dynamic data
 
-SALI LMSS has a pathway for (successively) applicable bodies of Law when you don't know where to start and/or in which order.
+SALI LMSS has a pathway for a train of applicable bodies of Law when you don't know where to start and/or in which order.
 
 SALI LMSS has a pathway to create and adapt narratives based on the audience.
 
@@ -313,7 +331,7 @@ How do you automatize that processing of exponentially increasing dynamic data, 
 
 But then is SALI LMSS really needed then ??? ... or could an AALE just in fact absorb the useful features of SALI LMSS and transform the interoperability issue into some SQL plug-in compatible with AALE own B/L/T/ design. 
 
-Both options may be confronted with the condition of feasibility previous legal standardization anyhow.
+Both options may be confronted to adverse conditions of previous feasibility of legal standardization anyhow.
 
 This could end up looking like a "patchwork" especially across jurisdictions and unstructured dynamic data.
 
@@ -331,7 +349,7 @@ Like a used 4x4 all-terrain vehicle with its "bush mechanics", it doesn't look v
 
 Sometimes in (the) business (of life) you do a much better job when "surviving" with less than ideal means. 
 
-As always, it depends.
+As often, it depends.
 
 #
 
@@ -347,15 +365,15 @@ But then again it depends on the structure of representation of reality and data
 
 We might expect several level of data integrity and level of "truth" to cohabit, unless it's a fully automatized process at the onset (and still it could go rogue, etc). The concept of "representation of reality" takes precedence over "truth".
 
-So it's a layer cake and we have to see the merits of havng SALI LMSS in the loop or not, maybe it depends on the case context, and its evolution stage.
+So it's a layer cake and we have to see the merits of having SALI LMSS in the loop or not, maybe it depends on the case context, and its evolution stage.
 
-Then again, to have SALI LMSS as a sort of "back-bencher note taker" for humans-in-the-loop doesn't sound that bad.
+Then again, to have SALI LMSS as a sort of "back-bencher & note taker" for humans-in-the-loop doesn't sound that bad.
 
 #
 
 #### A-2-4. Generations and types of database and reality representation systems beyond that.
 
-Another aspect perhaps not to be omitted is the backward compatibility with other types of databases (SQL or non-SQL or else) in the ecosystem of dominant vendors and independent in-house developers, in addition to the small issue of making sure that SALI LMSS features can at some point work in _interoperability_ with above mentioned LCMS Legal Case Management Software.
+Another aspect perhaps not to be omitted is the backward compatibility with other types of databases (SQL or non-SQL or else) in the ecosystem of dominant vendors and independent in-house developers, in addition to the small issue of making sure that SALI LMSS features can work in _interoperability_ with above mentioned LCMS Legal Case Management Software.
 
 _We also agree with remarks by Diana (slightly edited below) that reality representation and use case do matter._
 
@@ -369,11 +387,19 @@ _We also agree with remarks by Diana (slightly edited below) that reality repres
 >
 >This goes back to knowledge representation and ontologies, universe and domain. And most languages are abstract and general purpose. How we represent ideas (that can go beyond text) most is embodied in a given domain. But there isn’t a “general truth”. 
 >
->The difference is to build something closer and for the legal domain rather than applying a general purpose language to a specific domain. As every time we generalize we loose dimensions, so when using this general rules they may not fit a specific domain.
+>The difference is to build something closer and for the legal domain rather than applying a general purpose language to a specific domain. 
 >
->There is also the issue that such a frozen hierarchical structure may not allow various roles or attributes by nodes. An alternative solution can be found with graph-Databases, whereas each node has several attributes. And they don't need to be so hierarchical, in additon to the fact that chart-Databases may be seen as a visually & conceptually preferable representation.
+>As every time we generalize we loose dimensions, when using this general rules they may not fit a specific domain.
 >
->As a matter of fact, data structures is where most time and resources get consumed, for tasks such as cleaning, transforming, etc. While graph databases show a nice aspect of blending two solutions in a not-so-hierarchcial way, it all depends on what data is available and what the output should be, as there is no general “right/best” solution. And in the case of unstructured data, this sin't manageable by SQL, so yet another case "monster" data.
+>There is also the issue that such a frozen hierarchical structure may not allow various roles or attributes by nodes. 
+>
+>An alternative solution can be found with graph-Databases, whereas each node has several attributes. And they don't need to be so hierarchical, in additon to the fact that chart-Databases may be seen as a visually & conceptually preferable representation.
+>
+>As a matter of fact, data structures is where most time and resources get consumed, for tasks such as cleaning, transforming, etc. 
+>
+>While graph-Databases show a nice aspect of blending two solutions in a not-so-hierarchical way, it all depends on what data is available and what the output should be, as there is no general “right/best” solution. 
+>
+>And in the case of unstructured data, this isn't manageable by SQL, so yet another case of "monster" data.
 
 #
 
@@ -385,7 +411,9 @@ Whereas _Protocols are completely different animals_, that may need to be consid
 
 _Question is (again): what tool do we need to do which job in relation with which representation of reality to what effect?_
 
-This said we agree with Brenden that _Protocols do matter, in particular those "wire protocols" like what blockchains do_. Part of SALI LMSS design question in relation with AALE might be (roughly and intuitively):
+This said we agree with Brenden that _Protocols do matter, in particular those "wire protocols" like what blockchains do_. 
+
+Part of SALI LMSS design question in relation with AALE might be (roughly and intuitively):
 
 - when we have to operate AALE-linked wire protocols (blockchain etc.) can we just do that and bypass the whole SALI LMSS approach to manage both input, outut and the whole legal practice process and lawyer-client relationship process?
 - should we see (part of) the AALE process as an additonal layer on top of SALI LMSS or a side-system working in full interoperability (ideally)?
@@ -443,7 +471,7 @@ https://link.medium.com/nWrUtvS1qX
 
 #### A-3-1. Different types of legal records database for legal research
 
-Today, most legal research done in law schools, courts, and the legal profession at large is conducted via computerized databases. Legal professionals depend primarily on services purchased from the two giants in the field, Westlaw and LexisNexis. This may need to evolve at some point as we go ddeeper into the era of AAS/AALE.
+Today, most legal research done in law schools, courts, and the legal profession at large is conducted via computerized databases. Legal professionals depend primarily on services purchased from the two giants in the field, Westlaw and LexisNexis. This may need to evolve at some point as we go deeper into the era of AAS/AALE.
 See Legal Databases: Comparative Analysis | CRL
 https://www.crl.edu/collections/topics/legal-databases-comparative-analysis
 
@@ -457,12 +485,12 @@ An array of "Legal Case Management Software" is described e.g. there: https://ww
 >
 >**To qualify for inclusion in the Legal Case Management category, a product must:**
 >
->_**Assist law firms with entering, storing, and finding case and client information**_
->_**Provide time tracking or workflow tools to aid lawyers through the case lifecycle**_
+>-_**Assist law firms with entering, storing, and finding case and client information**_
+>-_**Provide time tracking or workflow tools to aid lawyers through the case lifecycle**_
  
 It is often used in association with eDiscovery processes and more advanced billing & accouting systems.
 
-_Whatever crops up from new Legal tech to SALI LMSS to AALE systems might (or not) have to deal with **interoperability**._
+_Whatever crops up from new Legal Tech to SALI LMSS to AALE systems might (or not) have to deal with **interoperability**._
 
 #
 
@@ -472,7 +500,7 @@ To rebound on Dazza's suggestion:
 
 >Maybe a little more education and many examples (with links to authoritative sources and clear documentation) _**for APIs and for Protocols**_ would be appropriate now.  
 
-We agree, and also, a quick state of the art of current major database solution vendors to the legal profession ecosystem (Legal Tech - Law tech - Legal Engineering) might come handy just to roughly evaluate the share of SQL vs non-SQL and alternatives.
+Also, a quick state of the art of current major database solution vendors to the legal profession ecosystem (Legal Tech - Law tech - Legal Engineering) might come handy just to roughly evaluate the share of SQL vs non-SQL and alternatives.
 
 #
 
@@ -484,7 +512,7 @@ Let's keep patching what we can learn from what SALI LMSS does or doesn't do, as
 
 #### A-3-5 SQL structure-related collapsible interactive tree, chart-Database representation, etc
 
-To help represent collapsible interactive trees as e.g. used in an SQL contetx here, we found that:
+To help represent collapsible interactive trees as e.g. used in an SQL context here, we found the following:
 
 https://observablehq.com/@d3/collapsible-tree
 
@@ -498,19 +526,19 @@ Diana mentioned Python-based chart-Database approaches that are worth investigat
 
 #### A-3-6. Tech paradigms & information frameworks at play in legal process management.
 
-There are different tech paradigms and information frameworks at play in legal process management, both competing & cooperating among humans who "decide" vs humans "who do the real work" and seat lower in the corporate food chain- generally.
+There are different tech paradigms and information frameworks at play in legal process management, both competing & cooperating among humans who "decide" vs humans "who do the real work" and seat lower in the corporate food chain.
 
 There is no such thing as a one-size-fits-all, all-weather-solution. However, any evolutionary tech paradigm & framework decision has immediate operational implications, which means first and foremost _staffing_, delivering on budget and on schedule, reducing costs and increasing margins, while slashing already cannibalized and less lucrative areas of services.
 
-Findng proper personel is always a challenge: new hires _if you can find them_ who are well educated in new tech but inexperienced in tortuous and humanly complicated legal processes ; or "re-skilled" old-dogs-new-tricks. Good luck with that.
+Finding proper personel is always a challenge: new hires _if you can find them_ who are well educated in new tech but inexperienced in tortuous and humanly complicated legal processes ; or "re-skilled" old-dogs-new-tricks. Good luck with that.
 
 Easier said than done in the corporate & government world in particular in the context of legal process management. 
 
-Thus for effective, performant, low-cost external providers, to offer services that _do more with less_ may compell legal profession players to adapt, or else, by "moving their cheese" away if they don't get on with the program asap now.
+For effective, performant, low-cost external providers, to offer services that _do more with less_ may compell legal profession players to adapt & evolve, or else, by "moving their cheese" away if they don't get on with the program asap now.
 
-While a more encompassing and technologically advanced solution might sound desirable or inevitable on the horizon, a solution that is a couple tech-generations behind, _but does the job, in fact, more jobs with less_, may prevail & initiate a long overdue restructuration process within the legal profession. And then the dam collapses and change becomes unstoppable. 
+While a more encompassing and technologically advanced solution might sound desirable and/or inevitable on the horizon, a solution that is a couple tech-generations behind, _but does the job, in fact, more jobs with less_, may prevail & initiate a long overdue restructuration process within the legal profession. And then the dam collapses and change becomes unstoppable. 
 
-_A cautionary tale._
+_A cautionary tale:_
 
 >Not an analoguous case, but some usable lessons for this legal tech services provision context.
 >
@@ -518,15 +546,17 @@ _A cautionary tale._
 >
 >That very young BPM firm did record star achievements, like supporting a major automotive manufacturer reorganization in the early 2000's, and several other prestigious and well paying clients. But it was struggling for wider market adoption & capitalistic funding. 
 >
->Eventually that very young BPM firm got acquired by a larger, very innovative & advanced, yet somewhat more mainstream BPM firm. 
+>Eventually that very young BPM firm got acquired by a larger, innovative & advanced, yet somewhat more mainstream BPM firm. 
 >
->And eventually, the resulting merged company got in turn acquired, by a several orders of magnitude bigger firm, that did systems applications and products in data processing, and marketed suites of very successful enterprise resource planning software. 
+>Next, the resulting merged entity got in turn acquired, by a several orders of magnitude bigger firm, that did systems applications and products in data processing, marketing suites of very successful enterprise resource planning software. 
 >
->That very big firm wasn't made of innovative geniuses, more like bland company men, but it sat significantly higher on the corporate & capitalistic food chain.
+>That very big firm wasn't made of innovative geniuses & cool geeks, more like bland company men with suits and neckties, but it sat significantly higher on the corporate & capitalistic food chain.
 >
 >That very big firm wasn't particularly bleeding edge, in fact it was borderline "boring", but it was totally mainstream, and had the necessary war chest to impose itself in corporate & government users markets, and in capital markets. 
 >
->Stakeholders did cash out handsomely at all successive stages of divestiture. Those who believed in surviving and thriving independently on the sole coattail of bleeding edge innovation, got a rude awakening- but such is the nature of that business. 
+>Stakeholders did cash out handsomely at all successive stages of divestiture. Those who believed in surviving and thriving independently on the sole coattail of bleeding edge innovation, got a rude awakening ... 
+>
+>... but such is the nature of that business. 
 >
 >So, it's not just about the tech- at least for some players. 
 
