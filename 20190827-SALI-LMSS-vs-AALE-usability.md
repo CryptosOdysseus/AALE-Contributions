@@ -18,7 +18,7 @@
 
 #
 
-#### The idea of a closer look at SALI LMSS in an AALE context came from a Computational Law discussion, serendipitously triggered by our CL colleague Diana, together with Dazza and pics he took at the SALI LMSS presentation - ILTACON conference https://www.iltacon.org in Orlando, Florida on August 18th-22nd 2019. Things would have gone relatively quiet until Brenden jumped into the SQL conversation, to send us on a ballistic trajectory involving APIs, Blockchains & Protocols:)
+#### The idea of a closer look at SALI LMSS in an AALE context came from a Computational Law discussion, serendipitously triggered by our CL colleague Diana, together with Dazza and pics he took at the SALI LMSS presentation - ILTACON conference https://www.iltacon.org in Orlando, Florida on August 18th-22nd 2019. Things were going quiet until Brenden jumped into the SQL conversation, to send us on a ballistic trajectory involving APIs, Blockchains & Protocols:)
 
 #### In addition to Dazza's pics comprehensively reflecting the SALI LMSS presentation, the reference document we use is the SALI Alliance's Draft Legal Matter Specification Standard (LMSS) 1.0, Rev 2 (June 2019), together with associated SALI Alliance reference working materials- which alltogether cover the content of the ILTACON presentation pics:
 
@@ -50,7 +50,7 @@
 
 The below Part A contains some observations on the computational law relevance and usability of SALI LMSS for our AALE Challenge, and associated possible Computational Law & AALE work topics.
 
-Parts B to E are a reproduction of SALI LMSS draft features as of June 2019, and other working and demonstration materials, including tables, chats and sample coding. For sake of ease of use by anyone unfamilair with SALI LMSS, we wanted to edit, with some _**emphasis**_ on most salient parts, the content extracted from SALI Alliance LMSS reference materials, keeping them handy in this GitHub file to start with.
+Parts B to E are a reproduction of SALI LMSS draft features as of June 2019, and other working and demonstration materials, including tables, chats and sample coding. For sake of ease of use by anyone still unfamiliar with SALI LMSS, we wanted to edit, with some _**emphasis**_ on most salient parts, the content extracted from SALI Alliance LMSS reference materials, keeping them handy in this GitHub file to start with.
 
 With their efficient, productivity & performance-streamlining oriented, cost-conscious approach, these SALI LMSS draft features should prove quite attractive for professionals and senior decision makers. 
 
@@ -70,7 +70,7 @@ We won't speculate whether SALI LMSS features will ultimately nail the standard,
 
 Furthermore, regardless of the SQL paradigm choice, and this is the point here, we are intrigued by some of SALI LMSS features possible computational law relevance and usability for our AALE challenge: we like what this SALI LMSS tool does, and because it could do even more with some flexible and modular extensions, having been conceived with that mindset.
 
-In [Part A] (CORRECT), we look at the computational law relevance and usability of SALI LMSS feastures for our AALE Computational Law Challenge.
+In [Part A](Chttps://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-a---computational-law-relevance-and-usability-of-sali-lmss-for-our-aale-challenge), we look at the computational law relevance and usability of SALI LMSS features for our AALE Challenge.
 
 In [Part B - SALI Legal Matter Standard Update Presentation (June 2018)](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-b---sali-legal-matter-standard-update-presentation-june-2018),  we review the June 2018 high level outlook of the SALI LMSS project, that was initially conceived in 2017. 
 
@@ -85,7 +85,7 @@ and (of course!),
 
 In [Part C - Draft Legal Matter Specification Standard (LMSS) 1.0, Rev 2 (June 2019)](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-c---draft-legal-matter-specification-standard-lmss-10-rev-2-june-2019), we look at the SALI LMSS detailed features, starting with a [Table of Contents](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#table-of-contents---draft-legal-matter-specification-standard-lmss-10-rev-2-june-2019) that links to the full [Body](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#body-of-draft-legal-matter-specification-standard-lmss-10-rev-2-june-2019) of the SALI LMSS detailed features.
 
-In [Part D](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-d---fully-expanded-sali-lmss-tree-structure-and-detailed-parameters-of-sali-lmss-structure-and-code-browsers), we include the fully expanded SALI LMSS tree structure (also shown in [Part B](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-b---sali-legal-matter-standard-update-presentation-june-2018) and we list some detailed examples of SALI LMSS structure, and code browsers parameters when using this tool.
+In [Part D](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-d---fully-expanded-sali-lmss-tree-structure-and-detailed-parameters-of-sali-lmss-structure-and-code-browsers), we include the fully expanded SALI LMSS tree structure (also shown in [Part B](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-b---sali-legal-matter-standard-update-presentation-june-2018)), and we list some detailed examples of SALI LMSS structure, and code browsers parameters when using this tool.
 
 In [Part E](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-e---additional-samples-of-sali-lmss-coding), we list other detailed examples of coding (reference: https://salilegal.org/sali3/docs/LMSS%20Examples.pdf?1566567194), in addition to the sample coding already provided in the [Body](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#body-of-draft-legal-matter-specification-standard-lmss-10-rev-2-june-2019) of [Part C](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-c---draft-legal-matter-specification-standard-lmss-10-rev-2-june-2019).
 
@@ -97,31 +97,31 @@ In [Part E](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20
 
 ### Content:
 
-### [PART A-1 Computational Law Relevance and Usability of SALI LMSS for our AALE Challenge]()
+### [PART A-1 Computational Law Relevance and Usability of SALI LMSS for our AALE Challenge](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-a-1-computational-law-relevance-and-usability-of-sali-lmss-for-our-aale-challenge-1)
 #
-#### [A-1-1. Education & persuasion]()
-#### [A-1-2. It's a (legal) BPM issue- Keep It Simple and (not too) Stupid]()
-#### [A-1-3. SALI LMSS legal structure and coding might be helpful to think of AALE legal objects & legal functions]()
-#### [A-1-4. Give SALI LMSS some benefits of the doubt: consider interoperability should it become mainstream]()
-#
-#
-### [PART A-2 What SALI LMSS won't do and other issues left out]()
-#
-#### [A-2-1: Expected paradigm of exponentially increasing dynamic data]()
-#### [A-2-2: Expected paradigm of increasing share of ultra high-speed M2M transactions under AALE management]()
-#### [A-2-3. The non-verified non-immutable, trust-dependent, falsifiable data paradigm of an SQL database]()
-#### [A-2-4. Generations and types of database and reality representation systems beyond that]()
-#### [A-2-5: Protocols vs APIs]()
+#### [A-1-1. Education & persuasion](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#a-1-1-education--persuasion-2)
+#### [A-1-2. It's a (legal) BPM issue- Keep It Simple and (not too) Stupid](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#a-1-2-its-a-legal-bpm-issue--keep-it-simple-and-not-too-stupid-2)
+#### [A-1-3. SALI LMSS legal structure and coding might be helpful to think of AALE legal objects & legal functions](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#a-1-3-sali-lmss-legal-structure-and-coding-might-be-helpful-to-think-of-aale-legal-objects--legal-functions-2)
+#### [A-1-4. Give SALI LMSS some benefits of the doubt: consider interoperability should it become mainstream](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#a-1-4-give-sali-lmss-some-benefits-of-the-doubt-consider-interoperability-should-it-become-mainstream-2)
 #
 #
-### [PART A-3 Available Legal Tech and possible working topics for SALI LMSS and/or Computational Law and/or AALE design]()
+### [PART A-2 What SALI LMSS won't do and other issues left out](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-a-2-what-sali-lmss-wont-do-and-other-issues-left-out-1)
 #
-#### [A-3-1. Different types of legal records database for legal research]()
-#### [A-3-2. Array of "Legal Case Management Software"]()
-#### [A-3-3 APIs vs Protocols and more on current major database solution vendors to the legal profession ecosystem]()
-#### [A-3-4 Computational Law required features and takeaway for AALE design]()
-#### [A-3-5 SQL structure-related collapsible interactive tree, chart-Database representation, etc]()
-#### [A-3-6. Tech paradigms & information frameworks at play in legal process management]()
+#### [A-2-1: Expected paradigm of exponentially increasing dynamic data](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#a-2-1-expected-paradigm-of-exponentially-increasing-dynamic-data-2)
+#### [A-2-2: Expected paradigm of increasing share of ultra high-speed M2M transactions under AALE management](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#a-2-2-expected-paradigm-of-increasing-share-of-ultra-high-speed-m2m-transactions-under-aale-management-2)
+#### [A-2-3. The non-verified non-immutable, trust-dependent, falsifiable data paradigm of an SQL database](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#a-2-3-the-non-verified-non-immutable-trust-dependent-falsifiable-data-paradigm-of-an-sql-database-2)
+#### [A-2-4. Generations and types of database and reality representation systems beyond that](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#a-2-4-generations-and-types-of-database-and-reality-representation-systems-beyond-that-2)
+#### [A-2-5: Protocols vs APIs](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#a-2-5-protocols-vs-apis-2)
+#
+#
+### [PART A-3 Available Legal Tech and possible working topics for SALI LMSS and/or Computational Law and/or AALE design](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-a-3-available-legal-tech-and-possible-working-topics-for-sali-lmss-andor-computational-law-andor-aale-design-1)
+#
+#### [A-3-1. Different types of legal records database for legal research](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#a-3-1-different-types-of-legal-records-database-for-legal-research-2)
+#### [A-3-2. Array of "Legal Case Management Software"](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#a-3-2-array-of-legal-case-management-software-2)
+#### [A-3-3 APIs vs Protocols and more on current major database solution vendors to the legal profession ecosystem](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#a-3-3-apis-vs-protocols-and-more-on-current-major-database-solution-vendors-to-the-legal-profession-ecosystem-2)
+#### [A-3-4 Computational Law required features and takeaway for AALE design](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#a-3-4-computational-law-required-features-and-takeaway-for-aale-design-2)
+#### [A-3-5 SQL structure-related collapsible interactive tree, chart-Database representation, etc](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#a-3-5-sql-structure-related-collapsible-interactive-tree-chart-database-representation-etc-2)
+#### [A-3-6. Tech paradigms & information frameworks at play in legal process management](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#a-3-6-tech-paradigms--information-frameworks-at-play-in-legal-process-management-2)
 #
 #
 #
