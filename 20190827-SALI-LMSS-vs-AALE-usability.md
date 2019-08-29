@@ -42,27 +42,37 @@
 #
 ### SALI LMSS Computational Law Relevance and Usability for our AALE Challenge.
 #
-### Building up from SALI Alliance - LMSS Legal Matter Specification Standard Draft Project (last update June 2019) 
+#### Building up from SALI Alliance - LMSS Legal Matter Specification Standard Draft Project (updated June 2019) 
 #
 ### First Iteration - DRAFT WITH “REQUEST FOR COMMENT” - Thank You.
 
 #
 
-The below Part A contains some observations on the relevance and usability of SALI LMSS for our AALE Challenge, and associated possible Computational Law & AALE work topics.
+### Summary & Objectives
 
-Parts B to E are a reproduction of SALI LMSS draft features as of June 2019, and other working and demonstration materials, including tables, chats and sample coding. For sake of ease of use, we wanted to edit with some emphasis the content extracted from SALI Alliance LMSS reference materials, keeping them handy in this GitHub file to start with.
+The below Part A contains some observations on the computational law relevance and usability of SALI LMSS for our AALE Challenge, and associated possible Computational Law & AALE work topics.
 
-With their efficient, productivity & performance-streamlining oriented, cost-conscious approach, these SALI LMSS draft features should prove quite attractive for professionals and senior decision makers. Also for SALI LMSS well explained, intuitive ease of use and clear-cut legal profession BPM approach, in the context of practicing Law and/or providing alternative Legal services, it has our vote. 
+Parts B to E are a reproduction of SALI LMSS draft features as of June 2019, and other working and demonstration materials, including tables, chats and sample coding. For sake of ease of use by anyone unfamilair with SALI LMSS, we wanted to edit, with some _**emphasis**_ on most salient parts, the content extracted from SALI Alliance LMSS reference materials, keeping them handy in this GitHub file to start with.
 
-No mind-stretching decentralized thinking nor much bleeding-edge tech yet ... here, we're talking about straightforward legal profession BPM that is usable, now, within the legal profession still dominant paper paradigm: according to the project leaders, _"The LMSS structure can be expressed as a database schema for storage or an XML or JSON structure for transmission of the matter information"._ 
+With their efficient, productivity & performance-streamlining oriented, cost-conscious approach, these SALI LMSS draft features should prove quite attractive for professionals and senior decision makers. 
 
-Incorporating features such as tree-based structure, hierarchical, objects and parameters based, this may not sound too earth-shattering, but _it does the job_. One could argue about the SQL paradigm, or reality-reduction by hierarchy, parameters, and language, but these old-fashioned database features hold a clear advantage of functioning in an intelligible, digestible and palastable way, so that we can start working on training wheels and build up complexity from there. 
+Also for SALI LMSS well explained, intuitive ease of use and clear-cut legal profession BPM approach, in the context of practicing Law and/or providing alternative Legal services, it has our vote. 
+
+No mind-stretching decentralized thinking nor much bleeding-edge tech yet ... here, mostly an SQL-based system that mostly does queries. We're talking about straightforward legal profession BPM that is simple, effective, usable, now, within the legal profession still dominant paper paradigm.
+
+According to the project leaders:
+
+>_"The LMSS structure can be expressed as a database schema for storage or an XML or JSON structure for transmission of the matter information"._ 
+
+Incorporating features such as tree-based structure, hierarchical, objects and parameters based, this may not sound too earth-shattering, but _it does the job_. It does.
+
+Of course, one could argue about the SQL paradigm, or reality-reduction by hierarchy, parameters, and language, but these old-fashioned SQL database features hold a clear advantage of functioning in an intelligible, digestible and palastable way, _so that we can start working on training wheels and build up complexity from there_ (a formula borrowed from Dazza's book). 
 
 We won't speculate whether SALI LMSS features will ultimately nail the standard, or even if there should and will be "a" standard (there is probably such a need, though), but to us it sounds like a move in "a" (if not "the") right direction. 
 
-Furthermore, regardless of the SQL paradigm choice, and this is the point here, we are intrigued by some of SALI LMSS features possible relevance and usability for our AALE challenge: we like what this SALI LMSS tool does, and because it could do even more with some flexible and modular extensions, having been conceived with that mindset.
+Furthermore, regardless of the SQL paradigm choice, and this is the point here, we are intrigued by some of SALI LMSS features possible computational law relevance and usability for our AALE challenge: we like what this SALI LMSS tool does, and because it could do even more with some flexible and modular extensions, having been conceived with that mindset.
 
-In [Part A](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-a---relevance-and-usability-of-sali-lmss-for-our-aale-challenge), we look at the relevance and usability of SALI LMSS feastures for our AALE Computational Law Challenge.
+In [Part A] (CORRECT), we look at the computational law relevance and usability of SALI LMSS feastures for our AALE Computational Law Challenge.
 
 In [Part B - SALI Legal Matter Standard Update Presentation (June 2018)](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-b---sali-legal-matter-standard-update-presentation-june-2018),  we review the June 2018 high level outlook of the SALI LMSS project, that was initially conceived in 2017. 
 
@@ -83,16 +93,13 @@ In [Part E](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20
 
 #
 #
+#
 
-## Part A - Relevance and Usability of SALI-LMSS for our AALE Challenge
-
-Part A
-
-## Part A - SALI-LMSS vs Computational Law requirements and our AALE Challenge
+## Part A - Computational Law Relevance and Usability of SALI-LMSS for our AALE Challenge
 
 ### Content:
 
-### [PART A-1 Relevance and usability of SALI LMSS for our AALE Challenge]()
+### [PART A-1 Computational Law Relevance and Usability of SALI LMSS for our AALE Challenge]()
 #
 #### [A-1-1. Education & persuasion]()
 #### [A-1-2. It's a (legal) BPM issue- Keep It Simple and (not too) Stupid]()
@@ -121,7 +128,7 @@ Part A
 #
 #
 
-### PART A-1 Relevance and usability of SALI LMSS for our AALE Challenge
+### PART A-1 Computational Law Relevance and Usability of SALI LMSS for our AALE Challenge
 
 ### Content:
 
@@ -137,7 +144,7 @@ Part A
 
 No horse is to dead to be flogged. We could take example from the SALI LMSS narrative being simple and effective for:
 
-- educational purpose: Law firms (very) senior partners who aren't too eager for Legal Tech adoption might find SALI LMSS intelligible, digestible, and palatable enough to adopt it, letting more tech-eager juniors do the search & rescue of data. And partners who are already comfortable with various kinds of Legal software might seek a similar level of use of ease.
+- educational purpose: Law firms established senior partners not too eager for Legal Tech adoption might find SALI LMSS intelligible, digestible, and palatable enough to adopt it, letting more tech-eager juniors do the search & rescue of data. And partners who are already comfortable with various kinds of Legal software might seek a similar level of use of ease.
 
 - political & senior decision makers persuasion purpose: SALI LLMS sticks to the KISS principle (Keep It Simple and (not too) Stupid) and may work well with the most automatisation-reluctant policy & law makers and senior regulators. This sounds wise.
 
