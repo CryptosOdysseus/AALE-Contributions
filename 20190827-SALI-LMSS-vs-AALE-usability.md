@@ -286,7 +286,7 @@ Yet, the case is handled by a relatively middle-of-the-road local Law firm from 
 
 Suppose that, meanwhile, some good enough solutions to deal with AAS issues under AALE management have emerged out of Cambridge (guess who), etc: obviously you want the two systems SALI LMSS and AALE B/L/T/ process to be able to work together. 
 
-We noticed some 9 (nine) _**interoperability aspects**_ in previous paragraph A-1-3, [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect-), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--1), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--2), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--3), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--4), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--5), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--6), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--7), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--8), and [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--9).
+We noticed some 10 (ten) _**interoperability aspects**_ in previous paragraph A-1-3, [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect-), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--1), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--2), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--3), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--4), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--5), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--6), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--7), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--8), and [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--9).
 
 #
 #
@@ -295,11 +295,11 @@ We noticed some 9 (nine) _**interoperability aspects**_ in previous paragraph A-
 
 ### Content:
 
-#### [A-2-1: Expected paradigm of exponentially increasing dynamic data]
-#### [A-2-2: Expected paradigm of increasing share of ultra high-speed M2M transactions under AALE management]
-#### [A-2-3. The non-verified non-immutable, trust-dependent, falsifiable data paradigm of an SQL database]
-#### [A-2-4. Generations and types of database and reality representation systems beyond that]
-#### [A-2-5: Protocols vs APIs]
+#### [A-2-1: Expected paradigm of exponentially increasing dynamic data](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#a-2-1-expected-paradigm-of-exponentially-increasing-dynamic-data-2)
+#### [A-2-2: Expected paradigm of increasing share of ultra high-speed M2M transactions under AALE management](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#a-2-2-expected-paradigm-of-increasing-share-of-ultra-high-speed-m2m-transactions-under-aale-management-2)
+#### [A-2-3. The non-verified non-immutable, trust-dependent, falsifiable data paradigm of an SQL database](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#a-2-3-the-non-verified-non-immutable-trust-dependent-falsifiable-data-paradigm-of-an-sql-database-2)
+#### [A-2-4. Generations and types of database and reality representation systems beyond that](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#a-2-4-generations-and-types-of-database-and-reality-representation-systems-beyond-that-2)
+#### [A-2-5: Protocols vs APIs](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#a-2-5-protocols-vs-apis-2)
 
 #
 
@@ -432,12 +432,12 @@ https://link.medium.com/nWrUtvS1qX
 
 ### Content:
 
-#### [A-3-1. Different types of legal records database for legal research]()
-#### [A-3-2. Array of "Legal Case Management Software"]()
-#### [A-3-3 APIs vs Protocols and more on current major database solution vendors to the legal profession ecosystem]()
-#### [A-3-4 Computational Law required features and takeaway for AALE design]()
-#### [A-3-5 SQL structure-related collapsible interactive tree, chart-Database representation, etc]()
-#### [A-3-6. Tech paradigms & information frameworks at play in legal process management]()
+#### [A-3-1. Different types of legal records database for legal research](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#a-3-1-different-types-of-legal-records-database-for-legal-research-2)
+#### [A-3-2. Array of "Legal Case Management Software"](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#a-3-2-array-of-legal-case-management-software-2)
+#### [A-3-3 APIs vs Protocols and more on current major database solution vendors to the legal profession ecosystem](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#a-3-3-apis-vs-protocols-and-more-on-current-major-database-solution-vendors-to-the-legal-profession-ecosystem-2)
+#### [A-3-4 Computational Law required features and takeaway for AALE design](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#a-3-4-computational-law-required-features-and-takeaway-for-aale-design-2)
+#### [A-3-5 SQL structure-related collapsible interactive tree, chart-Database representation, etc](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#a-3-5-sql-structure-related-collapsible-interactive-tree-chart-database-representation-etc-2)
+#### [A-3-6. Tech paradigms & information frameworks at play in legal process management](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#a-3-6-tech-paradigms--information-frameworks-at-play-in-legal-process-management-2)
 
 #
 
