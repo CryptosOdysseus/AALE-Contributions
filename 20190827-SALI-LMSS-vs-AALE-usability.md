@@ -10,17 +10,17 @@
 
 ### Topic for this note:
 #
-### SALI Alliance 
-### LMSS Legal Matter Specification Standard
-### (Draft Project - last update June 2019) 
-### Relevance and Usability for our AALE Challenge.
+### SALI LMSS Computational Law Relevance and Usability for our AALE Challenge.
+#
+### Building up from SALI Alliance - LMSS Legal Matter Specification Standard Draft Project (last update June 2019) 
+#
 ### First Iteration - DRAFT WITH “REQUEST FOR COMMENT” - Thank You.
 
 #
 
 #### The idea of having a closer look at SALI LMSS in an AALE context came from a relevant Computational Law discussion.
 
-#### This was serendipitously triggered by our CL colleague Diana, together with Dazza and pics he took at the SALI LMSS presentation - ILTACON conference https://www.iltacon.org in Orlando, Florida on August 18th-22nd 2019. 
+#### This was serendipitously triggered by our CL colleague Diana, together with Dazza and pics he took at the SALI LMSS presentation - ILTACON conference https://www.iltacon.org in Orlando, Florida on August 18th-22nd 2019. Things went quiet until Brenden jumped into the SQL conversation to send us on a ballistic trajectory involving APIs, Blockchains & Protocols:)
 
 #### In addition to Dazza's pics comprehensively reflecting the SALI LMSS presentation, the reference document we use is the SALI Alliance's Draft Legal Matter Specification Standard (LMSS) 1.0, Rev 2 (June 2019), together with associated SALI Alliance reference working materials- which alltogether cover the content of the ILTACON presentation pics:
 
@@ -40,10 +40,10 @@
 #
 
 #
-### SALI Alliance 
-### LMSS Legal Matter Specification Standard
-### (Draft Project - last update June 2019) 
-### Relevance and Usability for our AALE Challenge.
+### SALI LMSS Computational Law Relevance and Usability for our AALE Challenge.
+#
+### Building up from SALI Alliance - LMSS Legal Matter Specification Standard Draft Project (last update June 2019) 
+#
 ### First Iteration - DRAFT WITH “REQUEST FOR COMMENT” - Thank You.
 
 #
