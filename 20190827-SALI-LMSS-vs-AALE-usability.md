@@ -18,18 +18,18 @@
 
 #
 
-#### The idea of a closer look at SALI LMSS in an AALE context came from a Computational Law discussion, serendipitously triggered by our CL colleague Diana, together with Dazza and pics he took at the SALI LMSS presentation - ILTACON conference https://www.iltacon.org in Orlando, Florida on August 18th-22nd 2019. Things were going quiet until Brenden jumped into the SQL conversation, to send us on a ballistic trajectory involving APIs, Blockchains & Protocols:)
+#### The idea of a closer look at SALI LMSS in an AALE context came from a Computational Law discussion, serendipitously triggered by our CL colleague Diana, together with Dazza and pics he took at the SALI LMSS presentation - ILTACON conference https://www.iltacon.org in Orlando, Florida on August 18th-22nd 2019. Things were going quietly ... until Brenden jumped into the SQL conversation, to send us on a ballistic trajectory involving APIs, Blockchains & Protocols:)
 
 #### In addition to Dazza's pics comprehensively reflecting the SALI LMSS presentation, the reference document we use is the SALI Alliance's Draft Legal Matter Specification Standard (LMSS) 1.0, Rev 2 (June 2019), together with associated SALI Alliance reference working materials- which alltogether cover the content of the ILTACON presentation pics:
 
 #### https://salilegal.org/sali3/docs/SALI%20LMSS%201.0%20rev2c.pdf?1566567194
 #### Version Revision 2c - Last Update: 2019-06-08 - SALI Matter Specification Committee - Adam L. Stock
 #
-#### These reference materials are subject to © Copyright 2019 Standards Advancement for the Legal Industry Alliance - This SALI LMSS work is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.
+#### SALI Alliance materials are subject to © Copyright 2019 Standards Advancement for the Legal Industry Alliance - This SALI LMSS work is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.
 #### See also: SALI Alliance Intellectual Property Rights Policy - Draft 07 June 2018: https://salilegal.org/sali3/docs/SALI%20IPR%20Policy%2007JUN18.pdf .
 #
 
-#### For our (non-Lawyer Chris) own comments in below Part A:
+#### Regarding our (non-Lawyer Chris) own developments in below Part A:
  
 **Creative Commons Attribution License: https://creativecommons.org/licenses/by/4.0/**
 
@@ -70,7 +70,7 @@ We won't speculate whether SALI LMSS features will ultimately nail the standard,
 
 Furthermore, regardless of the SQL paradigm choice, and this is the point here, we are intrigued by some of SALI LMSS features possible computational law relevance and usability for our AALE challenge: we like what this SALI LMSS tool does, and because it could do even more with some flexible and modular extensions, having been conceived with that mindset.
 
-In [Part A](Chttps://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-a---computational-law-relevance-and-usability-of-sali-lmss-for-our-aale-challenge), we look at the computational law relevance and usability of SALI LMSS features for our AALE Challenge.
+In [Part A](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-a---computational-law-relevance-and-usability-of-sali-lmss-for-our-aale-challenge), we look at the [computational law relevance and usability of SALI LMSS features for our AALE Challenge](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-a-1-computational-law-relevance-and-usability-of-sali-lmss-for-our-aale-challenge-1).
 
 In [Part B - SALI Legal Matter Standard Update Presentation (June 2018)](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-b---sali-legal-matter-standard-update-presentation-june-2018),  we review the June 2018 high level outlook of the SALI LMSS project, that was initially conceived in 2017. 
 
