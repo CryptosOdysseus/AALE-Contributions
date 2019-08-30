@@ -563,15 +563,19 @@ Diana mentioned Python-based chart-Database approaches that are worth investigat
 
 #### A-3-6. Tech paradigms & information frameworks at play in legal process management.
 
-There are different tech paradigms and information frameworks at play in legal process management, both competing & cooperating among humans who "decide" vs humans "who do the real work" and seat lower in the corporate food chain.
+There are different tech paradigms and information frameworks at play in legal process management, both competing & cooperating among humans who "decide" vs humans "who do the grunt work" and seat lower in the corporate food chain.
 
-To speculate or advocate, whether current hierarchical patterns of social and corporate food chain are slated to remain frozen, or to start to evolve, isn't the object of our conversations here. But it looks as if there is a mutually re-enforcing relationship, between tech paradigms and information frameworks at play in legal process management, and the social & hierarchical organization of the conservative (with all due respect, not a derogatory word in our meaning, quite the contrary) core of the legal professions, its darwinian agents of change, and the Future of Work for Counsels vs Clients.
+To speculate or advocate, whether such hierarchical patterns of social and corporate food chain are slated to remain frozen, or to start to evolve, isn't the object of our conversations here. But it looks as if there is a mutually re-enforcing relationship, between tech paradigms and information frameworks at play in legal process management, and the social & hierarchical organization of the conservative (with all due respect, not a derogatory word in our meaning, quite the contrary) core of the legal professions, its agents of change, and the Future of Work for the Lawyer-Client relationship.
 
 There is no such thing as a one-size-fits-all, all-weather-solution. However, any evolutionary tech paradigm & framework decision has immediate operational implications, which means first and foremost _staffing_, delivering on budget and on schedule, reducing costs and increasing margins, while slashing already cannibalized and less lucrative areas of services.
 
-Finding proper personel is always a challenge: new hires _if you can find them_ who are well educated in new tech but inexperienced in tortuous and humanly complicated legal processes ; or "re-skilled" old-dogs-new-tricks. Good luck with that.
+Finding adequate personel is always a challenge: new hires _if you can find them_ who are well educated in new tech but inexperienced in tortuous and humanly complicated legal processes ; or "re-skilled" old-dogs-new-tricks. Good luck with that.
 
 Easier said than done in the corporate & government world in particular in the context of legal process management. 
+
+But we live in a world where the mere fact of access to (Liberty and) Justice (for All) and being able to afford that, not only financially, but cognitively, socially, and institutionally, is far from being granted, even to us champions of Freedom.
+
+We need not to lose sight of the fact that making systemic improvements serves among other things that particular cause.
 
 For effective, performant, low-cost external providers, to offer services that _do more with less_ may compell legal profession players to adapt & evolve, or else, by "moving their cheese" away if they don't get on with the program asap now.
 
