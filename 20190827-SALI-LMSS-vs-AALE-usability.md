@@ -569,7 +569,7 @@ To speculate or advocate, whether such hierarchical patterns of social and corpo
 
 There is no such thing as a one-size-fits-all, all-weather-solution. However, any evolutionary tech paradigm & framework decision has immediate operational implications, which means first and foremost _staffing_, delivering on budget and on schedule, reducing costs and increasing margins, while slashing already cannibalized and less lucrative areas of services.
 
-Finding adequate personnel is always a challenge: new hires _if you can find them_ who are well educated in new tech but inexperienced in tortuous and humanly complicated legal processes ; or "re-skilled" old-dogs-new-tricks. Good luck with that.
+Forming & leading great teams is a fine challenge: juniors _if you can attract & retain them_ well educated yet inexperienced in tortuous and humanly complicated legal processes ; or "re-skilled" old-dogs-new-tricks seniors (good luck with that).
 
 Easier said than done in the corporate & government world in particular in the context of legal process management. 
 
@@ -581,9 +581,9 @@ For effective, performant, low-cost external providers, to offer services that _
 
 While a more encompassing, technologically advanced solution might sound desirable, or inevitable on the horizon, a solution that is a couple of tech-generations behind, _but does the job, in fact, more jobs with less_, may further & compound a long overdue restructuration process within the legal profession. Then the dam collapses: they won't stop a tide with a broom.  
 
-Perhaps this is all or in part some kind of Luchino Visconti paradigm (https://www.criterion.com/films/790-the-leopard):
+Or, like some kind of Luchino Visconti paradigm (https://www.criterion.com/films/790-the-leopard or free "elsewhere"):
 
-_"In the end, something had to change, so that everything stays the same."_
+_"In the end,_ something _had to change, so that everything stays the same."_
 
 #
 
