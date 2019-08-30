@@ -29,7 +29,7 @@
 #### See also: SALI Alliance Intellectual Property Rights Policy - Draft 07 June 2018: https://salilegal.org/sali3/docs/SALI%20IPR%20Policy%2007JUN18.pdf .
 #
 
-#### Regarding our (non-Lawyer Chris) Part A observations on computational law relevance & usability of SALI LMSS for our AALE Challenge, and possible Computational Law & AALE work topics, that aggregate & synthesize our group discussion:
+#### Regarding our (non-Lawyer Chris) Part A observations on computational law relevance & usability of SALI LMSS for AALE Challenge, and possible Computational Law & AALE work topics, that aggregate & synthesize our group discussion:
  
 **Creative Commons Attribution License: https://creativecommons.org/licenses/by/4.0/**
 
@@ -58,9 +58,15 @@ Parts B to E are a reproduction of SALI LMSS draft features, other working and d
 
 For sake of ease of use by anyone unfamiliar with SALI LMSS, we wanted to edit, with some _**emphasis**_ on most salient parts, the content of SALI Alliance LMSS reference materials, keeping them handy in this GitHub file to start with.
 
-For hurried readers already experienced with SALI LMSS, you don't need to read B-C-D-E, and here's a spoiler for our main findings in Part A- [Most salient Computational Law aspects of SALI LMSS](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#most-salient-computational-law-aspects-of-sali-lmss). 
+For hurried readers already experienced with SALI LMSS, you don't need to read Parts B-C-D-E, and here's a spoiler for our main findings in Part A- [Most salient Computational Law aspects of SALI LMSS](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#most-salient-computational-law-aspects-of-sali-lmss). 
 
-For reader unfamiliar with SALI LMSS, you may first review Parts B-C-D-E to form your own opinion, then check out Part A. If you don't have time, you can still check above part A spoiler, which has links to relevant SALI LMSS features.
+For readers unfamiliar with SALI LMSS, you may first review Parts B-C-D-E to form your own opinion, then check out Part A. 
+
+If you don't have time, you can still check above part A spoiler, which has links to relevant SALI LMSS features.
+
+This is worth your time, actually.
+
+#
 
 _**Summary**_
 
@@ -82,7 +88,7 @@ We won't speculate whether SALI LMSS features will ultimately nail the standard,
 
 _**Objectives**_
 
-Furthermore, regardless of the SQL paradigm choice, and this is the point here, we are intrigued by some of SALI LMSS features possible computational law relevance and usability for our AALE challenge: we like what this SALI LMSS tool does, and because it could do even more with some flexible and modular extensions, having been conceived with that mindset.
+Furthermore, regardless of the SQL paradigm choice, and this is the point here, _we are intrigued by some of SALI LMSS features possible computational law relevance and usability for our AALE challenge: we like what this SALI LMSS tool does_, and because it could do even more with some flexible and modular extensions, _having been conceived with that mindset_.
 
 In [Part A](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-a---computational-law-relevance-and-usability-of-sali-lmss-for-our-aale-challenge), we look at the [computational law relevance and usability of SALI LMSS features for our AALE Challenge](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-a-1-computational-law-relevance-and-usability-of-sali-lmss-for-our-aale-challenge-1).
 
@@ -99,7 +105,7 @@ and (of course!),
 
 In [Part C - Draft Legal Matter Specification Standard (LMSS) 1.0, Rev 2 (June 2019)](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-c---draft-legal-matter-specification-standard-lmss-10-rev-2-june-2019), we look at the SALI LMSS detailed features, starting with a [Table of Contents](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#table-of-contents---draft-legal-matter-specification-standard-lmss-10-rev-2-june-2019) that links to the full [Body](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#body-of-draft-legal-matter-specification-standard-lmss-10-rev-2-june-2019) of the SALI LMSS detailed features.
 
-In [Part D](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-d---fully-expanded-sali-lmss-tree-structure-and-detailed-parameters-of-sali-lmss-structure-and-code-browsers), we include the fully expanded SALI LMSS tree structure (also shown in [Part B](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-b---sali-legal-matter-standard-update-presentation-june-2018)), and we post screen-shots of SALI LMSS structure, and code browsers parameters, tinkering with this tool.
+In [Part D](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-d---fully-expanded-sali-lmss-tree-structure-and-detailed-parameters-of-sali-lmss-structure-and-code-browsers), we include the fully expanded SALI LMSS tree structure (also shown in [Part B](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-b---sali-legal-matter-standard-update-presentation-june-2018)), and we post screen-shots of SALI LMSS structure, and code browsers parameters, having tinkered with this tool as log-in (non paying) member.
 
 In [Part E](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-e---additional-samples-of-sali-lmss-coding), we list other detailed examples of coding (reference: https://salilegal.org/sali3/docs/LMSS%20Examples.pdf?1566567194), in addition to the sample coding already provided in the [Body](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#body-of-draft-legal-matter-specification-standard-lmss-10-rev-2-june-2019) of [Part C](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-c---draft-legal-matter-specification-standard-lmss-10-rev-2-june-2019).
 
@@ -177,9 +183,9 @@ No horse is to dead to be flogged. We could take example from the SALI LMSS narr
 >
 >When we say that Contract Law revolves roughly around two categories of functionalities, one related to the consequences of human behavior, and one related to the consequences of established business practices, we mention that each categories cover a number of "(sub-)processes". We might want to stop using the generic term (sub-)process, sticking to (sub-)functions only, to avoid confusion when simultaneously talking about the SALI LMSS "process" context.
 
-SALI LMSS is first and foremost _a simple SQL-based Legal BPM "progressive" improvement proposition_ for the legal profession. 
+SALI LMSS is first and foremost _an SQL-based Legal BPM "progressive" improvement proposition_ for Law practices. 
 
-It suggests a next evolutionary stage, beyond current "Legal Case Management Software" (LCMS), often used together with eDiscovery, and with more accounting oriented internal BPM systems to co-manage billing. 
+It suggests some _next evolutionary stage_, beyond current "Legal Case Management Software" (LCMS), often used together with eDiscovery, and with more accounting oriented internal BPM systems to co-manage billing. 
 
 For Law firms partners of various backgrounds, used to no-brainer LCMS, it looks rather mindful and wise for SALI LMSS to come across as equally user-friendly under the form of an SQL database approach, i.e. Keep It Simple and (not too) Stupid. 
 
@@ -197,11 +203,11 @@ And inside these broad processes, it looks at a variety of sub-processes that ca
 
 Yes, we do have to be careful in terms of defining and structuring what levels of protocols & functionalities are (more on this in section A-2 and A-3 below).
 
-And how data, and its veridical validation, should be organized to relate to these, to generate valid Computational Law processes. 
+And how data, its veridical validation, should be organized, to generate & relate to valid Computational Law processes. 
 
-But, in our recent AALE experience, notably Contract Law analysis, we find that we need to sort out relevance and functionality of a number of legal functions and sub-fuctions, in relation with bodies of Law, in a human-AAS interaction context, under AALE process. 
+But, in our recent AALE experience & Contract Law analysis, we find we need to sort out relevance & functionality of a number of legal functions & sub-fuctions, in relation with bodies of Law, in a human-AAS interaction context, under AALE process. 
 
-While not perfect nor exhaustive, a methodology like the one used in SALI, looks like some sort of pattern, from which we might be willing to (selectively) extract inspiration in the way we approach problems and chart pathways to AALE solution design. 
+While not exhaustive, a methodology like the one used in SALI, looks like some sort of pattern, from which we might be willing to (selectively) extract inspiration, in the way we approach problems and chart pathways to AALE solution design. 
 
 In Dazza's words:
 
@@ -209,7 +215,7 @@ In Dazza's words:
 
 Here's a non-exhaustive list of some SALI LMSS aspects that retained our attention and _ring a bell in relation with AALE design_, which motivated us to complete the current memo, and do this without getting to hung up with the Keep It Simple and (not too) Stupid SQL aspect- an important, yes, but still separate, issue. 
 
-We introduce relevant links to the Body of SALI LMSS in Parts B & C so readers not familiar with it can get up to speed easily.
+We introduce relevant links to the Body of SALI LMSS of Parts B & C, so readers not familiar with it can get up to speed easily.
 
 ### Most salient Computational Law aspects of SALI LMSS:
 
@@ -273,14 +279,14 @@ While [LMSS APIs](https://github.com/CryptosOdysseus/AALE-Contributions/blob/mas
 
 In [Part D](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#part-d---fully-expanded-sali-lmss-tree-structure-and-detailed-parameters-of-sali-lmss-structure-and-code-browsers) we provided a fully expanded SALI LMSS tree structure and detailed parameters of SALI LMSS structure and code browsers. 
 
-_Going through the tree structure and further detailed fine print, shows where parameters, generated by new AAS ontologies in a human-AAS interaction and attribution context, could be defined and introduced, starting obvioulsy with:
+_Scanning through the tree structure and further detailed fine print, shows where parameters, generated by new AAS ontologies in a human-AAS interaction and attribution context, could be defined and introduced, starting obvioulsy with_:
 
 - new types of legal entity (AALE/DAO), 
 - new roles of human player in relation with AALE/DAO, 
 - new roles of human in a context of attribution of (consequences of) actions of an electronic agent, 
 - new possible fully fledged AAS legal agents, 
 - new types of Law or amendments related to characterization and treatment of specific digital / crypto assets, 
-- existing and new aspects of cyber / internet Law & other Laws applicable (Property, Contract, Tort & Restitution, etc), 
+- existing & new aspects of cyber/internet Law & other Laws applicable (Property, Contract, Tort & Restitution, Int'l etc), 
 
 like we again discussed recently, whereas Common Law sounds more advanced than Civil law in this progress, as we speak.
 
@@ -298,11 +304,11 @@ _**AALE/human-AAS context Legal Objects and Legal Functions vs SALI LMSS structu
 We also refer to discussions on AALE/human-AAS context Legal Objects and Legal Functions in recent Live sessions, in particular 3rd Live session in Berlin, with Beth, Cem & Jim, Dazza, Bryan, Brenden, and Silke:
 
 ##### Interoperability aspect-
-Intuitively we should still move ahead in a totally independent fashion with regard to specific AALE B/L/T/ design, but bear in mind the issues of _interoperability_ and/or parallelism with the SALI LMSS features. More on this below. 
+Intuitively we should still _move ahead in a totally independent fashion with regard to specific AALE B/L/T/ design_, but might want to bear in mind aspects of _interoperability_ and/or parallelism with the SALI LMSS features. More on this below. 
 
-Also, it could be that some of the most relevant (though merely SQL-based) features of SALI LMSS may be sort of extracted, and integrated with the AALE B/L/T/ design either as a plug-in or as one of the AALE components. 
+Also, it could be that some of the most relevant (though "merely" SQL-based- sorry) features of SALI LMSS may be sort of extracted, and integrated within the AALE B/L/T/ design either as a plug-in or as one of the AALE components. 
 
-In which case the extracted SALI LMSS relevant features become wrapped up within the AALE B/L/T/ construct. 
+_In which case the extracted SALI LMSS relevant features become wrapped up within the AALE B/L/T/ construct._
 
 Intuitively it should matter whether we "like" or not integrating some of SALI LMSS upcoming APIs with the various AALE B/L/T/ construct-based Protocols. So we need to dig more these APIs vs Protocols aspects, definitely.
 
@@ -320,7 +326,11 @@ Yet, the case on the plaintiffs side is handled by a relatively middle-of-the-ro
 
 Suppose that, meanwhile, some good enough solutions to deal with human-AAS issues under AALE management emerged from Cambridge: obviously you want the two systems SALI LMSS and AALE B/L/T/ process to be able to work together. 
 
-We noticed some 10 (ten) _**interoperability aspects**_ in above previous paragraph A-1-3, [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect-), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--1), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--2), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--3), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--4), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--5), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--6), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--7), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--8), and [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--9).
+##### We noticed some 10 (ten) _**interoperability aspects**_ ...
+
+... in above previous paragraph [A-1-3. SALI LMSS legal structure and coding might be helpful to think of AALE legal objects & legal functions](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#a-1-3-sali-lmss-legal-structure-and-coding-might-be-helpful-to-think-of-aale-legal-objects--legal-functions-2) ... 
+
+[there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect-), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--1), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--2), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--3), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--4), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--5), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--6), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--7), [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--8), and [there](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#interoperability-aspect--9).
 
 #
 #
@@ -357,21 +367,21 @@ This could end up looking like a "patchwork" especially across jurisdictions and
 
 Similar remarks as above A-2-1. 
 
-In addition, SALI LMSS could also be seen (externally or as an internal SQL plug-in to an AALE B/L/T/ system) as a kind of _"pathway toward re-introducing a human in the loop"_ at a much more human speed. 
+In addition, SALI LMSS could also be seen (externally or as an internal SQL plug-in to an AALE B/L/T/ system) as a kind of _"pathway toward re-introducing a human in the loop"_ at a much _**slower**_ human speed. 
 
 This e.g. for manually-handled case such as tort & restitution, off-chain assets liquidation, or corporate restructuration offline, when there isn't any automated alternative to that process. 
 
 Or even just for managing some of the attribution process to a responsible (human) legal entity of the consequences of the acts of an "electronic agent" under UETA framework (Dazza).
 
-Like a seasoned 4x4 all-terrain vehicle with its "bush mechanics", it doesn't look very glamorous & the mechanics works only with rather rudimentary tools ...
+Like a seasoned 4x4 all-terrain vehicle with its "bush mechanics", it doesn't look very glamorous & the mechanics works only with rather rudimentary tools and worn-out spare parts ...
 
 ... but _it does the job_ under adverse, non fully automated conditons, in a B/L/T/ equivalent of the middle of nowhere. 
 
-A battle-hardened A10 Warthog is another analogy: don't send an F-35 do a battle air support job an A10 can do just fine.
+A battle-hardened A10 Warthog is another analogy: don't send an F-35 do a combat air support job an A10 can do just fine.
 
 It may take some time before both old A10 Warthog and old SQL DB are fully decommissioned, meanwhile they get upgrades.
 
-Sometimes in (the) business (of life) you do a much better job when "surviving" with less than ideal means. 
+Sometimes in (the) business (of life) you can accomplish much even if merely "surviving" with less than ideal means. 
 
 As often, it depends.
 
@@ -379,7 +389,7 @@ As often, it depends.
 
 #### A-2-3. The non-verified non-immutable, trust-dependent, falsifiable data paradigm of an SQL database
 
-We can't disagree with Brenden there, at least on the sentiment- this sounds very backward especially if you've spent the past decade or even just half or a third of it in the blockchain paradigm ... it almost feels like an odd regression.
+We can't disagree with Brenden there, at least on the sentiment- this sounds a little bit backward especially if you've spent the past decade or even just half or a third of it in the blockchain paradigm ... it almost feels like an odd regression.
 
 Question being: what tool do we need to do which job in relation with which representation of reality to what effect?
 
@@ -442,10 +452,12 @@ This said we agree with Brenden that _Protocols do matter, in particular those "
 Part of SALI LMSS design question in relation with AALE might be (roughly and intuitively):
 
 - when we have to operate AALE-linked wire protocols (blockchain etc.) can we just do that and bypass the whole SALI LMSS approach to manage both input, outut and the whole legal practice process and lawyer-client relationship process?
-- should we see (part of) the AALE process as an additonal layer on top of SALI LMSS or a side-system working in full interoperability (ideally)?
-- should we see (part of) the AALE system as in fact extracting relevant features from SALI LMSS and integrating them as an SQL-plugin within the AALE B/L/T/ construct, _in which case SALI LMSS becomes almost totally "wrapped" within AALE B/L/T/ construct._
+- should we see (part of) the AALE B/L/T/ process as an additonal layer on top of SALI LMSS or a side-process working in full interoperability (ideally) with SALI LMSS?
+- should we see (part of) the AALE B/L/T/ system as in fact extracting relevant features from SALI LMSS and integrating them as an SQL-plugin within the AALE B/L/T/ construct,...
 
-_But we do agree intuitively and in principe (before going into details) with Brenden rising the issue of protocols: because it is so important, and, even if that's a "it depends where, when, and for what" issue, protocol still matter fundamentally for a general design of both SALI LMSS and how they should have interoperability with fully functional AALE B/L/T/systems._
+... _in which case SALI LMSS becomes almost totally "wrapped" within the AALE B/L/T/ construct._
+
+_But we do agree intuitively and in principle (before going into details) with Brenden rising the issue of Protocols: because it is so important, and, even if that's a "it depends where, when, and for what" issue, protocol still matter fundamentally for a general design of both SALI LMSS and how they should have interoperability with fully functional AALE B/L/T/systems._
 
 >While an API only indicates how to fetch data, a protocol informs about the data & how a system is expected to function. 
 
