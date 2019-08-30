@@ -565,11 +565,11 @@ Diana mentioned Python-based chart-Database approaches that are worth investigat
 
 There are different tech paradigms and information frameworks at play in legal process management, both competing & cooperating among humans who "decide" vs humans "who do the grunt work" and seat lower in the corporate food chain.
 
-To speculate or advocate, whether such hierarchical patterns of social and corporate food chain are slated to remain frozen, or to start to evolve, isn't the object of our conversations here. But it looks as if there is a mutually re-enforcing relationship, between tech paradigms and information frameworks at play in legal process management, and the social & hierarchical organization of the conservative (with all due respect, not a derogatory word in our meaning, quite the contrary) core of the legal professions, its agents of change, and the Future of Work & Business for the Lawyer-Client relationship.
+To speculate or advocate, whether such hierarchical patterns of social and corporate food chain are slated to remain frozen, or to start to evolve, isn't the object of our conversations here. But it looks as if there is a mutually re-enforcing relationship, between tech paradigms and information frameworks at play in legal process management, and the social & hierarchical organization of the conservative (with all due respect, not a derogatory label in our meaning, quite the contrary) core of the legal professions, its agents of change, and the Future of Work & Business for the Lawyer-Client relationship.
 
 There is no such thing as a one-size-fits-all, all-weather-solution. However, any evolutionary tech paradigm & framework decision has immediate operational implications, which means first and foremost _staffing_, delivering on budget and on schedule, reducing costs and increasing margins, while slashing already cannibalized and less lucrative areas of services.
 
-Finding adequate personel is always a challenge: new hires _if you can find them_ who are well educated in new tech but inexperienced in tortuous and humanly complicated legal processes ; or "re-skilled" old-dogs-new-tricks. Good luck with that.
+Finding adequate personnel is always a challenge: new hires _if you can find them_ who are well educated in new tech but inexperienced in tortuous and humanly complicated legal processes ; or "re-skilled" old-dogs-new-tricks. Good luck with that.
 
 Easier said than done in the corporate & government world in particular in the context of legal process management. 
 
@@ -579,7 +579,7 @@ We need not to lose sight of the fact that making systemic improvements serves, 
 
 For effective, performant, low-cost external providers, to offer services that _do more with less_ may compell legal profession players to adapt & evolve, or else, by "moving their cheese" away if they don't get on with the program asap now.
 
-While a more encompassing, technologically advanced solution might sound desirable, or inevitable on the horizon, a solution that is a couple of tech-generations behind, _but does the job, in fact, more jobs with less_, may prevail & initiate a long overdue restructuration process within the legal profession. Then the dam collapses: they won't stop a tide with a broom.  
+While a more encompassing, technologically advanced solution might sound desirable, or inevitable on the horizon, a solution that is a couple of tech-generations behind, _but does the job, in fact, more jobs with less_, may further & compound a long overdue restructuration process within the legal profession. Then the dam collapses: they won't stop a tide with a broom.  
 
 Perhaps this is all or in part some kind of Luchino Visconti paradigm (https://www.criterion.com/films/790-the-leopard):
 
