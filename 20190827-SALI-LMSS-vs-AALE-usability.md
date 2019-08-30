@@ -20,7 +20,7 @@
 
 #### The idea of a closer look at SALI LMSS in an AALE context came from a Computational Law discussion, serendipitously triggered by our CL colleague Diana, together with Dazza and pics he took at the SALI LMSS presentation - ILTACON conference https://www.iltacon.org in Orlando, Florida on August 18th-22nd 2019. After Brenden nailed the SQL aspect, the conversation expanded to APIs vs Protocols, legal data & process representation & interoperabilty.
 
-#### In addition to Dazza's pics comprehensively reflecting the SALI LMSS presentation, the reference document we use is the SALI Alliance's Draft Legal Matter Specification Standard (LMSS) 1.0, Rev 2 (June 2019), together with associated SALI Alliance reference working materials- which alltogether cover the content of the ILTACON presentation pics:
+#### In addition to Dazza's pics comprehensively reflecting the SALI LMSS presentation, the reference document we use is the SALI Alliance's Draft Legal Matter Specification Standard (LMSS) 1.0, Rev 2 (June 2019), together with associated SALI Alliance reference working materials- which altogether cover the content of the ILTACON presentation pics:
 
 #### https://salilegal.org/sali3/docs/SALI%20LMSS%201.0%20rev2c.pdf?1566567194
 #### Version Revision 2c - Last Update: 2019-06-08 - SALI Matter Specification Committee - Adam L. Stock
@@ -29,7 +29,7 @@
 #### See also: SALI Alliance Intellectual Property Rights Policy - Draft 07 June 2018: https://salilegal.org/sali3/docs/SALI%20IPR%20Policy%2007JUN18.pdf .
 #
 
-#### Regarding our (non-Lawyer Chris) Part A observations on computational law relevance & usability of SALI LMSS for AALE Challenge, and possible Computational Law & AALE work topics, that aggregate & synthesize our group discussion:
+#### For our (non-Lawyer Chris) Part A observations on computational law relevance & usability of SALI LMSS to AALE Challenge, and possible Computational Law & AALE work topics, that aggregate & synthesize our group discussion:
  
 **Creative Commons Attribution License: https://creativecommons.org/licenses/by/4.0/**
 
@@ -52,19 +52,19 @@
 
 _**What to read, why and where**_:
 
-Part A covers observations on the computational law relevance and usability of SALI LMSS for our AALE Challenge, and possible Computational Law & AALE work topics, that aggregate & synthesize our group discussion.
+Part A covers observations on the computational law relevance and usability of SALI LMSS to our AALE Challenge, and possible Computational Law & AALE work topics, that aggregate & synthesize our group discussion.
 
-Parts B to E are a reproduction of SALI LMSS draft features, other working and demonstration materials as of June 2019, including tables, chats and sample coding- _plus our own tinkering screen-shots as a log-in (non paying) member._ 
+Parts B to E are a consolidation of SALI LMSS draft features, other working and demonstration materials as of June 2019, including tables, chats and sample coding- _plus our own tinkering screen-shots as a log-in (non paying) member._ 
 
 For sake of ease of use by anyone unfamiliar with SALI LMSS, we wanted to edit, with some _**emphasis**_ on most salient parts, the content of SALI Alliance LMSS reference materials, keeping them handy in this GitHub file to start with.
 
-For hurried readers already experienced with SALI LMSS, you don't need to read Parts B-C-D-E, and here's a spoiler for our main findings in Part A- [Most salient Computational Law aspects of SALI LMSS](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#most-salient-computational-law-aspects-of-sali-lmss). 
+For hurried readers already experienced with SALI LMSS, you don't need to read Parts B-C-D-E, and here's a spoiler for our main findings in Part A: [Most salient Computational Law aspects of SALI LMSS](https://github.com/CryptosOdysseus/AALE-Contributions/blob/master/20190827-SALI-LMSS-vs-AALE-usability.md#most-salient-computational-law-aspects-of-sali-lmss). 
 
 For readers unfamiliar with SALI LMSS, you may first review Parts B-C-D-E to form your own opinion, then check out Part A. 
 
-If you don't have time, you can still check above part A spoiler, which has links to relevant SALI LMSS features.
+If you don't have time, you can still check above part A spoiler, which has links to relevant SALI LMSS body features.
 
-This is worth your time, actually.
+This might be worth the time you don't have, actually:)
 
 #
 
