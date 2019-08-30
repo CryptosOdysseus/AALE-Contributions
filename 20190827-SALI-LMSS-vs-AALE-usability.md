@@ -564,7 +564,9 @@ Diana mentioned Python-based chart-Database approaches that are worth investigat
 
 #### A-3-6. Tech paradigms & information frameworks at play in legal process management.
 
-At this stage it becomes difficult to resist the temptation to refer to both paradigms of Schumpeterian creative destruction and Adam Smith's Invisible Hand role in consolidating individual self-interest for the sake of the common good. And in this space we try to stick to the simple, effective & usable, but still you can't help noticing a couple of things.
+At this stage it becomes difficult to resist the temptation to refer to both paradigms of Schumpeterian creative destruction and Adam Smith's Invisible Hand role in consolidating individual self-interest for the sake of the common good. 
+
+And in this space we try to stick to the simple, effective & usable, but still you can't help noticing a couple of things.
 
 There are different tech paradigms and information frameworks at play in legal process management, both competing & cooperating among humans who "decide" vs humans "who do the grunt work" and seat lower in the corporate food chain.
 
