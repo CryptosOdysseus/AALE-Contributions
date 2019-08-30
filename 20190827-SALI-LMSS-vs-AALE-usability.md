@@ -5,6 +5,7 @@
 ## (Preparation Stage)
 
 ### "AALE" Collaborative Hack with Dazza, Beth, Brenden, Bryan, Silke et al. 
+#### [New File For Pull Request Toward MIT Media Lab AALE Challenge Repository](https://github.com/mitmedialab/AutomatedLegalEntityChallenge/new/master)
 
 #
 
@@ -2160,4 +2161,4 @@ This described a selected sample of SALI LMSS Value encoding, starting from the 
 
 #### ++++ End of text ++++
 
- 
+#### [New File For Pull Request Toward MIT Media Lab AALE Challenge Repository](https://github.com/mitmedialab/AutomatedLegalEntityChallenge/new/master)
